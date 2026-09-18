@@ -9,9 +9,9 @@ categories: rugby "Top 14 26/27" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Stade Toulousain to win by 8.31, and Stade Toulousain won by 36.0. That's an absolute error of 27.7 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 15.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Stade Toulousain to win by 8.17, and Stade Toulousain won by 36.0. That's an absolute error of 27.8 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 14.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 60.0. That's an absolute error of 9.5 compared to a six month average of 14.4. This prediction was more accurate than 57.1% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 60.0. That's an absolute error of 10.5 compared to a six month average of 14.4. This prediction was more accurate than 53.1% of my recent predictions.
 ## Projected Performances - Club Model
 
 

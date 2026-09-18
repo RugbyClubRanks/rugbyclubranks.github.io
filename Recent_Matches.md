@@ -14,11 +14,27 @@ Competition Accuracy: 3 of 4 (75.0%)
 
 Competition Error: 11.21 points per match
 
-Last Two Week Accuracy: 2 of 2 (100.0%)
+Last Two Week Accuracy: 1 of 1 (100.0%)
 
-Last Two Week Error: 7.89 points per match
+Last Two Week Error: 12.89 points per match
 
 [2026/09/12 - South Africa V New Zealand, 43.0 to 28.0](reviews/2026-09-12-SouthAfrica_V_NewZealand)
+## Pacific Nations Cup
+
+
+[In depth model review and projections for Pacific Nations Cup 2026](comp_files/Pacific_Nations_Cup_2026)
+
+Competition Accuracy: 2 of 2 (100.0%)
+
+Competition Error: 21.54 points per match
+
+Last Two Week Accuracy: 2 of 2 (100.0%)
+
+Last Two Week Error: 21.54 points per match
+
+[2026/09/12 - Fiji V Canada, 45.0 to 29.0](reviews/2026-09-12-Fiji_V_Canada)
+
+[2026/09/12 - Japan V United States of America, 63.0 to 14.0](reviews/2026-09-12-Japan_V_UnitedStatesofAmerica)
 ## WXV Global Series
 
 
@@ -44,11 +60,11 @@ Last Two Week Error: 16.6 points per match
 
 Competition Accuracy: 2 of 3 (66.67%)
 
-Competition Error: 19.48 points per match
+Competition Error: 19.37 points per match
 
 Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 19.48 points per match
+Last Two Week Error: 19.37 points per match
 
 [2026/09/13 - Hong Kong Women V Brazil Women, 29.0 to 24.0](reviews/2026-09-13-HongKongWomen_V_BrazilWomen)
 
@@ -66,9 +82,9 @@ Competition Accuracy: 4 of 8 (50.0%)
 
 Competition Error: 22.95 points per match
 
-Last Two Week Accuracy: 4 of 8 (50.0%)
+Last Two Week Accuracy: 2 of 4 (50.0%)
 
-Last Two Week Error: 22.95 points per match
+Last Two Week Error: 19.35 points per match
 
 [2026/09/12 - Exeter Chiefs V Bristol Rugby, 45.0 to 21.0](reviews/2026-09-12-ExeterChiefs_V_BristolRugby)
 
@@ -86,9 +102,9 @@ Competition Accuracy: 10 of 14 (71.43%)
 
 Competition Error: 15.2 points per match
 
-Last Two Week Accuracy: 10 of 14 (71.43%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 15.2 points per match
+Last Two Week Error: 17.33 points per match
 
 [2026/09/12 - Clermont Auvergne V Stade Francais Paris, 25.0 to 16.0](reviews/2026-09-12-ClermontAuvergne_V_StadeFrancaisParis)
 
@@ -110,17 +126,19 @@ Last Two Week Error: 15.2 points per match
 
 [In depth model review and projections for NPC 2026](comp_files/NPC_2026)
 
-Competition Accuracy: 31 of 49 (63.27%)
+Competition Accuracy: 32 of 50 (64.0%)
 
-Competition Error: 15.56 points per match
+Competition Error: 15.64 points per match
 
-Last Two Week Accuracy: 8 of 14 (57.14%)
+Last Two Week Accuracy: 5 of 8 (62.5%)
 
-Last Two Week Error: 16.9 points per match
+Last Two Week Error: 17.83 points per match
 
 [2026/09/10 - Manawatu V Taranaki, 27.0 to 25.0](reviews/2026-09-10-Manawatu_V_Taranaki)
 
 [2026/09/11 - Auckland V Counties Manukau, 43.0 to 33.0](reviews/2026-09-11-Auckland_V_CountiesManukau)
+
+[2026/09/17 - Counties Manukau V Otago, 21.0 to 50.0](reviews/2026-09-17-CountiesManukau_V_Otago)
 
 [2026/09/13 - Southland V Bay of Plenty, 43.0 to 12.0](reviews/2026-09-13-Southland_V_BayofPlenty)
 
@@ -136,15 +154,17 @@ Last Two Week Error: 16.9 points per match
 
 [In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
 
-Competition Accuracy: 18 of 24 (75.0%)
+Competition Accuracy: 19 of 25 (76.0%)
 
-Competition Error: 15.16 points per match
+Competition Error: 14.57 points per match
 
-Last Two Week Accuracy: 12 of 16 (75.0%)
+Last Two Week Accuracy: 8 of 9 (88.89%)
 
-Last Two Week Error: 13.65 points per match
+Last Two Week Error: 10.51 points per match
 
 [2026/09/11 - Beziers V USON Nevers, 21.0 to 20.0](reviews/2026-09-11-Beziers_V_USONNevers)
+
+[2026/09/17 - Aurillac V Brive, 28.0 to 29.0](reviews/2026-09-17-Aurillac_V_Brive)
 
 [2026/09/11 - Soyaux-Angouleme V US Montauban, 45.0 to 7.0](reviews/2026-09-11-Soyaux-Angouleme_V_USMontauban)
 
@@ -166,11 +186,11 @@ Last Two Week Error: 13.65 points per match
 
 Competition Accuracy: 82 of 133 (61.65%)
 
-Competition Error: 13.59 points per match
+Competition Error: 13.6 points per match
 
-Last Two Week Accuracy: 10 of 14 (71.43%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 8.08 points per match
+Last Two Week Error: 11.97 points per match
 
 [2026/09/12 - Newman V Regatas Bella Vista, 40.0 to 17.0](reviews/2026-09-12-Newman_V_RegatasBellaVista)
 
@@ -194,9 +214,9 @@ Competition Accuracy: 20 of 28 (71.43%)
 
 Competition Error: 12.98 points per match
 
-Last Two Week Accuracy: 12 of 14 (85.71%)
+Last Two Week Accuracy: 7 of 7 (100.0%)
 
-Last Two Week Error: 11.76 points per match
+Last Two Week Error: 12.5 points per match
 
 [2026/09/12 - Périgueux V Bourgoin-Jallieu, 27.0 to 23.0](reviews/2026-09-12-Perigueux_V_Bourgoin-Jallieu)
 

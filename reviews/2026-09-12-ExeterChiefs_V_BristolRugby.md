@@ -9,7 +9,7 @@ categories: rugby "Premiership Rugby Cup 26/27" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Exeter Chiefs to win by 12.7, and Exeter Chiefs won by 24.0. That's an absolute error of 11.3 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 52.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Exeter Chiefs to win by 12.34, and Exeter Chiefs won by 24.0. That's an absolute error of 11.7 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 51.5% of my recent predictions.
 
 For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 66.0. That's an absolute error of 13.5 compared to a six month average of 14.4. This prediction was more accurate than 43.3% of my recent predictions.
 ## Projected Performances - Club Model
@@ -36,7 +36,7 @@ For the Over/Under model, I predicted a total of 52.5 and we have an actual tota
 # Player Level Predictions
 
 
-With the player model, I predicted Exeter Chiefs to win by 9.83,  and Exeter Chiefs won by 24.0. That's an absolute error of 14.2 for the margin of victory, while the average error as been 15.2 for the past six months. So this prediction was more accurate than 37.3% of my recent predictions.
+With the player model, I predicted Exeter Chiefs to win by 10.27,  and Exeter Chiefs won by 24.0. That's an absolute error of 13.7 for the margin of victory, while the average error as been 15.2 for the past six months. So this prediction was more accurate than 38.4% of my recent predictions.
 ## Projected Performances - Player Model
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Men's Rugby World Cup 2027"
-date: 2026-09-15 6:00:00 -0500
+date: 2026-09-18 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -69,10 +69,10 @@ aside:
 
 | Club        |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| New Zealand |         3 |            2.736 |                   87.386 |                           0.174 |                              |                         11.16  |
-| Australia   |         3 |            2.209 |                   50.174 |                           0.257 |                              |                          9.133 |
-| Chile       |         3 |            0.934 |                  -37.104 |                           0.137 |                              |                          3.915 |
-| Hong Kong   |         3 |            0.082 |                 -100.456 |                           0.146 |                              |                          0.506 |
+| New Zealand |         3 |            2.743 |                   87.855 |                           0.148 |                              |                         11.194 |
+| Australia   |         3 |            2.183 |                   49.405 |                           0.253 |                              |                          9.079 |
+| Chile       |         3 |            0.922 |                  -36.344 |                           0.147 |                              |                          3.885 |
+| Hong Kong   |         3 |            0.09  |                 -100.916 |                           0.137 |                              |                          0.527 |
 
 
 
@@ -81,10 +81,10 @@ aside:
 
 | Club         |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| South Africa |         3 |            2.958 |                   89.843 |                           0.024 |                              |                         11.88  |
-| Italy        |         3 |            1.518 |                   -4.951 |                           0.279 |                              |                          6.431 |
-| Georgia      |         3 |            1.409 |                   -0.905 |                           0.36  |                              |                          6.094 |
-| Romania      |         3 |            0.059 |                  -83.987 |                           0.169 |                              |                          0.427 |
+| South Africa |         3 |            2.962 |                   90.46  |                           0.027 |                              |                         11.887 |
+| Italy        |         3 |            1.49  |                   -4.533 |                           0.286 |                              |                          6.314 |
+| Georgia      |         3 |            1.448 |                   -1.245 |                           0.321 |                              |                          6.189 |
+| Romania      |         3 |            0.056 |                  -84.682 |                           0.168 |                              |                          0.412 |
 
 
 
@@ -93,10 +93,10 @@ aside:
 
 | Club      |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:----------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Argentina |         3 |            2.8   |                   58.834 |                           0.126 |                              |                         11.368 |
-| Fiji      |         3 |            1.837 |                   16.355 |                           0.335 |                              |                          7.759 |
-| Spain     |         3 |            1.109 |                  -14.795 |                           0.382 |                              |                          4.894 |
-| Canada    |         3 |            0.19  |                  -60.394 |                           0.31  |                              |                          1.132 |
+| Argentina |         3 |            2.837 |                   60.506 |                           0.091 |                              |                         11.495 |
+| Fiji      |         3 |            1.79  |                   14.415 |                           0.333 |                              |                          7.597 |
+| Spain     |         3 |            1.093 |                  -15.018 |                           0.412 |                              |                          4.892 |
+| Canada    |         3 |            0.197 |                  -59.903 |                           0.291 |                              |                          1.143 |
 
 
 
@@ -105,10 +105,10 @@ aside:
 
 | Club     |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:---------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Ireland  |         3 |            2.583 |                   48.66  |                           0.201 |                              |                         10.649 |
-| Scotland |         3 |            2.273 |                   43.014 |                           0.31  |                              |                          9.498 |
-| Portugal |         3 |            0.624 |                  -36.172 |                           0.394 |                              |                          2.992 |
-| Uruguay  |         3 |            0.421 |                  -55.502 |                           0.303 |                              |                          2.069 |
+| Ireland  |         3 |            2.541 |                   49.056 |                           0.246 |                              |                         10.528 |
+| Scotland |         3 |            2.301 |                   42.542 |                           0.277 |                              |                          9.587 |
+| Portugal |         3 |            0.629 |                  -36.503 |                           0.389 |                              |                          3.009 |
+| Uruguay  |         3 |            0.428 |                  -55.095 |                           0.282 |                              |                          2.07  |
 
 
 
@@ -117,10 +117,10 @@ aside:
 
 | Club                     |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-------------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| France                   |         3 |            2.946 |                   81.455 |                           0.036 |                              |                         11.844 |
-| Japan                    |         3 |            1.705 |                    5.962 |                           0.246 |                              |                          7.162 |
-| United States of America |         3 |            1.118 |                  -17.08  |                           0.314 |                              |                          4.918 |
-| Samoa                    |         3 |            0.153 |                  -70.337 |                           0.247 |                              |                          0.919 |
+| France                   |         3 |            2.939 |                   81.157 |                           0.036 |                              |                         11.816 |
+| Japan                    |         3 |            1.858 |                   14.637 |                           0.19  |                              |                          7.69  |
+| United States of America |         3 |            0.96  |                  -25.767 |                           0.345 |                              |                          4.257 |
+| Samoa                    |         3 |            0.19  |                  -70.027 |                           0.276 |                              |                          1.084 |
 
 
 
@@ -129,10 +129,10 @@ aside:
 
 | Club     |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:---------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| England  |         3 |            2.896 |                   79.205 |                           0.071 |                              |                         11.683 |
-| Wales    |         3 |            1.999 |                   28.801 |                           0.195 |                              |                          8.247 |
-| Tonga    |         3 |            0.697 |                  -45.194 |                           0.26  |                              |                          3.134 |
-| Zimbabwe |         3 |            0.347 |                  -62.812 |                           0.258 |                              |                          1.72  |
+| England  |         3 |            2.907 |                   80.284 |                           0.053 |                              |                         11.721 |
+| Wales    |         3 |            1.979 |                   27.603 |                           0.217 |                              |                          8.185 |
+| Tonga    |         3 |            0.72  |                  -43.477 |                           0.257 |                              |                          3.213 |
+| Zimbabwe |         3 |            0.334 |                  -64.41  |                           0.275 |                              |                          1.683 |
 
 
 
@@ -143,10 +143,10 @@ aside:
 
 | Club        |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| New Zealand |        3 |  2.736 |               87.386 |                 0.174 |                    |               11.16  |
-| Australia   |        3 |  2.209 |               50.174 |                 0.257 |                    |                9.133 |
-| Chile       |        3 |  0.934 |              -37.104 |                 0.137 |                    |                3.915 |
-| Hong Kong   |        3 |  0.082 |             -100.456 |                 0.146 |                    |                0.506 |
+| New Zealand |        3 |  2.743 |               87.855 |                 0.148 |                    |               11.194 |
+| Australia   |        3 |  2.183 |               49.405 |                 0.253 |                    |                9.079 |
+| Chile       |        3 |  0.922 |              -36.344 |                 0.147 |                    |                3.885 |
+| Hong Kong   |        3 |  0.09  |             -100.916 |                 0.137 |                    |                0.527 |
 
 
 
@@ -155,10 +155,10 @@ aside:
 
 | Club         |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:-------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| South Africa |        3 |  2.958 |               89.843 |                 0.024 |                    |               11.88  |
-| Italy        |        3 |  1.518 |               -4.951 |                 0.279 |                    |                6.431 |
-| Georgia      |        3 |  1.409 |               -0.905 |                 0.36  |                    |                6.094 |
-| Romania      |        3 |  0.059 |              -83.987 |                 0.169 |                    |                0.427 |
+| South Africa |        3 |  2.962 |               90.46  |                 0.027 |                    |               11.887 |
+| Italy        |        3 |  1.49  |               -4.533 |                 0.286 |                    |                6.314 |
+| Georgia      |        3 |  1.448 |               -1.245 |                 0.321 |                    |                6.189 |
+| Romania      |        3 |  0.056 |              -84.682 |                 0.168 |                    |                0.412 |
 
 
 
@@ -167,10 +167,10 @@ aside:
 
 | Club      |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:----------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| Argentina |        3 |  2.8   |               58.834 |                 0.126 |                    |               11.368 |
-| Fiji      |        3 |  1.837 |               16.355 |                 0.335 |                    |                7.759 |
-| Spain     |        3 |  1.109 |              -14.795 |                 0.382 |                    |                4.894 |
-| Canada    |        3 |  0.19  |              -60.394 |                 0.31  |                    |                1.132 |
+| Argentina |        3 |  2.837 |               60.506 |                 0.091 |                    |               11.495 |
+| Fiji      |        3 |  1.79  |               14.415 |                 0.333 |                    |                7.597 |
+| Spain     |        3 |  1.093 |              -15.018 |                 0.412 |                    |                4.892 |
+| Canada    |        3 |  0.197 |              -59.903 |                 0.291 |                    |                1.143 |
 
 
 
@@ -179,10 +179,10 @@ aside:
 
 | Club     |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:---------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| Ireland  |        3 |  2.583 |               48.66  |                 0.201 |                    |               10.649 |
-| Scotland |        3 |  2.273 |               43.014 |                 0.31  |                    |                9.498 |
-| Portugal |        3 |  0.624 |              -36.172 |                 0.394 |                    |                2.992 |
-| Uruguay  |        3 |  0.421 |              -55.502 |                 0.303 |                    |                2.069 |
+| Ireland  |        3 |  2.541 |               49.056 |                 0.246 |                    |               10.528 |
+| Scotland |        3 |  2.301 |               42.542 |                 0.277 |                    |                9.587 |
+| Portugal |        3 |  0.629 |              -36.503 |                 0.389 |                    |                3.009 |
+| Uruguay  |        3 |  0.428 |              -55.095 |                 0.282 |                    |                2.07  |
 
 
 
@@ -191,10 +191,10 @@ aside:
 
 | Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| France                   |        3 |  2.946 |               81.455 |                 0.036 |                    |               11.844 |
-| Japan                    |        3 |  1.705 |                5.962 |                 0.246 |                    |                7.162 |
-| United States of America |        3 |  1.118 |              -17.08  |                 0.314 |                    |                4.918 |
-| Samoa                    |        3 |  0.153 |              -70.337 |                 0.247 |                    |                0.919 |
+| France                   |        3 |  2.939 |               81.157 |                 0.036 |                    |               11.816 |
+| Japan                    |        3 |  1.858 |               14.637 |                 0.19  |                    |                7.69  |
+| United States of America |        3 |  0.96  |              -25.767 |                 0.345 |                    |                4.257 |
+| Samoa                    |        3 |  0.19  |              -70.027 |                 0.276 |                    |                1.084 |
 
 
 
@@ -203,10 +203,10 @@ aside:
 
 | Club     |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:---------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| England  |        3 |  2.896 |               79.205 |                 0.071 |                    |               11.683 |
-| Wales    |        3 |  1.999 |               28.801 |                 0.195 |                    |                8.247 |
-| Tonga    |        3 |  0.697 |              -45.194 |                 0.26  |                    |                3.134 |
-| Zimbabwe |        3 |  0.347 |              -62.812 |                 0.258 |                    |                1.72  |
+| England  |        3 |  2.907 |               80.284 |                 0.053 |                    |               11.721 |
+| Wales    |        3 |  1.979 |               27.603 |                 0.217 |                    |                8.185 |
+| Tonga    |        3 |  0.72  |              -43.477 |                 0.257 |                    |                3.213 |
+| Zimbabwe |        3 |  0.334 |              -64.41  |                 0.275 |                    |                1.683 |
 
 
 
@@ -215,30 +215,30 @@ aside:
 
 |                          | Reach Round of 16   | Win Round of 16   | Reach Quarterfinal   | Win Quarterfinal   | Reach Semifinal   | Win Semifinal   | Reach Final   | Win Final   |
 |:-------------------------|:--------------------|:------------------|:---------------------|:-------------------|:------------------|:----------------|:--------------|:------------|
-| New Zealand              | 100.0 %             | 99.3 %            | 99.3 %               | 65.8 %             | 65.8 %            | 55.5 %          | 55.5 %        | 38.0 %      |
-| South Africa             | 100.0 %             | 98.6 %            | 98.6 %               | 48.6 %             | 48.6 %            | 42.8 %          | 42.8 %        | 37.9 %      |
-| France                   | 100.0 %             | 77.8 %            | 77.8 %               | 61.9 %             | 61.9 %            | 12.6 %          | 12.6 %        | 7.8 %       |
-| England                  | 100.0 %             | 91.1 %            | 91.1 %               | 43.0 %             | 43.0 %            | 30.7 %          | 30.7 %        | 6.3 %       |
-| Scotland                 | 99.9 %              | 48.9 %            | 48.9 %               | 34.4 %             | 34.4 %            | 9.7 %           | 9.7 %         | 3.4 %       |
-| Australia                | 100.0 %             | 91.6 %            | 91.6 %               | 40.9 %             | 40.9 %            | 23.1 %          | 23.1 %        | 2.8 %       |
-| Ireland                  | 100.0 %             | 67.6 %            | 67.6 %               | 42.2 %             | 42.2 %            | 14.6 %          | 14.6 %        | 2.7 %       |
-| Argentina                | 100.0 %             | 84.9 %            | 84.9 %               | 34.9 %             | 34.9 %            | 7.2 %           | 7.2 %         | 0.8 %       |
-| Wales                    | 99.6 %              | 55.8 %            | 55.8 %               | 13.5 %             | 13.5 %            | 1.6 %           | 1.6 %         | 0.2 %       |
-| Georgia                  | 95.2 %              | 13.6 %            | 13.6 %               | 3.1 %              | 3.1 %             | 1.0 %           | 1.0 %         | 0.1 %       |
-| Japan                    | 97.1 %              | 8.2 %             | 8.2 %                | 1.8 %              | 1.8 %             | 0.4 %           | 0.4 %         | 0.0 %       |
-| Fiji                     | 97.8 %              | 37.8 %            | 37.8 %               | 6.7 %              | 6.7 %             | 0.3 %           | 0.3 %         | 0.0 %       |
-| United States of America | 78.2 %              | 2.9 %             | 2.9 %                | 0.6 %              | 0.6 %             | 0.3 %           | 0.3 %         | 0.0 %       |
-| Italy                    | 94.6 %              | 8.7 %             | 8.7 %                | 1.3 %              | 1.3 %             | 0.2 %           | 0.2 %         | 0.0 %       |
-| Portugal                 | 38.0 %              | 1.6 %             | 1.6 %                | 0.7 %              | 0.7 %             | 0.0 %           | 0.0 %         | 0.0 %       |
-| Spain                    | 79.1 %              | 8.2 %             | 8.2 %                | 0.6 %              | 0.6 %             | 0.0 %           | 0.0 %         | 0.0 %       |
-| Chile                    | 47.0 %              | 1.6 %             | 1.6 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
-| Tonga                    | 31.2 %              | 1.0 %             | 1.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
-| Zimbabwe                 | 10.6 %              | 0.4 %             | 0.4 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
-| Canada                   | 8.1 %               | 0.4 %             | 0.4 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
-| Uruguay                  | 16.5 %              | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
-| Samoa                    | 5.1 %               | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
-| Romania                  | 1.5 %               | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
-| Hong Kong                | 0.5 %               | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
+| New Zealand              | 100.0 %             | 99.5 %            | 99.5 %               | 63.3 %             | 63.3 %            | 53.0 %          | 53.0 %        | 40.5 %      |
+| South Africa             | 100.0 %             | 98.7 %            | 98.7 %               | 49.2 %             | 49.2 %            | 42.6 %          | 42.6 %        | 36.9 %      |
+| France                   | 100.0 %             | 74.9 %            | 74.9 %               | 60.5 %             | 60.5 %            | 13.0 %          | 13.0 %        | 9.6 %       |
+| England                  | 100.0 %             | 91.2 %            | 91.2 %               | 49.8 %             | 49.8 %            | 37.8 %          | 37.8 %        | 6.8 %       |
+| Scotland                 | 99.8 %              | 52.8 %            | 52.8 %               | 34.9 %             | 34.9 %            | 10.2 %          | 10.2 %        | 2.5 %       |
+| Ireland                  | 100.0 %             | 68.8 %            | 68.8 %               | 43.8 %             | 43.8 %            | 13.3 %          | 13.3 %        | 1.6 %       |
+| Australia                | 100.0 %             | 88.0 %            | 88.0 %               | 33.7 %             | 33.7 %            | 19.1 %          | 19.1 %        | 1.5 %       |
+| Wales                    | 99.6 %              | 58.8 %            | 58.8 %               | 14.9 %             | 14.9 %            | 1.4 %           | 1.4 %         | 0.4 %       |
+| Argentina                | 100.0 %             | 84.7 %            | 84.7 %               | 34.7 %             | 34.7 %            | 6.7 %           | 6.7 %         | 0.2 %       |
+| Japan                    | 98.8 %              | 11.5 %            | 11.5 %               | 3.2 %              | 3.2 %             | 1.2 %           | 1.2 %         | 0.0 %       |
+| Georgia                  | 95.7 %              | 13.6 %            | 13.6 %               | 3.6 %              | 3.6 %             | 1.0 %           | 1.0 %         | 0.0 %       |
+| Italy                    | 94.1 %              | 7.2 %             | 7.2 %                | 2.0 %              | 2.0 %             | 0.5 %           | 0.5 %         | 0.0 %       |
+| Spain                    | 80.0 %              | 7.2 %             | 7.2 %                | 0.6 %              | 0.6 %             | 0.1 %           | 0.1 %         | 0.0 %       |
+| United States of America | 67.8 %              | 2.4 %             | 2.4 %                | 0.2 %              | 0.2 %             | 0.1 %           | 0.1 %         | 0.0 %       |
+| Fiji                     | 97.1 %              | 34.8 %            | 34.8 %               | 5.2 %              | 5.2 %             | 0.0 %           | 0.0 %         | 0.0 %       |
+| Chile                    | 49.7 %              | 2.2 %             | 2.2 %                | 0.3 %              | 0.3 %             | 0.0 %           | 0.0 %         | 0.0 %       |
+| Portugal                 | 37.9 %              | 1.5 %             | 1.5 %                | 0.1 %              | 0.1 %             | 0.0 %           | 0.0 %         | 0.0 %       |
+| Tonga                    | 35.8 %              | 1.5 %             | 1.5 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
+| Uruguay                  | 16.2 %              | 0.3 %             | 0.3 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
+| Zimbabwe                 | 11.3 %              | 0.2 %             | 0.2 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
+| Canada                   | 8.3 %               | 0.2 %             | 0.2 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
+| Samoa                    | 6.6 %               | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
+| Romania                  | 1.1 %               | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
+| Hong Kong                | 0.2 %               | 0.0 %             | 0.0 %                | 0.0 %              | 0.0 %             | 0.0 %           | 0.0 %         | 0.0 %       |
 
 
 
@@ -249,7 +249,7 @@ aside:
 ### Australia V New Zealand on 2027/10/01
 
 
-Average Margin: New Zealand by 7.3
+Average Margin: New Zealand by 7.5
 
 <p float="left">
 <img src="plots/2027-10-01-Australia_V_NewZealand_club_performances.png" width="32%" />
@@ -271,7 +271,7 @@ Average Margin: England by 14.7
 ### United States of America V Samoa on 2027/10/01
 
 
-Average Margin: United States of America by 15.4
+Average Margin: United States of America by 13.1
 
 <p float="left">
 <img src="plots/2027-10-01-UnitedStatesofAmerica_V_Samoa_club_performances.png" width="32%" />
@@ -282,7 +282,7 @@ Average Margin: United States of America by 15.4
 ### France V Japan on 2027/10/01
 
 
-Average Margin: France by 21.3
+Average Margin: France by 19.1
 
 <p float="left">
 <img src="plots/2027-10-01-France_V_Japan_club_performances.png" width="32%" />
@@ -293,7 +293,7 @@ Average Margin: France by 21.3
 ### Uruguay V Portugal on 2027/10/01
 
 
-Average Margin: Portugal by 2.5
+Average Margin: Portugal by 2.2
 
 <p float="left">
 <img src="plots/2027-10-01-Uruguay_V_Portugal_club_performances.png" width="32%" />
@@ -304,7 +304,7 @@ Average Margin: Portugal by 2.5
 ### Ireland V Scotland on 2027/10/01
 
 
-Average Margin: Ireland by 3.9
+Average Margin: Ireland by 3.6
 
 <p float="left">
 <img src="plots/2027-10-01-Ireland_V_Scotland_club_performances.png" width="32%" />
@@ -315,7 +315,7 @@ Average Margin: Ireland by 3.9
 ### Argentina V Fiji on 2027/10/01
 
 
-Average Margin: Argentina by 13.1
+Average Margin: Argentina by 14.0
 
 <p float="left">
 <img src="plots/2027-10-01-Argentina_V_Fiji_club_performances.png" width="32%" />
@@ -326,7 +326,7 @@ Average Margin: Argentina by 13.1
 ### Georgia V Romania on 2027/10/01
 
 
-Average Margin: Georgia by 22.8
+Average Margin: Georgia by 22.6
 
 <p float="left">
 <img src="plots/2027-10-01-Georgia_V_Romania_club_performances.png" width="32%" />
@@ -337,7 +337,7 @@ Average Margin: Georgia by 22.8
 ### Spain V Canada on 2027/10/01
 
 
-Average Margin: Spain by 14.3
+Average Margin: Spain by 14.1
 
 <p float="left">
 <img src="plots/2027-10-01-Spain_V_Canada_club_performances.png" width="32%" />
@@ -348,7 +348,7 @@ Average Margin: Spain by 14.3
 ### Tonga V Zimbabwe on 2027/10/01
 
 
-Average Margin: Tonga by 6.5
+Average Margin: Tonga by 7.4
 
 <p float="left">
 <img src="plots/2027-10-01-Tonga_V_Zimbabwe_club_performances.png" width="32%" />
@@ -359,7 +359,7 @@ Average Margin: Tonga by 6.5
 ### South Africa V Italy on 2027/10/01
 
 
-Average Margin: South Africa by 25.8
+Average Margin: South Africa by 25.6
 
 <p float="left">
 <img src="plots/2027-10-01-SouthAfrica_V_Italy_club_performances.png" width="32%" />
@@ -370,7 +370,7 @@ Average Margin: South Africa by 25.8
 ### Chile V Hong Kong on 2027/10/01
 
 
-Average Margin: Chile by 16.8
+Average Margin: Chile by 17.3
 
 <p float="left">
 <img src="plots/2027-10-01-Chile_V_HongKong_club_performances.png" width="32%" />
@@ -383,7 +383,7 @@ Average Margin: Chile by 16.8
 ### England V Tonga on 2027/10/08
 
 
-Average Margin: England by 31.2
+Average Margin: England by 31.0
 
 <p float="left">
 <img src="plots/2027-10-08-England_V_Tonga_club_performances.png" width="32%" />
@@ -405,7 +405,7 @@ Average Margin: Australia by 21.2
 ### Japan V Samoa on 2027/10/08
 
 
-Average Margin: Japan by 19.1
+Average Margin: Japan by 21.6
 
 <p float="left">
 <img src="plots/2027-10-08-Japan_V_Samoa_club_performances.png" width="32%" />
@@ -416,7 +416,7 @@ Average Margin: Japan by 19.1
 ### France V United States of America on 2027/10/08
 
 
-Average Margin: France by 24.3
+Average Margin: France by 26.7
 
 <p float="left">
 <img src="plots/2027-10-08-France_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
@@ -427,7 +427,7 @@ Average Margin: France by 24.3
 ### New Zealand V Hong Kong on 2027/10/08
 
 
-Average Margin: New Zealand by 47.3
+Average Margin: New Zealand by 47.9
 
 <p float="left">
 <img src="plots/2027-10-08-NewZealand_V_HongKong_club_performances.png" width="32%" />
@@ -438,7 +438,7 @@ Average Margin: New Zealand by 47.3
 ### Ireland V Uruguay on 2027/10/08
 
 
-Average Margin: Ireland by 25.8
+Average Margin: Ireland by 26.1
 
 <p float="left">
 <img src="plots/2027-10-08-Ireland_V_Uruguay_club_performances.png" width="32%" />
@@ -449,7 +449,7 @@ Average Margin: Ireland by 25.8
 ### Scotland V Portugal on 2027/10/08
 
 
-Average Margin: Scotland by 19.6
+Average Margin: Scotland by 19.4
 
 <p float="left">
 <img src="plots/2027-10-08-Scotland_V_Portugal_club_performances.png" width="32%" />
@@ -460,7 +460,7 @@ Average Margin: Scotland by 19.6
 ### Fiji V Canada on 2027/10/08
 
 
-Average Margin: Fiji by 19.1
+Average Margin: Fiji by 18.1
 
 <p float="left">
 <img src="plots/2027-10-08-Fiji_V_Canada_club_performances.png" width="32%" />
@@ -471,7 +471,7 @@ Average Margin: Fiji by 19.1
 ### Italy V Romania on 2027/10/08
 
 
-Average Margin: Italy by 19.4
+Average Margin: Italy by 20.2
 
 <p float="left">
 <img src="plots/2027-10-08-Italy_V_Romania_club_performances.png" width="32%" />
@@ -482,7 +482,7 @@ Average Margin: Italy by 19.4
 ### South Africa V Georgia on 2027/10/08
 
 
-Average Margin: South Africa by 22.3
+Average Margin: South Africa by 22.9
 
 <p float="left">
 <img src="plots/2027-10-08-SouthAfrica_V_Georgia_club_performances.png" width="32%" />
@@ -493,7 +493,7 @@ Average Margin: South Africa by 22.3
 ### Argentina V Spain on 2027/10/08
 
 
-Average Margin: Argentina by 18.7
+Average Margin: Argentina by 18.8
 
 <p float="left">
 <img src="plots/2027-10-08-Argentina_V_Spain_club_performances.png" width="32%" />
@@ -504,7 +504,7 @@ Average Margin: Argentina by 18.7
 ### Wales V Zimbabwe on 2027/10/08
 
 
-Average Margin: Wales by 22.9
+Average Margin: Wales by 22.5
 
 <p float="left">
 <img src="plots/2027-10-08-Wales_V_Zimbabwe_club_performances.png" width="32%" />
@@ -517,7 +517,7 @@ Average Margin: Wales by 22.9
 ### Wales V Tonga on 2027/10/15
 
 
-Average Margin: Wales by 20.5
+Average Margin: Wales by 19.9
 
 <p float="left">
 <img src="plots/2027-10-15-Wales_V_Tonga_club_performances.png" width="32%" />
@@ -528,7 +528,7 @@ Average Margin: Wales by 20.5
 ### England V Zimbabwe on 2027/10/15
 
 
-Average Margin: England by 33.4
+Average Margin: England by 34.6
 
 <p float="left">
 <img src="plots/2027-10-15-England_V_Zimbabwe_club_performances.png" width="32%" />
@@ -539,7 +539,7 @@ Average Margin: England by 33.4
 ### Australia V Hong Kong on 2027/10/15
 
 
-Average Margin: Australia by 36.3
+Average Margin: Australia by 35.7
 
 <p float="left">
 <img src="plots/2027-10-15-Australia_V_HongKong_club_performances.png" width="32%" />
@@ -550,7 +550,7 @@ Average Margin: Australia by 36.3
 ### Japan V United States of America on 2027/10/15
 
 
-Average Margin: Japan by 8.2
+Average Margin: Japan by 12.1
 
 <p float="left">
 <img src="plots/2027-10-15-Japan_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
@@ -561,7 +561,7 @@ Average Margin: Japan by 8.2
 ### Argentina V Canada on 2027/10/15
 
 
-Average Margin: Argentina by 27.0
+Average Margin: Argentina by 27.7
 
 <p float="left">
 <img src="plots/2027-10-15-Argentina_V_Canada_club_performances.png" width="32%" />
@@ -572,7 +572,7 @@ Average Margin: Argentina by 27.0
 ### New Zealand V Chile on 2027/10/15
 
 
-Average Margin: New Zealand by 32.7
+Average Margin: New Zealand by 32.4
 
 <p float="left">
 <img src="plots/2027-10-15-NewZealand_V_Chile_club_performances.png" width="32%" />
@@ -594,7 +594,7 @@ Average Margin: Fiji by 10.3
 ### South Africa V Romania on 2027/10/15
 
 
-Average Margin: South Africa by 41.8
+Average Margin: South Africa by 41.9
 
 <p float="left">
 <img src="plots/2027-10-15-SouthAfrica_V_Romania_club_performances.png" width="32%" />
@@ -605,7 +605,7 @@ Average Margin: South Africa by 41.8
 ### Scotland V Uruguay on 2027/10/15
 
 
-Average Margin: Scotland by 27.3
+Average Margin: Scotland by 26.8
 
 <p float="left">
 <img src="plots/2027-10-15-Scotland_V_Uruguay_club_performances.png" width="32%" />
@@ -616,7 +616,7 @@ Average Margin: Scotland by 27.3
 ### Ireland V Portugal on 2027/10/15
 
 
-Average Margin: Ireland by 19.0
+Average Margin: Ireland by 19.3
 
 <p float="left">
 <img src="plots/2027-10-15-Ireland_V_Portugal_club_performances.png" width="32%" />
@@ -627,7 +627,7 @@ Average Margin: Ireland by 19.0
 ### France V Samoa on 2027/10/15
 
 
-Average Margin: France by 35.9
+Average Margin: France by 35.4
 
 <p float="left">
 <img src="plots/2027-10-15-France_V_Samoa_club_performances.png" width="32%" />
@@ -638,7 +638,7 @@ Average Margin: France by 35.9
 ### Italy V Georgia on 2027/10/15
 
 
-Average Margin: Italy by 1.4
+Average Margin: Italy by 0.9
 
 <p float="left">
 <img src="plots/2027-10-15-Italy_V_Georgia_club_performances.png" width="32%" />
@@ -651,7 +651,7 @@ Average Margin: Italy by 1.4
 ### New Zealand V Chile on 2027-10-22
 
 
-Average Margin: New Zealand by 33.2
+Average Margin: New Zealand by 32.5
 
 <p float="left">
 <img src="plots/2027-10-22-NewZealand_V_Chile_club_performances.png" width="32%" />
@@ -659,43 +659,10 @@ Average Margin: New Zealand by 33.2
 <img src="plots/2027-10-22-NewZealand_V_Chile_club_spreads.png" width="32%" />
 </p>
 
-### Argentina V Ireland on 2027-10-22
-
-
-Average Margin: Argentina by 3.5
-
-<p float="left">
-<img src="plots/2027-10-22-Argentina_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
-### Argentina V Georgia on 2027-10-22
-
-
-Average Margin: Argentina by 7.6
-
-<p float="left">
-<img src="plots/2027-10-22-Argentina_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Georgia_club_spreads.png" width="32%" />
-</p>
-
-### Fiji V Georgia on 2027-10-22
-
-
-Average Margin: Georgia by 0.7
-
-<p float="left">
-<img src="plots/2027-10-22-Fiji_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Georgia_club_spreads.png" width="32%" />
-</p>
-
 ### Argentina V Japan on 2027-10-22
 
 
-Average Margin: Argentina by 14.1
+Average Margin: Argentina by 9.4
 
 <p float="left">
 <img src="plots/2027-10-22-Argentina_V_Japan_club_performances.png" width="32%" />
@@ -703,21 +670,10 @@ Average Margin: Argentina by 14.1
 <img src="plots/2027-10-22-Argentina_V_Japan_club_spreads.png" width="32%" />
 </p>
 
-### Spain V Italy on 2027-10-22
-
-
-Average Margin: Italy by 11.0
-
-<p float="left">
-<img src="plots/2027-10-22-Spain_V_Italy_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Spain_V_Italy_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Spain_V_Italy_club_spreads.png" width="32%" />
-</p>
-
 ### Argentina V Fiji on 2027-10-22
 
 
-Average Margin: Argentina by 14.3
+Average Margin: Argentina by 14.6
 
 <p float="left">
 <img src="plots/2027-10-22-Argentina_V_Fiji_club_performances.png" width="32%" />
@@ -725,54 +681,10 @@ Average Margin: Argentina by 14.3
 <img src="plots/2027-10-22-Argentina_V_Fiji_club_spreads.png" width="32%" />
 </p>
 
-### Fiji V Spain on 2027-10-22
-
-
-Average Margin: Fiji by 12.6
-
-<p float="left">
-<img src="plots/2027-10-22-Fiji_V_Spain_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Spain_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Spain_club_spreads.png" width="32%" />
-</p>
-
-### Fiji V Italy on 2027-10-22
-
-
-Average Margin: Fiji by 7.4
-
-<p float="left">
-<img src="plots/2027-10-22-Fiji_V_Italy_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Italy_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Italy_club_spreads.png" width="32%" />
-</p>
-
-### Fiji V Portugal on 2027-10-22
-
-
-Average Margin: Fiji by 9.2
-
-<p float="left">
-<img src="plots/2027-10-22-Fiji_V_Portugal_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Portugal_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Portugal_club_spreads.png" width="32%" />
-</p>
-
-### Argentina V Samoa on 2027-10-22
-
-
-Average Margin: Argentina by 20.9
-
-<p float="left">
-<img src="plots/2027-10-22-Argentina_V_Samoa_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Samoa_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Samoa_club_spreads.png" width="32%" />
-</p>
-
 ### Fiji V Japan on 2027-10-22
 
 
-Average Margin: Japan by 2.3
+Average Margin: Fiji by 6.9
 
 <p float="left">
 <img src="plots/2027-10-22-Fiji_V_Japan_club_performances.png" width="32%" />
@@ -780,109 +692,21 @@ Average Margin: Japan by 2.3
 <img src="plots/2027-10-22-Fiji_V_Japan_club_spreads.png" width="32%" />
 </p>
 
-### Fiji V Chile on 2027-10-22
+### Argentina V Zimbabwe on 2027-10-22
 
 
-Average Margin: Fiji by 11.0
-
-<p float="left">
-<img src="plots/2027-10-22-Fiji_V_Chile_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Chile_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Chile_club_spreads.png" width="32%" />
-</p>
-
-### Spain V Georgia on 2027-10-22
-
-
-Average Margin: Georgia by 1.3
+Average Margin: Argentina by 29.1
 
 <p float="left">
-<img src="plots/2027-10-22-Spain_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Spain_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Spain_V_Georgia_club_spreads.png" width="32%" />
-</p>
-
-### Argentina V Canada on 2027-10-22
-
-
-Average Margin: Argentina by 24.8
-
-<p float="left">
-<img src="plots/2027-10-22-Argentina_V_Canada_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Canada_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Canada_club_spreads.png" width="32%" />
-</p>
-
-### Argentina V Australia on 2027-10-22
-
-
-Average Margin: Australia by 3.0
-
-<p float="left">
-<img src="plots/2027-10-22-Argentina_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Australia_club_spreads.png" width="32%" />
-</p>
-
-### Fiji V Canada on 2027-10-22
-
-
-Average Margin: Fiji by 17.3
-
-<p float="left">
-<img src="plots/2027-10-22-Fiji_V_Canada_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Canada_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Canada_club_spreads.png" width="32%" />
-</p>
-
-### Fiji V Samoa on 2027-10-22
-
-
-Average Margin: Fiji by 2.0
-
-<p float="left">
-<img src="plots/2027-10-22-Fiji_V_Samoa_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Samoa_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Samoa_club_spreads.png" width="32%" />
-</p>
-
-### Argentina V Italy on 2027-10-22
-
-
-Average Margin: Argentina by 10.0
-
-<p float="left">
-<img src="plots/2027-10-22-Argentina_V_Italy_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Italy_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Italy_club_spreads.png" width="32%" />
-</p>
-
-### Argentina V Hong Kong on 2027-10-22
-
-
-Average Margin: Argentina by 25.0
-
-<p float="left">
-<img src="plots/2027-10-22-Argentina_V_HongKong_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_HongKong_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_HongKong_club_spreads.png" width="32%" />
-</p>
-
-### Argentina V Portugal on 2027-10-22
-
-
-Average Margin: Argentina by 13.9
-
-<p float="left">
-<img src="plots/2027-10-22-Argentina_V_Portugal_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Portugal_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Portugal_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Zimbabwe_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Zimbabwe_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Zimbabwe_club_spreads.png" width="32%" />
 </p>
 
 ### Argentina V Uruguay on 2027-10-22
 
 
-Average Margin: Argentina by 21.3
+Average Margin: Argentina by 22.3
 
 <p float="left">
 <img src="plots/2027-10-22-Argentina_V_Uruguay_club_performances.png" width="32%" />
@@ -890,76 +714,164 @@ Average Margin: Argentina by 21.3
 <img src="plots/2027-10-22-Argentina_V_Uruguay_club_spreads.png" width="32%" />
 </p>
 
-### United States of America V Ireland on 2027-10-22
+### Argentina V Ireland on 2027-10-22
 
 
-Average Margin: United States of America by 5.0
+Average Margin: Ireland by 3.0
 
 <p float="left">
-<img src="plots/2027-10-22-UnitedStatesofAmerica_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-UnitedStatesofAmerica_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-UnitedStatesofAmerica_V_Ireland_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Ireland_club_spreads.png" width="32%" />
 </p>
 
-### United States of America V Scotland on 2027-10-22
+### Fiji V Samoa on 2027-10-22
 
 
-Average Margin: Scotland by 16.4
+Average Margin: Fiji by 41.0
 
 <p float="left">
-<img src="plots/2027-10-22-UnitedStatesofAmerica_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-UnitedStatesofAmerica_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-UnitedStatesofAmerica_V_Scotland_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_Samoa_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_Samoa_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_Samoa_club_spreads.png" width="32%" />
 </p>
 
-### France V Uruguay on 2027-10-22
+### Spain V Chile on 2027-10-22
 
 
-Average Margin: France by 23.0
+Average Margin: Spain by 2.7
 
 <p float="left">
-<img src="plots/2027-10-22-France_V_Uruguay_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-France_V_Uruguay_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-France_V_Uruguay_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-Spain_V_Chile_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Spain_V_Chile_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Spain_V_Chile_club_spreads.png" width="32%" />
 </p>
 
-### Japan V Uruguay on 2027-10-22
+### Argentina V Canada on 2027-10-22
 
 
-Average Margin: Japan by 12.0
+Average Margin: Argentina by 30.5
 
 <p float="left">
-<img src="plots/2027-10-22-Japan_V_Uruguay_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Japan_V_Uruguay_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Japan_V_Uruguay_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Canada_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Canada_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Canada_club_spreads.png" width="32%" />
 </p>
 
-### Chile V Japan on 2027-10-22
+### Spain V Georgia on 2027-10-22
 
 
-Average Margin: Japan by 3.9
+Average Margin: Georgia by 3.7
 
 <p float="left">
-<img src="plots/2027-10-22-Chile_V_Japan_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Chile_V_Japan_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Chile_V_Japan_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-Spain_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Spain_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Spain_V_Georgia_club_spreads.png" width="32%" />
 </p>
 
-### Australia V France on 2027-10-22
+### Fiji V United States of America on 2027-10-22
 
 
-Average Margin: Australia by 1.2
+Average Margin: Fiji by 2.0
 
 <p float="left">
-<img src="plots/2027-10-22-Australia_V_France_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_France_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_France_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
+</p>
+
+### Argentina V Scotland on 2027-10-22
+
+
+Average Margin: Argentina by 5.0
+
+<p float="left">
+<img src="plots/2027-10-22-Argentina_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### Fiji V Portugal on 2027-10-22
+
+
+Average Margin: Fiji by 5.7
+
+<p float="left">
+<img src="plots/2027-10-22-Fiji_V_Portugal_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_Portugal_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_Portugal_club_spreads.png" width="32%" />
+</p>
+
+### Argentina V Australia on 2027-10-22
+
+
+Average Margin: Argentina by 2.2
+
+<p float="left">
+<img src="plots/2027-10-22-Argentina_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Australia_club_spreads.png" width="32%" />
+</p>
+
+### Fiji V Spain on 2027-10-22
+
+
+Average Margin: Fiji by 9.0
+
+<p float="left">
+<img src="plots/2027-10-22-Fiji_V_Spain_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_Spain_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_Spain_club_spreads.png" width="32%" />
+</p>
+
+### Fiji V Georgia on 2027-10-22
+
+
+Average Margin: Fiji by 1.9
+
+<p float="left">
+<img src="plots/2027-10-22-Fiji_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_Georgia_club_spreads.png" width="32%" />
+</p>
+
+### Argentina V Portugal on 2027-10-22
+
+
+Average Margin: Argentina by 13.8
+
+<p float="left">
+<img src="plots/2027-10-22-Argentina_V_Portugal_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Portugal_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Portugal_club_spreads.png" width="32%" />
+</p>
+
+### Argentina V Chile on 2027-10-22
+
+
+Average Margin: Argentina by 18.2
+
+<p float="left">
+<img src="plots/2027-10-22-Argentina_V_Chile_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Chile_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Chile_club_spreads.png" width="32%" />
+</p>
+
+### Fiji V Italy on 2027-10-22
+
+
+Average Margin: Fiji by 3.0
+
+<p float="left">
+<img src="plots/2027-10-22-Fiji_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_Italy_club_spreads.png" width="32%" />
 </p>
 
 ### New Zealand V France on 2027-10-22
 
 
-Average Margin: New Zealand by 14.7
+Average Margin: New Zealand by 15.3
 
 <p float="left">
 <img src="plots/2027-10-22-NewZealand_V_France_club_performances.png" width="32%" />
@@ -967,21 +879,32 @@ Average Margin: New Zealand by 14.7
 <img src="plots/2027-10-22-NewZealand_V_France_club_spreads.png" width="32%" />
 </p>
 
-### England V Italy on 2027-10-22
+### Chile V Japan on 2027-10-22
 
 
-Average Margin: England by 16.8
+Average Margin: Japan by 2.7
 
 <p float="left">
-<img src="plots/2027-10-22-England_V_Italy_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-England_V_Italy_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-England_V_Italy_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-Chile_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Chile_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Chile_V_Japan_club_spreads.png" width="32%" />
+</p>
+
+### Chile V United States of America on 2027-10-22
+
+
+Average Margin: Chile by 3.0
+
+<p float="left">
+<img src="plots/2027-10-22-Chile_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Chile_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Chile_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
 </p>
 
 ### England V Georgia on 2027-10-22
 
 
-Average Margin: England by 15.7
+Average Margin: England by 15.4
 
 <p float="left">
 <img src="plots/2027-10-22-England_V_Georgia_club_performances.png" width="32%" />
@@ -989,10 +912,21 @@ Average Margin: England by 15.7
 <img src="plots/2027-10-22-England_V_Georgia_club_spreads.png" width="32%" />
 </p>
 
+### England V Italy on 2027-10-22
+
+
+Average Margin: England by 17.6
+
+<p float="left">
+<img src="plots/2027-10-22-England_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-England_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-England_V_Italy_club_spreads.png" width="32%" />
+</p>
+
 ### Wales V Georgia on 2027-10-22
 
 
-Average Margin: Wales by 5.5
+Average Margin: Wales by 6.2
 
 <p float="left">
 <img src="plots/2027-10-22-Wales_V_Georgia_club_performances.png" width="32%" />
@@ -1003,7 +937,7 @@ Average Margin: Wales by 5.5
 ### Wales V Italy on 2027-10-22
 
 
-Average Margin: Wales by 7.8
+Average Margin: Wales by 8.9
 
 <p float="left">
 <img src="plots/2027-10-22-Wales_V_Italy_club_performances.png" width="32%" />
@@ -1011,10 +945,21 @@ Average Margin: Wales by 7.8
 <img src="plots/2027-10-22-Wales_V_Italy_club_spreads.png" width="32%" />
 </p>
 
+### Argentina V Samoa on 2027-10-22
+
+
+Average Margin: Argentina by 32.1
+
+<p float="left">
+<img src="plots/2027-10-22-Argentina_V_Samoa_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Samoa_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Samoa_club_spreads.png" width="32%" />
+</p>
+
 ### England V South Africa on 2027-10-22
 
 
-Average Margin: England by 2.1
+Average Margin: South Africa by 0.7
 
 <p float="left">
 <img src="plots/2027-10-22-England_V_SouthAfrica_club_performances.png" width="32%" />
@@ -1022,21 +967,10 @@ Average Margin: England by 2.1
 <img src="plots/2027-10-22-England_V_SouthAfrica_club_spreads.png" width="32%" />
 </p>
 
-### Wales V South Africa on 2027-10-22
-
-
-Average Margin: South Africa by 10.3
-
-<p float="left">
-<img src="plots/2027-10-22-Wales_V_SouthAfrica_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Wales_V_SouthAfrica_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Wales_V_SouthAfrica_club_spreads.png" width="32%" />
-</p>
-
 ### England V Romania on 2027-10-22
 
 
-Average Margin: England by 48.0
+Average Margin: England by 29.0
 
 <p float="left">
 <img src="plots/2027-10-22-England_V_Romania_club_performances.png" width="32%" />
@@ -1044,10 +978,54 @@ Average Margin: England by 48.0
 <img src="plots/2027-10-22-England_V_Romania_club_spreads.png" width="32%" />
 </p>
 
+### Tonga V Georgia on 2027-10-22
+
+
+Average Margin: Tonga by 15.0
+
+<p float="left">
+<img src="plots/2027-10-22-Tonga_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Tonga_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Tonga_V_Georgia_club_spreads.png" width="32%" />
+</p>
+
+### Tonga V Italy on 2027-10-22
+
+
+Average Margin: Italy by 30.0
+
+<p float="left">
+<img src="plots/2027-10-22-Tonga_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Tonga_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Tonga_V_Italy_club_spreads.png" width="32%" />
+</p>
+
+### Argentina V Italy on 2027-10-22
+
+
+Average Margin: Argentina by 12.4
+
+<p float="left">
+<img src="plots/2027-10-22-Argentina_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Italy_club_spreads.png" width="32%" />
+</p>
+
+### Argentina V Georgia on 2027-10-22
+
+
+Average Margin: Argentina by 5.7
+
+<p float="left">
+<img src="plots/2027-10-22-Argentina_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Georgia_club_spreads.png" width="32%" />
+</p>
+
 ### Argentina V Spain on 2027-10-22
 
 
-Average Margin: Argentina by 18.1
+Average Margin: Argentina by 19.2
 
 <p float="left">
 <img src="plots/2027-10-22-Argentina_V_Spain_club_performances.png" width="32%" />
@@ -1055,32 +1033,10 @@ Average Margin: Argentina by 18.1
 <img src="plots/2027-10-22-Argentina_V_Spain_club_spreads.png" width="32%" />
 </p>
 
-### Argentina V Chile on 2027-10-22
-
-
-Average Margin: Argentina by 18.8
-
-<p float="left">
-<img src="plots/2027-10-22-Argentina_V_Chile_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Chile_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Chile_club_spreads.png" width="32%" />
-</p>
-
-### Fiji V United States of America on 2027-10-22
-
-
-Average Margin: Fiji by 7.6
-
-<p float="left">
-<img src="plots/2027-10-22-Fiji_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
-</p>
-
 ### Argentina V United States of America on 2027-10-22
 
 
-Average Margin: Argentina by 16.3
+Average Margin: Argentina by 19.7
 
 <p float="left">
 <img src="plots/2027-10-22-Argentina_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
@@ -1088,285 +1044,43 @@ Average Margin: Argentina by 16.3
 <img src="plots/2027-10-22-Argentina_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
 </p>
 
-### Japan V Scotland on 2027-10-22
+### Wales V South Africa on 2027-10-22
 
 
-Average Margin: Scotland by 10.9
+Average Margin: South Africa by 8.5
 
 <p float="left">
-<img src="plots/2027-10-22-Japan_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Japan_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Japan_V_Scotland_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-Wales_V_SouthAfrica_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Wales_V_SouthAfrica_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Wales_V_SouthAfrica_club_spreads.png" width="32%" />
 </p>
 
-### Argentina V Scotland on 2027-10-22
+### Fiji V Chile on 2027-10-22
 
 
-Average Margin: Argentina by 3.3
+Average Margin: Fiji by 8.4
 
 <p float="left">
-<img src="plots/2027-10-22-Argentina_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Scotland_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_Chile_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_Chile_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_Chile_club_spreads.png" width="32%" />
 </p>
 
-### Fiji V Scotland on 2027-10-22
+### Spain V Italy on 2027-10-22
 
 
-Average Margin: Scotland by 8.3
-
-<p float="left">
-<img src="plots/2027-10-22-Fiji_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Scotland_club_spreads.png" width="32%" />
-</p>
-
-### Scotland V Zimbabwe on 2027-10-22
-
-
-Average Margin: Scotland by 48.3
+Average Margin: Italy by 13.5
 
 <p float="left">
-<img src="plots/2027-10-22-Scotland_V_Zimbabwe_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Zimbabwe_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Zimbabwe_club_spreads.png" width="32%" />
-</p>
-
-### Ireland V Samoa on 2027-10-22
-
-
-Average Margin: Ireland by 32.5
-
-<p float="left">
-<img src="plots/2027-10-22-Ireland_V_Samoa_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Samoa_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Samoa_club_spreads.png" width="32%" />
-</p>
-
-### Ireland V Tonga on 2027-10-22
-
-
-Average Margin: Ireland by 28.9
-
-<p float="left">
-<img src="plots/2027-10-22-Ireland_V_Tonga_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Tonga_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Tonga_club_spreads.png" width="32%" />
-</p>
-
-### Scotland V Samoa on 2027-10-22
-
-
-Average Margin: Scotland by 14.0
-
-<p float="left">
-<img src="plots/2027-10-22-Scotland_V_Samoa_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Samoa_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Samoa_club_spreads.png" width="32%" />
-</p>
-
-### Ireland V Uruguay on 2027-10-22
-
-
-Average Margin: Ireland by 31.1
-
-<p float="left">
-<img src="plots/2027-10-22-Ireland_V_Uruguay_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Uruguay_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Uruguay_club_spreads.png" width="32%" />
-</p>
-
-### Ireland V Chile on 2027-10-22
-
-
-Average Margin: Ireland by 24.6
-
-<p float="left">
-<img src="plots/2027-10-22-Ireland_V_Chile_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Chile_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Chile_club_spreads.png" width="32%" />
-</p>
-
-### Ireland V Canada on 2027-10-22
-
-
-Average Margin: Ireland by 35.2
-
-<p float="left">
-<img src="plots/2027-10-22-Ireland_V_Canada_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Canada_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Canada_club_spreads.png" width="32%" />
-</p>
-
-### Scotland V Portugal on 2027-10-22
-
-
-Average Margin: Scotland by 18.8
-
-<p float="left">
-<img src="plots/2027-10-22-Scotland_V_Portugal_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Portugal_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Portugal_club_spreads.png" width="32%" />
-</p>
-
-### Ireland V Argentina on 2027-10-22
-
-
-Average Margin: Ireland by 13.2
-
-<p float="left">
-<img src="plots/2027-10-22-Ireland_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
-### Scotland V Australia on 2027-10-22
-
-
-Average Margin: Scotland by 6.4
-
-<p float="left">
-<img src="plots/2027-10-22-Scotland_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Australia_club_spreads.png" width="32%" />
-</p>
-
-### Scotland V Uruguay on 2027-10-22
-
-
-Average Margin: Scotland by 29.2
-
-<p float="left">
-<img src="plots/2027-10-22-Scotland_V_Uruguay_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Uruguay_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Uruguay_club_spreads.png" width="32%" />
-</p>
-
-### Ireland V Zimbabwe on 2027-10-22
-
-
-Average Margin: Ireland by 39.0
-
-<p float="left">
-<img src="plots/2027-10-22-Ireland_V_Zimbabwe_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Zimbabwe_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Zimbabwe_club_spreads.png" width="32%" />
-</p>
-
-### Scotland V Canada on 2027-10-22
-
-
-Average Margin: Scotland by 34.8
-
-<p float="left">
-<img src="plots/2027-10-22-Scotland_V_Canada_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Canada_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Canada_club_spreads.png" width="32%" />
-</p>
-
-### Ireland V Romania on 2027-10-22
-
-
-Average Margin: Ireland by 11.0
-
-<p float="left">
-<img src="plots/2027-10-22-Ireland_V_Romania_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Romania_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Romania_club_spreads.png" width="32%" />
-</p>
-
-### Ireland V France on 2027-10-22
-
-
-Average Margin: France by 22.0
-
-<p float="left">
-<img src="plots/2027-10-22-Ireland_V_France_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_France_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_France_club_spreads.png" width="32%" />
-</p>
-
-### Scotland V Argentina on 2027-10-22
-
-
-Average Margin: Scotland by 9.0
-
-<p float="left">
-<img src="plots/2027-10-22-Scotland_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
-### Scotland V Wales on 2027-10-22
-
-
-Average Margin: Scotland by 6.0
-
-<p float="left">
-<img src="plots/2027-10-22-Scotland_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Wales_club_spreads.png" width="32%" />
-</p>
-
-### Ireland V Australia on 2027-10-22
-
-
-Average Margin: Ireland by 8.5
-
-<p float="left">
-<img src="plots/2027-10-22-Ireland_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Australia_club_spreads.png" width="32%" />
-</p>
-
-### Spain V Australia on 2027-10-22
-
-
-Average Margin: Australia by 10.0
-
-<p float="left">
-<img src="plots/2027-10-22-Spain_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Spain_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Spain_V_Australia_club_spreads.png" width="32%" />
-</p>
-
-### Scotland V Italy on 2027-10-22
-
-
-Average Margin: Scotland by 16.9
-
-<p float="left">
-<img src="plots/2027-10-22-Scotland_V_Italy_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Italy_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Italy_club_spreads.png" width="32%" />
-</p>
-
-### Ireland V Wales on 2027-10-22
-
-
-Average Margin: Ireland by 13.3
-
-<p float="left">
-<img src="plots/2027-10-22-Ireland_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Wales_club_spreads.png" width="32%" />
-</p>
-
-### Fiji V Uruguay on 2027-10-22
-
-
-Average Margin: Fiji by 13.0
-
-<p float="left">
-<img src="plots/2027-10-22-Fiji_V_Uruguay_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Uruguay_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Uruguay_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-Spain_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Spain_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Spain_V_Italy_club_spreads.png" width="32%" />
 </p>
 
 ### Spain V United States of America on 2027-10-22
 
 
-Average Margin: United States of America by 16.0
+Average Margin: Spain by 5.0
 
 <p float="left">
 <img src="plots/2027-10-22-Spain_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
@@ -1374,21 +1088,219 @@ Average Margin: United States of America by 16.0
 <img src="plots/2027-10-22-Spain_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
 </p>
 
-### Fiji V Australia on 2027-10-22
+### Scotland V Australia on 2027-10-22
 
 
-Average Margin: Australia by 11.0
+Average Margin: Scotland by 9.8
 
 <p float="left">
-<img src="plots/2027-10-22-Fiji_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Australia_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Australia_club_spreads.png" width="32%" />
+</p>
+
+### Scotland V Portugal on 2027-10-22
+
+
+Average Margin: Scotland by 21.4
+
+<p float="left">
+<img src="plots/2027-10-22-Scotland_V_Portugal_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Portugal_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Portugal_club_spreads.png" width="32%" />
+</p>
+
+### Scotland V Wales on 2027-10-22
+
+
+Average Margin: Scotland by 18.8
+
+<p float="left">
+<img src="plots/2027-10-22-Scotland_V_Wales_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Wales_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Wales_club_spreads.png" width="32%" />
+</p>
+
+### Scotland V Argentina on 2027-10-22
+
+
+Average Margin: Scotland by 10.0
+
+<p float="left">
+<img src="plots/2027-10-22-Scotland_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
+### Scotland V Japan on 2027-10-22
+
+
+Average Margin: Scotland by 16.7
+
+<p float="left">
+<img src="plots/2027-10-22-Scotland_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Japan_club_spreads.png" width="32%" />
+</p>
+
+### Scotland V France on 2027-10-22
+
+
+Average Margin: Scotland by 18.0
+
+<p float="left">
+<img src="plots/2027-10-22-Scotland_V_France_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_France_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_France_club_spreads.png" width="32%" />
+</p>
+
+### Scotland V Uruguay on 2027-10-22
+
+
+Average Margin: Scotland by 24.4
+
+<p float="left">
+<img src="plots/2027-10-22-Scotland_V_Uruguay_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Uruguay_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Uruguay_club_spreads.png" width="32%" />
+</p>
+
+### Ireland V Portugal on 2027-10-22
+
+
+Average Margin: Ireland by 21.3
+
+<p float="left">
+<img src="plots/2027-10-22-Ireland_V_Portugal_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Portugal_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Portugal_club_spreads.png" width="32%" />
+</p>
+
+### Scotland V Chile on 2027-10-22
+
+
+Average Margin: Scotland by 19.5
+
+<p float="left">
+<img src="plots/2027-10-22-Scotland_V_Chile_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Chile_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Chile_club_spreads.png" width="32%" />
+</p>
+
+### Ireland V New Zealand on 2027-10-22
+
+
+Average Margin: New Zealand by 1.0
+
+<p float="left">
+<img src="plots/2027-10-22-Ireland_V_NewZealand_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_NewZealand_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_NewZealand_club_spreads.png" width="32%" />
+</p>
+
+### Scotland V Samoa on 2027-10-22
+
+
+Average Margin: Scotland by 45.0
+
+<p float="left">
+<img src="plots/2027-10-22-Scotland_V_Samoa_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Samoa_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Samoa_club_spreads.png" width="32%" />
+</p>
+
+### Ireland V Australia on 2027-10-22
+
+
+Average Margin: Ireland by 3.8
+
+<p float="left">
+<img src="plots/2027-10-22-Ireland_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Australia_club_spreads.png" width="32%" />
+</p>
+
+### Scotland V Canada on 2027-10-22
+
+
+Average Margin: Scotland by 40.0
+
+<p float="left">
+<img src="plots/2027-10-22-Scotland_V_Canada_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Canada_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Canada_club_spreads.png" width="32%" />
+</p>
+
+### Ireland V Uruguay on 2027-10-22
+
+
+Average Margin: Ireland by 27.8
+
+<p float="left">
+<img src="plots/2027-10-22-Ireland_V_Uruguay_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Uruguay_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Uruguay_club_spreads.png" width="32%" />
+</p>
+
+### Ireland V Canada on 2027-10-22
+
+
+Average Margin: Ireland by 27.6
+
+<p float="left">
+<img src="plots/2027-10-22-Ireland_V_Canada_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Canada_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Canada_club_spreads.png" width="32%" />
+</p>
+
+### Ireland V England on 2027-10-22
+
+
+Average Margin: England by 2.0
+
+<p float="left">
+<img src="plots/2027-10-22-Ireland_V_England_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_England_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_England_club_spreads.png" width="32%" />
+</p>
+
+### Ireland V Romania on 2027-10-22
+
+
+Average Margin: Ireland by 42.0
+
+<p float="left">
+<img src="plots/2027-10-22-Ireland_V_Romania_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Romania_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Romania_club_spreads.png" width="32%" />
+</p>
+
+### Australia V France on 2027-10-22
+
+
+Average Margin: France by 0.6
+
+<p float="left">
+<img src="plots/2027-10-22-Australia_V_France_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_France_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_France_club_spreads.png" width="32%" />
+</p>
+
+### Scotland V United States of America on 2027-10-22
+
+
+Average Margin: Scotland by 27.8
+
+<p float="left">
+<img src="plots/2027-10-22-Scotland_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
 </p>
 
 ### Ireland V United States of America on 2027-10-22
 
 
-Average Margin: Ireland by 19.7
+Average Margin: Ireland by 25.9
 
 <p float="left">
 <img src="plots/2027-10-22-Ireland_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
@@ -1396,26 +1308,92 @@ Average Margin: Ireland by 19.7
 <img src="plots/2027-10-22-Ireland_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
 </p>
 
-### Scotland V Georgia on 2027-10-22
+### Spain V Scotland on 2027-10-22
 
 
-Average Margin: Scotland by 15.1
+Average Margin: Scotland by 3.0
 
 <p float="left">
-<img src="plots/2027-10-22-Scotland_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Georgia_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-Spain_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Spain_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Spain_V_Scotland_club_spreads.png" width="32%" />
 </p>
 
-### Scotland V United States of America on 2027-10-22
+### Scotland V Fiji on 2027-10-22
 
 
-Average Margin: Scotland by 24.2
+Average Margin: Scotland by 20.1
 
 <p float="left">
-<img src="plots/2027-10-22-Scotland_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Fiji_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Fiji_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Fiji_club_spreads.png" width="32%" />
+</p>
+
+### Ireland V Chile on 2027-10-22
+
+
+Average Margin: Ireland by 25.4
+
+<p float="left">
+<img src="plots/2027-10-22-Ireland_V_Chile_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Chile_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Chile_club_spreads.png" width="32%" />
+</p>
+
+### Ireland V Italy on 2027-10-22
+
+
+Average Margin: Ireland by 17.4
+
+<p float="left">
+<img src="plots/2027-10-22-Ireland_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Italy_club_spreads.png" width="32%" />
+</p>
+
+### Scotland V Italy on 2027-10-22
+
+
+Average Margin: Scotland by 16.8
+
+<p float="left">
+<img src="plots/2027-10-22-Scotland_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Italy_club_spreads.png" width="32%" />
+</p>
+
+### Scotland V Zimbabwe on 2027-10-22
+
+
+Average Margin: Scotland by 36.3
+
+<p float="left">
+<img src="plots/2027-10-22-Scotland_V_Zimbabwe_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Zimbabwe_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Zimbabwe_club_spreads.png" width="32%" />
+</p>
+
+### Ireland V Fiji on 2027-10-22
+
+
+Average Margin: Ireland by 18.0
+
+<p float="left">
+<img src="plots/2027-10-22-Ireland_V_Fiji_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Fiji_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Fiji_club_spreads.png" width="32%" />
+</p>
+
+### Ireland V Japan on 2027-10-22
+
+
+Average Margin: Ireland by 17.3
+
+<p float="left">
+<img src="plots/2027-10-22-Ireland_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Japan_club_spreads.png" width="32%" />
 </p>
 
 ### Ireland V Spain on 2027-10-22
@@ -1429,76 +1407,10 @@ Average Margin: Ireland by 25.9
 <img src="plots/2027-10-22-Ireland_V_Spain_club_spreads.png" width="32%" />
 </p>
 
-### Ireland V Italy on 2027-10-22
-
-
-Average Margin: Ireland by 15.5
-
-<p float="left">
-<img src="plots/2027-10-22-Ireland_V_Italy_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Italy_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Italy_club_spreads.png" width="32%" />
-</p>
-
-### Scotland V Japan on 2027-10-22
-
-
-Average Margin: Scotland by 22.4
-
-<p float="left">
-<img src="plots/2027-10-22-Scotland_V_Japan_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Japan_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Japan_club_spreads.png" width="32%" />
-</p>
-
-### Scotland V Fiji on 2027-10-22
-
-
-Average Margin: Scotland by 20.3
-
-<p float="left">
-<img src="plots/2027-10-22-Scotland_V_Fiji_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Fiji_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Fiji_club_spreads.png" width="32%" />
-</p>
-
-### Scotland V Spain on 2027-10-22
-
-
-Average Margin: Scotland by 25.8
-
-<p float="left">
-<img src="plots/2027-10-22-Scotland_V_Spain_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Spain_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Spain_club_spreads.png" width="32%" />
-</p>
-
-### Ireland V Georgia on 2027-10-22
-
-
-Average Margin: Ireland by 12.4
-
-<p float="left">
-<img src="plots/2027-10-22-Ireland_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Georgia_club_spreads.png" width="32%" />
-</p>
-
-### Ireland V Fiji on 2027-10-22
-
-
-Average Margin: Ireland by 20.0
-
-<p float="left">
-<img src="plots/2027-10-22-Ireland_V_Fiji_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Fiji_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Fiji_club_spreads.png" width="32%" />
-</p>
-
 ### Scotland V Tonga on 2027-10-22
 
 
-Average Margin: Scotland by 33.1
+Average Margin: Scotland by 33.0
 
 <p float="left">
 <img src="plots/2027-10-22-Scotland_V_Tonga_club_performances.png" width="32%" />
@@ -1506,32 +1418,76 @@ Average Margin: Scotland by 33.1
 <img src="plots/2027-10-22-Scotland_V_Tonga_club_spreads.png" width="32%" />
 </p>
 
-### Scotland V Chile on 2027-10-22
+### Scotland V Georgia on 2027-10-22
 
 
-Average Margin: Scotland by 18.8
+Average Margin: Scotland by 15.0
 
 <p float="left">
-<img src="plots/2027-10-22-Scotland_V_Chile_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Chile_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Scotland_V_Chile_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Georgia_club_spreads.png" width="32%" />
 </p>
 
-### Ireland V Japan on 2027-10-22
+### Ireland V Samoa on 2027-10-22
 
 
-Average Margin: Ireland by 19.0
+Average Margin: Ireland by 34.7
 
 <p float="left">
-<img src="plots/2027-10-22-Ireland_V_Japan_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Japan_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Japan_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Samoa_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Samoa_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Samoa_club_spreads.png" width="32%" />
+</p>
+
+### Ireland V Georgia on 2027-10-22
+
+
+Average Margin: Ireland by 14.5
+
+<p float="left">
+<img src="plots/2027-10-22-Ireland_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Georgia_club_spreads.png" width="32%" />
+</p>
+
+### Ireland V Wales on 2027-10-22
+
+
+Average Margin: Ireland by 21.8
+
+<p float="left">
+<img src="plots/2027-10-22-Ireland_V_Wales_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Wales_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Wales_club_spreads.png" width="32%" />
+</p>
+
+### Scotland V Spain on 2027-10-22
+
+
+Average Margin: Scotland by 26.0
+
+<p float="left">
+<img src="plots/2027-10-22-Scotland_V_Spain_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Spain_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Scotland_V_Spain_club_spreads.png" width="32%" />
+</p>
+
+### Ireland V Tonga on 2027-10-22
+
+
+Average Margin: Ireland by 25.9
+
+<p float="left">
+<img src="plots/2027-10-22-Ireland_V_Tonga_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Tonga_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Tonga_club_spreads.png" width="32%" />
 </p>
 
 ### Ireland V Scotland on 2027-10-22
 
 
-Average Margin: Ireland by 10.5
+Average Margin: Ireland by 5.7
 
 <p float="left">
 <img src="plots/2027-10-22-Ireland_V_Scotland_club_performances.png" width="32%" />
@@ -1539,98 +1495,43 @@ Average Margin: Ireland by 10.5
 <img src="plots/2027-10-22-Ireland_V_Scotland_club_spreads.png" width="32%" />
 </p>
 
-### Ireland V Portugal on 2027-10-22
+### Ireland V Argentina on 2027-10-22
 
 
-Average Margin: Ireland by 15.4
+Average Margin: Ireland by 9.7
 
 <p float="left">
-<img src="plots/2027-10-22-Ireland_V_Portugal_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Portugal_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_Portugal_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Argentina_club_spreads.png" width="32%" />
 </p>
 
-### Ireland V South Africa on 2027-10-22
+### Japan V Portugal on 2027-10-22
 
 
-Average Margin: South Africa by 3.0
+Average Margin: Japan by 3.0
 
 <p float="left">
-<img src="plots/2027-10-22-Ireland_V_SouthAfrica_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_SouthAfrica_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_SouthAfrica_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-Japan_V_Portugal_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Japan_V_Portugal_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Japan_V_Portugal_club_spreads.png" width="32%" />
 </p>
 
-### Japan V Ireland on 2027-10-22
+### France V Uruguay on 2027-10-22
 
 
-Average Margin: Ireland by 7.3
-
-<p float="left">
-<img src="plots/2027-10-22-Japan_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Japan_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Japan_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
-### France V Ireland on 2027-10-22
-
-
-Average Margin: France by 9.0
+Average Margin: France by 21.9
 
 <p float="left">
-<img src="plots/2027-10-22-France_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-France_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-France_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
-### Australia V Georgia on 2027-10-22
-
-
-Average Margin: Australia by 11.0
-
-<p float="left">
-<img src="plots/2027-10-22-Australia_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Georgia_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Samoa on 2027-10-22
-
-
-Average Margin: New Zealand by 44.9
-
-<p float="left">
-<img src="plots/2027-10-22-NewZealand_V_Samoa_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Samoa_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Samoa_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Fiji on 2027-10-22
-
-
-Average Margin: New Zealand by 33.1
-
-<p float="left">
-<img src="plots/2027-10-22-NewZealand_V_Fiji_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Fiji_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Fiji_club_spreads.png" width="32%" />
-</p>
-
-### Australia V Romania on 2027-10-22
-
-
-Average Margin: Australia by 31.5
-
-<p float="left">
-<img src="plots/2027-10-22-Australia_V_Romania_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Romania_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Romania_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-France_V_Uruguay_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-France_V_Uruguay_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-France_V_Uruguay_club_spreads.png" width="32%" />
 </p>
 
 ### New Zealand V Japan on 2027-10-22
 
 
-Average Margin: New Zealand by 29.3
+Average Margin: New Zealand by 26.0
 
 <p float="left">
 <img src="plots/2027-10-22-NewZealand_V_Japan_club_performances.png" width="32%" />
@@ -1641,7 +1542,7 @@ Average Margin: New Zealand by 29.3
 ### Australia V Fiji on 2027-10-22
 
 
-Average Margin: Australia by 16.0
+Average Margin: Australia by 17.2
 
 <p float="left">
 <img src="plots/2027-10-22-Australia_V_Fiji_club_performances.png" width="32%" />
@@ -1649,274 +1550,10 @@ Average Margin: Australia by 16.0
 <img src="plots/2027-10-22-Australia_V_Fiji_club_spreads.png" width="32%" />
 </p>
 
-### Australia V Japan on 2027-10-22
-
-
-Average Margin: Australia by 25.7
-
-<p float="left">
-<img src="plots/2027-10-22-Australia_V_Japan_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Japan_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Japan_club_spreads.png" width="32%" />
-</p>
-
-### Australia V Hong Kong on 2027-10-22
-
-
-Average Margin: Australia by 19.0
-
-<p float="left">
-<img src="plots/2027-10-22-Australia_V_HongKong_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_HongKong_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_HongKong_club_spreads.png" width="32%" />
-</p>
-
-### Australia V Samoa on 2027-10-22
-
-
-Average Margin: Australia by 21.0
-
-<p float="left">
-<img src="plots/2027-10-22-Australia_V_Samoa_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Samoa_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Samoa_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Australia on 2027-10-22
-
-
-Average Margin: New Zealand by 26.0
-
-<p float="left">
-<img src="plots/2027-10-22-NewZealand_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Australia_club_spreads.png" width="32%" />
-</p>
-
-### Chile V United States of America on 2027-10-22
-
-
-Average Margin: Chile by 12.0
-
-<p float="left">
-<img src="plots/2027-10-22-Chile_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Chile_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Chile_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
-</p>
-
-### Australia V Wales on 2027-10-22
-
-
-Average Margin: Australia by 9.0
-
-<p float="left">
-<img src="plots/2027-10-22-Australia_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Wales_club_spreads.png" width="32%" />
-</p>
-
-### South Africa V Georgia on 2027-10-22
-
-
-Average Margin: South Africa by 21.5
-
-<p float="left">
-<img src="plots/2027-10-22-SouthAfrica_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Georgia_club_spreads.png" width="32%" />
-</p>
-
-### South Africa V Spain on 2027-10-22
-
-
-Average Margin: South Africa by 34.2
-
-<p float="left">
-<img src="plots/2027-10-22-SouthAfrica_V_Spain_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Spain_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Spain_club_spreads.png" width="32%" />
-</p>
-
-### South Africa V Uruguay on 2027-10-22
-
-
-Average Margin: South Africa by 36.7
-
-<p float="left">
-<img src="plots/2027-10-22-SouthAfrica_V_Uruguay_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Uruguay_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Uruguay_club_spreads.png" width="32%" />
-</p>
-
-### South Africa V Chile on 2027-10-22
-
-
-Average Margin: South Africa by 34.9
-
-<p float="left">
-<img src="plots/2027-10-22-SouthAfrica_V_Chile_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Chile_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Chile_club_spreads.png" width="32%" />
-</p>
-
-### South Africa V Tonga on 2027-10-22
-
-
-Average Margin: South Africa by 41.1
-
-<p float="left">
-<img src="plots/2027-10-22-SouthAfrica_V_Tonga_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Tonga_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Tonga_club_spreads.png" width="32%" />
-</p>
-
-### Australia V Spain on 2027-10-22
-
-
-Average Margin: Australia by 22.5
-
-<p float="left">
-<img src="plots/2027-10-22-Australia_V_Spain_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Spain_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Spain_club_spreads.png" width="32%" />
-</p>
-
-### South Africa V United States of America on 2027-10-22
-
-
-Average Margin: South Africa by 32.5
-
-<p float="left">
-<img src="plots/2027-10-22-SouthAfrica_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Canada on 2027-10-22
-
-
-Average Margin: New Zealand by 43.7
-
-<p float="left">
-<img src="plots/2027-10-22-NewZealand_V_Canada_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Canada_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Canada_club_spreads.png" width="32%" />
-</p>
-
-### Australia V United States of America on 2027-10-22
-
-
-Average Margin: Australia by 20.0
-
-<p float="left">
-<img src="plots/2027-10-22-Australia_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Tonga on 2027-10-22
-
-
-Average Margin: New Zealand by 40.5
-
-<p float="left">
-<img src="plots/2027-10-22-NewZealand_V_Tonga_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Tonga_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Tonga_club_spreads.png" width="32%" />
-</p>
-
-### Australia V Italy on 2027-10-22
-
-
-Average Margin: Australia by 13.9
-
-<p float="left">
-<img src="plots/2027-10-22-Australia_V_Italy_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Italy_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Italy_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Georgia on 2027-10-22
-
-
-Average Margin: New Zealand by 18.9
-
-<p float="left">
-<img src="plots/2027-10-22-NewZealand_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Georgia_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Italy on 2027-10-22
-
-
-Average Margin: New Zealand by 26.9
-
-<p float="left">
-<img src="plots/2027-10-22-NewZealand_V_Italy_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Italy_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Italy_club_spreads.png" width="32%" />
-</p>
-
-### Australia V Tonga on 2027-10-22
-
-
-Average Margin: Australia by 26.0
-
-<p float="left">
-<img src="plots/2027-10-22-Australia_V_Tonga_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Tonga_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Tonga_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Portugal on 2027-10-22
-
-
-Average Margin: New Zealand by 28.8
-
-<p float="left">
-<img src="plots/2027-10-22-NewZealand_V_Portugal_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Portugal_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Portugal_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V United States of America on 2027-10-22
-
-
-Average Margin: New Zealand by 30.7
-
-<p float="left">
-<img src="plots/2027-10-22-NewZealand_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Spain on 2027-10-22
-
-
-Average Margin: New Zealand by 32.4
-
-<p float="left">
-<img src="plots/2027-10-22-NewZealand_V_Spain_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Spain_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Spain_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Romania on 2027-10-22
-
-
-Average Margin: New Zealand by 42.0
-
-<p float="left">
-<img src="plots/2027-10-22-NewZealand_V_Romania_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Romania_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Romania_club_spreads.png" width="32%" />
-</p>
-
 ### Australia V Canada on 2027-10-22
 
 
-Average Margin: Australia by 20.8
+Average Margin: Australia by 17.5
 
 <p float="left">
 <img src="plots/2027-10-22-Australia_V_Canada_club_performances.png" width="32%" />
@@ -1924,21 +1561,65 @@ Average Margin: Australia by 20.8
 <img src="plots/2027-10-22-Australia_V_Canada_club_spreads.png" width="32%" />
 </p>
 
-### New Zealand V Zimbabwe on 2027-10-22
+### Australia V Japan on 2027-10-22
 
 
-Average Margin: New Zealand by 38.6
+Average Margin: Australia by 25.0
 
 <p float="left">
-<img src="plots/2027-10-22-NewZealand_V_Zimbabwe_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Zimbabwe_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Zimbabwe_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Japan_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V Fiji on 2027-10-22
+
+
+Average Margin: New Zealand by 31.3
+
+<p float="left">
+<img src="plots/2027-10-22-NewZealand_V_Fiji_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Fiji_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Fiji_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V Romania on 2027-10-22
+
+
+Average Margin: New Zealand by 39.2
+
+<p float="left">
+<img src="plots/2027-10-22-NewZealand_V_Romania_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Romania_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Romania_club_spreads.png" width="32%" />
+</p>
+
+### Australia V Samoa on 2027-10-22
+
+
+Average Margin: Australia by 27.5
+
+<p float="left">
+<img src="plots/2027-10-22-Australia_V_Samoa_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Samoa_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Samoa_club_spreads.png" width="32%" />
+</p>
+
+### Australia V Wales on 2027-10-22
+
+
+Average Margin: Australia by 17.0
+
+<p float="left">
+<img src="plots/2027-10-22-Australia_V_Wales_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Wales_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Wales_club_spreads.png" width="32%" />
 </p>
 
 ### New Zealand V Hong Kong on 2027-10-22
 
 
-Average Margin: New Zealand by 38.5
+Average Margin: New Zealand by 48.5
 
 <p float="left">
 <img src="plots/2027-10-22-NewZealand_V_HongKong_club_performances.png" width="32%" />
@@ -1946,301 +1627,37 @@ Average Margin: New Zealand by 38.5
 <img src="plots/2027-10-22-NewZealand_V_HongKong_club_spreads.png" width="32%" />
 </p>
 
-### Australia V Chile on 2027-10-22
+### New Zealand V Australia on 2027-10-22
 
 
-Average Margin: Australia by 20.5
+Average Margin: New Zealand by 22.0
 
 <p float="left">
-<img src="plots/2027-10-22-Australia_V_Chile_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Chile_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Chile_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Australia_club_spreads.png" width="32%" />
 </p>
 
-### New Zealand V Uruguay on 2027-10-22
+### New Zealand V Scotland on 2027-10-22
 
 
-Average Margin: New Zealand by 34.8
+Average Margin: New Zealand by 8.0
 
 <p float="left">
-<img src="plots/2027-10-22-NewZealand_V_Uruguay_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Uruguay_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Uruguay_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Scotland_club_spreads.png" width="32%" />
 </p>
 
-### Australia V Uruguay on 2027-10-22
+### South Africa V United States of America on 2027-10-22
 
 
-Average Margin: Australia by 21.5
-
-<p float="left">
-<img src="plots/2027-10-22-Australia_V_Uruguay_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Uruguay_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Uruguay_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Wales on 2027-10-22
-
-
-Average Margin: New Zealand by 25.4
+Average Margin: South Africa by 33.3
 
 <p float="left">
-<img src="plots/2027-10-22-NewZealand_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-NewZealand_V_Wales_club_spreads.png" width="32%" />
-</p>
-
-### Australia V Portugal on 2027-10-22
-
-
-Average Margin: Australia by 17.0
-
-<p float="left">
-<img src="plots/2027-10-22-Australia_V_Portugal_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Portugal_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Portugal_club_spreads.png" width="32%" />
-</p>
-
-### Australia V Zimbabwe on 2027-10-22
-
-
-Average Margin: Australia by 25.5
-
-<p float="left">
-<img src="plots/2027-10-22-Australia_V_Zimbabwe_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Zimbabwe_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Australia_V_Zimbabwe_club_spreads.png" width="32%" />
-</p>
-
-### France V Portugal on 2027-10-22
-
-
-Average Margin: France by 24.9
-
-<p float="left">
-<img src="plots/2027-10-22-France_V_Portugal_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-France_V_Portugal_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-France_V_Portugal_club_spreads.png" width="32%" />
-</p>
-
-### South Africa V Japan on 2027-10-22
-
-
-Average Margin: South Africa by 29.8
-
-<p float="left">
-<img src="plots/2027-10-22-SouthAfrica_V_Japan_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Japan_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Japan_club_spreads.png" width="32%" />
-</p>
-
-### South Africa V Italy on 2027-10-22
-
-
-Average Margin: South Africa by 25.8
-
-<p float="left">
-<img src="plots/2027-10-22-SouthAfrica_V_Italy_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Italy_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Italy_club_spreads.png" width="32%" />
-</p>
-
-### Fiji V Wales on 2027-10-22
-
-
-Average Margin: Wales by 2.5
-
-<p float="left">
-<img src="plots/2027-10-22-Fiji_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Wales_club_spreads.png" width="32%" />
-</p>
-
-### Argentina V Wales on 2027-10-22
-
-
-Average Margin: Argentina by 5.3
-
-<p float="left">
-<img src="plots/2027-10-22-Argentina_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Wales_club_spreads.png" width="32%" />
-</p>
-
-### Fiji V England on 2027-10-22
-
-
-Average Margin: England by 8.2
-
-<p float="left">
-<img src="plots/2027-10-22-Fiji_V_England_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_England_club_spreads.png" width="32%" />
-</p>
-
-### Spain V Wales on 2027-10-22
-
-
-Average Margin: Wales by 4.7
-
-<p float="left">
-<img src="plots/2027-10-22-Spain_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Spain_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Spain_V_Wales_club_spreads.png" width="32%" />
-</p>
-
-### Spain V England on 2027-10-22
-
-
-Average Margin: England by 17.1
-
-<p float="left">
-<img src="plots/2027-10-22-Spain_V_England_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Spain_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Spain_V_England_club_spreads.png" width="32%" />
-</p>
-
-### Argentina V Zimbabwe on 2027-10-22
-
-
-Average Margin: Argentina by 10.0
-
-<p float="left">
-<img src="plots/2027-10-22-Argentina_V_Zimbabwe_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Zimbabwe_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Zimbabwe_club_spreads.png" width="32%" />
-</p>
-
-### Argentina V England on 2027-10-22
-
-
-Average Margin: Argentina by 2.4
-
-<p float="left">
-<img src="plots/2027-10-22-Argentina_V_England_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_England_club_spreads.png" width="32%" />
-</p>
-
-### Canada V Wales on 2027-10-22
-
-
-Average Margin: Wales by 14.7
-
-<p float="left">
-<img src="plots/2027-10-22-Canada_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Canada_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Canada_V_Wales_club_spreads.png" width="32%" />
-</p>
-
-### Fiji V Zimbabwe on 2027-10-22
-
-
-Average Margin: Fiji by 17.6
-
-<p float="left">
-<img src="plots/2027-10-22-Fiji_V_Zimbabwe_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Zimbabwe_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Zimbabwe_club_spreads.png" width="32%" />
-</p>
-
-### Spain V Tonga on 2027-10-22
-
-
-Average Margin: Spain by 10.6
-
-<p float="left">
-<img src="plots/2027-10-22-Spain_V_Tonga_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Spain_V_Tonga_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Spain_V_Tonga_club_spreads.png" width="32%" />
-</p>
-
-### Fiji V Tonga on 2027-10-22
-
-
-Average Margin: Fiji by 15.8
-
-<p float="left">
-<img src="plots/2027-10-22-Fiji_V_Tonga_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Tonga_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Fiji_V_Tonga_club_spreads.png" width="32%" />
-</p>
-
-### Canada V Zimbabwe on 2027-10-22
-
-
-Average Margin: Canada by 26.0
-
-<p float="left">
-<img src="plots/2027-10-22-Canada_V_Zimbabwe_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Canada_V_Zimbabwe_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Canada_V_Zimbabwe_club_spreads.png" width="32%" />
-</p>
-
-### Spain V Zimbabwe on 2027-10-22
-
-
-Average Margin: Spain by 10.1
-
-<p float="left">
-<img src="plots/2027-10-22-Spain_V_Zimbabwe_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Spain_V_Zimbabwe_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Spain_V_Zimbabwe_club_spreads.png" width="32%" />
-</p>
-
-### Canada V England on 2027-10-22
-
-
-Average Margin: England by 34.0
-
-<p float="left">
-<img src="plots/2027-10-22-Canada_V_England_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Canada_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Canada_V_England_club_spreads.png" width="32%" />
-</p>
-
-### Canada V Tonga on 2027-10-22
-
-
-Average Margin: Tonga by 14.0
-
-<p float="left">
-<img src="plots/2027-10-22-Canada_V_Tonga_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Canada_V_Tonga_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Canada_V_Tonga_club_spreads.png" width="32%" />
-</p>
-
-### Argentina V Tonga on 2027-10-22
-
-
-Average Margin: Argentina by 16.0
-
-<p float="left">
-<img src="plots/2027-10-22-Argentina_V_Tonga_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Tonga_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Argentina_V_Tonga_club_spreads.png" width="32%" />
-</p>
-
-### France V Scotland on 2027-10-22
-
-
-Average Margin: France by 8.2
-
-<p float="left">
-<img src="plots/2027-10-22-France_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-France_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-France_V_Scotland_club_spreads.png" width="32%" />
-</p>
-
-### South Africa V Hong Kong on 2027-10-22
-
-
-Average Margin: South Africa by 36.0
-
-<p float="left">
-<img src="plots/2027-10-22-SouthAfrica_V_HongKong_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_HongKong_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_HongKong_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
 </p>
 
 ### South Africa V Portugal on 2027-10-22
@@ -2254,32 +1671,10 @@ Average Margin: South Africa by 29.2
 <img src="plots/2027-10-22-SouthAfrica_V_Portugal_club_spreads.png" width="32%" />
 </p>
 
-### South Africa V Ireland on 2027-10-22
-
-
-Average Margin: South Africa by 13.0
-
-<p float="left">
-<img src="plots/2027-10-22-SouthAfrica_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
-### Georgia V Wales on 2027-10-22
-
-
-Average Margin: Wales by 2.0
-
-<p float="left">
-<img src="plots/2027-10-22-Georgia_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Georgia_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Georgia_V_Wales_club_spreads.png" width="32%" />
-</p>
-
 ### South Africa V Fiji on 2027-10-22
 
 
-Average Margin: South Africa by 31.6
+Average Margin: South Africa by 28.2
 
 <p float="left">
 <img src="plots/2027-10-22-SouthAfrica_V_Fiji_club_performances.png" width="32%" />
@@ -2287,21 +1682,538 @@ Average Margin: South Africa by 31.6
 <img src="plots/2027-10-22-SouthAfrica_V_Fiji_club_spreads.png" width="32%" />
 </p>
 
-### Georgia V Portugal on 2027-10-22
+### South Africa V Spain on 2027-10-22
 
 
-Average Margin: Georgia by 2.0
+Average Margin: South Africa by 34.5
 
 <p float="left">
-<img src="plots/2027-10-22-Georgia_V_Portugal_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Georgia_V_Portugal_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Georgia_V_Portugal_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Spain_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Spain_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Spain_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V Wales on 2027-10-22
+
+
+Average Margin: New Zealand by 24.0
+
+<p float="left">
+<img src="plots/2027-10-22-NewZealand_V_Wales_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Wales_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Wales_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V Georgia on 2027-10-22
+
+
+Average Margin: New Zealand by 24.6
+
+<p float="left">
+<img src="plots/2027-10-22-NewZealand_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Georgia_club_spreads.png" width="32%" />
+</p>
+
+### Australia V Georgia on 2027-10-22
+
+
+Average Margin: Australia by 12.8
+
+<p float="left">
+<img src="plots/2027-10-22-Australia_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Georgia_club_spreads.png" width="32%" />
+</p>
+
+### Australia V Tonga on 2027-10-22
+
+
+Average Margin: Australia by 27.2
+
+<p float="left">
+<img src="plots/2027-10-22-Australia_V_Tonga_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Tonga_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Tonga_club_spreads.png" width="32%" />
+</p>
+
+### Australia V Spain on 2027-10-22
+
+
+Average Margin: Australia by 22.0
+
+<p float="left">
+<img src="plots/2027-10-22-Australia_V_Spain_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Spain_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Spain_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V Uruguay on 2027-10-22
+
+
+Average Margin: New Zealand by 34.8
+
+<p float="left">
+<img src="plots/2027-10-22-NewZealand_V_Uruguay_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Uruguay_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Uruguay_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V Italy on 2027-10-22
+
+
+Average Margin: New Zealand by 25.2
+
+<p float="left">
+<img src="plots/2027-10-22-NewZealand_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Italy_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V Tonga on 2027-10-22
+
+
+Average Margin: New Zealand by 36.8
+
+<p float="left">
+<img src="plots/2027-10-22-NewZealand_V_Tonga_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Tonga_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Tonga_club_spreads.png" width="32%" />
+</p>
+
+### Australia V Chile on 2027-10-22
+
+
+Average Margin: Australia by 22.4
+
+<p float="left">
+<img src="plots/2027-10-22-Australia_V_Chile_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Chile_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Chile_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V United States of America on 2027-10-22
+
+
+Average Margin: New Zealand by 32.1
+
+<p float="left">
+<img src="plots/2027-10-22-NewZealand_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V Spain on 2027-10-22
+
+
+Average Margin: New Zealand by 33.1
+
+<p float="left">
+<img src="plots/2027-10-22-NewZealand_V_Spain_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Spain_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Spain_club_spreads.png" width="32%" />
+</p>
+
+### South Africa V Chile on 2027-10-22
+
+
+Average Margin: South Africa by 34.2
+
+<p float="left">
+<img src="plots/2027-10-22-SouthAfrica_V_Chile_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Chile_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Chile_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V Canada on 2027-10-22
+
+
+Average Margin: New Zealand by 42.9
+
+<p float="left">
+<img src="plots/2027-10-22-NewZealand_V_Canada_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Canada_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Canada_club_spreads.png" width="32%" />
+</p>
+
+### Australia V Portugal on 2027-10-22
+
+
+Average Margin: Australia by 13.7
+
+<p float="left">
+<img src="plots/2027-10-22-Australia_V_Portugal_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Portugal_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Portugal_club_spreads.png" width="32%" />
+</p>
+
+### Australia V Zimbabwe on 2027-10-22
+
+
+Average Margin: Australia by 22.4
+
+<p float="left">
+<img src="plots/2027-10-22-Australia_V_Zimbabwe_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Zimbabwe_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Zimbabwe_club_spreads.png" width="32%" />
+</p>
+
+### Australia V Italy on 2027-10-22
+
+
+Average Margin: Australia by 22.0
+
+<p float="left">
+<img src="plots/2027-10-22-Australia_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Italy_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V Zimbabwe on 2027-10-22
+
+
+Average Margin: New Zealand by 42.2
+
+<p float="left">
+<img src="plots/2027-10-22-NewZealand_V_Zimbabwe_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Zimbabwe_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Zimbabwe_club_spreads.png" width="32%" />
+</p>
+
+### Australia V United States of America on 2027-10-22
+
+
+Average Margin: Australia by 22.9
+
+<p float="left">
+<img src="plots/2027-10-22-Australia_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V Samoa on 2027-10-22
+
+
+Average Margin: New Zealand by 39.7
+
+<p float="left">
+<img src="plots/2027-10-22-NewZealand_V_Samoa_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Samoa_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Samoa_club_spreads.png" width="32%" />
+</p>
+
+### Australia V Uruguay on 2027-10-22
+
+
+Average Margin: Australia by 22.7
+
+<p float="left">
+<img src="plots/2027-10-22-Australia_V_Uruguay_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Uruguay_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Australia_V_Uruguay_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V Portugal on 2027-10-22
+
+
+Average Margin: New Zealand by 27.6
+
+<p float="left">
+<img src="plots/2027-10-22-NewZealand_V_Portugal_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Portugal_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-NewZealand_V_Portugal_club_spreads.png" width="32%" />
+</p>
+
+### South Africa V Italy on 2027-10-22
+
+
+Average Margin: South Africa by 30.3
+
+<p float="left">
+<img src="plots/2027-10-22-SouthAfrica_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Italy_club_spreads.png" width="32%" />
+</p>
+
+### South Africa V Georgia on 2027-10-22
+
+
+Average Margin: South Africa by 21.0
+
+<p float="left">
+<img src="plots/2027-10-22-SouthAfrica_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Georgia_club_spreads.png" width="32%" />
+</p>
+
+### South Africa V Japan on 2027-10-22
+
+
+Average Margin: South Africa by 28.4
+
+<p float="left">
+<img src="plots/2027-10-22-SouthAfrica_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Japan_club_spreads.png" width="32%" />
+</p>
+
+### Spain V Wales on 2027-10-22
+
+
+Average Margin: Wales by 7.0
+
+<p float="left">
+<img src="plots/2027-10-22-Spain_V_Wales_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Spain_V_Wales_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Spain_V_Wales_club_spreads.png" width="32%" />
+</p>
+
+### Fiji V Wales on 2027-10-22
+
+
+Average Margin: Wales by 2.2
+
+<p float="left">
+<img src="plots/2027-10-22-Fiji_V_Wales_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_Wales_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_Wales_club_spreads.png" width="32%" />
+</p>
+
+### Argentina V Wales on 2027-10-22
+
+
+Average Margin: Argentina by 5.7
+
+<p float="left">
+<img src="plots/2027-10-22-Argentina_V_Wales_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Wales_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Wales_club_spreads.png" width="32%" />
+</p>
+
+### Fiji V England on 2027-10-22
+
+
+Average Margin: England by 9.8
+
+<p float="left">
+<img src="plots/2027-10-22-Fiji_V_England_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_England_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_England_club_spreads.png" width="32%" />
+</p>
+
+### Fiji V Tonga on 2027-10-22
+
+
+Average Margin: Fiji by 14.5
+
+<p float="left">
+<img src="plots/2027-10-22-Fiji_V_Tonga_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_Tonga_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_Tonga_club_spreads.png" width="32%" />
+</p>
+
+### Spain V Tonga on 2027-10-22
+
+
+Average Margin: Tonga by 1.6
+
+<p float="left">
+<img src="plots/2027-10-22-Spain_V_Tonga_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Spain_V_Tonga_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Spain_V_Tonga_club_spreads.png" width="32%" />
+</p>
+
+### Canada V Wales on 2027-10-22
+
+
+Average Margin: Wales by 14.2
+
+<p float="left">
+<img src="plots/2027-10-22-Canada_V_Wales_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Canada_V_Wales_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Canada_V_Wales_club_spreads.png" width="32%" />
+</p>
+
+### Italy V Portugal on 2027-10-22
+
+
+Average Margin: Italy by 7.0
+
+<p float="left">
+<img src="plots/2027-10-22-Italy_V_Portugal_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Italy_V_Portugal_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Italy_V_Portugal_club_spreads.png" width="32%" />
+</p>
+
+### Fiji V Zimbabwe on 2027-10-22
+
+
+Average Margin: Fiji by 8.6
+
+<p float="left">
+<img src="plots/2027-10-22-Fiji_V_Zimbabwe_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_Zimbabwe_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Fiji_V_Zimbabwe_club_spreads.png" width="32%" />
+</p>
+
+### Argentina V Tonga on 2027-10-22
+
+
+Average Margin: Argentina by 10.0
+
+<p float="left">
+<img src="plots/2027-10-22-Argentina_V_Tonga_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Tonga_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_Tonga_club_spreads.png" width="32%" />
+</p>
+
+### Argentina V England on 2027-10-22
+
+
+Average Margin: Argentina by 4.3
+
+<p float="left">
+<img src="plots/2027-10-22-Argentina_V_England_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_England_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Argentina_V_England_club_spreads.png" width="32%" />
+</p>
+
+### France V Ireland on 2027-10-22
+
+
+Average Margin: France by 9.2
+
+<p float="left">
+<img src="plots/2027-10-22-France_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-France_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-France_V_Ireland_club_spreads.png" width="32%" />
+</p>
+
+### France V Scotland on 2027-10-22
+
+
+Average Margin: France by 7.8
+
+<p float="left">
+<img src="plots/2027-10-22-France_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-France_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-France_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### Japan V Ireland on 2027-10-22
+
+
+Average Margin: Ireland by 5.3
+
+<p float="left">
+<img src="plots/2027-10-22-Japan_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Japan_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Japan_V_Ireland_club_spreads.png" width="32%" />
+</p>
+
+### France V Portugal on 2027-10-22
+
+
+Average Margin: France by 23.3
+
+<p float="left">
+<img src="plots/2027-10-22-France_V_Portugal_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-France_V_Portugal_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-France_V_Portugal_club_spreads.png" width="32%" />
+</p>
+
+### Japan V Scotland on 2027-10-22
+
+
+Average Margin: Scotland by 10.3
+
+<p float="left">
+<img src="plots/2027-10-22-Japan_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Japan_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Japan_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### Spain V England on 2027-10-22
+
+
+Average Margin: England by 18.5
+
+<p float="left">
+<img src="plots/2027-10-22-Spain_V_England_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Spain_V_England_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Spain_V_England_club_spreads.png" width="32%" />
+</p>
+
+### Japan V Uruguay on 2027-10-22
+
+
+Average Margin: Japan by 20.0
+
+<p float="left">
+<img src="plots/2027-10-22-Japan_V_Uruguay_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Japan_V_Uruguay_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Japan_V_Uruguay_club_spreads.png" width="32%" />
+</p>
+
+### Italy V Tonga on 2027-10-22
+
+
+Average Margin: Italy by 1.5
+
+<p float="left">
+<img src="plots/2027-10-22-Italy_V_Tonga_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Italy_V_Tonga_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Italy_V_Tonga_club_spreads.png" width="32%" />
+</p>
+
+### South Africa V Argentina on 2027-10-22
+
+
+Average Margin: South Africa by 9.0
+
+<p float="left">
+<img src="plots/2027-10-22-SouthAfrica_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
+### South Africa V Wales on 2027-10-22
+
+
+Average Margin: South Africa by 24.8
+
+<p float="left">
+<img src="plots/2027-10-22-SouthAfrica_V_Wales_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Wales_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Wales_club_spreads.png" width="32%" />
+</p>
+
+### South Africa V Tonga on 2027-10-22
+
+
+Average Margin: South Africa by 39.8
+
+<p float="left">
+<img src="plots/2027-10-22-SouthAfrica_V_Tonga_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Tonga_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Tonga_club_spreads.png" width="32%" />
+</p>
+
+### South Africa V Uruguay on 2027-10-22
+
+
+Average Margin: South Africa by 32.4
+
+<p float="left">
+<img src="plots/2027-10-22-SouthAfrica_V_Uruguay_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Uruguay_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Uruguay_club_spreads.png" width="32%" />
 </p>
 
 ### South Africa V Zimbabwe on 2027-10-22
 
 
-Average Margin: South Africa by 40.0
+Average Margin: South Africa by 43.1
 
 <p float="left">
 <img src="plots/2027-10-22-SouthAfrica_V_Zimbabwe_club_performances.png" width="32%" />
@@ -2309,10 +2221,21 @@ Average Margin: South Africa by 40.0
 <img src="plots/2027-10-22-SouthAfrica_V_Zimbabwe_club_spreads.png" width="32%" />
 </p>
 
+### Georgia V Italy on 2027-10-22
+
+
+Average Margin: Georgia by 6.9
+
+<p float="left">
+<img src="plots/2027-10-22-Georgia_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Georgia_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Georgia_V_Italy_club_spreads.png" width="32%" />
+</p>
+
 ### South Africa V Scotland on 2027-10-22
 
 
-Average Margin: South Africa by 20.0
+Average Margin: South Africa by 25.0
 
 <p float="left">
 <img src="plots/2027-10-22-SouthAfrica_V_Scotland_club_performances.png" width="32%" />
@@ -2323,7 +2246,7 @@ Average Margin: South Africa by 20.0
 ### South Africa V Samoa on 2027-10-22
 
 
-Average Margin: South Africa by 43.6
+Average Margin: South Africa by 46.6
 
 <p float="left">
 <img src="plots/2027-10-22-SouthAfrica_V_Samoa_club_performances.png" width="32%" />
@@ -2331,76 +2254,21 @@ Average Margin: South Africa by 43.6
 <img src="plots/2027-10-22-SouthAfrica_V_Samoa_club_spreads.png" width="32%" />
 </p>
 
-### South Africa V Canada on 2027-10-22
+### Georgia V Portugal on 2027-10-22
 
 
-Average Margin: South Africa by 47.1
-
-<p float="left">
-<img src="plots/2027-10-22-SouthAfrica_V_Canada_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Canada_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Canada_club_spreads.png" width="32%" />
-</p>
-
-### Georgia V Japan on 2027-10-22
-
-
-Average Margin: Georgia by 9.0
+Average Margin: Georgia by 27.0
 
 <p float="left">
-<img src="plots/2027-10-22-Georgia_V_Japan_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Georgia_V_Japan_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Georgia_V_Japan_club_spreads.png" width="32%" />
-</p>
-
-### South Africa V Wales on 2027-10-22
-
-
-Average Margin: South Africa by 21.0
-
-<p float="left">
-<img src="plots/2027-10-22-SouthAfrica_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Wales_club_spreads.png" width="32%" />
-</p>
-
-### South Africa V Romania on 2027-10-22
-
-
-Average Margin: South Africa by 42.0
-
-<p float="left">
-<img src="plots/2027-10-22-SouthAfrica_V_Romania_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Romania_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Romania_club_spreads.png" width="32%" />
-</p>
-
-### Georgia V Spain on 2027-10-22
-
-
-Average Margin: Georgia by 22.0
-
-<p float="left">
-<img src="plots/2027-10-22-Georgia_V_Spain_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Georgia_V_Spain_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Georgia_V_Spain_club_spreads.png" width="32%" />
-</p>
-
-### Italy V Portugal on 2027-10-22
-
-
-Average Margin: Italy by 18.0
-
-<p float="left">
-<img src="plots/2027-10-22-Italy_V_Portugal_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Italy_V_Portugal_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Italy_V_Portugal_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-Georgia_V_Portugal_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Georgia_V_Portugal_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Georgia_V_Portugal_club_spreads.png" width="32%" />
 </p>
 
 ### Italy V United States of America on 2027-10-22
 
 
-Average Margin: Italy by 4.0
+Average Margin: Italy by 18.0
 
 <p float="left">
 <img src="plots/2027-10-22-Italy_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
@@ -2408,65 +2276,10 @@ Average Margin: Italy by 4.0
 <img src="plots/2027-10-22-Italy_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
 </p>
 
-### Italy V Georgia on 2027-10-22
-
-
-Average Margin: Italy by 3.0
-
-<p float="left">
-<img src="plots/2027-10-22-Italy_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Italy_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Italy_V_Georgia_club_spreads.png" width="32%" />
-</p>
-
-### Georgia V Chile on 2027-10-22
-
-
-Average Margin: Georgia by 2.7
-
-<p float="left">
-<img src="plots/2027-10-22-Georgia_V_Chile_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Georgia_V_Chile_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Georgia_V_Chile_club_spreads.png" width="32%" />
-</p>
-
-### Georgia V United States of America on 2027-10-22
-
-
-Average Margin: Georgia by 5.0
-
-<p float="left">
-<img src="plots/2027-10-22-Georgia_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Georgia_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Georgia_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
-</p>
-
-### Italy V Spain on 2027-10-22
-
-
-Average Margin: Italy by 15.0
-
-<p float="left">
-<img src="plots/2027-10-22-Italy_V_Spain_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Italy_V_Spain_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Italy_V_Spain_club_spreads.png" width="32%" />
-</p>
-
-### South Africa V Australia on 2027-10-22
-
-
-Average Margin: South Africa by 24.0
-
-<p float="left">
-<img src="plots/2027-10-22-SouthAfrica_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-SouthAfrica_V_Australia_club_spreads.png" width="32%" />
-</p>
-
 ### Georgia V Tonga on 2027-10-22
 
 
-Average Margin: Georgia by 31.0
+Average Margin: Georgia by 1.0
 
 <p float="left">
 <img src="plots/2027-10-22-Georgia_V_Tonga_club_performances.png" width="32%" />
@@ -2474,15 +2287,92 @@ Average Margin: Georgia by 31.0
 <img src="plots/2027-10-22-Georgia_V_Tonga_club_spreads.png" width="32%" />
 </p>
 
-### Ireland V England on 2027-10-22
+### Georgia V Canada on 2027-10-22
 
 
-Average Margin: Ireland by 26.0
+Average Margin: Georgia by 27.0
 
 <p float="left">
-<img src="plots/2027-10-22-Ireland_V_England_club_performances.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-22-Ireland_V_England_club_spreads.png" width="32%" />
+<img src="plots/2027-10-22-Georgia_V_Canada_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Georgia_V_Canada_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Georgia_V_Canada_club_spreads.png" width="32%" />
+</p>
+
+### South Africa V Australia on 2027-10-22
+
+
+Average Margin: South Africa by 19.5
+
+<p float="left">
+<img src="plots/2027-10-22-SouthAfrica_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Australia_club_spreads.png" width="32%" />
+</p>
+
+### South Africa V France on 2027-10-22
+
+
+Average Margin: France by 5.0
+
+<p float="left">
+<img src="plots/2027-10-22-SouthAfrica_V_France_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_France_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_France_club_spreads.png" width="32%" />
+</p>
+
+### South Africa V Romania on 2027-10-22
+
+
+Average Margin: South Africa by 41.8
+
+<p float="left">
+<img src="plots/2027-10-22-SouthAfrica_V_Romania_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Romania_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Romania_club_spreads.png" width="32%" />
+</p>
+
+### Georgia V United States of America on 2027-10-22
+
+
+Average Margin: Georgia by 15.5
+
+<p float="left">
+<img src="plots/2027-10-22-Georgia_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Georgia_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Georgia_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
+</p>
+
+### Italy V Canada on 2027-10-22
+
+
+Average Margin: Italy by 23.0
+
+<p float="left">
+<img src="plots/2027-10-22-Italy_V_Canada_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Italy_V_Canada_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Italy_V_Canada_club_spreads.png" width="32%" />
+</p>
+
+### South Africa V Canada on 2027-10-22
+
+
+Average Margin: South Africa by 45.4
+
+<p float="left">
+<img src="plots/2027-10-22-SouthAfrica_V_Canada_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Canada_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-SouthAfrica_V_Canada_club_spreads.png" width="32%" />
+</p>
+
+### Ireland V Zimbabwe on 2027-10-22
+
+
+Average Margin: Ireland by 31.3
+
+<p float="left">
+<img src="plots/2027-10-22-Ireland_V_Zimbabwe_club_performances.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Zimbabwe_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-22-Ireland_V_Zimbabwe_club_spreads.png" width="32%" />
 </p>
 
 ## Week 5
@@ -2490,7 +2380,7 @@ Average Margin: Ireland by 26.0
 ### New Zealand V South Africa on 2027-10-29
 
 
-Average Margin: New Zealand by 3.4
+Average Margin: New Zealand by 3.0
 
 <p float="left">
 <img src="plots/2027-10-29-NewZealand_V_SouthAfrica_club_performances.png" width="32%" />
@@ -2498,59 +2388,37 @@ Average Margin: New Zealand by 3.4
 <img src="plots/2027-10-29-NewZealand_V_SouthAfrica_club_spreads.png" width="32%" />
 </p>
 
-### Portugal V Ireland on 2027-10-29
+### Italy V Scotland on 2027-10-29
 
 
-Average Margin: Ireland by 6.2
+Average Margin: Scotland by 1.6
 
 <p float="left">
-<img src="plots/2027-10-29-Portugal_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Portugal_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Portugal_V_Ireland_club_spreads.png" width="32%" />
+<img src="plots/2027-10-29-Italy_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Italy_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Italy_V_Scotland_club_spreads.png" width="32%" />
 </p>
 
-### Argentina V Italy on 2027-10-29
+### Argentina V Georgia on 2027-10-29
 
 
-Average Margin: Argentina by 4.7
+Average Margin: Argentina by 7.9
 
 <p float="left">
-<img src="plots/2027-10-29-Argentina_V_Italy_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Argentina_V_Italy_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Argentina_V_Italy_club_spreads.png" width="32%" />
+<img src="plots/2027-10-29-Argentina_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Argentina_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Argentina_V_Georgia_club_spreads.png" width="32%" />
 </p>
 
-### Italy V Ireland on 2027-10-29
+### Ireland V Scotland on 2027-10-29
 
 
-Average Margin: Ireland by 7.3
-
-<p float="left">
-<img src="plots/2027-10-29-Italy_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Italy_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Italy_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
-### Japan V Ireland on 2027-10-29
-
-
-Average Margin: Ireland by 11.8
+Average Margin: Ireland by 3.8
 
 <p float="left">
-<img src="plots/2027-10-29-Japan_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Japan_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Japan_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
-### Georgia V Ireland on 2027-10-29
-
-
-Average Margin: Ireland by 8.1
-
-<p float="left">
-<img src="plots/2027-10-29-Georgia_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Georgia_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Georgia_V_Ireland_club_spreads.png" width="32%" />
+<img src="plots/2027-10-29-Ireland_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Ireland_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Ireland_V_Scotland_club_spreads.png" width="32%" />
 </p>
 
 ### Georgia V Scotland on 2027-10-29
@@ -2564,32 +2432,10 @@ Average Margin: Scotland by 6.8
 <img src="plots/2027-10-29-Georgia_V_Scotland_club_spreads.png" width="32%" />
 </p>
 
-### United States of America V Ireland on 2027-10-29
-
-
-Average Margin: Ireland by 17.7
-
-<p float="left">
-<img src="plots/2027-10-29-UnitedStatesofAmerica_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-UnitedStatesofAmerica_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-UnitedStatesofAmerica_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
-### Argentina V Georgia on 2027-10-29
-
-
-Average Margin: Argentina by 7.8
-
-<p float="left">
-<img src="plots/2027-10-29-Argentina_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Argentina_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Argentina_V_Georgia_club_spreads.png" width="32%" />
-</p>
-
 ### Argentina V Fiji on 2027-10-29
 
 
-Average Margin: Argentina by 19.5
+Average Margin: Argentina by 18.8
 
 <p float="left">
 <img src="plots/2027-10-29-Argentina_V_Fiji_club_performances.png" width="32%" />
@@ -2597,87 +2443,21 @@ Average Margin: Argentina by 19.5
 <img src="plots/2027-10-29-Argentina_V_Fiji_club_spreads.png" width="32%" />
 </p>
 
-### Italy V Scotland on 2027-10-29
+### Georgia V Ireland on 2027-10-29
 
 
-Average Margin: Scotland by 7.2
-
-<p float="left">
-<img src="plots/2027-10-29-Italy_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Italy_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Italy_V_Scotland_club_spreads.png" width="32%" />
-</p>
-
-### France V Wales on 2027-10-29
-
-
-Average Margin: France by 21.0
+Average Margin: Ireland by 4.6
 
 <p float="left">
-<img src="plots/2027-10-29-France_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-France_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-France_V_Wales_club_spreads.png" width="32%" />
-</p>
-
-### United States of America V England on 2027-10-29
-
-
-Average Margin: England by 14.4
-
-<p float="left">
-<img src="plots/2027-10-29-UnitedStatesofAmerica_V_England_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-UnitedStatesofAmerica_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-UnitedStatesofAmerica_V_England_club_spreads.png" width="32%" />
-</p>
-
-### Chile V Wales on 2027-10-29
-
-
-Average Margin: Wales by 4.0
-
-<p float="left">
-<img src="plots/2027-10-29-Chile_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Chile_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Chile_V_Wales_club_spreads.png" width="32%" />
-</p>
-
-### Japan V Georgia on 2027-10-29
-
-
-Average Margin: Japan by 7.3
-
-<p float="left">
-<img src="plots/2027-10-29-Japan_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Japan_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Japan_V_Georgia_club_spreads.png" width="32%" />
-</p>
-
-### Japan V Wales on 2027-10-29
-
-
-Average Margin: Wales by 4.2
-
-<p float="left">
-<img src="plots/2027-10-29-Japan_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Japan_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Japan_V_Wales_club_spreads.png" width="32%" />
-</p>
-
-### Japan V Italy on 2027-10-29
-
-
-Average Margin: Japan by 11.0
-
-<p float="left">
-<img src="plots/2027-10-29-Japan_V_Italy_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Japan_V_Italy_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Japan_V_Italy_club_spreads.png" width="32%" />
+<img src="plots/2027-10-29-Georgia_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Georgia_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Georgia_V_Ireland_club_spreads.png" width="32%" />
 </p>
 
 ### United States of America V Wales on 2027-10-29
 
 
-Average Margin: Wales by 11.0
+Average Margin: Wales by 3.0
 
 <p float="left">
 <img src="plots/2027-10-29-UnitedStatesofAmerica_V_Wales_club_performances.png" width="32%" />
@@ -2685,21 +2465,10 @@ Average Margin: Wales by 11.0
 <img src="plots/2027-10-29-UnitedStatesofAmerica_V_Wales_club_spreads.png" width="32%" />
 </p>
 
-### France V England on 2027-10-29
-
-
-Average Margin: England by 2.1
-
-<p float="left">
-<img src="plots/2027-10-29-France_V_England_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-France_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-France_V_England_club_spreads.png" width="32%" />
-</p>
-
 ### Japan V South Africa on 2027-10-29
 
 
-Average Margin: South Africa by 21.0
+Average Margin: South Africa by 40.0
 
 <p float="left">
 <img src="plots/2027-10-29-Japan_V_SouthAfrica_club_performances.png" width="32%" />
@@ -2707,10 +2476,32 @@ Average Margin: South Africa by 21.0
 <img src="plots/2027-10-29-Japan_V_SouthAfrica_club_spreads.png" width="32%" />
 </p>
 
+### Japan V Italy on 2027-10-29
+
+
+Average Margin: Italy by 13.0
+
+<p float="left">
+<img src="plots/2027-10-29-Japan_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Japan_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Japan_V_Italy_club_spreads.png" width="32%" />
+</p>
+
+### France V South Africa on 2027-10-29
+
+
+Average Margin: South Africa by 11.0
+
+<p float="left">
+<img src="plots/2027-10-29-France_V_SouthAfrica_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-France_V_SouthAfrica_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-France_V_SouthAfrica_club_spreads.png" width="32%" />
+</p>
+
 ### Chile V England on 2027-10-29
 
 
-Average Margin: England by 18.6
+Average Margin: England by 18.3
 
 <p float="left">
 <img src="plots/2027-10-29-Chile_V_England_club_performances.png" width="32%" />
@@ -2718,197 +2509,120 @@ Average Margin: England by 18.6
 <img src="plots/2027-10-29-Chile_V_England_club_spreads.png" width="32%" />
 </p>
 
-### Tonga V Ireland on 2027-10-29
+### Japan V Georgia on 2027-10-29
 
 
-Average Margin: Ireland by 24.5
+Average Margin: Japan by 2.1
 
 <p float="left">
-<img src="plots/2027-10-29-Tonga_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Tonga_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Tonga_V_Ireland_club_spreads.png" width="32%" />
+<img src="plots/2027-10-29-Japan_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Japan_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Japan_V_Georgia_club_spreads.png" width="32%" />
 </p>
 
-### Japan V Scotland on 2027-10-29
+### New Zealand V Wales on 2027-10-29
 
 
-Average Margin: Scotland by 10.6
+Average Margin: New Zealand by 16.4
 
 <p float="left">
-<img src="plots/2027-10-29-Japan_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Japan_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Japan_V_Scotland_club_spreads.png" width="32%" />
+<img src="plots/2027-10-29-NewZealand_V_Wales_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-NewZealand_V_Wales_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-NewZealand_V_Wales_club_spreads.png" width="32%" />
 </p>
 
-### Italy V Wales on 2027-10-29
+### Japan V Wales on 2027-10-29
 
 
-Average Margin: Wales by 0.0
+Average Margin: Japan by 5.0
 
 <p float="left">
-<img src="plots/2027-10-29-Italy_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Italy_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Italy_V_Wales_club_spreads.png" width="32%" />
+<img src="plots/2027-10-29-Japan_V_Wales_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Japan_V_Wales_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Japan_V_Wales_club_spreads.png" width="32%" />
 </p>
 
-### Argentina V United States of America on 2027-10-29
+### United States of America V England on 2027-10-29
 
 
-Average Margin: Argentina by 2.5
+Average Margin: England by 4.4
 
 <p float="left">
-<img src="plots/2027-10-29-Argentina_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Argentina_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Argentina_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
+<img src="plots/2027-10-29-UnitedStatesofAmerica_V_England_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-UnitedStatesofAmerica_V_England_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-UnitedStatesofAmerica_V_England_club_spreads.png" width="32%" />
 </p>
 
-### United States of America V Fiji on 2027-10-29
+### Australia V Wales on 2027-10-29
 
 
-Average Margin: United States of America by 11.7
+Average Margin: Australia by 6.6
 
 <p float="left">
-<img src="plots/2027-10-29-UnitedStatesofAmerica_V_Fiji_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-UnitedStatesofAmerica_V_Fiji_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-UnitedStatesofAmerica_V_Fiji_club_spreads.png" width="32%" />
+<img src="plots/2027-10-29-Australia_V_Wales_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Australia_V_Wales_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Australia_V_Wales_club_spreads.png" width="32%" />
 </p>
 
-### Australia V Scotland on 2027-10-29
+### France V Georgia on 2027-10-29
 
 
-Average Margin: Scotland by 4.5
+Average Margin: France by 26.5
 
 <p float="left">
-<img src="plots/2027-10-29-Australia_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Australia_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Australia_V_Scotland_club_spreads.png" width="32%" />
+<img src="plots/2027-10-29-France_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-France_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-France_V_Georgia_club_spreads.png" width="32%" />
 </p>
 
-### Scotland V Ireland on 2027-10-29
+### United States of America V Ireland on 2027-10-29
 
 
-Average Margin: Scotland by 9.0
+Average Margin: Ireland by 13.8
 
 <p float="left">
-<img src="plots/2027-10-29-Scotland_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Scotland_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Scotland_V_Ireland_club_spreads.png" width="32%" />
+<img src="plots/2027-10-29-UnitedStatesofAmerica_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-UnitedStatesofAmerica_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-UnitedStatesofAmerica_V_Ireland_club_spreads.png" width="32%" />
 </p>
 
-### Portugal V Scotland on 2027-10-29
+### Chile V Scotland on 2027-10-29
 
 
-Average Margin: Scotland by 9.0
+Average Margin: Scotland by 7.3
 
 <p float="left">
-<img src="plots/2027-10-29-Portugal_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Portugal_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Portugal_V_Scotland_club_spreads.png" width="32%" />
+<img src="plots/2027-10-29-Chile_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Chile_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Chile_V_Scotland_club_spreads.png" width="32%" />
 </p>
 
-### United States of America V Scotland on 2027-10-29
+### Argentina V Japan on 2027-10-29
 
 
-Average Margin: Scotland by 14.5
+Average Margin: Argentina by 3.5
 
 <p float="left">
-<img src="plots/2027-10-29-UnitedStatesofAmerica_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-UnitedStatesofAmerica_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-UnitedStatesofAmerica_V_Scotland_club_spreads.png" width="32%" />
+<img src="plots/2027-10-29-Argentina_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Argentina_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Argentina_V_Japan_club_spreads.png" width="32%" />
 </p>
 
-### Argentina V Spain on 2027-10-29
+### Japan V Ireland on 2027-10-29
 
 
-Average Margin: Argentina by 18.0
-
-<p float="left">
-<img src="plots/2027-10-29-Argentina_V_Spain_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Argentina_V_Spain_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Argentina_V_Spain_club_spreads.png" width="32%" />
-</p>
-
-### Fiji V Georgia on 2027-10-29
-
-
-Average Margin: Georgia by 14.0
+Average Margin: Ireland by 2.8
 
 <p float="left">
-<img src="plots/2027-10-29-Fiji_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Fiji_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Fiji_V_Georgia_club_spreads.png" width="32%" />
-</p>
-
-### Georgia V Portugal on 2027-10-29
-
-
-Average Margin: Portugal by 4.0
-
-<p float="left">
-<img src="plots/2027-10-29-Georgia_V_Portugal_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Georgia_V_Portugal_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Georgia_V_Portugal_club_spreads.png" width="32%" />
-</p>
-
-### United States of America V Georgia on 2027-10-29
-
-
-Average Margin: Georgia by 22.0
-
-<p float="left">
-<img src="plots/2027-10-29-UnitedStatesofAmerica_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-UnitedStatesofAmerica_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-UnitedStatesofAmerica_V_Georgia_club_spreads.png" width="32%" />
-</p>
-
-### Spain V Georgia on 2027-10-29
-
-
-Average Margin: Georgia by 13.5
-
-<p float="left">
-<img src="plots/2027-10-29-Spain_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Spain_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Spain_V_Georgia_club_spreads.png" width="32%" />
-</p>
-
-### Argentina V Australia on 2027-10-29
-
-
-Average Margin: Argentina by 4.8
-
-<p float="left">
-<img src="plots/2027-10-29-Argentina_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Argentina_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Argentina_V_Australia_club_spreads.png" width="32%" />
-</p>
-
-### Chile V Ireland on 2027-10-29
-
-
-Average Margin: Ireland by 16.0
-
-<p float="left">
-<img src="plots/2027-10-29-Chile_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Chile_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Chile_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
-### Australia V Ireland on 2027-10-29
-
-
-Average Margin: Australia by 0.5
-
-<p float="left">
-<img src="plots/2027-10-29-Australia_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Australia_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Australia_V_Ireland_club_spreads.png" width="32%" />
+<img src="plots/2027-10-29-Japan_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Japan_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Japan_V_Ireland_club_spreads.png" width="32%" />
 </p>
 
 ### Argentina V Portugal on 2027-10-29
 
 
-Average Margin: Argentina by 17.0
+Average Margin: Argentina by 6.5
 
 <p float="left">
 <img src="plots/2027-10-29-Argentina_V_Portugal_club_performances.png" width="32%" />
@@ -2916,21 +2630,208 @@ Average Margin: Argentina by 17.0
 <img src="plots/2027-10-29-Argentina_V_Portugal_club_spreads.png" width="32%" />
 </p>
 
-### Tonga V Scotland on 2027-10-29
+### Portugal V Ireland on 2027-10-29
 
 
-Average Margin: Scotland by 18.5
+Average Margin: Ireland by 9.2
 
 <p float="left">
-<img src="plots/2027-10-29-Tonga_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Tonga_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Tonga_V_Scotland_club_spreads.png" width="32%" />
+<img src="plots/2027-10-29-Portugal_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Portugal_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Portugal_V_Ireland_club_spreads.png" width="32%" />
+</p>
+
+### Georgia V Japan on 2027-10-29
+
+
+Average Margin: Japan by 18.0
+
+<p float="left">
+<img src="plots/2027-10-29-Georgia_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Georgia_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Georgia_V_Japan_club_spreads.png" width="32%" />
+</p>
+
+### Georgia V Australia on 2027-10-29
+
+
+Average Margin: Georgia by 1.0
+
+<p float="left">
+<img src="plots/2027-10-29-Georgia_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Georgia_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Georgia_V_Australia_club_spreads.png" width="32%" />
+</p>
+
+### Portugal V Italy on 2027-10-29
+
+
+Average Margin: Italy by 2.0
+
+<p float="left">
+<img src="plots/2027-10-29-Portugal_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Portugal_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Portugal_V_Italy_club_spreads.png" width="32%" />
+</p>
+
+### Portugal V United States of America on 2027-10-29
+
+
+Average Margin: Portugal by 8.0
+
+<p float="left">
+<img src="plots/2027-10-29-Portugal_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Portugal_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Portugal_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
+</p>
+
+### Fiji V Georgia on 2027-10-29
+
+
+Average Margin: Fiji by 12.0
+
+<p float="left">
+<img src="plots/2027-10-29-Fiji_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Fiji_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Fiji_V_Georgia_club_spreads.png" width="32%" />
+</p>
+
+### Uruguay V Scotland on 2027-10-29
+
+
+Average Margin: Scotland by 7.0
+
+<p float="left">
+<img src="plots/2027-10-29-Uruguay_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Uruguay_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Uruguay_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### Chile V Georgia on 2027-10-29
+
+
+Average Margin: Georgia by 10.0
+
+<p float="left">
+<img src="plots/2027-10-29-Chile_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Chile_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Chile_V_Georgia_club_spreads.png" width="32%" />
+</p>
+
+### Argentina V England on 2027-10-29
+
+
+Average Margin: Argentina by 10.0
+
+<p float="left">
+<img src="plots/2027-10-29-Argentina_V_England_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Argentina_V_England_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Argentina_V_England_club_spreads.png" width="32%" />
+</p>
+
+### Japan V Scotland on 2027-10-29
+
+
+Average Margin: Scotland by 13.0
+
+<p float="left">
+<img src="plots/2027-10-29-Japan_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Japan_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Japan_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### Argentina V Italy on 2027-10-29
+
+
+Average Margin: Italy by 1.5
+
+<p float="left">
+<img src="plots/2027-10-29-Argentina_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Argentina_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Argentina_V_Italy_club_spreads.png" width="32%" />
+</p>
+
+### Italy V Ireland on 2027-10-29
+
+
+Average Margin: Ireland by 5.8
+
+<p float="left">
+<img src="plots/2027-10-29-Italy_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Italy_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Italy_V_Ireland_club_spreads.png" width="32%" />
+</p>
+
+### Australia V Ireland on 2027-10-29
+
+
+Average Margin: Ireland by 12.5
+
+<p float="left">
+<img src="plots/2027-10-29-Australia_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Australia_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Australia_V_Ireland_club_spreads.png" width="32%" />
+</p>
+
+### Argentina V Australia on 2027-10-29
+
+
+Average Margin: Australia by 0.8
+
+<p float="left">
+<img src="plots/2027-10-29-Argentina_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Argentina_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Argentina_V_Australia_club_spreads.png" width="32%" />
+</p>
+
+### United States of America V Scotland on 2027-10-29
+
+
+Average Margin: Scotland by 14.4
+
+<p float="left">
+<img src="plots/2027-10-29-UnitedStatesofAmerica_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-UnitedStatesofAmerica_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-UnitedStatesofAmerica_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### Portugal V Scotland on 2027-10-29
+
+
+Average Margin: Scotland by 18.0
+
+<p float="left">
+<img src="plots/2027-10-29-Portugal_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Portugal_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Portugal_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### Italy V New Zealand on 2027-10-29
+
+
+Average Margin: New Zealand by 4.0
+
+<p float="left">
+<img src="plots/2027-10-29-Italy_V_NewZealand_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Italy_V_NewZealand_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Italy_V_NewZealand_club_spreads.png" width="32%" />
+</p>
+
+### Chile V Ireland on 2027-10-29
+
+
+Average Margin: Ireland by 14.3
+
+<p float="left">
+<img src="plots/2027-10-29-Chile_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Chile_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Chile_V_Ireland_club_spreads.png" width="32%" />
 </p>
 
 ### Argentina V Wales on 2027-10-29
 
 
-Average Margin: Wales by 6.0
+Average Margin: Argentina by 1.0
 
 <p float="left">
 <img src="plots/2027-10-29-Argentina_V_Wales_club_performances.png" width="32%" />
@@ -2938,32 +2839,10 @@ Average Margin: Wales by 6.0
 <img src="plots/2027-10-29-Argentina_V_Wales_club_spreads.png" width="32%" />
 </p>
 
-### Italy V France on 2027-10-29
-
-
-Average Margin: France by 12.0
-
-<p float="left">
-<img src="plots/2027-10-29-Italy_V_France_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Italy_V_France_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Italy_V_France_club_spreads.png" width="32%" />
-</p>
-
-### Argentina V South Africa on 2027-10-29
-
-
-Average Margin: South Africa by 28.0
-
-<p float="left">
-<img src="plots/2027-10-29-Argentina_V_SouthAfrica_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Argentina_V_SouthAfrica_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Argentina_V_SouthAfrica_club_spreads.png" width="32%" />
-</p>
-
 ### Japan V England on 2027-10-29
 
 
-Average Margin: England by 11.2
+Average Margin: England by 7.9
 
 <p float="left">
 <img src="plots/2027-10-29-Japan_V_England_club_performances.png" width="32%" />
@@ -2974,7 +2853,7 @@ Average Margin: England by 11.2
 ### New Zealand V England on 2027-10-29
 
 
-Average Margin: New Zealand by 9.8
+Average Margin: New Zealand by 8.1
 
 <p float="left">
 <img src="plots/2027-10-29-NewZealand_V_England_club_performances.png" width="32%" />
@@ -2982,10 +2861,21 @@ Average Margin: New Zealand by 9.8
 <img src="plots/2027-10-29-NewZealand_V_England_club_spreads.png" width="32%" />
 </p>
 
+### Wales V Japan on 2027-10-29
+
+
+Average Margin: Wales by 5.2
+
+<p float="left">
+<img src="plots/2027-10-29-Wales_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Wales_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Wales_V_Japan_club_spreads.png" width="32%" />
+</p>
+
 ### Fiji V France on 2027-10-29
 
 
-Average Margin: France by 12.4
+Average Margin: France by 13.9
 
 <p float="left">
 <img src="plots/2027-10-29-Fiji_V_France_club_performances.png" width="32%" />
@@ -2996,7 +2886,7 @@ Average Margin: France by 12.4
 ### Wales V France on 2027-10-29
 
 
-Average Margin: France by 7.5
+Average Margin: France by 7.8
 
 <p float="left">
 <img src="plots/2027-10-29-Wales_V_France_club_performances.png" width="32%" />
@@ -3004,120 +2894,10 @@ Average Margin: France by 7.5
 <img src="plots/2027-10-29-Wales_V_France_club_spreads.png" width="32%" />
 </p>
 
-### Fiji V Scotland on 2027-10-29
-
-
-Average Margin: Scotland by 13.9
-
-<p float="left">
-<img src="plots/2027-10-29-Fiji_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Fiji_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Fiji_V_Scotland_club_spreads.png" width="32%" />
-</p>
-
-### Wales V South Africa on 2027-10-29
-
-
-Average Margin: South Africa by 19.0
-
-<p float="left">
-<img src="plots/2027-10-29-Wales_V_SouthAfrica_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Wales_V_SouthAfrica_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Wales_V_SouthAfrica_club_spreads.png" width="32%" />
-</p>
-
-### Spain V South Africa on 2027-10-29
-
-
-Average Margin: South Africa by 22.0
-
-<p float="left">
-<img src="plots/2027-10-29-Spain_V_SouthAfrica_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Spain_V_SouthAfrica_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Spain_V_SouthAfrica_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Wales on 2027-10-29
-
-
-Average Margin: New Zealand by 41.0
-
-<p float="left">
-<img src="plots/2027-10-29-NewZealand_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-NewZealand_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-NewZealand_V_Wales_club_spreads.png" width="32%" />
-</p>
-
-### Tonga V South Africa on 2027-10-29
-
-
-Average Margin: South Africa by 24.0
-
-<p float="left">
-<img src="plots/2027-10-29-Tonga_V_SouthAfrica_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Tonga_V_SouthAfrica_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Tonga_V_SouthAfrica_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Portugal on 2027-10-29
-
-
-Average Margin: New Zealand by 17.0
-
-<p float="left">
-<img src="plots/2027-10-29-NewZealand_V_Portugal_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-NewZealand_V_Portugal_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-NewZealand_V_Portugal_club_spreads.png" width="32%" />
-</p>
-
-### Wales V Scotland on 2027-10-29
-
-
-Average Margin: Scotland by 7.0
-
-<p float="left">
-<img src="plots/2027-10-29-Wales_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Wales_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Wales_V_Scotland_club_spreads.png" width="32%" />
-</p>
-
-### Georgia V South Africa on 2027-10-29
-
-
-Average Margin: South Africa by 20.0
-
-<p float="left">
-<img src="plots/2027-10-29-Georgia_V_SouthAfrica_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Georgia_V_SouthAfrica_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Georgia_V_SouthAfrica_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Italy on 2027-10-29
-
-
-Average Margin: New Zealand by 28.7
-
-<p float="left">
-<img src="plots/2027-10-29-NewZealand_V_Italy_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-NewZealand_V_Italy_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-NewZealand_V_Italy_club_spreads.png" width="32%" />
-</p>
-
-### Australia V Georgia on 2027-10-29
-
-
-Average Margin: Australia by 3.6
-
-<p float="left">
-<img src="plots/2027-10-29-Australia_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Australia_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Australia_V_Georgia_club_spreads.png" width="32%" />
-</p>
-
 ### Australia V Italy on 2027-10-29
 
 
-Average Margin: Australia by 16.8
+Average Margin: Australia by 5.0
 
 <p float="left">
 <img src="plots/2027-10-29-Australia_V_Italy_club_performances.png" width="32%" />
@@ -3125,10 +2905,21 @@ Average Margin: Australia by 16.8
 <img src="plots/2027-10-29-Australia_V_Italy_club_spreads.png" width="32%" />
 </p>
 
+### New Zealand V Uruguay on 2027-10-29
+
+
+Average Margin: New Zealand by 32.0
+
+<p float="left">
+<img src="plots/2027-10-29-NewZealand_V_Uruguay_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-NewZealand_V_Uruguay_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-NewZealand_V_Uruguay_club_spreads.png" width="32%" />
+</p>
+
 ### United States of America V South Africa on 2027-10-29
 
 
-Average Margin: South Africa by 27.0
+Average Margin: South Africa by 7.0
 
 <p float="left">
 <img src="plots/2027-10-29-UnitedStatesofAmerica_V_SouthAfrica_club_performances.png" width="32%" />
@@ -3136,10 +2927,65 @@ Average Margin: South Africa by 27.0
 <img src="plots/2027-10-29-UnitedStatesofAmerica_V_SouthAfrica_club_spreads.png" width="32%" />
 </p>
 
+### Australia V Tonga on 2027-10-29
+
+
+Average Margin: Australia by 10.0
+
+<p float="left">
+<img src="plots/2027-10-29-Australia_V_Tonga_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Australia_V_Tonga_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Australia_V_Tonga_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V Tonga on 2027-10-29
+
+
+Average Margin: New Zealand by 15.0
+
+<p float="left">
+<img src="plots/2027-10-29-NewZealand_V_Tonga_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-NewZealand_V_Tonga_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-NewZealand_V_Tonga_club_spreads.png" width="32%" />
+</p>
+
+### Georgia V South Africa on 2027-10-29
+
+
+Average Margin: South Africa by 1.0
+
+<p float="left">
+<img src="plots/2027-10-29-Georgia_V_SouthAfrica_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Georgia_V_SouthAfrica_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Georgia_V_SouthAfrica_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V France on 2027-10-29
+
+
+Average Margin: France by 5.0
+
+<p float="left">
+<img src="plots/2027-10-29-NewZealand_V_France_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-NewZealand_V_France_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-NewZealand_V_France_club_spreads.png" width="32%" />
+</p>
+
+### Uruguay V South Africa on 2027-10-29
+
+
+Average Margin: South Africa by 42.0
+
+<p float="left">
+<img src="plots/2027-10-29-Uruguay_V_SouthAfrica_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Uruguay_V_SouthAfrica_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Uruguay_V_SouthAfrica_club_spreads.png" width="32%" />
+</p>
+
 ### Portugal V South Africa on 2027-10-29
 
 
-Average Margin: South Africa by 26.0
+Average Margin: South Africa by 21.5
 
 <p float="left">
 <img src="plots/2027-10-29-Portugal_V_SouthAfrica_club_performances.png" width="32%" />
@@ -3147,21 +2993,21 @@ Average Margin: South Africa by 26.0
 <img src="plots/2027-10-29-Portugal_V_SouthAfrica_club_spreads.png" width="32%" />
 </p>
 
-### Italy V South Africa on 2027-10-29
+### Australia V Georgia on 2027-10-29
 
 
-Average Margin: South Africa by 23.0
+Average Margin: Australia by 14.3
 
 <p float="left">
-<img src="plots/2027-10-29-Italy_V_SouthAfrica_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Italy_V_SouthAfrica_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Italy_V_SouthAfrica_club_spreads.png" width="32%" />
+<img src="plots/2027-10-29-Australia_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Australia_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Australia_V_Georgia_club_spreads.png" width="32%" />
 </p>
 
 ### New Zealand V Georgia on 2027-10-29
 
 
-Average Margin: New Zealand by 15.1
+Average Margin: New Zealand by 24.2
 
 <p float="left">
 <img src="plots/2027-10-29-NewZealand_V_Georgia_club_performances.png" width="32%" />
@@ -3169,10 +3015,32 @@ Average Margin: New Zealand by 15.1
 <img src="plots/2027-10-29-NewZealand_V_Georgia_club_spreads.png" width="32%" />
 </p>
 
+### New Zealand V Italy on 2027-10-29
+
+
+Average Margin: New Zealand by 20.0
+
+<p float="left">
+<img src="plots/2027-10-29-NewZealand_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-NewZealand_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-NewZealand_V_Italy_club_spreads.png" width="32%" />
+</p>
+
+### Spain V South Africa on 2027-10-29
+
+
+Average Margin: South Africa by 30.0
+
+<p float="left">
+<img src="plots/2027-10-29-Spain_V_SouthAfrica_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Spain_V_SouthAfrica_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Spain_V_SouthAfrica_club_spreads.png" width="32%" />
+</p>
+
 ### Australia V South Africa on 2027-10-29
 
 
-Average Margin: South Africa by 7.6
+Average Margin: South Africa by 8.2
 
 <p float="left">
 <img src="plots/2027-10-29-Australia_V_SouthAfrica_club_performances.png" width="32%" />
@@ -3180,32 +3048,32 @@ Average Margin: South Africa by 7.6
 <img src="plots/2027-10-29-Australia_V_SouthAfrica_club_spreads.png" width="32%" />
 </p>
 
-### Chile V South Africa on 2027-10-29
+### Wales V Scotland on 2027-10-29
 
 
-Average Margin: South Africa by 38.7
+Average Margin: Scotland by 3.8
 
 <p float="left">
-<img src="plots/2027-10-29-Chile_V_SouthAfrica_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Chile_V_SouthAfrica_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Chile_V_SouthAfrica_club_spreads.png" width="32%" />
+<img src="plots/2027-10-29-Wales_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Wales_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Wales_V_Scotland_club_spreads.png" width="32%" />
 </p>
 
-### Australia V Wales on 2027-10-29
+### Fiji V Scotland on 2027-10-29
 
 
-Average Margin: Australia by 5.3
+Average Margin: Scotland by 9.1
 
 <p float="left">
-<img src="plots/2027-10-29-Australia_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Australia_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Australia_V_Wales_club_spreads.png" width="32%" />
+<img src="plots/2027-10-29-Fiji_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Fiji_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Fiji_V_Scotland_club_spreads.png" width="32%" />
 </p>
 
 ### England V France on 2027-10-29
 
 
-Average Margin: England by 1.6
+Average Margin: France by 2.7
 
 <p float="left">
 <img src="plots/2027-10-29-England_V_France_club_performances.png" width="32%" />
@@ -3213,109 +3081,10 @@ Average Margin: England by 1.6
 <img src="plots/2027-10-29-England_V_France_club_spreads.png" width="32%" />
 </p>
 
-### Wales V Ireland on 2027-10-29
-
-
-Average Margin: Ireland by 4.3
-
-<p float="left">
-<img src="plots/2027-10-29-Wales_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Wales_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Wales_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
-### Australia V England on 2027-10-29
-
-
-Average Margin: England by 0.3
-
-<p float="left">
-<img src="plots/2027-10-29-Australia_V_England_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Australia_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Australia_V_England_club_spreads.png" width="32%" />
-</p>
-
-### Zimbabwe V Scotland on 2027-10-29
-
-
-Average Margin: Scotland by 16.0
-
-<p float="left">
-<img src="plots/2027-10-29-Zimbabwe_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Zimbabwe_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Zimbabwe_V_Scotland_club_spreads.png" width="32%" />
-</p>
-
-### England V Japan on 2027-10-29
-
-
-Average Margin: England by 23.0
-
-<p float="left">
-<img src="plots/2027-10-29-England_V_Japan_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-England_V_Japan_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-England_V_Japan_club_spreads.png" width="32%" />
-</p>
-
-### Fiji V Japan on 2027-10-29
-
-
-Average Margin: Fiji by 5.0
-
-<p float="left">
-<img src="plots/2027-10-29-Fiji_V_Japan_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Fiji_V_Japan_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Fiji_V_Japan_club_spreads.png" width="32%" />
-</p>
-
-### Argentina V Japan on 2027-10-29
-
-
-Average Margin: Argentina by 23.0
-
-<p float="left">
-<img src="plots/2027-10-29-Argentina_V_Japan_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Argentina_V_Japan_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Argentina_V_Japan_club_spreads.png" width="32%" />
-</p>
-
-### Spain V Scotland on 2027-10-29
-
-
-Average Margin: Scotland by 15.6
-
-<p float="left">
-<img src="plots/2027-10-29-Spain_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Spain_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Spain_V_Scotland_club_spreads.png" width="32%" />
-</p>
-
-### Argentina V Scotland on 2027-10-29
-
-
-Average Margin: Scotland by 0.8
-
-<p float="left">
-<img src="plots/2027-10-29-Argentina_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Argentina_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Argentina_V_Scotland_club_spreads.png" width="32%" />
-</p>
-
-### Wales V United States of America on 2027-10-29
-
-
-Average Margin: Wales by 37.0
-
-<p float="left">
-<img src="plots/2027-10-29-Wales_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Wales_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Wales_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
-</p>
-
 ### Argentina V France on 2027-10-29
 
 
-Average Margin: France by 4.2
+Average Margin: France by 6.1
 
 <p float="left">
 <img src="plots/2027-10-29-Argentina_V_France_club_performances.png" width="32%" />
@@ -3323,21 +3092,21 @@ Average Margin: France by 4.2
 <img src="plots/2027-10-29-Argentina_V_France_club_spreads.png" width="32%" />
 </p>
 
-### Tonga V France on 2027-10-29
+### Australia V England on 2027-10-29
 
 
-Average Margin: France by 23.0
+Average Margin: England by 1.8
 
 <p float="left">
-<img src="plots/2027-10-29-Tonga_V_France_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Tonga_V_France_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Tonga_V_France_club_spreads.png" width="32%" />
+<img src="plots/2027-10-29-Australia_V_England_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Australia_V_England_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Australia_V_England_club_spreads.png" width="32%" />
 </p>
 
 ### Zimbabwe V France on 2027-10-29
 
 
-Average Margin: France by 36.0
+Average Margin: France by 33.0
 
 <p float="left">
 <img src="plots/2027-10-29-Zimbabwe_V_France_club_performances.png" width="32%" />
@@ -3345,76 +3114,21 @@ Average Margin: France by 36.0
 <img src="plots/2027-10-29-Zimbabwe_V_France_club_spreads.png" width="32%" />
 </p>
 
-### England V Scotland on 2027-10-29
+### Tonga V Scotland on 2027-10-29
 
 
-Average Margin: Scotland by 2.2
-
-<p float="left">
-<img src="plots/2027-10-29-England_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-England_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-England_V_Scotland_club_spreads.png" width="32%" />
-</p>
-
-### Argentina V Ireland on 2027-10-29
-
-
-Average Margin: Argentina by 0.1
+Average Margin: Scotland by 15.0
 
 <p float="left">
-<img src="plots/2027-10-29-Argentina_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Argentina_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Argentina_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
-### Spain V France on 2027-10-29
-
-
-Average Margin: France by 16.9
-
-<p float="left">
-<img src="plots/2027-10-29-Spain_V_France_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Spain_V_France_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Spain_V_France_club_spreads.png" width="32%" />
-</p>
-
-### Wales V Japan on 2027-10-29
-
-
-Average Margin: Wales by 5.0
-
-<p float="left">
-<img src="plots/2027-10-29-Wales_V_Japan_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Wales_V_Japan_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Wales_V_Japan_club_spreads.png" width="32%" />
-</p>
-
-### Fiji V Ireland on 2027-10-29
-
-
-Average Margin: Ireland by 6.8
-
-<p float="left">
-<img src="plots/2027-10-29-Fiji_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Fiji_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Fiji_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
-### Canada V France on 2027-10-29
-
-
-Average Margin: France by 20.5
-
-<p float="left">
-<img src="plots/2027-10-29-Canada_V_France_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Canada_V_France_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Canada_V_France_club_spreads.png" width="32%" />
+<img src="plots/2027-10-29-Tonga_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Tonga_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Tonga_V_Scotland_club_spreads.png" width="32%" />
 </p>
 
 ### England V Ireland on 2027-10-29
 
 
-Average Margin: England by 10.2
+Average Margin: England by 4.0
 
 <p float="left">
 <img src="plots/2027-10-29-England_V_Ireland_club_performances.png" width="32%" />
@@ -3422,10 +3136,21 @@ Average Margin: England by 10.2
 <img src="plots/2027-10-29-England_V_Ireland_club_spreads.png" width="32%" />
 </p>
 
+### Zimbabwe V Ireland on 2027-10-29
+
+
+Average Margin: Ireland by 15.0
+
+<p float="left">
+<img src="plots/2027-10-29-Zimbabwe_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Zimbabwe_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Zimbabwe_V_Ireland_club_spreads.png" width="32%" />
+</p>
+
 ### Spain V Ireland on 2027-10-29
 
 
-Average Margin: Ireland by 17.5
+Average Margin: Ireland by 9.7
 
 <p float="left">
 <img src="plots/2027-10-29-Spain_V_Ireland_club_performances.png" width="32%" />
@@ -3433,133 +3158,177 @@ Average Margin: Ireland by 17.5
 <img src="plots/2027-10-29-Spain_V_Ireland_club_spreads.png" width="32%" />
 </p>
 
-### Chile V Scotland on 2027-10-29
+### Argentina V Scotland on 2027-10-29
 
 
-Average Margin: Scotland by 22.0
+Average Margin: Scotland by 5.4
 
 <p float="left">
-<img src="plots/2027-10-29-Chile_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-10-29-Chile_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-10-29-Chile_V_Scotland_club_spreads.png" width="32%" />
+<img src="plots/2027-10-29-Argentina_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Argentina_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Argentina_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### Argentina V Ireland on 2027-10-29
+
+
+Average Margin: Argentina by 0.3
+
+<p float="left">
+<img src="plots/2027-10-29-Argentina_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Argentina_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Argentina_V_Ireland_club_spreads.png" width="32%" />
+</p>
+
+### France V England on 2027-10-29
+
+
+Average Margin: France by 3.2
+
+<p float="left">
+<img src="plots/2027-10-29-France_V_England_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-France_V_England_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-France_V_England_club_spreads.png" width="32%" />
+</p>
+
+### England V Japan on 2027-10-29
+
+
+Average Margin: England by 27.0
+
+<p float="left">
+<img src="plots/2027-10-29-England_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-England_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-England_V_Japan_club_spreads.png" width="32%" />
+</p>
+
+### Canada V France on 2027-10-29
+
+
+Average Margin: France by 32.5
+
+<p float="left">
+<img src="plots/2027-10-29-Canada_V_France_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Canada_V_France_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Canada_V_France_club_spreads.png" width="32%" />
+</p>
+
+### Tonga V Ireland on 2027-10-29
+
+
+Average Margin: Ireland by 21.0
+
+<p float="left">
+<img src="plots/2027-10-29-Tonga_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Tonga_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Tonga_V_Ireland_club_spreads.png" width="32%" />
+</p>
+
+### Fiji V Ireland on 2027-10-29
+
+
+Average Margin: Ireland by 8.0
+
+<p float="left">
+<img src="plots/2027-10-29-Fiji_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Fiji_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Fiji_V_Ireland_club_spreads.png" width="32%" />
+</p>
+
+### Tonga V France on 2027-10-29
+
+
+Average Margin: France by 18.7
+
+<p float="left">
+<img src="plots/2027-10-29-Tonga_V_France_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Tonga_V_France_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Tonga_V_France_club_spreads.png" width="32%" />
+</p>
+
+### England V Scotland on 2027-10-29
+
+
+Average Margin: Scotland by 0.7
+
+<p float="left">
+<img src="plots/2027-10-29-England_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-England_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-England_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### Wales V Ireland on 2027-10-29
+
+
+Average Margin: Ireland by 3.2
+
+<p float="left">
+<img src="plots/2027-10-29-Wales_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Wales_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Wales_V_Ireland_club_spreads.png" width="32%" />
+</p>
+
+### Spain V France on 2027-10-29
+
+
+Average Margin: France by 17.9
+
+<p float="left">
+<img src="plots/2027-10-29-Spain_V_France_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Spain_V_France_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Spain_V_France_club_spreads.png" width="32%" />
+</p>
+
+### Spain V Scotland on 2027-10-29
+
+
+Average Margin: Scotland by 11.9
+
+<p float="left">
+<img src="plots/2027-10-29-Spain_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Spain_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Spain_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### Fiji V Japan on 2027-10-29
+
+
+Average Margin: Japan by 1.7
+
+<p float="left">
+<img src="plots/2027-10-29-Fiji_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Fiji_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Fiji_V_Japan_club_spreads.png" width="32%" />
+</p>
+
+### Wales V Georgia on 2027-10-29
+
+
+Average Margin: Georgia by 11.0
+
+<p float="left">
+<img src="plots/2027-10-29-Wales_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-10-29-Wales_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-10-29-Wales_V_Georgia_club_spreads.png" width="32%" />
 </p>
 
 ## Week 6
 
-### New Zealand V Scotland on 2027-11-05
+### New Zealand V France on 2027-11-05
 
 
-Average Margin: New Zealand by 13.3
-
-<p float="left">
-<img src="plots/2027-11-05-NewZealand_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-NewZealand_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-NewZealand_V_Scotland_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Portugal on 2027-11-05
-
-
-Average Margin: New Zealand by 25.0
+Average Margin: New Zealand by 9.9
 
 <p float="left">
-<img src="plots/2027-11-05-NewZealand_V_Portugal_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-NewZealand_V_Portugal_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-NewZealand_V_Portugal_club_spreads.png" width="32%" />
-</p>
-
-### Wales V Scotland on 2027-11-05
-
-
-Average Margin: Wales by 3.6
-
-<p float="left">
-<img src="plots/2027-11-05-Wales_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Wales_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Wales_V_Scotland_club_spreads.png" width="32%" />
-</p>
-
-### England V Georgia on 2027-11-05
-
-
-Average Margin: England by 14.8
-
-<p float="left">
-<img src="plots/2027-11-05-England_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-England_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-England_V_Georgia_club_spreads.png" width="32%" />
-</p>
-
-### Australia V Georgia on 2027-11-05
-
-
-Average Margin: Australia by 11.6
-
-<p float="left">
-<img src="plots/2027-11-05-Australia_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_Georgia_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Georgia on 2027-11-05
-
-
-Average Margin: New Zealand by 22.3
-
-<p float="left">
-<img src="plots/2027-11-05-NewZealand_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-NewZealand_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-NewZealand_V_Georgia_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V United States of America on 2027-11-05
-
-
-Average Margin: New Zealand by 25.0
-
-<p float="left">
-<img src="plots/2027-11-05-NewZealand_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-NewZealand_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-NewZealand_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
-</p>
-
-### England V Australia on 2027-11-05
-
-
-Average Margin: England by 18.0
-
-<p float="left">
-<img src="plots/2027-11-05-England_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-England_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-England_V_Australia_club_spreads.png" width="32%" />
-</p>
-
-### Wales V Ireland on 2027-11-05
-
-
-Average Margin: Ireland by 4.5
-
-<p float="left">
-<img src="plots/2027-11-05-Wales_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Wales_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Wales_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
-### Italy V Ireland on 2027-11-05
-
-
-Average Margin: Ireland by 3.0
-
-<p float="left">
-<img src="plots/2027-11-05-Italy_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Italy_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Italy_V_Ireland_club_spreads.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_France_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_France_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_France_club_spreads.png" width="32%" />
 </p>
 
 ### France V Ireland on 2027-11-05
 
 
-Average Margin: France by 10.0
+Average Margin: Ireland by 3.7
 
 <p float="left">
 <img src="plots/2027-11-05-France_V_Ireland_club_performances.png" width="32%" />
@@ -3567,219 +3336,10 @@ Average Margin: France by 10.0
 <img src="plots/2027-11-05-France_V_Ireland_club_spreads.png" width="32%" />
 </p>
 
-### Japan V Argentina on 2027-11-05
-
-
-Average Margin: Japan by 2.8
-
-<p float="left">
-<img src="plots/2027-11-05-Japan_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Japan_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Japan_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
-### Japan V Fiji on 2027-11-05
-
-
-Average Margin: Japan by 4.0
-
-<p float="left">
-<img src="plots/2027-11-05-Japan_V_Fiji_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Japan_V_Fiji_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Japan_V_Fiji_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Italy on 2027-11-05
-
-
-Average Margin: New Zealand by 18.0
-
-<p float="left">
-<img src="plots/2027-11-05-NewZealand_V_Italy_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-NewZealand_V_Italy_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-NewZealand_V_Italy_club_spreads.png" width="32%" />
-</p>
-
-### Georgia V Argentina on 2027-11-05
-
-
-Average Margin: Georgia by 3.8
-
-<p float="left">
-<img src="plots/2027-11-05-Georgia_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Georgia_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Georgia_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
-### Australia V United States of America on 2027-11-05
-
-
-Average Margin: United States of America by 6.0
-
-<p float="left">
-<img src="plots/2027-11-05-Australia_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
-</p>
-
-### Australia V Italy on 2027-11-05
-
-
-Average Margin: Australia by 34.0
-
-<p float="left">
-<img src="plots/2027-11-05-Australia_V_Italy_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_Italy_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_Italy_club_spreads.png" width="32%" />
-</p>
-
-### Italy V Scotland on 2027-11-05
-
-
-Average Margin: Scotland by 19.0
-
-<p float="left">
-<img src="plots/2027-11-05-Italy_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Italy_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Italy_V_Scotland_club_spreads.png" width="32%" />
-</p>
-
-### Georgia V Ireland on 2027-11-05
-
-
-Average Margin: Ireland by 0.0
-
-<p float="left">
-<img src="plots/2027-11-05-Georgia_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Georgia_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Georgia_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
-### France V Argentina on 2027-11-05
-
-
-Average Margin: France by 6.0
-
-<p float="left">
-<img src="plots/2027-11-05-France_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-France_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-France_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
-### England V Portugal on 2027-11-05
-
-
-Average Margin: England by 16.5
-
-<p float="left">
-<img src="plots/2027-11-05-England_V_Portugal_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-England_V_Portugal_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-England_V_Portugal_club_spreads.png" width="32%" />
-</p>
-
-### United States of America V Ireland on 2027-11-05
-
-
-Average Margin: United States of America by 9.0
-
-<p float="left">
-<img src="plots/2027-11-05-UnitedStatesofAmerica_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-UnitedStatesofAmerica_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-UnitedStatesofAmerica_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
-### Australia V Portugal on 2027-11-05
-
-
-Average Margin: Australia by 11.0
-
-<p float="left">
-<img src="plots/2027-11-05-Australia_V_Portugal_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_Portugal_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_Portugal_club_spreads.png" width="32%" />
-</p>
-
-### Wales V Argentina on 2027-11-05
-
-
-Average Margin: Wales by 2.0
-
-<p float="left">
-<img src="plots/2027-11-05-Wales_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Wales_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Wales_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
-### Japan V Georgia on 2027-11-05
-
-
-Average Margin: Georgia by 15.0
-
-<p float="left">
-<img src="plots/2027-11-05-Japan_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Japan_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Japan_V_Georgia_club_spreads.png" width="32%" />
-</p>
-
-### England V United States of America on 2027-11-05
-
-
-Average Margin: England by 8.0
-
-<p float="left">
-<img src="plots/2027-11-05-England_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-England_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-England_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
-</p>
-
-### England V South Africa on 2027-11-05
-
-
-Average Margin: South Africa by 6.0
-
-<p float="left">
-<img src="plots/2027-11-05-England_V_SouthAfrica_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-England_V_SouthAfrica_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-England_V_SouthAfrica_club_spreads.png" width="32%" />
-</p>
-
-### Japan V Scotland on 2027-11-05
-
-
-Average Margin: Scotland by 18.5
-
-<p float="left">
-<img src="plots/2027-11-05-Japan_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Japan_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Japan_V_Scotland_club_spreads.png" width="32%" />
-</p>
-
-### Italy V Fiji on 2027-11-05
-
-
-Average Margin: Italy by 7.0
-
-<p float="left">
-<img src="plots/2027-11-05-Italy_V_Fiji_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Italy_V_Fiji_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Italy_V_Fiji_club_spreads.png" width="32%" />
-</p>
-
-### England V Japan on 2027-11-05
-
-
-Average Margin: England by 19.0
-
-<p float="left">
-<img src="plots/2027-11-05-England_V_Japan_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-England_V_Japan_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-England_V_Japan_club_spreads.png" width="32%" />
-</p>
-
 ### England V Italy on 2027-11-05
 
 
-Average Margin: England by 23.2
+Average Margin: England by 12.6
 
 <p float="left">
 <img src="plots/2027-11-05-England_V_Italy_club_performances.png" width="32%" />
@@ -3790,7 +3350,7 @@ Average Margin: England by 23.2
 ### Japan V Ireland on 2027-11-05
 
 
-Average Margin: Ireland by 8.2
+Average Margin: Ireland by 3.9
 
 <p float="left">
 <img src="plots/2027-11-05-Japan_V_Ireland_club_performances.png" width="32%" />
@@ -3798,43 +3358,351 @@ Average Margin: Ireland by 8.2
 <img src="plots/2027-11-05-Japan_V_Ireland_club_spreads.png" width="32%" />
 </p>
 
-### England V Scotland on 2027-11-05
+### New Zealand V United States of America on 2027-11-05
 
 
-Average Margin: England by 6.9
+Average Margin: New Zealand by 38.0
 
 <p float="left">
-<img src="plots/2027-11-05-England_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-England_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-England_V_Scotland_club_spreads.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
 </p>
 
-### England V Ireland on 2027-11-05
+### Japan V Argentina on 2027-11-05
 
 
-Average Margin: England by 5.4
+Average Margin: Japan by 6.9
 
 <p float="left">
-<img src="plots/2027-11-05-England_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-England_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-England_V_Ireland_club_spreads.png" width="32%" />
+<img src="plots/2027-11-05-Japan_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Japan_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Japan_V_Argentina_club_spreads.png" width="32%" />
 </p>
 
-### New Zealand V France on 2027-11-05
+### England V Japan on 2027-11-05
 
 
-Average Margin: New Zealand by 9.4
+Average Margin: England by 16.0
 
 <p float="left">
-<img src="plots/2027-11-05-NewZealand_V_France_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-NewZealand_V_France_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-NewZealand_V_France_club_spreads.png" width="32%" />
+<img src="plots/2027-11-05-England_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-England_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-England_V_Japan_club_spreads.png" width="32%" />
+</p>
+
+### France V Scotland on 2027-11-05
+
+
+Average Margin: France by 5.5
+
+<p float="left">
+<img src="plots/2027-11-05-France_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-France_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-France_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### England V New Zealand on 2027-11-05
+
+
+Average Margin: England by 5.0
+
+<p float="left">
+<img src="plots/2027-11-05-England_V_NewZealand_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-England_V_NewZealand_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-England_V_NewZealand_club_spreads.png" width="32%" />
+</p>
+
+### Wales V Ireland on 2027-11-05
+
+
+Average Margin: Wales by 1.7
+
+<p float="left">
+<img src="plots/2027-11-05-Wales_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Wales_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Wales_V_Ireland_club_spreads.png" width="32%" />
+</p>
+
+### Australia V Georgia on 2027-11-05
+
+
+Average Margin: Australia by 0.6
+
+<p float="left">
+<img src="plots/2027-11-05-Australia_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Australia_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Australia_V_Georgia_club_spreads.png" width="32%" />
+</p>
+
+### Wales V Scotland on 2027-11-05
+
+
+Average Margin: Scotland by 0.3
+
+<p float="left">
+<img src="plots/2027-11-05-Wales_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Wales_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Wales_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### Italy V Ireland on 2027-11-05
+
+
+Average Margin: Ireland by 3.8
+
+<p float="left">
+<img src="plots/2027-11-05-Italy_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Italy_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Italy_V_Ireland_club_spreads.png" width="32%" />
+</p>
+
+### Australia V Japan on 2027-11-05
+
+
+Average Margin: Australia by 15.5
+
+<p float="left">
+<img src="plots/2027-11-05-Australia_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Australia_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Australia_V_Japan_club_spreads.png" width="32%" />
+</p>
+
+### Italy V Argentina on 2027-11-05
+
+
+Average Margin: Argentina by 3.0
+
+<p float="left">
+<img src="plots/2027-11-05-Italy_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Italy_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Italy_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
+### Georgia V Scotland on 2027-11-05
+
+
+Average Margin: Scotland by 0.0
+
+<p float="left">
+<img src="plots/2027-11-05-Georgia_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Georgia_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Georgia_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### England V Chile on 2027-11-05
+
+
+Average Margin: England by 16.0
+
+<p float="left">
+<img src="plots/2027-11-05-England_V_Chile_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-England_V_Chile_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-England_V_Chile_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V Georgia on 2027-11-05
+
+
+Average Margin: New Zealand by 16.7
+
+<p float="left">
+<img src="plots/2027-11-05-NewZealand_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_Georgia_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V Italy on 2027-11-05
+
+
+Average Margin: New Zealand by 33.0
+
+<p float="left">
+<img src="plots/2027-11-05-NewZealand_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_Italy_club_spreads.png" width="32%" />
+</p>
+
+### Japan V Scotland on 2027-11-05
+
+
+Average Margin: Scotland by 0.0
+
+<p float="left">
+<img src="plots/2027-11-05-Japan_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Japan_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Japan_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### England V Australia on 2027-11-05
+
+
+Average Margin: England by 4.5
+
+<p float="left">
+<img src="plots/2027-11-05-England_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-England_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-England_V_Australia_club_spreads.png" width="32%" />
+</p>
+
+### England V Portugal on 2027-11-05
+
+
+Average Margin: England by 25.0
+
+<p float="left">
+<img src="plots/2027-11-05-England_V_Portugal_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-England_V_Portugal_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-England_V_Portugal_club_spreads.png" width="32%" />
+</p>
+
+### Georgia V Ireland on 2027-11-05
+
+
+Average Margin: Georgia by 5.0
+
+<p float="left">
+<img src="plots/2027-11-05-Georgia_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Georgia_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Georgia_V_Ireland_club_spreads.png" width="32%" />
+</p>
+
+### Japan V Georgia on 2027-11-05
+
+
+Average Margin: Japan by 20.0
+
+<p float="left">
+<img src="plots/2027-11-05-Japan_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Japan_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Japan_V_Georgia_club_spreads.png" width="32%" />
+</p>
+
+### England V Wales on 2027-11-05
+
+
+Average Margin: England by 23.0
+
+<p float="left">
+<img src="plots/2027-11-05-England_V_Wales_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-England_V_Wales_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-England_V_Wales_club_spreads.png" width="32%" />
+</p>
+
+### Wales V Italy on 2027-11-05
+
+
+Average Margin: Wales by 17.0
+
+<p float="left">
+<img src="plots/2027-11-05-Wales_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Wales_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Wales_V_Italy_club_spreads.png" width="32%" />
+</p>
+
+### Wales V Argentina on 2027-11-05
+
+
+Average Margin: Argentina by 8.0
+
+<p float="left">
+<img src="plots/2027-11-05-Wales_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Wales_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Wales_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
+### Italy V Scotland on 2027-11-05
+
+
+Average Margin: Scotland by 6.5
+
+<p float="left">
+<img src="plots/2027-11-05-Italy_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Italy_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Italy_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### Australia V Spain on 2027-11-05
+
+
+Average Margin: Spain by 0.0
+
+<p float="left">
+<img src="plots/2027-11-05-Australia_V_Spain_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Australia_V_Spain_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Australia_V_Spain_club_spreads.png" width="32%" />
+</p>
+
+### France V Georgia on 2027-11-05
+
+
+Average Margin: Georgia by 3.0
+
+<p float="left">
+<img src="plots/2027-11-05-France_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-France_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-France_V_Georgia_club_spreads.png" width="32%" />
+</p>
+
+### Chile V Argentina on 2027-11-05
+
+
+Average Margin: Argentina by 4.0
+
+<p float="left">
+<img src="plots/2027-11-05-Chile_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Chile_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Chile_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
+### United States of America V Scotland on 2027-11-05
+
+
+Average Margin: United States of America by 5.0
+
+<p float="left">
+<img src="plots/2027-11-05-UnitedStatesofAmerica_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-UnitedStatesofAmerica_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-UnitedStatesofAmerica_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### Australia V Italy on 2027-11-05
+
+
+Average Margin: Australia by 5.0
+
+<p float="left">
+<img src="plots/2027-11-05-Australia_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Australia_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Australia_V_Italy_club_spreads.png" width="32%" />
+</p>
+
+### England V Georgia on 2027-11-05
+
+
+Average Margin: England by 18.6
+
+<p float="left">
+<img src="plots/2027-11-05-England_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-England_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-England_V_Georgia_club_spreads.png" width="32%" />
+</p>
+
+### England V Fiji on 2027-11-05
+
+
+Average Margin: England by 16.9
+
+<p float="left">
+<img src="plots/2027-11-05-England_V_Fiji_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-England_V_Fiji_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-England_V_Fiji_club_spreads.png" width="32%" />
 </p>
 
 ### South Africa V France on 2027-11-05
 
 
-Average Margin: South Africa by 10.6
+Average Margin: South Africa by 10.5
 
 <p float="left">
 <img src="plots/2027-11-05-SouthAfrica_V_France_club_performances.png" width="32%" />
@@ -3842,32 +3710,32 @@ Average Margin: South Africa by 10.6
 <img src="plots/2027-11-05-SouthAfrica_V_France_club_spreads.png" width="32%" />
 </p>
 
-### South Africa V Scotland on 2027-11-05
+### New Zealand V Japan on 2027-11-05
 
 
-Average Margin: South Africa by 13.2
+Average Margin: New Zealand by 30.0
 
 <p float="left">
-<img src="plots/2027-11-05-SouthAfrica_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-SouthAfrica_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-SouthAfrica_V_Scotland_club_spreads.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_Japan_club_spreads.png" width="32%" />
 </p>
 
-### Australia V France on 2027-11-05
+### New Zealand V Scotland on 2027-11-05
 
 
-Average Margin: Australia by 1.4
+Average Margin: New Zealand by 10.9
 
 <p float="left">
-<img src="plots/2027-11-05-Australia_V_France_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_France_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_France_club_spreads.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_Scotland_club_spreads.png" width="32%" />
 </p>
 
 ### New Zealand V Wales on 2027-11-05
 
 
-Average Margin: New Zealand by 18.0
+Average Margin: New Zealand by 18.2
 
 <p float="left">
 <img src="plots/2027-11-05-NewZealand_V_Wales_club_performances.png" width="32%" />
@@ -3875,54 +3743,21 @@ Average Margin: New Zealand by 18.0
 <img src="plots/2027-11-05-NewZealand_V_Wales_club_spreads.png" width="32%" />
 </p>
 
-### South Africa V England on 2027-11-05
+### South Africa V Scotland on 2027-11-05
 
 
-Average Margin: South Africa by 16.6
-
-<p float="left">
-<img src="plots/2027-11-05-SouthAfrica_V_England_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-SouthAfrica_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-SouthAfrica_V_England_club_spreads.png" width="32%" />
-</p>
-
-### South Africa V Wales on 2027-11-05
-
-
-Average Margin: South Africa by 19.9
+Average Margin: South Africa by 14.3
 
 <p float="left">
-<img src="plots/2027-11-05-SouthAfrica_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-SouthAfrica_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-SouthAfrica_V_Wales_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Argentina on 2027-11-05
-
-
-Average Margin: New Zealand by 20.5
-
-<p float="left">
-<img src="plots/2027-11-05-NewZealand_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-NewZealand_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-NewZealand_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V England on 2027-11-05
-
-
-Average Margin: New Zealand by 15.2
-
-<p float="left">
-<img src="plots/2027-11-05-NewZealand_V_England_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-NewZealand_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-NewZealand_V_England_club_spreads.png" width="32%" />
+<img src="plots/2027-11-05-SouthAfrica_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-SouthAfrica_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-SouthAfrica_V_Scotland_club_spreads.png" width="32%" />
 </p>
 
 ### South Africa V Fiji on 2027-11-05
 
 
-Average Margin: South Africa by 28.6
+Average Margin: South Africa by 24.4
 
 <p float="left">
 <img src="plots/2027-11-05-SouthAfrica_V_Fiji_club_performances.png" width="32%" />
@@ -3930,10 +3765,21 @@ Average Margin: South Africa by 28.6
 <img src="plots/2027-11-05-SouthAfrica_V_Fiji_club_spreads.png" width="32%" />
 </p>
 
+### South Africa V Wales on 2027-11-05
+
+
+Average Margin: South Africa by 18.9
+
+<p float="left">
+<img src="plots/2027-11-05-SouthAfrica_V_Wales_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-SouthAfrica_V_Wales_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-SouthAfrica_V_Wales_club_spreads.png" width="32%" />
+</p>
+
 ### New Zealand V Fiji on 2027-11-05
 
 
-Average Margin: New Zealand by 23.1
+Average Margin: New Zealand by 22.1
 
 <p float="left">
 <img src="plots/2027-11-05-NewZealand_V_Fiji_club_performances.png" width="32%" />
@@ -3944,7 +3790,7 @@ Average Margin: New Zealand by 23.1
 ### New Zealand V Ireland on 2027-11-05
 
 
-Average Margin: New Zealand by 13.0
+Average Margin: New Zealand by 10.9
 
 <p float="left">
 <img src="plots/2027-11-05-NewZealand_V_Ireland_club_performances.png" width="32%" />
@@ -3952,54 +3798,32 @@ Average Margin: New Zealand by 13.0
 <img src="plots/2027-11-05-NewZealand_V_Ireland_club_spreads.png" width="32%" />
 </p>
 
-### South Africa V Argentina on 2027-11-05
+### South Africa V England on 2027-11-05
 
 
-Average Margin: South Africa by 24.4
+Average Margin: South Africa by 13.4
 
 <p float="left">
-<img src="plots/2027-11-05-SouthAfrica_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-SouthAfrica_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-SouthAfrica_V_Argentina_club_spreads.png" width="32%" />
+<img src="plots/2027-11-05-SouthAfrica_V_England_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-SouthAfrica_V_England_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-SouthAfrica_V_England_club_spreads.png" width="32%" />
 </p>
 
-### Georgia V France on 2027-11-05
+### Australia V France on 2027-11-05
 
 
-Average Margin: Georgia by 12.0
-
-<p float="left">
-<img src="plots/2027-11-05-Georgia_V_France_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Georgia_V_France_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Georgia_V_France_club_spreads.png" width="32%" />
-</p>
-
-### Wales V Fiji on 2027-11-05
-
-
-Average Margin: Wales by 21.0
+Average Margin: Australia by 0.1
 
 <p float="left">
-<img src="plots/2027-11-05-Wales_V_Fiji_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Wales_V_Fiji_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Wales_V_Fiji_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Japan on 2027-11-05
-
-
-Average Margin: New Zealand by 13.0
-
-<p float="left">
-<img src="plots/2027-11-05-NewZealand_V_Japan_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-NewZealand_V_Japan_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-NewZealand_V_Japan_club_spreads.png" width="32%" />
+<img src="plots/2027-11-05-Australia_V_France_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Australia_V_France_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Australia_V_France_club_spreads.png" width="32%" />
 </p>
 
 ### South Africa V Ireland on 2027-11-05
 
 
-Average Margin: South Africa by 12.3
+Average Margin: South Africa by 13.9
 
 <p float="left">
 <img src="plots/2027-11-05-SouthAfrica_V_Ireland_club_performances.png" width="32%" />
@@ -4007,21 +3831,10 @@ Average Margin: South Africa by 12.3
 <img src="plots/2027-11-05-SouthAfrica_V_Ireland_club_spreads.png" width="32%" />
 </p>
 
-### Australia V Scotland on 2027-11-05
-
-
-Average Margin: Australia by 3.7
-
-<p float="left">
-<img src="plots/2027-11-05-Australia_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_Scotland_club_spreads.png" width="32%" />
-</p>
-
 ### New Zealand V Spain on 2027-11-05
 
 
-Average Margin: New Zealand by 28.0
+Average Margin: New Zealand by 11.3
 
 <p float="left">
 <img src="plots/2027-11-05-NewZealand_V_Spain_club_performances.png" width="32%" />
@@ -4029,76 +3842,10 @@ Average Margin: New Zealand by 28.0
 <img src="plots/2027-11-05-NewZealand_V_Spain_club_spreads.png" width="32%" />
 </p>
 
-### Georgia V Wales on 2027-11-05
-
-
-Average Margin: Georgia by 20.0
-
-<p float="left">
-<img src="plots/2027-11-05-Georgia_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Georgia_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Georgia_V_Wales_club_spreads.png" width="32%" />
-</p>
-
-### Australia V England on 2027-11-05
-
-
-Average Margin: Australia by 19.0
-
-<p float="left">
-<img src="plots/2027-11-05-Australia_V_England_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_England_club_spreads.png" width="32%" />
-</p>
-
-### Australia V Spain on 2027-11-05
-
-
-Average Margin: Australia by 24.0
-
-<p float="left">
-<img src="plots/2027-11-05-Australia_V_Spain_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_Spain_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_Spain_club_spreads.png" width="32%" />
-</p>
-
-### Australia V Fiji on 2027-11-05
-
-
-Average Margin: Australia by 13.7
-
-<p float="left">
-<img src="plots/2027-11-05-Australia_V_Fiji_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_Fiji_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_Fiji_club_spreads.png" width="32%" />
-</p>
-
-### Australia V Wales on 2027-11-05
-
-
-Average Margin: Australia by 8.3
-
-<p float="left">
-<img src="plots/2027-11-05-Australia_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_Wales_club_spreads.png" width="32%" />
-</p>
-
-### Georgia V Fiji on 2027-11-05
-
-
-Average Margin: Georgia by 11.0
-
-<p float="left">
-<img src="plots/2027-11-05-Georgia_V_Fiji_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Georgia_V_Fiji_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Georgia_V_Fiji_club_spreads.png" width="32%" />
-</p>
-
 ### South Africa V Japan on 2027-11-05
 
 
-Average Margin: Japan by 1.0
+Average Margin: South Africa by 23.0
 
 <p float="left">
 <img src="plots/2027-11-05-SouthAfrica_V_Japan_club_performances.png" width="32%" />
@@ -4106,10 +3853,21 @@ Average Margin: Japan by 1.0
 <img src="plots/2027-11-05-SouthAfrica_V_Japan_club_spreads.png" width="32%" />
 </p>
 
+### Georgia V Argentina on 2027-11-05
+
+
+Average Margin: Georgia by 13.3
+
+<p float="left">
+<img src="plots/2027-11-05-Georgia_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Georgia_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Georgia_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
 ### South Africa V Spain on 2027-11-05
 
 
-Average Margin: South Africa by 21.5
+Average Margin: South Africa by 23.0
 
 <p float="left">
 <img src="plots/2027-11-05-SouthAfrica_V_Spain_club_performances.png" width="32%" />
@@ -4117,43 +3875,32 @@ Average Margin: South Africa by 21.5
 <img src="plots/2027-11-05-SouthAfrica_V_Spain_club_spreads.png" width="32%" />
 </p>
 
-### Australia V Argentina on 2027-11-05
+### New Zealand V England on 2027-11-05
 
 
-Average Margin: Argentina by 11.0
+Average Margin: New Zealand by 15.3
 
 <p float="left">
-<img src="plots/2027-11-05-Australia_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Australia_V_Argentina_club_spreads.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_England_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_England_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_England_club_spreads.png" width="32%" />
 </p>
 
-### England V Argentina on 2027-11-05
+### New Zealand V Argentina on 2027-11-05
 
 
-Average Margin: England by 11.5
-
-<p float="left">
-<img src="plots/2027-11-05-England_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-England_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-England_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
-### England V Fiji on 2027-11-05
-
-
-Average Margin: England by 18.0
+Average Margin: New Zealand by 17.7
 
 <p float="left">
-<img src="plots/2027-11-05-England_V_Fiji_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-England_V_Fiji_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-England_V_Fiji_club_spreads.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-NewZealand_V_Argentina_club_spreads.png" width="32%" />
 </p>
 
 ### Australia V Ireland on 2027-11-05
 
 
-Average Margin: Ireland by 2.0
+Average Margin: Australia by 5.3
 
 <p float="left">
 <img src="plots/2027-11-05-Australia_V_Ireland_club_performances.png" width="32%" />
@@ -4161,144 +3908,166 @@ Average Margin: Ireland by 2.0
 <img src="plots/2027-11-05-Australia_V_Ireland_club_spreads.png" width="32%" />
 </p>
 
-### Wales V Georgia on 2027-11-05
+### France V Wales on 2027-11-05
 
 
-Average Margin: Wales by 8.0
+Average Margin: France by 18.0
 
 <p float="left">
-<img src="plots/2027-11-05-Wales_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-11-05-Wales_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-05-Wales_V_Georgia_club_spreads.png" width="32%" />
+<img src="plots/2027-11-05-France_V_Wales_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-France_V_Wales_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-France_V_Wales_club_spreads.png" width="32%" />
+</p>
+
+### South Africa V Argentina on 2027-11-05
+
+
+Average Margin: South Africa by 14.0
+
+<p float="left">
+<img src="plots/2027-11-05-SouthAfrica_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-SouthAfrica_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-SouthAfrica_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
+### Australia V Scotland on 2027-11-05
+
+
+Average Margin: Australia by 3.5
+
+<p float="left">
+<img src="plots/2027-11-05-Australia_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Australia_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Australia_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### Australia V Argentina on 2027-11-05
+
+
+Average Margin: Australia by 8.3
+
+<p float="left">
+<img src="plots/2027-11-05-Australia_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Australia_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Australia_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
+### Australia V England on 2027-11-05
+
+
+Average Margin: Australia by 16.0
+
+<p float="left">
+<img src="plots/2027-11-05-Australia_V_England_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Australia_V_England_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Australia_V_England_club_spreads.png" width="32%" />
+</p>
+
+### Georgia V France on 2027-11-05
+
+
+Average Margin: France by 26.0
+
+<p float="left">
+<img src="plots/2027-11-05-Georgia_V_France_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Georgia_V_France_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Georgia_V_France_club_spreads.png" width="32%" />
+</p>
+
+### Australia V Wales on 2027-11-05
+
+
+Average Margin: Australia by 14.0
+
+<p float="left">
+<img src="plots/2027-11-05-Australia_V_Wales_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Australia_V_Wales_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Australia_V_Wales_club_spreads.png" width="32%" />
+</p>
+
+### England V Argentina on 2027-11-05
+
+
+Average Margin: England by 12.5
+
+<p float="left">
+<img src="plots/2027-11-05-England_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-England_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-England_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
+### England V Scotland on 2027-11-05
+
+
+Average Margin: England by 4.8
+
+<p float="left">
+<img src="plots/2027-11-05-England_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-England_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-England_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### France V Argentina on 2027-11-05
+
+
+Average Margin: France by 7.0
+
+<p float="left">
+<img src="plots/2027-11-05-France_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-France_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-France_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
+### England V Ireland on 2027-11-05
+
+
+Average Margin: England by 6.7
+
+<p float="left">
+<img src="plots/2027-11-05-England_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-England_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-England_V_Ireland_club_spreads.png" width="32%" />
+</p>
+
+### Australia V Fiji on 2027-11-05
+
+
+Average Margin: Australia by 1.5
+
+<p float="left">
+<img src="plots/2027-11-05-Australia_V_Fiji_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Australia_V_Fiji_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Australia_V_Fiji_club_spreads.png" width="32%" />
+</p>
+
+### Georgia V Italy on 2027-11-05
+
+
+Average Margin: Italy by 13.0
+
+<p float="left">
+<img src="plots/2027-11-05-Georgia_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-11-05-Georgia_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-05-Georgia_V_Italy_club_spreads.png" width="32%" />
 </p>
 
 ## Week 7
 
-### Scotland V Argentina on 2027-11-12
+### France V Argentina on 2027-11-12
 
 
-Average Margin: Scotland by 9.6
-
-<p float="left">
-<img src="plots/2027-11-12-Scotland_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Scotland_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Scotland_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
-### Scotland V Japan on 2027-11-12
-
-
-Average Margin: Scotland by 25.0
+Average Margin: France by 10.6
 
 <p float="left">
-<img src="plots/2027-11-12-Scotland_V_Japan_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Scotland_V_Japan_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Scotland_V_Japan_club_spreads.png" width="32%" />
-</p>
-
-### Argentina V United States of America on 2027-11-12
-
-
-Average Margin: United States of America by 6.0
-
-<p float="left">
-<img src="plots/2027-11-12-Argentina_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Argentina_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Argentina_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
-</p>
-
-### Wales V United States of America on 2027-11-12
-
-
-Average Margin: United States of America by 14.0
-
-<p float="left">
-<img src="plots/2027-11-12-Wales_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Wales_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Wales_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
-</p>
-
-### Ireland V Japan on 2027-11-12
-
-
-Average Margin: Ireland by 9.0
-
-<p float="left">
-<img src="plots/2027-11-12-Ireland_V_Japan_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Ireland_V_Japan_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Ireland_V_Japan_club_spreads.png" width="32%" />
-</p>
-
-### Scotland V Italy on 2027-11-12
-
-
-Average Margin: Scotland by 15.0
-
-<p float="left">
-<img src="plots/2027-11-12-Scotland_V_Italy_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Scotland_V_Italy_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Scotland_V_Italy_club_spreads.png" width="32%" />
-</p>
-
-### Scotland V Georgia on 2027-11-12
-
-
-Average Margin: Scotland by 6.5
-
-<p float="left">
-<img src="plots/2027-11-12-Scotland_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Scotland_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Scotland_V_Georgia_club_spreads.png" width="32%" />
-</p>
-
-### Spain V Fiji on 2027-11-12
-
-
-Average Margin: Fiji by 19.0
-
-<p float="left">
-<img src="plots/2027-11-12-Spain_V_Fiji_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Spain_V_Fiji_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Spain_V_Fiji_club_spreads.png" width="32%" />
-</p>
-
-### France V Portugal on 2027-11-12
-
-
-Average Margin: France by 23.0
-
-<p float="left">
-<img src="plots/2027-11-12-France_V_Portugal_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Portugal_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Portugal_club_spreads.png" width="32%" />
-</p>
-
-### Wales V New Zealand on 2027-11-12
-
-
-Average Margin: New Zealand by 7.8
-
-<p float="left">
-<img src="plots/2027-11-12-Wales_V_NewZealand_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Wales_V_NewZealand_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Wales_V_NewZealand_club_spreads.png" width="32%" />
-</p>
-
-### Fiji V Georgia on 2027-11-12
-
-
-Average Margin: Fiji by 19.0
-
-<p float="left">
-<img src="plots/2027-11-12-Fiji_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Fiji_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Fiji_V_Georgia_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Argentina_club_spreads.png" width="32%" />
 </p>
 
 ### Wales V Italy on 2027-11-12
 
 
-Average Margin: Wales by 12.0
+Average Margin: Italy by 2.0
 
 <p float="left">
 <img src="plots/2027-11-12-Wales_V_Italy_club_performances.png" width="32%" />
@@ -4306,153 +4075,175 @@ Average Margin: Wales by 12.0
 <img src="plots/2027-11-12-Wales_V_Italy_club_spreads.png" width="32%" />
 </p>
 
-### South Africa V Portugal on 2027-11-12
+### South Africa V Georgia on 2027-11-12
 
 
-Average Margin: South Africa by 25.0
+Average Margin: South Africa by 24.7
 
 <p float="left">
-<img src="plots/2027-11-12-SouthAfrica_V_Portugal_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_Portugal_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_Portugal_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_Georgia_club_spreads.png" width="32%" />
 </p>
 
-### Fiji V Italy on 2027-11-12
+### France V Chile on 2027-11-12
 
 
-Average Margin: Italy by 1.0
+Average Margin: France by 17.5
 
 <p float="left">
-<img src="plots/2027-11-12-Fiji_V_Italy_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Fiji_V_Italy_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Fiji_V_Italy_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Chile_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Chile_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Chile_club_spreads.png" width="32%" />
 </p>
 
-### South Africa V Japan on 2027-11-12
+### Scotland V Japan on 2027-11-12
 
 
-Average Margin: South Africa by 26.0
+Average Margin: Scotland by 17.0
 
 <p float="left">
-<img src="plots/2027-11-12-SouthAfrica_V_Japan_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_Japan_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_Japan_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-Scotland_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Scotland_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Scotland_V_Japan_club_spreads.png" width="32%" />
 </p>
 
-### Wales V Georgia on 2027-11-12
+### England V Japan on 2027-11-12
 
 
-Average Margin: Wales by 3.0
+Average Margin: England by 10.5
 
 <p float="left">
-<img src="plots/2027-11-12-Wales_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Wales_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Wales_V_Georgia_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-England_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-England_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-England_V_Japan_club_spreads.png" width="32%" />
 </p>
 
-### Wales V Fiji on 2027-11-12
+### Fiji V Australia on 2027-11-12
 
 
-Average Margin: Wales by 11.0
+Average Margin: Australia by 1.0
 
 <p float="left">
-<img src="plots/2027-11-12-Wales_V_Fiji_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Wales_V_Fiji_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Wales_V_Fiji_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-Fiji_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Fiji_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Fiji_V_Australia_club_spreads.png" width="32%" />
 </p>
 
-### Spain V Ireland on 2027-11-12
+### France V Japan on 2027-11-12
 
 
-Average Margin: Ireland by 28.0
+Average Margin: France by 16.0
 
 <p float="left">
-<img src="plots/2027-11-12-Spain_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Spain_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Spain_V_Ireland_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Japan_club_spreads.png" width="32%" />
 </p>
 
-### South Africa V Spain on 2027-11-12
+### South Africa V England on 2027-11-12
 
 
-Average Margin: South Africa by 24.0
+Average Margin: South Africa by 20.8
 
 <p float="left">
-<img src="plots/2027-11-12-SouthAfrica_V_Spain_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_Spain_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_Spain_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_England_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_England_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_England_club_spreads.png" width="32%" />
 </p>
 
-### England V Ireland on 2027-11-12
+### Spain V England on 2027-11-12
 
 
-Average Margin: England by 4.7
+Average Margin: England by 12.0
 
 <p float="left">
-<img src="plots/2027-11-12-England_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-England_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-England_V_Ireland_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-Spain_V_England_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Spain_V_England_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Spain_V_England_club_spreads.png" width="32%" />
 </p>
 
-### France V Spain on 2027-11-12
+### Ireland V Japan on 2027-11-12
 
 
-Average Margin: France by 28.0
+Average Margin: Ireland by 17.5
 
 <p float="left">
-<img src="plots/2027-11-12-France_V_Spain_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Spain_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Spain_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-Ireland_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Ireland_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Ireland_V_Japan_club_spreads.png" width="32%" />
 </p>
 
-### Spain V New Zealand on 2027-11-12
+### New Zealand V Australia on 2027-11-12
 
 
-Average Margin: New Zealand by 14.0
+Average Margin: New Zealand by 12.1
 
 <p float="left">
-<img src="plots/2027-11-12-Spain_V_NewZealand_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Spain_V_NewZealand_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Spain_V_NewZealand_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-NewZealand_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-NewZealand_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-NewZealand_V_Australia_club_spreads.png" width="32%" />
 </p>
 
-### New Zealand V Japan on 2027-11-12
+### Ireland V Georgia on 2027-11-12
 
 
-Average Margin: New Zealand by 28.0
+Average Margin: Ireland by 3.5
 
 <p float="left">
-<img src="plots/2027-11-12-NewZealand_V_Japan_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-NewZealand_V_Japan_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-NewZealand_V_Japan_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-Ireland_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Ireland_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Ireland_V_Georgia_club_spreads.png" width="32%" />
 </p>
 
-### South Africa V Wales on 2027-11-12
+### Scotland V England on 2027-11-12
 
 
-Average Margin: South Africa by 17.0
+Average Margin: Scotland by 11.8
 
 <p float="left">
-<img src="plots/2027-11-12-SouthAfrica_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_Wales_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-Scotland_V_England_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Scotland_V_England_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Scotland_V_England_club_spreads.png" width="32%" />
 </p>
 
-### Ireland V Australia on 2027-11-12
+### Scotland V Italy on 2027-11-12
 
 
-Average Margin: Ireland by 5.0
+Average Margin: Scotland by 11.3
 
 <p float="left">
-<img src="plots/2027-11-12-Ireland_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Ireland_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Ireland_V_Australia_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-Scotland_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Scotland_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Scotland_V_Italy_club_spreads.png" width="32%" />
+</p>
+
+### Fiji V New Zealand on 2027-11-12
+
+
+Average Margin: New Zealand by 17.3
+
+<p float="left">
+<img src="plots/2027-11-12-Fiji_V_NewZealand_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Fiji_V_NewZealand_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Fiji_V_NewZealand_club_spreads.png" width="32%" />
+</p>
+
+### Spain V Australia on 2027-11-12
+
+
+Average Margin: Spain by 4.0
+
+<p float="left">
+<img src="plots/2027-11-12-Spain_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Spain_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Spain_V_Australia_club_spreads.png" width="32%" />
 </p>
 
 ### Ireland V England on 2027-11-12
 
 
-Average Margin: Ireland by 18.0
+Average Margin: Ireland by 7.0
 
 <p float="left">
 <img src="plots/2027-11-12-Ireland_V_England_club_performances.png" width="32%" />
@@ -4460,65 +4251,21 @@ Average Margin: Ireland by 18.0
 <img src="plots/2027-11-12-Ireland_V_England_club_spreads.png" width="32%" />
 </p>
 
-### South Africa V Fiji on 2027-11-12
+### Wales V Portugal on 2027-11-12
 
 
-Average Margin: South Africa by 28.0
-
-<p float="left">
-<img src="plots/2027-11-12-SouthAfrica_V_Fiji_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_Fiji_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_Fiji_club_spreads.png" width="32%" />
-</p>
-
-### Japan V Scotland on 2027-11-12
-
-
-Average Margin: Scotland by 24.0
+Average Margin: Wales by 4.0
 
 <p float="left">
-<img src="plots/2027-11-12-Japan_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Japan_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Japan_V_Scotland_club_spreads.png" width="32%" />
-</p>
-
-### South Africa V United States of America on 2027-11-12
-
-
-Average Margin: South Africa by 26.0
-
-<p float="left">
-<img src="plots/2027-11-12-SouthAfrica_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
-</p>
-
-### Georgia V South Africa on 2027-11-12
-
-
-Average Margin: South Africa by 11.5
-
-<p float="left">
-<img src="plots/2027-11-12-Georgia_V_SouthAfrica_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Georgia_V_SouthAfrica_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Georgia_V_SouthAfrica_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V United States of America on 2027-11-12
-
-
-Average Margin: New Zealand by 30.0
-
-<p float="left">
-<img src="plots/2027-11-12-NewZealand_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-NewZealand_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-NewZealand_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_Portugal_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_Portugal_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_Portugal_club_spreads.png" width="32%" />
 </p>
 
 ### New Zealand V Georgia on 2027-11-12
 
 
-Average Margin: New Zealand by 14.8
+Average Margin: New Zealand by 26.0
 
 <p float="left">
 <img src="plots/2027-11-12-NewZealand_V_Georgia_club_performances.png" width="32%" />
@@ -4526,10 +4273,21 @@ Average Margin: New Zealand by 14.8
 <img src="plots/2027-11-12-NewZealand_V_Georgia_club_spreads.png" width="32%" />
 </p>
 
+### New Zealand V Italy on 2027-11-12
+
+
+Average Margin: New Zealand by 18.0
+
+<p float="left">
+<img src="plots/2027-11-12-NewZealand_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-NewZealand_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-NewZealand_V_Italy_club_spreads.png" width="32%" />
+</p>
+
 ### South Africa V Italy on 2027-11-12
 
 
-Average Margin: South Africa by 36.0
+Average Margin: South Africa by 14.0
 
 <p float="left">
 <img src="plots/2027-11-12-SouthAfrica_V_Italy_club_performances.png" width="32%" />
@@ -4537,87 +4295,10 @@ Average Margin: South Africa by 36.0
 <img src="plots/2027-11-12-SouthAfrica_V_Italy_club_spreads.png" width="32%" />
 </p>
 
-### South Africa V Scotland on 2027-11-12
-
-
-Average Margin: South Africa by 14.6
-
-<p float="left">
-<img src="plots/2027-11-12-SouthAfrica_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_Scotland_club_spreads.png" width="32%" />
-</p>
-
-### Georgia V England on 2027-11-12
-
-
-Average Margin: England by 2.0
-
-<p float="left">
-<img src="plots/2027-11-12-Georgia_V_England_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Georgia_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Georgia_V_England_club_spreads.png" width="32%" />
-</p>
-
-### Ireland V Argentina on 2027-11-12
-
-
-Average Margin: Argentina by 2.0
-
-<p float="left">
-<img src="plots/2027-11-12-Ireland_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Ireland_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Ireland_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
-### Argentina V Scotland on 2027-11-12
-
-
-Average Margin: Argentina by 7.0
-
-<p float="left">
-<img src="plots/2027-11-12-Argentina_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Argentina_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Argentina_V_Scotland_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Wales on 2027-11-12
-
-
-Average Margin: New Zealand by 17.5
-
-<p float="left">
-<img src="plots/2027-11-12-NewZealand_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-NewZealand_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-NewZealand_V_Wales_club_spreads.png" width="32%" />
-</p>
-
-### Georgia V Ireland on 2027-11-12
-
-
-Average Margin: Ireland by 11.0
-
-<p float="left">
-<img src="plots/2027-11-12-Georgia_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Georgia_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Georgia_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
-### France V South Africa on 2027-11-12
-
-
-Average Margin: South Africa by 3.3
-
-<p float="left">
-<img src="plots/2027-11-12-France_V_SouthAfrica_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-France_V_SouthAfrica_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-France_V_SouthAfrica_club_spreads.png" width="32%" />
-</p>
-
 ### Australia V England on 2027-11-12
 
 
-Average Margin: Australia by 4.8
+Average Margin: Australia by 0.3
 
 <p float="left">
 <img src="plots/2027-11-12-Australia_V_England_club_performances.png" width="32%" />
@@ -4625,15 +4306,81 @@ Average Margin: Australia by 4.8
 <img src="plots/2027-11-12-Australia_V_England_club_spreads.png" width="32%" />
 </p>
 
-### Fiji V Portugal on 2027-11-12
+### South Africa V Wales on 2027-11-12
 
 
-Average Margin: Fiji by 20.0
+Average Margin: South Africa by 22.0
 
 <p float="left">
-<img src="plots/2027-11-12-Fiji_V_Portugal_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Fiji_V_Portugal_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Fiji_V_Portugal_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_Wales_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_Wales_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_Wales_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V Wales on 2027-11-12
+
+
+Average Margin: New Zealand by 12.4
+
+<p float="left">
+<img src="plots/2027-11-12-NewZealand_V_Wales_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-NewZealand_V_Wales_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-NewZealand_V_Wales_club_spreads.png" width="32%" />
+</p>
+
+### South Africa V Japan on 2027-11-12
+
+
+Average Margin: South Africa by 24.0
+
+<p float="left">
+<img src="plots/2027-11-12-SouthAfrica_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_Japan_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V Japan on 2027-11-12
+
+
+Average Margin: New Zealand by 17.0
+
+<p float="left">
+<img src="plots/2027-11-12-NewZealand_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-NewZealand_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-NewZealand_V_Japan_club_spreads.png" width="32%" />
+</p>
+
+### Australia V Ireland on 2027-11-12
+
+
+Average Margin: Ireland by 5.8
+
+<p float="left">
+<img src="plots/2027-11-12-Australia_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Australia_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Australia_V_Ireland_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V France on 2027-11-12
+
+
+Average Margin: New Zealand by 3.1
+
+<p float="left">
+<img src="plots/2027-11-12-NewZealand_V_France_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-NewZealand_V_France_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-NewZealand_V_France_club_spreads.png" width="32%" />
+</p>
+
+### Fiji V Georgia on 2027-11-12
+
+
+Average Margin: Georgia by 0.0
+
+<p float="left">
+<img src="plots/2027-11-12-Fiji_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Fiji_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Fiji_V_Georgia_club_spreads.png" width="32%" />
 </p>
 
 ### England V Georgia on 2027-11-12
@@ -4647,395 +4394,32 @@ Average Margin: England by 15.0
 <img src="plots/2027-11-12-England_V_Georgia_club_spreads.png" width="32%" />
 </p>
 
-### Fiji V New Zealand on 2027-11-12
+### Australia V Chile on 2027-11-12
 
 
-Average Margin: New Zealand by 4.0
+Average Margin: Australia by 14.0
 
 <p float="left">
-<img src="plots/2027-11-12-Fiji_V_NewZealand_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Fiji_V_NewZealand_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Fiji_V_NewZealand_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-Australia_V_Chile_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Australia_V_Chile_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Australia_V_Chile_club_spreads.png" width="32%" />
 </p>
 
-### New Zealand V Fiji on 2027-11-12
+### England V Italy on 2027-11-12
 
 
-Average Margin: New Zealand by 25.5
-
-<p float="left">
-<img src="plots/2027-11-12-NewZealand_V_Fiji_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-NewZealand_V_Fiji_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-NewZealand_V_Fiji_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Italy on 2027-11-12
-
-
-Average Margin: New Zealand by 19.0
+Average Margin: England by 10.0
 
 <p float="left">
-<img src="plots/2027-11-12-NewZealand_V_Italy_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-NewZealand_V_Italy_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-NewZealand_V_Italy_club_spreads.png" width="32%" />
-</p>
-
-### South Africa V New Zealand on 2027-11-12
-
-
-Average Margin: New Zealand by 4.0
-
-<p float="left">
-<img src="plots/2027-11-12-SouthAfrica_V_NewZealand_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_NewZealand_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_NewZealand_club_spreads.png" width="32%" />
-</p>
-
-### France V Fiji on 2027-11-12
-
-
-Average Margin: France by 15.0
-
-<p float="left">
-<img src="plots/2027-11-12-France_V_Fiji_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Fiji_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Fiji_club_spreads.png" width="32%" />
-</p>
-
-### Wales V Scotland on 2027-11-12
-
-
-Average Margin: Scotland by 2.7
-
-<p float="left">
-<img src="plots/2027-11-12-Wales_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Wales_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Wales_V_Scotland_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Ireland on 2027-11-12
-
-
-Average Margin: New Zealand by 12.1
-
-<p float="left">
-<img src="plots/2027-11-12-NewZealand_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-NewZealand_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-NewZealand_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Australia on 2027-11-12
-
-
-Average Margin: New Zealand by 9.1
-
-<p float="left">
-<img src="plots/2027-11-12-NewZealand_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-NewZealand_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-NewZealand_V_Australia_club_spreads.png" width="32%" />
-</p>
-
-### South Africa V Australia on 2027-11-12
-
-
-Average Margin: South Africa by 12.0
-
-<p float="left">
-<img src="plots/2027-11-12-SouthAfrica_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_Australia_club_spreads.png" width="32%" />
-</p>
-
-### Argentina V Australia on 2027-11-12
-
-
-Average Margin: Argentina by 4.3
-
-<p float="left">
-<img src="plots/2027-11-12-Argentina_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Argentina_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Argentina_V_Australia_club_spreads.png" width="32%" />
-</p>
-
-### Argentina V Ireland on 2027-11-12
-
-
-Average Margin: Ireland by 2.0
-
-<p float="left">
-<img src="plots/2027-11-12-Argentina_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Argentina_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Argentina_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
-### France V Australia on 2027-11-12
-
-
-Average Margin: France by 12.1
-
-<p float="left">
-<img src="plots/2027-11-12-France_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Australia_club_spreads.png" width="32%" />
-</p>
-
-### Wales V England on 2027-11-12
-
-
-Average Margin: England by 5.3
-
-<p float="left">
-<img src="plots/2027-11-12-Wales_V_England_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Wales_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Wales_V_England_club_spreads.png" width="32%" />
-</p>
-
-### England V Scotland on 2027-11-12
-
-
-Average Margin: England by 3.9
-
-<p float="left">
-<img src="plots/2027-11-12-England_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-England_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-England_V_Scotland_club_spreads.png" width="32%" />
-</p>
-
-### France V Scotland on 2027-11-12
-
-
-Average Margin: France by 5.5
-
-<p float="left">
-<img src="plots/2027-11-12-France_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Scotland_club_spreads.png" width="32%" />
-</p>
-
-### Wales V Australia on 2027-11-12
-
-
-Average Margin: Wales by 3.7
-
-<p float="left">
-<img src="plots/2027-11-12-Wales_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Wales_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Wales_V_Australia_club_spreads.png" width="32%" />
-</p>
-
-### France V England on 2027-11-12
-
-
-Average Margin: France by 5.2
-
-<p float="left">
-<img src="plots/2027-11-12-France_V_England_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-France_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-France_V_England_club_spreads.png" width="32%" />
-</p>
-
-### South Africa V England on 2027-11-12
-
-
-Average Margin: South Africa by 15.2
-
-<p float="left">
-<img src="plots/2027-11-12-SouthAfrica_V_England_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_England_club_spreads.png" width="32%" />
-</p>
-
-### South Africa V Argentina on 2027-11-12
-
-
-Average Margin: South Africa by 14.3
-
-<p float="left">
-<img src="plots/2027-11-12-SouthAfrica_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
-### France V Ireland on 2027-11-12
-
-
-Average Margin: France by 7.2
-
-<p float="left">
-<img src="plots/2027-11-12-France_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
-### France V Argentina on 2027-11-12
-
-
-Average Margin: France by 11.0
-
-<p float="left">
-<img src="plots/2027-11-12-France_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
-### Scotland V Fiji on 2027-11-12
-
-
-Average Margin: Scotland by 14.5
-
-<p float="left">
-<img src="plots/2027-11-12-Scotland_V_Fiji_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Scotland_V_Fiji_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Scotland_V_Fiji_club_spreads.png" width="32%" />
-</p>
-
-### France V New Zealand on 2027-11-12
-
-
-Average Margin: France by 2.1
-
-<p float="left">
-<img src="plots/2027-11-12-France_V_NewZealand_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-France_V_NewZealand_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-France_V_NewZealand_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Argentina on 2027-11-12
-
-
-Average Margin: New Zealand by 17.5
-
-<p float="left">
-<img src="plots/2027-11-12-NewZealand_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-NewZealand_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-NewZealand_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
-### England V Argentina on 2027-11-12
-
-
-Average Margin: England by 12.4
-
-<p float="left">
-<img src="plots/2027-11-12-England_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-England_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-England_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
-### South Africa V Ireland on 2027-11-12
-
-
-Average Margin: South Africa by 6.5
-
-<p float="left">
-<img src="plots/2027-11-12-SouthAfrica_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
-### Wales V Argentina on 2027-11-12
-
-
-Average Margin: Wales by 2.5
-
-<p float="left">
-<img src="plots/2027-11-12-Wales_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Wales_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Wales_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
-### Fiji V Argentina on 2027-11-12
-
-
-Average Margin: Argentina by 6.1
-
-<p float="left">
-<img src="plots/2027-11-12-Fiji_V_Argentina_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Fiji_V_Argentina_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Fiji_V_Argentina_club_spreads.png" width="32%" />
-</p>
-
-### Spain V Japan on 2027-11-12
-
-
-Average Margin: Spain by 19.0
-
-<p float="left">
-<img src="plots/2027-11-12-Spain_V_Japan_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Spain_V_Japan_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Spain_V_Japan_club_spreads.png" width="32%" />
-</p>
-
-### France V Wales on 2027-11-12
-
-
-Average Margin: France by 8.8
-
-<p float="left">
-<img src="plots/2027-11-12-France_V_Wales_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Wales_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Wales_club_spreads.png" width="32%" />
-</p>
-
-### South Africa V Georgia on 2027-11-12
-
-
-Average Margin: South Africa by 10.5
-
-<p float="left">
-<img src="plots/2027-11-12-SouthAfrica_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-SouthAfrica_V_Georgia_club_spreads.png" width="32%" />
-</p>
-
-### New Zealand V Scotland on 2027-11-12
-
-
-Average Margin: New Zealand by 14.3
-
-<p float="left">
-<img src="plots/2027-11-12-NewZealand_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-NewZealand_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-NewZealand_V_Scotland_club_spreads.png" width="32%" />
-</p>
-
-### Australia V Ireland on 2027-11-12
-
-
-Average Margin: Australia by 0.5
-
-<p float="left">
-<img src="plots/2027-11-12-Australia_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Australia_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Australia_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
-### Fiji V Ireland on 2027-11-12
-
-
-Average Margin: Ireland by 7.6
-
-<p float="left">
-<img src="plots/2027-11-12-Fiji_V_Ireland_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Fiji_V_Ireland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Fiji_V_Ireland_club_spreads.png" width="32%" />
-</p>
-
-### France V Georgia on 2027-11-12
-
-
-Average Margin: France by 16.3
-
-<p float="left">
-<img src="plots/2027-11-12-France_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Georgia_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-England_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-England_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-England_V_Italy_club_spreads.png" width="32%" />
 </p>
 
 ### Wales V Japan on 2027-11-12
 
 
-Average Margin: Wales by 9.5
+Average Margin: Wales by 19.0
 
 <p float="left">
 <img src="plots/2027-11-12-Wales_V_Japan_club_performances.png" width="32%" />
@@ -5043,65 +4427,131 @@ Average Margin: Wales by 9.5
 <img src="plots/2027-11-12-Wales_V_Japan_club_spreads.png" width="32%" />
 </p>
 
-### New Zealand V England on 2027-11-12
+### Spain V Argentina on 2027-11-12
 
 
-Average Margin: New Zealand by 10.9
+Average Margin: Spain by 13.0
 
 <p float="left">
-<img src="plots/2027-11-12-NewZealand_V_England_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-NewZealand_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-NewZealand_V_England_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-Spain_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Spain_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Spain_V_Argentina_club_spreads.png" width="32%" />
 </p>
 
-### France V United States of America on 2027-11-12
+### France V South Africa on 2027-11-12
 
 
 Average Margin: France by 7.0
 
 <p float="left">
-<img src="plots/2027-11-12-France_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-France_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-France_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-France_V_SouthAfrica_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-France_V_SouthAfrica_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-France_V_SouthAfrica_club_spreads.png" width="32%" />
 </p>
 
-### Fiji V Australia on 2027-11-12
+### Georgia V Argentina on 2027-11-12
 
 
-Average Margin: Fiji by 3.6
+Average Margin: Georgia by 26.0
 
 <p float="left">
-<img src="plots/2027-11-12-Fiji_V_Australia_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Fiji_V_Australia_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Fiji_V_Australia_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-Georgia_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Georgia_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Georgia_V_Argentina_club_spreads.png" width="32%" />
 </p>
 
-### Argentina V Portugal on 2027-11-12
+### Wales V Fiji on 2027-11-12
 
 
-Average Margin: Argentina by 11.5
+Average Margin: Wales by 12.5
 
 <p float="left">
-<img src="plots/2027-11-12-Argentina_V_Portugal_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Argentina_V_Portugal_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Argentina_V_Portugal_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_Fiji_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_Fiji_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_Fiji_club_spreads.png" width="32%" />
 </p>
 
-### Ireland V Scotland on 2027-11-12
+### Scotland V Georgia on 2027-11-12
 
 
-Average Margin: Ireland by 2.5
+Average Margin: Scotland by 8.3
 
 <p float="left">
-<img src="plots/2027-11-12-Ireland_V_Scotland_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Ireland_V_Scotland_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Ireland_V_Scotland_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-Scotland_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Scotland_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Scotland_V_Georgia_club_spreads.png" width="32%" />
+</p>
+
+### South Africa V New Zealand on 2027-11-12
+
+
+Average Margin: South Africa by 11.0
+
+<p float="left">
+<img src="plots/2027-11-12-SouthAfrica_V_NewZealand_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_NewZealand_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_NewZealand_club_spreads.png" width="32%" />
+</p>
+
+### South Africa V France on 2027-11-12
+
+
+Average Margin: South Africa by 5.3
+
+<p float="left">
+<img src="plots/2027-11-12-SouthAfrica_V_France_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_France_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_France_club_spreads.png" width="32%" />
+</p>
+
+### Wales V France on 2027-11-12
+
+
+Average Margin: France by 5.4
+
+<p float="left">
+<img src="plots/2027-11-12-Wales_V_France_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_France_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_France_club_spreads.png" width="32%" />
+</p>
+
+### Wales V New Zealand on 2027-11-12
+
+
+Average Margin: New Zealand by 6.2
+
+<p float="left">
+<img src="plots/2027-11-12-Wales_V_NewZealand_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_NewZealand_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_NewZealand_club_spreads.png" width="32%" />
+</p>
+
+### Scotland V Argentina on 2027-11-12
+
+
+Average Margin: Scotland by 9.0
+
+<p float="left">
+<img src="plots/2027-11-12-Scotland_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Scotland_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Scotland_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
+### France V New Zealand on 2027-11-12
+
+
+Average Margin: France by 4.2
+
+<p float="left">
+<img src="plots/2027-11-12-France_V_NewZealand_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-France_V_NewZealand_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-France_V_NewZealand_club_spreads.png" width="32%" />
 </p>
 
 ### Wales V Ireland on 2027-11-12
 
 
-Average Margin: Ireland by 3.4
+Average Margin: Ireland by 2.9
 
 <p float="left">
 <img src="plots/2027-11-12-Wales_V_Ireland_club_performances.png" width="32%" />
@@ -5109,43 +4559,109 @@ Average Margin: Ireland by 3.4
 <img src="plots/2027-11-12-Wales_V_Ireland_club_spreads.png" width="32%" />
 </p>
 
-### France V Italy on 2027-11-12
+### Fiji V Ireland on 2027-11-12
 
 
-Average Margin: France by 9.0
+Average Margin: Ireland by 5.6
 
 <p float="left">
-<img src="plots/2027-11-12-France_V_Italy_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Italy_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Italy_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-Fiji_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Fiji_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Fiji_V_Ireland_club_spreads.png" width="32%" />
 </p>
 
-### France V Japan on 2027-11-12
+### Wales V Georgia on 2027-11-12
 
 
-Average Margin: France by 13.6
+Average Margin: Georgia by 1.5
 
 <p float="left">
-<img src="plots/2027-11-12-France_V_Japan_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Japan_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-France_V_Japan_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_Georgia_club_spreads.png" width="32%" />
 </p>
 
-### Japan V England on 2027-11-12
+### France V Georgia on 2027-11-12
 
 
-Average Margin: England by 17.0
+Average Margin: France by 11.9
 
 <p float="left">
-<img src="plots/2027-11-12-Japan_V_England_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Japan_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Japan_V_England_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Georgia_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Georgia_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Georgia_club_spreads.png" width="32%" />
+</p>
+
+### South Africa V Argentina on 2027-11-12
+
+
+Average Margin: South Africa by 17.9
+
+<p float="left">
+<img src="plots/2027-11-12-SouthAfrica_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
+### Wales V Argentina on 2027-11-12
+
+
+Average Margin: Wales by 2.6
+
+<p float="left">
+<img src="plots/2027-11-12-Wales_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
+### Scotland V Ireland on 2027-11-12
+
+
+Average Margin: Scotland by 4.9
+
+<p float="left">
+<img src="plots/2027-11-12-Scotland_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Scotland_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Scotland_V_Ireland_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V Argentina on 2027-11-12
+
+
+Average Margin: New Zealand by 14.3
+
+<p float="left">
+<img src="plots/2027-11-12-NewZealand_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-NewZealand_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-NewZealand_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
+### France V Fiji on 2027-11-12
+
+
+Average Margin: France by 15.9
+
+<p float="left">
+<img src="plots/2027-11-12-France_V_Fiji_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Fiji_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Fiji_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V Ireland on 2027-11-12
+
+
+Average Margin: New Zealand by 12.3
+
+<p float="left">
+<img src="plots/2027-11-12-NewZealand_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-NewZealand_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-NewZealand_V_Ireland_club_spreads.png" width="32%" />
 </p>
 
 ### Scotland V Australia on 2027-11-12
 
 
-Average Margin: Scotland by 7.1
+Average Margin: Scotland by 9.4
 
 <p float="left">
 <img src="plots/2027-11-12-Scotland_V_Australia_club_performances.png" width="32%" />
@@ -5153,21 +4669,120 @@ Average Margin: Scotland by 7.1
 <img src="plots/2027-11-12-Scotland_V_Australia_club_spreads.png" width="32%" />
 </p>
 
-### Fiji V England on 2027-11-12
+### Japan V Argentina on 2027-11-12
 
 
-Average Margin: Fiji by 0.8
+Average Margin: Japan by 0.2
 
 <p float="left">
-<img src="plots/2027-11-12-Fiji_V_England_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Fiji_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Fiji_V_England_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-Japan_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Japan_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Japan_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
+### France V Scotland on 2027-11-12
+
+
+Average Margin: France by 7.5
+
+<p float="left">
+<img src="plots/2027-11-12-France_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### France V Australia on 2027-11-12
+
+
+Average Margin: France by 10.8
+
+<p float="left">
+<img src="plots/2027-11-12-France_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Australia_club_spreads.png" width="32%" />
+</p>
+
+### France V Ireland on 2027-11-12
+
+
+Average Margin: France by 8.0
+
+<p float="left">
+<img src="plots/2027-11-12-France_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Ireland_club_spreads.png" width="32%" />
+</p>
+
+### Wales V England on 2027-11-12
+
+
+Average Margin: England by 5.4
+
+<p float="left">
+<img src="plots/2027-11-12-Wales_V_England_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_England_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_England_club_spreads.png" width="32%" />
+</p>
+
+### Ireland V Argentina on 2027-11-12
+
+
+Average Margin: Ireland by 11.5
+
+<p float="left">
+<img src="plots/2027-11-12-Ireland_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Ireland_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Ireland_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
+### Fiji V Scotland on 2027-11-12
+
+
+Average Margin: Scotland by 8.4
+
+<p float="left">
+<img src="plots/2027-11-12-Fiji_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Fiji_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Fiji_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### South Africa V Scotland on 2027-11-12
+
+
+Average Margin: South Africa by 9.1
+
+<p float="left">
+<img src="plots/2027-11-12-SouthAfrica_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### South Africa V Australia on 2027-11-12
+
+
+Average Margin: South Africa by 21.5
+
+<p float="left">
+<img src="plots/2027-11-12-SouthAfrica_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_Australia_club_spreads.png" width="32%" />
+</p>
+
+### Fiji V Japan on 2027-11-12
+
+
+Average Margin: Japan by 4.0
+
+<p float="left">
+<img src="plots/2027-11-12-Fiji_V_Japan_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Fiji_V_Japan_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Fiji_V_Japan_club_spreads.png" width="32%" />
 </p>
 
 ### England V Australia on 2027-11-12
 
 
-Average Margin: England by 12.5
+Average Margin: England by 6.0
 
 <p float="left">
 <img src="plots/2027-11-12-England_V_Australia_club_performances.png" width="32%" />
@@ -5175,24 +4790,178 @@ Average Margin: England by 12.5
 <img src="plots/2027-11-12-England_V_Australia_club_spreads.png" width="32%" />
 </p>
 
-### Ireland V Georgia on 2027-11-12
+### Spain V Scotland on 2027-11-12
 
 
-Average Margin: Ireland by 9.5
+Average Margin: Scotland by 13.5
 
 <p float="left">
-<img src="plots/2027-11-12-Ireland_V_Georgia_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Ireland_V_Georgia_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Ireland_V_Georgia_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-Spain_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Spain_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Spain_V_Scotland_club_spreads.png" width="32%" />
 </p>
 
-### Scotland V England on 2027-11-12
+### Wales V South Africa on 2027-11-12
 
 
-Average Margin: Scotland by 5.5
+Average Margin: Wales by 5.0
 
 <p float="left">
-<img src="plots/2027-11-12-Scotland_V_England_club_performances.png" width="32%" />
-<img src="plots/2027-11-12-Scotland_V_England_club_resultbar.png" width="32%" />
-<img src="plots/2027-11-12-Scotland_V_England_club_spreads.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_SouthAfrica_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_SouthAfrica_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_SouthAfrica_club_spreads.png" width="32%" />
+</p>
+
+### South Africa V United States of America on 2027-11-12
+
+
+Average Margin: South Africa by 18.0
+
+<p float="left">
+<img src="plots/2027-11-12-SouthAfrica_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
+</p>
+
+### Fiji V England on 2027-11-12
+
+
+Average Margin: England by 4.3
+
+<p float="left">
+<img src="plots/2027-11-12-Fiji_V_England_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Fiji_V_England_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Fiji_V_England_club_spreads.png" width="32%" />
+</p>
+
+### South Africa V Ireland on 2027-11-12
+
+
+Average Margin: South Africa by 12.2
+
+<p float="left">
+<img src="plots/2027-11-12-SouthAfrica_V_Ireland_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_Ireland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-SouthAfrica_V_Ireland_club_spreads.png" width="32%" />
+</p>
+
+### Wales V Australia on 2027-11-12
+
+
+Average Margin: Wales by 3.9
+
+<p float="left">
+<img src="plots/2027-11-12-Wales_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_Australia_club_spreads.png" width="32%" />
+</p>
+
+### Australia V Argentina on 2027-11-12
+
+
+Average Margin: Australia by 4.7
+
+<p float="left">
+<img src="plots/2027-11-12-Australia_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Australia_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Australia_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
+### Wales V Scotland on 2027-11-12
+
+
+Average Margin: Scotland by 4.1
+
+<p float="left">
+<img src="plots/2027-11-12-Wales_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Wales_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### Ireland V Australia on 2027-11-12
+
+
+Average Margin: Ireland by 7.7
+
+<p float="left">
+<img src="plots/2027-11-12-Ireland_V_Australia_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Ireland_V_Australia_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Ireland_V_Australia_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V Scotland on 2027-11-12
+
+
+Average Margin: New Zealand by 7.3
+
+<p float="left">
+<img src="plots/2027-11-12-NewZealand_V_Scotland_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-NewZealand_V_Scotland_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-NewZealand_V_Scotland_club_spreads.png" width="32%" />
+</p>
+
+### New Zealand V England on 2027-11-12
+
+
+Average Margin: New Zealand by 10.4
+
+<p float="left">
+<img src="plots/2027-11-12-NewZealand_V_England_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-NewZealand_V_England_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-NewZealand_V_England_club_spreads.png" width="32%" />
+</p>
+
+### Fiji V Argentina on 2027-11-12
+
+
+Average Margin: Argentina by 1.7
+
+<p float="left">
+<img src="plots/2027-11-12-Fiji_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-Fiji_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-Fiji_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
+### England V Argentina on 2027-11-12
+
+
+Average Margin: England by 9.0
+
+<p float="left">
+<img src="plots/2027-11-12-England_V_Argentina_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-England_V_Argentina_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-England_V_Argentina_club_spreads.png" width="32%" />
+</p>
+
+### France V England on 2027-11-12
+
+
+Average Margin: France by 6.1
+
+<p float="left">
+<img src="plots/2027-11-12-France_V_England_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-France_V_England_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-France_V_England_club_spreads.png" width="32%" />
+</p>
+
+### France V Italy on 2027-11-12
+
+
+Average Margin: France by 15.8
+
+<p float="left">
+<img src="plots/2027-11-12-France_V_Italy_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Italy_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-France_V_Italy_club_spreads.png" width="32%" />
+</p>
+
+### England V Spain on 2027-11-12
+
+
+Average Margin: England by 20.0
+
+<p float="left">
+<img src="plots/2027-11-12-England_V_Spain_club_performances.png" width="32%" />
+<img src="plots/2027-11-12-England_V_Spain_club_resultbar.png" width="32%" />
+<img src="plots/2027-11-12-England_V_Spain_club_spreads.png" width="32%" />
 </p>

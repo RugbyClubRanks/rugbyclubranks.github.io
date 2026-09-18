@@ -1,6 +1,6 @@
 ---
 title: "WXV Global Series Challenger 2026"
-date: 2026-09-15 6:00:00 -0500
+date: 2026-09-18 6:00:00 -0500
 categories: model review projection
 layout: article
 aside:
@@ -31,12 +31,12 @@ aside:
 
 | Club              |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Fiji Women        |         1 |            0.884 |                   20.844 |                           0.054 |                              |                          3.602 |
-| Netherlands Women |         1 |            0.694 |                   10.355 |                           0.104 |                              |                          2.91  |
-| Samoa Women       |         1 |            0.525 |                    1.642 |                           0.123 |                              |                          2.269 |
-| Spain Women       |         1 |            0.452 |                   -1.642 |                           0.133 |                              |                          1.987 |
-| Brazil Women      |         1 |            0.291 |                  -10.355 |                           0.142 |                              |                          1.336 |
-| Hong Kong Women   |         1 |            0.11  |                  -20.844 |                           0.107 |                              |                          0.559 |
+| Fiji Women        |         1 |            0.879 |                   20.233 |                           0.053 |                              |                          3.591 |
+| Netherlands Women |         1 |            0.713 |                   11.511 |                           0.111 |                              |                          2.987 |
+| Samoa Women       |         1 |            0.531 |                    1.509 |                           0.133 |                              |                          2.289 |
+| Spain Women       |         1 |            0.453 |                   -1.509 |                           0.123 |                              |                          1.967 |
+| Brazil Women      |         1 |            0.275 |                  -11.511 |                           0.129 |                              |                          1.253 |
+| Hong Kong Women   |         1 |            0.11  |                  -20.233 |                           0.118 |                              |                          0.58  |
 
 
 
@@ -45,12 +45,12 @@ aside:
 
 | Club              |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:------------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| Fiji Women        |        2 |  1.884 |               26.844 |                 0.054 |                    |                7.602 |
-| Netherlands Women |        2 |  1.694 |               80.355 |                 0.104 |                    |                6.91  |
-| Hong Kong Women   |        2 |  1.11  |              -15.844 |                 0.107 |                    |                4.559 |
-| Spain Women       |        2 |  0.452 |               -7.642 |                 1.133 |                    |                2.987 |
-| Brazil Women      |        2 |  0.291 |              -15.355 |                 1.142 |                    |                2.336 |
-| Samoa Women       |        2 |  0.525 |              -68.358 |                 0.123 |                    |                2.269 |
+| Fiji Women        |        2 |  1.879 |               26.233 |                 0.053 |                    |                7.591 |
+| Netherlands Women |        2 |  1.713 |               81.511 |                 0.111 |                    |                6.987 |
+| Hong Kong Women   |        2 |  1.11  |              -15.233 |                 0.118 |                    |                4.58  |
+| Spain Women       |        2 |  0.453 |               -7.509 |                 1.123 |                    |                2.967 |
+| Samoa Women       |        2 |  0.531 |              -68.491 |                 0.133 |                    |                2.289 |
+| Brazil Women      |        2 |  0.275 |              -16.511 |                 1.129 |                    |                2.253 |
 
 
 
@@ -59,7 +59,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 83.3% | 17.0 |
+| Club Level | 66.7% | 13.2 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -71,7 +71,7 @@ aside:
 ### Brazil Women V Netherlands Women on 2026/09/19
 
 
-Average Margin: Netherlands Women by 10.4
+Average Margin: Netherlands Women by 11.5
 
 <p float="left">
 <img src="plots/2026-09-19-BrazilWomen_V_NetherlandsWomen_club_performances.png" width="32%" />
@@ -82,7 +82,7 @@ Average Margin: Netherlands Women by 10.4
 ### Fiji Women V Hong Kong Women on 2026/09/19
 
 
-Average Margin: Fiji Women by 20.8
+Average Margin: Fiji Women by 20.2
 
 <p float="left">
 <img src="plots/2026-09-19-FijiWomen_V_HongKongWomen_club_performances.png" width="32%" />
@@ -93,7 +93,7 @@ Average Margin: Fiji Women by 20.8
 ### Samoa Women V Spain Women on 2026/09/19
 
 
-Average Margin: Samoa Women by 1.6
+Average Margin: Samoa Women by 1.5
 
 <p float="left">
 <img src="plots/2026-09-19-SamoaWomen_V_SpainWomen_club_performances.png" width="32%" />

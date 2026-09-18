@@ -64,7 +64,7 @@ key: page-recents
 ## International Test Match
 
 
-[2026](comp_files/International_Test_Match_2026) - Prediction Accuracy: 72.2% 
+[2026](comp_files/International_Test_Match_2026) - Prediction Accuracy: 83.3% 
 
 [2025](comp_files/International_Test_Match_2025) - Prediction Accuracy: 71.6% 
 
@@ -528,11 +528,11 @@ key: page-recents
 ## WXV Global Series
 
 
-[2026](comp_files/WXV_Global_Series_2026) - Prediction Accuracy: 77.8% 
+[2026](comp_files/WXV_Global_Series_2026) - Prediction Accuracy: 66.7% 
 ## WXV Global Series Challenger
 
 
-[2026](comp_files/WXV_Global_Series_Challenger_2026) - Prediction Accuracy: 83.3% 
+[2026](comp_files/WXV_Global_Series_Challenger_2026) - Prediction Accuracy: 66.7% 
 ## Rugby World Cup 2027 Final Qualification Tournament
 
 
@@ -552,7 +552,7 @@ key: page-recents
 ## Nations Championship
 
 
-[2026](comp_files/Nations_Championship_2026) - Prediction Accuracy: 69.8% 
+[2026](comp_files/Nations_Championship_2026) - Prediction Accuracy: 73.4% 
 # Top Flight Competitions
 
 ## European Rugby Champions Cup
@@ -664,7 +664,7 @@ key: page-recents
 ## Top 14
 
 
-[26/27](comp_files/Top_14_2627) - Prediction Accuracy: 77.4% 
+[26/27](comp_files/Top_14_2627) - Prediction Accuracy: 78.0% 
 
 [25/26](comp_files/Top_14_2526) - Prediction Accuracy: 75.3% 
 
@@ -1012,7 +1012,7 @@ key: page-recents
 ## Pro D2
 
 
-[26/27](comp_files/Pro_D2_2627) - Prediction Accuracy: 75.0% 
+[26/27](comp_files/Pro_D2_2627) - Prediction Accuracy: 77.0% 
 
 [25/26](comp_files/Pro_D2_2526) - Prediction Accuracy: 74.6% 
 
@@ -1102,7 +1102,7 @@ key: page-recents
 ## NPC
 
 
-[2026](comp_files/NPC_2026) - Prediction Accuracy: 65.7% 
+[2026](comp_files/NPC_2026) - Prediction Accuracy: 68.6% 
 
 [2025](comp_files/NPC_2025) - Prediction Accuracy: 68.8% 
 
@@ -1268,7 +1268,7 @@ key: page-recents
 ## Nationale
 
 
-[26/27](comp_files/Nationale_2627) - Prediction Accuracy: 82.1% 
+[26/27](comp_files/Nationale_2627) - Prediction Accuracy: 79.5% 
 
 [25/26](comp_files/Nationale_2526) - Prediction Accuracy: 74.7% 
 
@@ -1310,7 +1310,7 @@ key: page-recents
 ## URBA Top 14
 
 
-[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 67.6% 
+[2026](comp_files/URBA_Top_14_2026) - Prediction Accuracy: 68.1% 
 ## prorugby
 
 

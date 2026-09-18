@@ -9,7 +9,7 @@ categories: rugby "Pro D2 26/27" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Beziers to win by 10.89, and Beziers won by 1.0. That's an absolute error of 9.9 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 56.6% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Beziers to win by 10.71, and Beziers won by 1.0. That's an absolute error of 9.7 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 57.5% of my recent predictions.
 
 For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 41.0. That's an absolute error of 6.5 compared to a six month average of 14.4. This prediction was more accurate than 71.4% of my recent predictions.
 ## Projected Performances - Club Model

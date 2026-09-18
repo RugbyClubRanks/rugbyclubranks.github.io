@@ -9,7 +9,7 @@ categories: rugby "WXV Global Series Challenger 2026" match projection
 # Club Level Predictions
 
 
-Now that the game has been played, lets see how the club predictions did. I predicted Netherlands Women to win by 29.05, and Netherlands Women won by 70.0. That's an absolute error of 41.0 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 4.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Netherlands Women to win by 28.09, and Netherlands Women won by 70.0. That's an absolute error of 41.9 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 3.7% of my recent predictions.
 
 For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 70.0. That's an absolute error of 22.5 compared to a six month average of 14.4. This prediction was more accurate than 21.4% of my recent predictions.
 ## Projected Performances - Club Model
