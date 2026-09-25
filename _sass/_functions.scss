@@ -58,15 +58,15 @@ $modules: (
     }
 
     @else if unit($value)=="em" {
-      @return calc($value / 1em);
+      @return $value / 1em;
     }
 
     @else if unit($value)=="px" {
-      @return calc($value / 1px);
+      @return $value / 1px;
     }
 
     @else if unit($value)=="pt" {
-      @return calc($value / 1pt);
+      @return $value / 1pt;
     }
   }
 
@@ -110,7 +110,7 @@ $modules: (
 
 // CONVERT TO REM
 @function convert-to-rem($value, $base-value: $rem-base) {
-  $value: calc(strip-unit($value) / strip-unit($base-value) * 1rem);
+  $value: strip-unit($value) / strip-unit($base-value) * 1rem;
 
   @if ($value ==0rem) {
     $value: 0;
