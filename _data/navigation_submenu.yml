@@ -1,0 +1,31 @@
+demo:
+  - title: Home2
+    url: "/"
+    side: left
+
+  - title: Getting Started2
+    url: "/getting-started"
+    side: left
+
+blank:
+
+rugby:
+  - title: Projections
+    url: "/pages/rugby/Current_Projections"
+    side: left
+
+  - title: Reviews
+    url: "/pages/rugby/Recent_Matches"
+    side: left
+
+  - title: Rankings
+    url: "/pages/rugby/Rankings"
+    side: left
+
+  - title: Competitions
+    url: "/pages/rugby/Competitions"
+    side: left
+
+  - title: Accuracy
+    url: "/pages/rugby/accuracy_page"
+    side: left

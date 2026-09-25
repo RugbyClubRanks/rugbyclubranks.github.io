@@ -1,0 +1,30 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: Rugby Union
+  url: "/pages/rugby"
+  side: left
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: About
+  url: "/info/"
+  side: left
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Work Inquiries"
+  url: "/work-inquiries/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right

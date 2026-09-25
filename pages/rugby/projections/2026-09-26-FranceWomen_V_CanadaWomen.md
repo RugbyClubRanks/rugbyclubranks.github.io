@@ -1,0 +1,30 @@
+---
+layout: page
+title: France Women V Canada Women on 2026/09/26
+date: 2026-09-26
+categories: rugby "WXV Global Series 2026" match review
+---
+## Club Level Predictions
+
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Canada Women to win by 11.56.
+
+Our Over/Under is 47.5 - and combined with the spread above, we have a predicted scoreline of 18 to 30
+
+Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
+### Projected Performances - Club Model
+
+<p float="left">
+<img src="../comp_files/plots/2026-09-26-FranceWomen_V_CanadaWomen_club_performances.png" width="99%" />
+</p>
+
+### Projected Spreads - Club Model
+
+<p float="left">
+<img src="../comp_files/plots/2026-09-26-FranceWomen_V_CanadaWomen_club_spreads.png" width="99%" />
+</p>
+
+### Projected Results - Club Model
+
+<p float="left">
+<img src="../comp_files/plots/2026-09-26-FranceWomen_V_CanadaWomen_club_resultbar.png" width="99%" />
+</p>
