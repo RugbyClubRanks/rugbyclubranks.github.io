@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Current Predictions"
   url: '/pages/rugby/Current_Projections/'
-  image: widget-1-302x182.jpg
+  #image: widget-1-302x182.jpg
   text: 'All the ongoing competitions'
 widget2:
   title: "Player and Club Rankings"
@@ -19,7 +19,7 @@ widget2:
 widget3:
   title: "Model Accuracies"
   url: '/pages/rugby/accuracy_page/'
-  image: widget-github-303x182.jpg
+  #image: widget-github-303x182.jpg
   text: 'Deep dive into the rugby models'
 #
 permalink: /index.html
