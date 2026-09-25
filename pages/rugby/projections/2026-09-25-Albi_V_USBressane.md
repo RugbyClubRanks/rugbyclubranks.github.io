@@ -6,9 +6,9 @@ categories: rugby "Nationale 26/27" match review
 ---
 ## Club Level Predictions
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Albi to win by 15.48.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Albi to win by 14.75.
 
-Our Over/Under is 43.5 - and combined with the spread above, we have a predicted scoreline of 29 to 14
+Our Over/Under is 44.5 - and combined with the spread above, we have a predicted scoreline of 30 to 15
 
 Each club has a rating and a rating deviation (similar to a Glicko rating), and expected performances can be generated. This allows for simulated matches and spreads like the ones below.
 ### Projected Performances - Club Model

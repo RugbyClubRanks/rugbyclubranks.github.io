@@ -6,9 +6,9 @@ categories: rugby "NPC 2026" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Taranaki to win by 17.48, and Taranaki won by 36.0. That's an absolute error of 18.5 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 30.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Taranaki to win by 17.77, and Taranaki won by 36.0. That's an absolute error of 18.2 for the margin of victory, while my average absolute error has been 14.7 over the past six months. This prediction was more accurate than 32.0% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 74.0. That's an absolute error of 22.5 compared to a six month average of 14.4. This prediction was more accurate than 21.3% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 74.0. That's an absolute error of 22.5 compared to a six month average of 14.6. This prediction was more accurate than 21.0% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 51.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Taranaki to win by 7.31,  and Taranaki won by 36.0. That's an absolute error of 28.7 for the margin of victory, while the average error as been 15.1 for the past six months. So this prediction was more accurate than 11.5% of my recent predictions.
+With the player model, I predicted Taranaki to win by 7.72,  and Taranaki won by 36.0. That's an absolute error of 28.3 for the margin of victory, while the average error as been 15.0 for the past six months. So this prediction was more accurate than 11.3% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

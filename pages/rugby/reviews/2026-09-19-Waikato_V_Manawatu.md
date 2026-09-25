@@ -6,9 +6,9 @@ categories: rugby "NPC 2026" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Waikato to win by 20.6, and Waikato won by 9.0. That's an absolute error of 11.6 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 51.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Waikato to win by 20.05, and Waikato won by 9.0. That's an absolute error of 11.0 for the margin of victory, while my average absolute error has been 14.7 over the past six months. This prediction was more accurate than 53.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 63.0. That's an absolute error of 11.5 compared to a six month average of 14.4. This prediction was more accurate than 50.2% of my recent predictions.
+For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 63.0. That's an absolute error of 10.5 compared to a six month average of 14.6. This prediction was more accurate than 54.0% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">

@@ -6,9 +6,9 @@ categories: rugby "WXV Global Series 2026" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted New Zealand Women to win by 17.64, and New Zealand Women won by 52.0. That's an absolute error of 34.4 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 8.6% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted New Zealand Women to win by 17.17, and New Zealand Women won by 52.0. That's an absolute error of 34.8 for the margin of victory, while my average absolute error has been 14.7 over the past six months. This prediction was more accurate than 7.6% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 80.0. That's an absolute error of 27.5 compared to a six month average of 14.4. This prediction was more accurate than 14.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 80.0. That's an absolute error of 26.5 compared to a six month average of 14.6. This prediction was more accurate than 15.3% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">

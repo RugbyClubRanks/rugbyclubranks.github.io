@@ -1,6 +1,6 @@
 ---
 title: "Greatest Rivalry 2026"
-date: 2026-09-24 6:00:00 -0500
+date: 2026-09-25 6:00:00 -0500
 categories: rugby model review projection
 layout: page
 aside:
@@ -23,7 +23,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 75.0% | 10.8 |
+| Club Level | 75.0% | 10.9 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 

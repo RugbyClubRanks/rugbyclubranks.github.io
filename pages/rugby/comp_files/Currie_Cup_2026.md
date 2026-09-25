@@ -1,6 +1,6 @@
 ---
 title: "Currie Cup 2026"
-date: 2026-09-24 6:00:00 -0500
+date: 2026-09-25 6:00:00 -0500
 categories: rugby model review projection
 layout: page
 aside:
@@ -17,12 +17,11 @@ aside:
 | Griquas          |        9 |      8 |                  175 |                     1 |                  6 |                   39 |
 | Cheetahs         |        8 |      5 |                   16 |                     2 |                  5 |                   27 |
 | Pumas            |        9 |      5 |                    2 |                     2 |                  4 |                   26 |
-| Boland Cavaliers |        8 |      4 |                   23 |                     2 |                  2 |                   20 |
 | Golden Lions     |        8 |      3 |                    7 |                     1 |                  4 |                   19 |
 | Natal Sharks     |        7 |      3 |                  -24 |                     0 |                  4 |                   18 |
+| Boland Cavaliers |        7 |      3 |                    9 |                     2 |                  2 |                   16 |
 | Western Province |        7 |      3 |                  -51 |                     1 |                  2 |                   15 |
 | Blue Bulls       |        7 |      0 |                 -134 |                     1 |                  3 |                    4 |
-| Bulls            |        1 |      0 |                  -14 |                     0 |                    |                    0 |
 
 
 
@@ -30,7 +29,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 56.2% | 14.8 |
+| Club Level | 61.3% | 13.9 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 

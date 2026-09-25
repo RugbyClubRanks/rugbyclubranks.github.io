@@ -6,9 +6,9 @@ categories: rugby "Pacific Nations Cup 2026" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted United States of America to win by 5.85, and Canada won by 3.0. That's an absolute error of 8.8 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 60.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted United States of America to win by 5.89, and Canada won by 3.0. That's an absolute error of 8.9 for the margin of victory, while my average absolute error has been 14.7 over the past six months. This prediction was more accurate than 60.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 35.0. That's an absolute error of 16.5 compared to a six month average of 14.4. This prediction was more accurate than 34.2% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 35.0. That's an absolute error of 16.5 compared to a six month average of 14.6. This prediction was more accurate than 35.0% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 51.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted United States of America to win by 1.56,  and Canada won by 3.0. That's an absolute error of 4.6 for the margin of victory, while the average error as been 15.1 for the past six months. So this prediction was more accurate than 64.5% of my recent predictions.
+With the player model, I predicted United States of America to win by 1.88,  and Canada won by 3.0. That's an absolute error of 4.9 for the margin of victory, while the average error as been 15.0 for the past six months. So this prediction was more accurate than 59.8% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

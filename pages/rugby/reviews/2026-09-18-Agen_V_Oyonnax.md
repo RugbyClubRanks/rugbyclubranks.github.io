@@ -6,9 +6,9 @@ categories: rugby "Pro D2 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Agen to win by 0.73, and Oyonnax won by 2.0. That's an absolute error of 2.7 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 86.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Agen to win by 0.85, and Oyonnax won by 2.0. That's an absolute error of 2.8 for the margin of victory, while my average absolute error has been 14.7 over the past six months. This prediction was more accurate than 86.0% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 36.0. That's an absolute error of 13.5 compared to a six month average of 14.4. This prediction was more accurate than 43.9% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 36.0. That's an absolute error of 13.5 compared to a six month average of 14.6. This prediction was more accurate than 44.6% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 49.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Oyonnax to win by 0.19,  and Oyonnax won by 2.0. That's an absolute error of 1.8 for the margin of victory, while the average error as been 15.1 for the past six months. So this prediction was more accurate than 75.1% of my recent predictions.
+With the player model, I predicted Agen to win by 0.34,  and Oyonnax won by 2.0. That's an absolute error of 2.3 for the margin of victory, while the average error as been 15.0 for the past six months. So this prediction was more accurate than 69.6% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">
