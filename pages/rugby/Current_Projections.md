@@ -24,9 +24,9 @@ Competition Accuracy: 9 of 14 (64.29%)
 
 Competition Error: 9.29 points per match
 
-Last Two Week Accuracy: 0 of 2 (0.0%)
+Last Two Week Accuracy: 0 of 1 (0.0%)
 
-Last Two Week Error: 12.71 points per match
+Last Two Week Error: 11.33 points per match
 
 [2026/10/10 - New Zealand V Australia](projections/2026-10-10-NewZealand_V_Australia)
 
@@ -71,9 +71,9 @@ Competition Accuracy: 21 of 28 (75.0%)
 
 Competition Error: 14.77 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 14.34 points per match
+Last Two Week Error: 12.82 points per match
 
 [2026/10/03 - Bayonne V Stade Francais Paris](projections/2026-10-03-Bayonne_V_StadeFrancaisParis)
 
@@ -198,17 +198,17 @@ Last Two Week Error: 11.86 points per match
 
 [In depth model review and projections for NPC 2026](comp_files/NPC_2026)
 
-Competition Accuracy: 37 of 63 (58.73%)
+Competition Accuracy: 38 of 64 (59.38%)
 
-Competition Error: 15.52 points per match
+Competition Error: 15.49 points per match
 
-Last Two Week Accuracy: 6 of 14 (42.86%)
+Last Two Week Accuracy: 3 of 8 (37.5%)
 
-Last Two Week Error: 15.35 points per match
-
-[2026/10/01 - Otago V Auckland](projections/2026-10-01-Otago_V_Auckland)
+Last Two Week Error: 18.33 points per match
 
 [2026/10/02 - Southland V Northland](projections/2026-10-02-Southland_V_Northland)
+
+[2026/10/03 - Counties Manukau V Hawke's Bay](projections/2026-10-03-CountiesManukau_V_Hawke'sBay)
 
 [2026/10/04 - Taranaki V Wellington](projections/2026-10-04-Taranaki_V_Wellington)
 
@@ -217,8 +217,31 @@ Last Two Week Error: 15.35 points per match
 [2026/10/03 - Waikato V Tasman](projections/2026-10-03-Waikato_V_Tasman)
 
 [2026/10/03 - Manawatu V Canterbury](projections/2026-10-03-Manawatu_V_Canterbury)
+### RFU Championship
 
-[2026/10/03 - Counties Manukau V Hawke's Bay](projections/2026-10-03-CountiesManukau_V_Hawke'sBay)
+[In depth model review and projections for RFU Championship 26/27](comp_files/RFU_Championship_2627)
+
+Competition Accuracy: 10 of 14 (71.43%)
+
+Competition Error: 18.08 points per match
+
+Last Two Week Accuracy: 5 of 7 (71.43%)
+
+Last Two Week Error: 21.38 points per match
+
+[2026/10/03 - Caldy V Chinnor](projections/2026-10-03-Caldy_V_Chinnor)
+
+[2026/10/04 - Blackheath V Doncaster](projections/2026-10-04-Blackheath_V_Doncaster)
+
+[2026/10/03 - Rotherham Titans V Bedford](projections/2026-10-03-RotherhamTitans_V_Bedford)
+
+[2026/10/03 - Richmond V Worcester Warriors](projections/2026-10-03-Richmond_V_WorcesterWarriors)
+
+[2026/10/03 - Cornish Pirates V Ealing Trailfinders](projections/2026-10-03-CornishPirates_V_EalingTrailfinders)
+
+[2026/10/02 - Nottingham V Coventry](projections/2026-10-02-Nottingham_V_Coventry)
+
+[2026/10/02 - Hartpury College RFC V Ampthill](projections/2026-10-02-HartpuryCollege_V_Ampthill)
 ### URBA Top 14
 
 [In depth model review and projections for URBA Top 14 2026](comp_files/URBA_Top_14_2026)
@@ -229,15 +252,15 @@ Competition Error: 13.28 points per match
 
 Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 7.36 points per match
+Last Two Week Error: 7.42 points per match
 
 [2026/10/03 - Belgrano AC V CUBA](projections/2026-10-03-BelgranoAC_V_CUBA)
 
 [2026/10/03 - Alumni V Atlético del Rosario](projections/2026-10-03-Alumni_V_AtleticodelRosario)
 
-[2026/10/03 - Buenos Aires V Los Matreros](projections/2026-10-03-BuenosAires_V_LosMatreros)
-
 [2026/10/03 - Champagnat V Regatas Bella Vista](projections/2026-10-03-Champagnat_V_RegatasBellaVista)
+
+[2026/10/03 - Buenos Aires V Los Matreros](projections/2026-10-03-BuenosAires_V_LosMatreros)
 
 [2026/10/03 - Hindu V La Plata](projections/2026-10-03-Hindu_V_LaPlata)
 
@@ -272,42 +295,17 @@ Last Two Week Error: 7.36 points per match
 [2026/10/03 - SIC V CASI](projections/2026-10-03-SIC_V_CASI)
 
 [2026/10/17 - SIC V Buenos Aires](projections/2026-10-17-SIC_V_BuenosAires)
-### RFU Championship
-
-[In depth model review and projections for RFU Championship 26/27](comp_files/RFU_Championship_2627)
-
-Competition Accuracy: 10 of 14 (71.43%)
-
-Competition Error: 18.08 points per match
-
-Last Two Week Accuracy: 10 of 14 (71.43%)
-
-Last Two Week Error: 18.08 points per match
-
-[2026/10/04 - Blackheath V Doncaster](projections/2026-10-04-Blackheath_V_Doncaster)
-
-[2026/10/03 - Rotherham Titans V Bedford](projections/2026-10-03-RotherhamTitans_V_Bedford)
-
-[2026/10/03 - Richmond V Worcester Warriors](projections/2026-10-03-Richmond_V_WorcesterWarriors)
-
-[2026/10/03 - Cornish Pirates V Ealing Trailfinders](projections/2026-10-03-CornishPirates_V_EalingTrailfinders)
-
-[2026/10/03 - Caldy V Chinnor](projections/2026-10-03-Caldy_V_Chinnor)
-
-[2026/10/02 - Nottingham V Coventry](projections/2026-10-02-Nottingham_V_Coventry)
-
-[2026/10/02 - Hartpury College RFC V Ampthill](projections/2026-10-02-HartpuryCollege_V_Ampthill)
 ### Pro D2
 
 [In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
 
 Competition Accuracy: 29 of 40 (72.5%)
 
-Competition Error: 12.97 points per match
+Competition Error: 12.96 points per match
 
-Last Two Week Accuracy: 11 of 16 (68.75%)
+Last Two Week Accuracy: 8 of 8 (100.0%)
 
-Last Two Week Error: 9.66 points per match
+Last Two Week Error: 7.74 points per match
 
 [2026/10/16 - USON Nevers V Agen](projections/2026-10-16-USONNevers_V_Agen)
 
@@ -319,13 +317,15 @@ Last Two Week Error: 9.66 points per match
 
 [2026/10/16 - Colomiers V Narbonne](projections/2026-10-16-Colomiers_V_Narbonne)
 
-[2026/10/16 - Brive V Grenoble](projections/2026-10-16-Brive_V_Grenoble)
-
 [2026/10/16 - Biarritz Olympique V Soyaux-Angouleme](projections/2026-10-16-BiarritzOlympique_V_Soyaux-Angouleme)
+
+[2026/10/16 - Brive V Grenoble](projections/2026-10-16-Brive_V_Grenoble)
 
 [2026/10/16 - Beziers V Aurillac](projections/2026-10-16-Beziers_V_Aurillac)
 
 [2026/10/09 - Valence Romans Drome Rugby V Beziers](projections/2026-10-09-ValenceRomansDromeRugby_V_Beziers)
+
+[2026/10/09 - Agen V Dax](projections/2026-10-09-Agen_V_Dax)
 
 [2026/10/09 - US Montauban V Brive](projections/2026-10-09-USMontauban_V_Brive)
 
@@ -338,21 +338,21 @@ Last Two Week Error: 9.66 points per match
 [2026/10/09 - Grenoble V Colomiers](projections/2026-10-09-Grenoble_V_Colomiers)
 
 [2026/10/09 - Aurillac V Biarritz Olympique](projections/2026-10-09-Aurillac_V_BiarritzOlympique)
-
-[2026/10/09 - Agen V Dax](projections/2026-10-09-Agen_V_Dax)
 ### Nationale
 
 [In depth model review and projections for Nationale 26/27](comp_files/Nationale_2627)
 
 Competition Accuracy: 26 of 35 (74.29%)
 
-Competition Error: 11.48 points per match
+Competition Error: 11.49 points per match
 
 Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 4.89 points per match
+Last Two Week Error: 4.9 points per match
 
-[2026/10/02 - Massy V Mont-de-Marsan](projections/2026-10-02-Massy_V_Mont-de-Marsan)
+[2026/10/02 - Rouen V Albi](projections/2026-10-02-Rouen_V_Albi)
+
+[2026/10/09 - Mont-de-Marsan V Chambery](projections/2026-10-09-Mont-de-Marsan_V_Chambery)
 
 [2026/10/09 - Carcassonne V Périgueux](projections/2026-10-09-Carcassonne_V_Perigueux)
 
@@ -364,23 +364,23 @@ Last Two Week Error: 4.89 points per match
 
 [2026/10/02 - US Bressane V Rennes](projections/2026-10-02-USBressane_V_Rennes)
 
-[2026/10/02 - Rouen V Albi](projections/2026-10-02-Rouen_V_Albi)
-
-[2026/10/02 - Marcq-en-Baroeul V Vienne](projections/2026-10-02-Marcq-en-Baroeul_V_Vienne)
-
-[2026/10/09 - Orleans V Bourgoin-Jallieu](projections/2026-10-09-Orleans_V_Bourgoin-Jallieu)
-
-[2026/10/02 - Chambery V Carcassonne](projections/2026-10-02-Chambery_V_Carcassonne)
-
-[2026/10/09 - Mont-de-Marsan V Chambery](projections/2026-10-09-Mont-de-Marsan_V_Chambery)
+[2026/10/02 - Massy V Mont-de-Marsan](projections/2026-10-02-Massy_V_Mont-de-Marsan)
 
 [2026/10/09 - US Bressane V Rouen](projections/2026-10-09-USBressane_V_Rouen)
 
-[2026/10/17 - Périgueux V Mont-de-Marsan](projections/2026-10-17-Perigueux_V_Mont-de-Marsan)
+[2026/10/02 - Marcq-en-Baroeul V Vienne](projections/2026-10-02-Marcq-en-Baroeul_V_Vienne)
 
-[2026/10/17 - Massy V Albi](projections/2026-10-17-Massy_V_Albi)
+[2026/10/02 - Chambery V Carcassonne](projections/2026-10-02-Chambery_V_Carcassonne)
+
+[2026/10/09 - Orleans V Bourgoin-Jallieu](projections/2026-10-09-Orleans_V_Bourgoin-Jallieu)
 
 [2026/10/10 - Rennes V Suresnes](projections/2026-10-10-Rennes_V_Suresnes)
+
+[2026/10/17 - Périgueux V Mont-de-Marsan](projections/2026-10-17-Perigueux_V_Mont-de-Marsan)
+
+[2026/10/10 - Vienne V Massy](projections/2026-10-10-Vienne_V_Massy)
+
+[2026/10/17 - Massy V Albi](projections/2026-10-17-Massy_V_Albi)
 
 [2026/10/16 - Suresnes V Orleans](projections/2026-10-16-Suresnes_V_Orleans)
 
@@ -391,5 +391,3 @@ Last Two Week Error: 4.89 points per match
 [2026/10/16 - Chambery V Vienne](projections/2026-10-16-Chambery_V_Vienne)
 
 [2026/10/16 - Bourgoin-Jallieu V Carcassonne](projections/2026-10-16-Bourgoin-Jallieu_V_Carcassonne)
-
-[2026/10/10 - Vienne V Massy](projections/2026-10-10-Vienne_V_Massy)

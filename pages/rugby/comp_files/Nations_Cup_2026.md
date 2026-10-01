@@ -1,6 +1,6 @@
 ---
 title: "Nations Cup 2026"
-date: 2026-09-28 6:00:00 -0500
+date: 2026-10-01 6:00:00 -0500
 categories: rugby model review projection
 layout: page
 aside:
@@ -42,12 +42,12 @@ aside:
 
 | Club                     |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-------------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| United States of America |         3 |            1.434 |                   -0.958 |                           0.461 |                              |                          6.355 |
-| Chile                    |         3 |            1.167 |                   -8.642 |                           0.616 |                              |                          5.446 |
-| Tonga                    |         3 |            1.087 |                  -16.588 |                           0.465 |                              |                          4.949 |
-| Uruguay                  |         3 |            0.953 |                  -15.587 |                           0.571 |                              |                          4.555 |
-| Canada                   |         3 |            0.949 |                  -22.834 |                           0.498 |                              |                          4.414 |
-| Samoa                    |         3 |            0.574 |                  -34.721 |                           0.468 |                              |                          2.882 |
+| United States of America |         3 |            1.463 |                   -0.518 |                           0.427 |                              |                          6.417 |
+| Chile                    |         3 |            1.133 |                   -9.5   |                           0.609 |                              |                          5.315 |
+| Tonga                    |         3 |            1.125 |                  -15.817 |                           0.472 |                              |                          5.102 |
+| Uruguay                  |         3 |            0.954 |                  -15.381 |                           0.627 |                              |                          4.587 |
+| Canada                   |         3 |            0.955 |                  -23.031 |                           0.467 |                              |                          4.427 |
+| Samoa                    |         3 |            0.54  |                  -34.576 |                           0.506 |                              |                          2.772 |
 
 
 
@@ -55,12 +55,12 @@ aside:
 
 | Club      |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:----------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Georgia   |         3 |            2.858 |                   58.799 |                           0.096 |                              |                         11.578 |
-| Portugal  |         3 |            2.451 |                   34.516 |                           0.336 |                              |                         10.28  |
-| Spain     |         3 |            2.206 |                   25.607 |                           0.412 |                              |                          9.4   |
-| Romania   |         3 |            1.576 |                    3.529 |                           0.627 |                              |                          7.139 |
-| Zimbabwe  |         3 |            1.423 |                   -1.173 |                           0.506 |                              |                          6.346 |
-| Hong Kong |         3 |            0.889 |                  -21.948 |                           0.562 |                              |                          4.274 |
+| Georgia   |         3 |            2.838 |                   58.491 |                           0.103 |                              |                         11.503 |
+| Portugal  |         3 |            2.483 |                   34.392 |                           0.295 |                              |                         10.345 |
+| Spain     |         3 |            2.234 |                   25.022 |                           0.416 |                              |                          9.494 |
+| Romania   |         3 |            1.521 |                    2.326 |                           0.686 |                              |                          6.978 |
+| Zimbabwe  |         3 |            1.444 |                    0.043 |                           0.486 |                              |                          6.426 |
+| Hong Kong |         3 |            0.894 |                  -21.451 |                           0.58  |                              |                          4.308 |
 
 
 
@@ -69,12 +69,12 @@ aside:
 
 | Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| United States of America |        6 |  4.434 |               23.042 |                 0.461 |                  2 |               20.355 |
-| Chile                    |        6 |  3.167 |                2.358 |                 0.616 |                  2 |               15.446 |
-| Tonga                    |        6 |  2.087 |              -23.588 |                 1.465 |                  2 |               11.949 |
-| Uruguay                  |        6 |  0.953 |              -24.587 |                 2.571 |                  3 |               11.555 |
-| Canada                   |        6 |  1.949 |              -42.834 |                 0.498 |                  1 |               11.414 |
-| Samoa                    |        6 |  1.574 |               -9.721 |                 1.468 |                  2 |                9.882 |
+| United States of America |        6 |  4.463 |               23.482 |                 0.427 |                  2 |               20.417 |
+| Chile                    |        6 |  3.133 |                1.5   |                 0.609 |                  2 |               15.315 |
+| Tonga                    |        6 |  2.125 |              -22.817 |                 1.472 |                  2 |               12.102 |
+| Uruguay                  |        6 |  0.954 |              -24.381 |                 2.627 |                  3 |               11.587 |
+| Canada                   |        6 |  1.955 |              -43.031 |                 0.467 |                  1 |               11.427 |
+| Samoa                    |        6 |  1.54  |               -9.576 |                 1.506 |                  2 |                9.772 |
 
 
 
@@ -82,12 +82,12 @@ aside:
 
 | Club      |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:----------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Georgia   |        6 |  5.858 |              113.799 |                 0.096 |                  2 |               25.578 |
-| Portugal  |        6 |  4.451 |               61.516 |                 1.336 |                  3 |               22.28  |
-| Spain     |        6 |  3.206 |               31.607 |                 1.412 |                  2 |               18.4   |
-| Romania   |        6 |  2.576 |              -12.471 |                 0.627 |                  3 |               16.139 |
-| Hong Kong |        6 |  1.889 |              -87.948 |                 0.562 |                  1 |                9.274 |
-| Zimbabwe  |        6 |  1.423 |              -31.173 |                 1.506 |                  1 |                8.346 |
+| Georgia   |        6 |  5.838 |              113.491 |                 0.103 |                  2 |               25.503 |
+| Portugal  |        6 |  4.483 |               61.392 |                 1.295 |                  3 |               22.345 |
+| Spain     |        6 |  3.234 |               31.022 |                 1.416 |                  2 |               18.494 |
+| Romania   |        6 |  2.521 |              -13.674 |                 0.686 |                  3 |               15.978 |
+| Hong Kong |        6 |  1.894 |              -87.451 |                 0.58  |                  1 |                9.308 |
+| Zimbabwe  |        6 |  1.444 |              -29.957 |                 1.486 |                  1 |                8.426 |
 
 
 
@@ -95,7 +95,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 61.1% | 15.2 |
+| Club Level | 58.3% | 11.7 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -112,24 +112,34 @@ Average Margin: Portugal by 16.4
 <img src="plots/2026-11-07-Portugal_V_Samoa_club_spreads.png" width="32%" />
 </p>
 
-#### Hong Kong V Canada on 2026/11/07
+#### Georgia V Tonga on 2026/11/07
 
-Average Margin: Canada by 4.7
+Average Margin: Georgia by 20.3
 
 <p float="left">
-<img src="plots/2026-11-07-HongKong_V_Canada_club_performances.png" width="32%" />
-<img src="plots/2026-11-07-HongKong_V_Canada_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-07-HongKong_V_Canada_club_spreads.png" width="32%" />
+<img src="plots/2026-11-07-Georgia_V_Tonga_club_performances.png" width="32%" />
+<img src="plots/2026-11-07-Georgia_V_Tonga_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-07-Georgia_V_Tonga_club_spreads.png" width="32%" />
 </p>
 
 #### Zimbabwe V Uruguay on 2026/11/07
 
-Average Margin: Uruguay by 2.5
+Average Margin: Uruguay by 1.3
 
 <p float="left">
 <img src="plots/2026-11-07-Zimbabwe_V_Uruguay_club_performances.png" width="32%" />
 <img src="plots/2026-11-07-Zimbabwe_V_Uruguay_club_resultbar.png" width="32%" />
 <img src="plots/2026-11-07-Zimbabwe_V_Uruguay_club_spreads.png" width="32%" />
+</p>
+
+#### Romania V United States of America on 2026/11/07
+
+Average Margin: United States of America by 3.4
+
+<p float="left">
+<img src="plots/2026-11-07-Romania_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
+<img src="plots/2026-11-07-Romania_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-07-Romania_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
 </p>
 
 #### Spain V Chile on 2026/11/07
@@ -142,60 +152,20 @@ Average Margin: Spain by 4.7
 <img src="plots/2026-11-07-Spain_V_Chile_club_spreads.png" width="32%" />
 </p>
 
-#### Georgia V Tonga on 2026/11/07
+#### Hong Kong V Canada on 2026/11/07
 
-Average Margin: Georgia by 20.4
-
-<p float="left">
-<img src="plots/2026-11-07-Georgia_V_Tonga_club_performances.png" width="32%" />
-<img src="plots/2026-11-07-Georgia_V_Tonga_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-07-Georgia_V_Tonga_club_spreads.png" width="32%" />
-</p>
-
-#### Romania V United States of America on 2026/11/07
-
-Average Margin: United States of America by 3.1
+Average Margin: Canada by 3.9
 
 <p float="left">
-<img src="plots/2026-11-07-Romania_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
-<img src="plots/2026-11-07-Romania_V_UnitedStatesofAmerica_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-07-Romania_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
+<img src="plots/2026-11-07-HongKong_V_Canada_club_performances.png" width="32%" />
+<img src="plots/2026-11-07-HongKong_V_Canada_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-07-HongKong_V_Canada_club_spreads.png" width="32%" />
 </p>
 
 ### Week 5
-#### Zimbabwe V Samoa on 2026/11/14
-
-Average Margin: Zimbabwe by 4.8
-
-<p float="left">
-<img src="plots/2026-11-14-Zimbabwe_V_Samoa_club_performances.png" width="32%" />
-<img src="plots/2026-11-14-Zimbabwe_V_Samoa_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-14-Zimbabwe_V_Samoa_club_spreads.png" width="32%" />
-</p>
-
-#### Georgia V Canada on 2026/11/14
-
-Average Margin: Georgia by 23.2
-
-<p float="left">
-<img src="plots/2026-11-14-Georgia_V_Canada_club_performances.png" width="32%" />
-<img src="plots/2026-11-14-Georgia_V_Canada_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-14-Georgia_V_Canada_club_spreads.png" width="32%" />
-</p>
-
-#### Romania V Tonga on 2026/11/14
-
-Average Margin: Romania by 2.4
-
-<p float="left">
-<img src="plots/2026-11-14-Romania_V_Tonga_club_performances.png" width="32%" />
-<img src="plots/2026-11-14-Romania_V_Tonga_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-14-Romania_V_Tonga_club_spreads.png" width="32%" />
-</p>
-
 #### Hong Kong V United States of America on 2026/11/14
 
-Average Margin: United States of America by 11.1
+Average Margin: United States of America by 11.3
 
 <p float="left">
 <img src="plots/2026-11-14-HongKong_V_UnitedStatesofAmerica_club_performances.png" width="32%" />
@@ -205,7 +175,7 @@ Average Margin: United States of America by 11.1
 
 #### Portugal V Chile on 2026/11/14
 
-Average Margin: Portugal by 7.5
+Average Margin: Portugal by 8.1
 
 <p float="left">
 <img src="plots/2026-11-14-Portugal_V_Chile_club_performances.png" width="32%" />
@@ -213,9 +183,39 @@ Average Margin: Portugal by 7.5
 <img src="plots/2026-11-14-Portugal_V_Chile_club_spreads.png" width="32%" />
 </p>
 
+#### Georgia V Canada on 2026/11/14
+
+Average Margin: Georgia by 23.0
+
+<p float="left">
+<img src="plots/2026-11-14-Georgia_V_Canada_club_performances.png" width="32%" />
+<img src="plots/2026-11-14-Georgia_V_Canada_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-14-Georgia_V_Canada_club_spreads.png" width="32%" />
+</p>
+
+#### Zimbabwe V Samoa on 2026/11/14
+
+Average Margin: Zimbabwe by 4.6
+
+<p float="left">
+<img src="plots/2026-11-14-Zimbabwe_V_Samoa_club_performances.png" width="32%" />
+<img src="plots/2026-11-14-Zimbabwe_V_Samoa_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-14-Zimbabwe_V_Samoa_club_spreads.png" width="32%" />
+</p>
+
+#### Romania V Tonga on 2026/11/14
+
+Average Margin: Romania by 1.7
+
+<p float="left">
+<img src="plots/2026-11-14-Romania_V_Tonga_club_performances.png" width="32%" />
+<img src="plots/2026-11-14-Romania_V_Tonga_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-14-Romania_V_Tonga_club_spreads.png" width="32%" />
+</p>
+
 #### Spain V Uruguay on 2026/11/14
 
-Average Margin: Spain by 7.5
+Average Margin: Spain by 6.8
 
 <p float="left">
 <img src="plots/2026-11-14-Spain_V_Uruguay_club_performances.png" width="32%" />
@@ -226,7 +226,7 @@ Average Margin: Spain by 7.5
 ### Week 6
 #### Romania V Canada on 2026/11/21
 
-Average Margin: Romania by 4.3
+Average Margin: Romania by 3.9
 
 <p float="left">
 <img src="plots/2026-11-21-Romania_V_Canada_club_performances.png" width="32%" />
@@ -234,14 +234,14 @@ Average Margin: Romania by 4.3
 <img src="plots/2026-11-21-Romania_V_Canada_club_spreads.png" width="32%" />
 </p>
 
-#### Zimbabwe V Chile on 2026/11/21
+#### Portugal V Uruguay on 2026/11/21
 
-Average Margin: Chile by 3.5
+Average Margin: Portugal by 9.9
 
 <p float="left">
-<img src="plots/2026-11-21-Zimbabwe_V_Chile_club_performances.png" width="32%" />
-<img src="plots/2026-11-21-Zimbabwe_V_Chile_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-21-Zimbabwe_V_Chile_club_spreads.png" width="32%" />
+<img src="plots/2026-11-21-Portugal_V_Uruguay_club_performances.png" width="32%" />
+<img src="plots/2026-11-21-Portugal_V_Uruguay_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-21-Portugal_V_Uruguay_club_spreads.png" width="32%" />
 </p>
 
 #### Georgia V United States of America on 2026/11/21
@@ -254,9 +254,19 @@ Average Margin: Georgia by 15.2
 <img src="plots/2026-11-21-Georgia_V_UnitedStatesofAmerica_club_spreads.png" width="32%" />
 </p>
 
+#### Spain V Samoa on 2026/11/21
+
+Average Margin: Spain by 13.5
+
+<p float="left">
+<img src="plots/2026-11-21-Spain_V_Samoa_club_performances.png" width="32%" />
+<img src="plots/2026-11-21-Spain_V_Samoa_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-21-Spain_V_Samoa_club_spreads.png" width="32%" />
+</p>
+
 #### Hong Kong V Tonga on 2026/11/21
 
-Average Margin: Tonga by 6.1
+Average Margin: Tonga by 6.2
 
 <p float="left">
 <img src="plots/2026-11-21-HongKong_V_Tonga_club_performances.png" width="32%" />
@@ -264,22 +274,12 @@ Average Margin: Tonga by 6.1
 <img src="plots/2026-11-21-HongKong_V_Tonga_club_spreads.png" width="32%" />
 </p>
 
-#### Portugal V Uruguay on 2026/11/21
+#### Zimbabwe V Chile on 2026/11/21
 
-Average Margin: Portugal by 10.5
-
-<p float="left">
-<img src="plots/2026-11-21-Portugal_V_Uruguay_club_performances.png" width="32%" />
-<img src="plots/2026-11-21-Portugal_V_Uruguay_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-21-Portugal_V_Uruguay_club_spreads.png" width="32%" />
-</p>
-
-#### Spain V Samoa on 2026/11/21
-
-Average Margin: Spain by 13.4
+Average Margin: Chile by 3.3
 
 <p float="left">
-<img src="plots/2026-11-21-Spain_V_Samoa_club_performances.png" width="32%" />
-<img src="plots/2026-11-21-Spain_V_Samoa_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-21-Spain_V_Samoa_club_spreads.png" width="32%" />
+<img src="plots/2026-11-21-Zimbabwe_V_Chile_club_performances.png" width="32%" />
+<img src="plots/2026-11-21-Zimbabwe_V_Chile_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-21-Zimbabwe_V_Chile_club_spreads.png" width="32%" />
 </p>
