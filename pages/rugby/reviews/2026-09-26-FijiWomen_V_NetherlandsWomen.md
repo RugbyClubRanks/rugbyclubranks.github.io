@@ -6,9 +6,9 @@ categories: rugby "WXV Global Series Challenger 2026" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Netherlands Women to win by 1.84, and Fiji Women won by 3.0. That's an absolute error of 4.8 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 77.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Netherlands Women to win by 3.32, and Fiji Women won by 3.0. That's an absolute error of 6.3 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 71.0% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 37.0. That's an absolute error of 13.5 compared to a six month average of 14.8. This prediction was more accurate than 45.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 37.0. That's an absolute error of 11.5 compared to a six month average of 14.8. This prediction was more accurate than 51.8% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">

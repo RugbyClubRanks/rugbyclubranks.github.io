@@ -6,7 +6,7 @@ categories: rugby "RFU Championship 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Blackheath to win by 26.42, and Caldy won by 4.0. That's an absolute error of 30.4 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 10.6% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Blackheath to win by 26.81, and Caldy won by 4.0. That's an absolute error of 30.8 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 10.2% of my recent predictions.
 
 For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 52.0. That's an absolute error of 0.5 compared to a six month average of 14.8. This prediction was more accurate than 97.7% of my recent predictions.
 ### Projected Performances - Club Model

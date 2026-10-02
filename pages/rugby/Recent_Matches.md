@@ -146,13 +146,13 @@ Last Two Week Error: 12.82 points per match
 
 [In depth model review and projections for NPC 2026](comp_files/NPC_2026)
 
-Competition Accuracy: 38 of 64 (59.38%)
+Competition Accuracy: 39 of 65 (60.0%)
 
-Competition Error: 15.49 points per match
+Competition Error: 15.31 points per match
 
-Last Two Week Accuracy: 3 of 8 (37.5%)
+Last Two Week Accuracy: 4 of 9 (44.44%)
 
-Last Two Week Error: 18.33 points per match
+Last Two Week Error: 16.73 points per match
 
 [2026/09/24, 45.0 to 26.0 - Tasman V Bay of Plenty, 45.0 to 26.0](reviews/2026-09-24-Tasman_V_BayofPlenty)
 
@@ -169,33 +169,8 @@ Last Two Week Error: 18.33 points per match
 [2026/09/27, 14.0 to 50.0 - Hawke's Bay V Taranaki, 14.0 to 50.0](reviews/2026-09-27-HawkesBay_V_Taranaki)
 
 [2026/10/01, 45.0 to 42.0 - Otago V Auckland, 45.0 to 42.0](reviews/2026-10-01-Otago_V_Auckland)
-### Pro D2
 
-[In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
-
-Competition Accuracy: 29 of 40 (72.5%)
-
-Competition Error: 12.96 points per match
-
-Last Two Week Accuracy: 8 of 8 (100.0%)
-
-Last Two Week Error: 7.74 points per match
-
-[2026/09/25, 34.0 to 24.0 - Beziers V Narbonne, 34.0 to 24.0](reviews/2026-09-25-Beziers_V_Narbonne)
-
-[2026/09/25, 45.0 to 17.0 - Dax V Nice, 45.0 to 17.0](reviews/2026-09-25-Dax_V_Nice)
-
-[2026/09/25, 56.0 to 35.0 - Oyonnax V USON Nevers, 56.0 to 35.0](reviews/2026-09-25-Oyonnax_V_USONNevers)
-
-[2026/09/25, 36.0 to 22.0 - Soyaux-Angouleme V Agen, 36.0 to 22.0](reviews/2026-09-25-Soyaux-Angouleme_V_Agen)
-
-[2026/09/25, 32.0 to 20.0 - Biarritz Olympique V US Montauban, 32.0 to 20.0](reviews/2026-09-25-BiarritzOlympique_V_USMontauban)
-
-[2026/09/25, 24.0 to 20.0 - Provence Rugby V Aurillac, 24.0 to 20.0](reviews/2026-09-25-ProvenceRugby_V_Aurillac)
-
-[2026/09/24, 41.0 to 26.0 - Brive V Colomiers, 41.0 to 26.0](reviews/2026-09-24-Brive_V_Colomiers)
-
-[2026/09/25, 20.0 to 17.0 - Grenoble V Valence Romans Drome Rugby, 20.0 to 17.0](reviews/2026-09-25-Grenoble_V_ValenceRomansDromeRugby)
+[2026/10/02, 14.0 to 28.0 - Southland V Northland, 14.0 to 28.0](reviews/2026-10-02-Southland_V_Northland)
 ### RFU Championship
 
 [In depth model review and projections for RFU Championship 26/27](comp_files/RFU_Championship_2627)
@@ -208,6 +183,8 @@ Last Two Week Accuracy: 5 of 7 (71.43%)
 
 Last Two Week Error: 21.38 points per match
 
+[2026/09/26, 78.0 to 12.0 - Worcester Warriors V Rotherham Titans, 78.0 to 12.0](reviews/2026-09-26-WorcesterWarriors_V_RotherhamTitans)
+
 [2026/09/25, 24.0 to 28.0 - Blackheath V Caldy, 24.0 to 28.0](reviews/2026-09-25-Blackheath_V_Caldy)
 
 [2026/09/26, 33.0 to 28.0 - Ampthill V Nottingham, 33.0 to 28.0](reviews/2026-09-26-Ampthill_V_Nottingham)
@@ -216,11 +193,36 @@ Last Two Week Error: 21.38 points per match
 
 [2026/09/26, 73.0 to 40.0 - Coventry V Cornish Pirates, 73.0 to 40.0](reviews/2026-09-26-Coventry_V_CornishPirates)
 
-[2026/09/26, 78.0 to 12.0 - Worcester Warriors V Rotherham Titans, 78.0 to 12.0](reviews/2026-09-26-WorcesterWarriors_V_RotherhamTitans)
-
 [2026/09/27, 29.0 to 15.0 - Doncaster V Hartpury College RFC, 29.0 to 15.0](reviews/2026-09-27-Doncaster_V_HartpuryCollege)
 
 [2026/09/27, 36.0 to 19.0 - Ealing Trailfinders V Richmond, 36.0 to 19.0](reviews/2026-09-27-EalingTrailfinders_V_Richmond)
+### Pro D2
+
+[In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
+
+Competition Accuracy: 29 of 40 (72.5%)
+
+Competition Error: 12.96 points per match
+
+Last Two Week Accuracy: 8 of 8 (100.0%)
+
+Last Two Week Error: 7.74 points per match
+
+[2026/09/25, 36.0 to 22.0 - Soyaux-Angouleme V Agen, 36.0 to 22.0](reviews/2026-09-25-Soyaux-Angouleme_V_Agen)
+
+[2026/09/25, 45.0 to 17.0 - Dax V Nice, 45.0 to 17.0](reviews/2026-09-25-Dax_V_Nice)
+
+[2026/09/25, 56.0 to 35.0 - Oyonnax V USON Nevers, 56.0 to 35.0](reviews/2026-09-25-Oyonnax_V_USONNevers)
+
+[2026/09/25, 34.0 to 24.0 - Beziers V Narbonne, 34.0 to 24.0](reviews/2026-09-25-Beziers_V_Narbonne)
+
+[2026/09/25, 32.0 to 20.0 - Biarritz Olympique V US Montauban, 32.0 to 20.0](reviews/2026-09-25-BiarritzOlympique_V_USMontauban)
+
+[2026/09/25, 24.0 to 20.0 - Provence Rugby V Aurillac, 24.0 to 20.0](reviews/2026-09-25-ProvenceRugby_V_Aurillac)
+
+[2026/09/25, 20.0 to 17.0 - Grenoble V Valence Romans Drome Rugby, 20.0 to 17.0](reviews/2026-09-25-Grenoble_V_ValenceRomansDromeRugby)
+
+[2026/09/24, 41.0 to 26.0 - Brive V Colomiers, 41.0 to 26.0](reviews/2026-09-24-Brive_V_Colomiers)
 ### URBA Top 14
 
 [In depth model review and projections for URBA Top 14 2026](comp_files/URBA_Top_14_2026)
@@ -231,7 +233,7 @@ Competition Error: 13.28 points per match
 
 Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 7.42 points per match
+Last Two Week Error: 7.4 points per match
 
 [2026/09/26, 20.0 to 30.0 - Los Tilos V SIC, 20.0 to 30.0](reviews/2026-09-26-LosTilos_V_SIC)
 

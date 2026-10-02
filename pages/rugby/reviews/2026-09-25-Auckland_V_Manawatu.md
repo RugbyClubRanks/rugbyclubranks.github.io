@@ -6,7 +6,7 @@ categories: rugby "NPC 2026" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Auckland to win by 9.64, and Manawatu won by 6.0. That's an absolute error of 15.6 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 38.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Auckland to win by 9.56, and Manawatu won by 6.0. That's an absolute error of 15.6 for the margin of victory, while my average absolute error has been 14.8 over the past six months. This prediction was more accurate than 38.6% of my recent predictions.
 
 For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 74.0. That's an absolute error of 21.5 compared to a six month average of 14.8. This prediction was more accurate than 23.4% of my recent predictions.
 ### Projected Performances - Club Model
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 52.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Auckland to win by 9.34,  and Manawatu won by 6.0. That's an absolute error of 15.3 for the margin of victory, while the average error as been 15.0 for the past six months. So this prediction was more accurate than 30.5% of my recent predictions.
+With the player model, I predicted Auckland to win by 9.43,  and Manawatu won by 6.0. That's an absolute error of 15.4 for the margin of victory, while the average error as been 15.0 for the past six months. So this prediction was more accurate than 30.2% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">
