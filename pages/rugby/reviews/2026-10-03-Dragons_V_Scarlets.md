@@ -6,9 +6,9 @@ categories: rugby "United Rugby Championship 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Dragons to win by 6.94, and Dragons won by 12.0. That's an absolute error of 5.1 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 76.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Dragons to win by 7.5, and Dragons won by 12.0. That's an absolute error of 4.5 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 78.7% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 64.0. That's an absolute error of 17.5 compared to a six month average of 14.9. This prediction was more accurate than 35.0% of my recent predictions.
+For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 64.0. That's an absolute error of 16.5 compared to a six month average of 14.9. This prediction was more accurate than 36.8% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 46.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Dragons to win by 4.96,  and Dragons won by 12.0. That's an absolute error of 7.0 for the margin of victory, while the average error as been 14.9 for the past six months. So this prediction was more accurate than 49.7% of my recent predictions.
+With the player model, I predicted Dragons to win by 7.22,  and Dragons won by 12.0. That's an absolute error of 4.8 for the margin of victory, while the average error as been 14.9 for the past six months. So this prediction was more accurate than 56.8% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

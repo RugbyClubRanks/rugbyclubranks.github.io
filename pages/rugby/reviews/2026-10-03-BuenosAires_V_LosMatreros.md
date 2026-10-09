@@ -6,9 +6,9 @@ categories: rugby "URBA Top 14 2026" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Buenos Aires to win by 22.92, and Buenos Aires won by 8.0. That's an absolute error of 14.9 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 39.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Buenos Aires to win by 22.81, and Buenos Aires won by 8.0. That's an absolute error of 14.8 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 39.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 65.5 and we have an actual total of 42.0. That's an absolute error of 23.5 compared to a six month average of 14.9. This prediction was more accurate than 20.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 63.5 and we have an actual total of 42.0. That's an absolute error of 21.5 compared to a six month average of 14.9. This prediction was more accurate than 23.9% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 65.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Buenos Aires to win by 11.97,  and Buenos Aires won by 8.0. That's an absolute error of 4.0 for the margin of victory, while the average error as been 14.9 for the past six months. So this prediction was more accurate than 60.5% of my recent predictions.
+With the player model, I predicted Buenos Aires to win by 11.26,  and Buenos Aires won by 8.0. That's an absolute error of 3.3 for the margin of victory, while the average error as been 14.9 for the past six months. So this prediction was more accurate than 62.9% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

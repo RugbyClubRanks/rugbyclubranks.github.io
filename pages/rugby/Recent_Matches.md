@@ -24,9 +24,9 @@ Competition Accuracy: 6 of 10 (60.0%)
 
 Competition Error: 15.48 points per match
 
-Last Two Week Accuracy: 6 of 10 (60.0%)
+Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 15.48 points per match
+Last Two Week Error: 14.97 points per match
 
 [2026/10/02, 40.0 to 34.0 - Bath Rugby V Exeter Chiefs, 40.0 to 34.0](reviews/2026-10-02-BathRugby_V_ExeterChiefs)
 
@@ -45,9 +45,9 @@ Competition Accuracy: 7 of 16 (43.75%)
 
 Competition Error: 8.35 points per match
 
-Last Two Week Accuracy: 7 of 16 (43.75%)
+Last Two Week Accuracy: 5 of 8 (62.5%)
 
-Last Two Week Error: 8.35 points per match
+Last Two Week Error: 4.97 points per match
 
 [2026/10/03, 35.0 to 19.0 - Lions V Ospreys, 35.0 to 19.0](reviews/2026-10-03-Lions_V_Ospreys)
 
@@ -72,9 +72,9 @@ Competition Accuracy: 27 of 35 (77.14%)
 
 Competition Error: 13.91 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 11.76 points per match
+Last Two Week Error: 10.53 points per match
 
 [2026/10/04, 28.0 to 0.0 - Montpellier Herault V Toulon, 28.0 to 0.0](reviews/2026-10-04-MontpellierHerault_V_Toulon)
 
@@ -94,27 +94,29 @@ Last Two Week Error: 11.76 points per match
 
 [In depth model review and projections for NPC 2026](comp_files/NPC_2026)
 
-Competition Accuracy: 50 of 77 (64.94%)
+Competition Accuracy: 51 of 78 (65.38%)
 
-Competition Error: 15.04 points per match
+Competition Error: 14.92 points per match
 
-Last Two Week Accuracy: 8 of 14 (57.14%)
+Last Two Week Accuracy: 5 of 8 (62.5%)
 
-Last Two Week Error: 16.01 points per match
+Last Two Week Error: 12.32 points per match
 
 [2026/10/01, 45.0 to 42.0 - Otago V Auckland, 45.0 to 42.0](reviews/2026-10-01-Otago_V_Auckland)
 
-[2026/10/02, 12.0 to 22.0 - Manawatu V Canterbury, 12.0 to 22.0](reviews/2026-10-02-Manawatu_V_Canterbury)
+[2026/10/02, 14.0 to 28.0 - Southland V Northland, 14.0 to 28.0](reviews/2026-10-02-Southland_V_Northland)
+
+[2026/10/09, 26.0 to 21.0 - Northland V Tasman, 26.0 to 21.0](reviews/2026-10-09-Northland_V_Tasman)
+
+[2026/10/04, 68.0 to 26.0 - Taranaki V Wellington, 68.0 to 26.0](reviews/2026-10-04-Taranaki_V_Wellington)
 
 [2026/10/04, 38.0 to 21.0 - Bay of Plenty V North Harbour, 38.0 to 21.0](reviews/2026-10-04-BayofPlenty_V_NorthHarbour)
-
-[2026/10/03, 68.0 to 26.0 - Taranaki V Wellington, 68.0 to 26.0](reviews/2026-10-03-Taranaki_V_Wellington)
 
 [2026/10/03, 33.0 to 50.0 - Waikato V Tasman, 33.0 to 50.0](reviews/2026-10-03-Waikato_V_Tasman)
 
 [2026/10/03, 12.0 to 7.0 - Counties Manukau V Hawke's Bay, 12.0 to 7.0](reviews/2026-10-03-CountiesManukau_V_HawkesBay)
 
-[2026/10/02, 14.0 to 28.0 - Southland V Northland, 14.0 to 28.0](reviews/2026-10-02-Southland_V_Northland)
+[2026/10/03, 12.0 to 22.0 - Manawatu V Canterbury, 12.0 to 22.0](reviews/2026-10-03-Manawatu_V_Canterbury)
 ### URBA Top 14
 
 [In depth model review and projections for URBA Top 14 2026](comp_files/URBA_Top_14_2026)
@@ -123,9 +125,9 @@ Competition Accuracy: 93 of 147 (63.27%)
 
 Competition Error: 13.59 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 13.63 points per match
+Last Two Week Error: 19.86 points per match
 
 [2026/10/03, 54.0 to 20.0 - Alumni V Atlético del Rosario, 54.0 to 20.0](reviews/2026-10-03-Alumni_V_AtleticodelRosario)
 
@@ -148,9 +150,9 @@ Competition Accuracy: 13 of 21 (61.9%)
 
 Competition Error: 16.44 points per match
 
-Last Two Week Accuracy: 8 of 14 (57.14%)
+Last Two Week Accuracy: 3 of 7 (42.86%)
 
-Last Two Week Error: 17.28 points per match
+Last Two Week Error: 13.17 points per match
 
 [2026/10/04, 33.0 to 26.0 - Blackheath V Doncaster, 33.0 to 26.0](reviews/2026-10-04-Blackheath_V_Doncaster)
 
@@ -165,6 +167,19 @@ Last Two Week Error: 17.28 points per match
 [2026/10/02, 26.0 to 64.0 - Nottingham V Coventry, 26.0 to 64.0](reviews/2026-10-02-Nottingham_V_Coventry)
 
 [2026/10/02, 24.0 to 33.0 - Hartpury College V Ampthill, 24.0 to 33.0](reviews/2026-10-02-HartpuryCollege_V_Ampthill)
+### Pro D2
+
+[In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
+
+Competition Accuracy: 31 of 42 (73.81%)
+
+Competition Error: 13.05 points per match
+
+Last Two Week Accuracy: 0 of 1 (0.0%)
+
+Last Two Week Error: 13.03 points per match
+
+[2026/10/08, 32.0 to 24.0 - US Montauban V Brive, 32.0 to 24.0](reviews/2026-10-08-USMontauban_V_Brive)
 ### Nationale
 
 [In depth model review and projections for Nationale 26/27](comp_files/Nationale_2627)
@@ -173,9 +188,9 @@ Competition Accuracy: 31 of 42 (73.81%)
 
 Competition Error: 10.6 points per match
 
-Last Two Week Accuracy: 10 of 14 (71.43%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 5.53 points per match
+Last Two Week Error: 6.17 points per match
 
 [2026/10/03, 34.0 to 12.0 - Bourgoin-Jallieu V Suresnes, 34.0 to 12.0](reviews/2026-10-03-Bourgoin-Jallieu_V_Suresnes)
 

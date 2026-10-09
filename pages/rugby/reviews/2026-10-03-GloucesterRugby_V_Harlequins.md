@@ -6,7 +6,7 @@ categories: rugby "Gallagher Premiership 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Gloucester Rugby to win by 5.66, and Gloucester Rugby won by 48.0. That's an absolute error of 42.3 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 3.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Gloucester Rugby to win by 5.76, and Gloucester Rugby won by 48.0. That's an absolute error of 42.2 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 3.2% of my recent predictions.
 
 For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 48.0. That's an absolute error of 4.5 compared to a six month average of 14.9. This prediction was more accurate than 80.9% of my recent predictions.
 ### Projected Performances - Club Model
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 52.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Gloucester Rugby to win by 7.14,  and Gloucester Rugby won by 48.0. That's an absolute error of 40.9 for the margin of victory, while the average error as been 14.9 for the past six months. So this prediction was more accurate than 3.2% of my recent predictions.
+With the player model, I predicted Gloucester Rugby to win by 10.19,  and Gloucester Rugby won by 48.0. That's an absolute error of 37.8 for the margin of victory, while the average error as been 14.9 for the past six months. So this prediction was more accurate than 4.9% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

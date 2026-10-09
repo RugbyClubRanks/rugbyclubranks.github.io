@@ -6,7 +6,7 @@ categories: rugby "United Rugby Championship 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Stormers to win by 3.3, and Edinburgh won by 4.0. That's an absolute error of 7.3 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 65.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Stormers to win by 3.5, and Edinburgh won by 4.0. That's an absolute error of 7.5 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 64.7% of my recent predictions.
 
 For the Over/Under model, I predicted a total of 45.5 and we have an actual total of 30.0. That's an absolute error of 15.5 compared to a six month average of 14.9. This prediction was more accurate than 39.3% of my recent predictions.
 ### Projected Performances - Club Model
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 45.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Stormers to win by 3.92,  and Edinburgh won by 4.0. That's an absolute error of 7.9 for the margin of victory, while the average error as been 14.9 for the past six months. So this prediction was more accurate than 46.5% of my recent predictions.
+With the player model, I predicted Stormers to win by 3.52,  and Edinburgh won by 4.0. That's an absolute error of 7.5 for the margin of victory, while the average error as been 14.9 for the past six months. So this prediction was more accurate than 47.9% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

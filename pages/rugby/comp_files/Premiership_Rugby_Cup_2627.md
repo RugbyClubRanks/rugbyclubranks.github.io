@@ -1,6 +1,6 @@
 ---
 title: "Premiership Rugby Cup 26/27"
-date: 2026-10-05 6:00:00 -0500
+date: 2026-10-09 6:00:00 -0500
 categories: rugby model review projection
 layout: page
 aside:

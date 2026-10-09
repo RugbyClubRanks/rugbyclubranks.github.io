@@ -6,9 +6,9 @@ categories: rugby "United Rugby Championship 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Cardiff Rugby to win by 12.63, and Cardiff Rugby won by 13.0. That's an absolute error of 0.4 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 98.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Cardiff Rugby to win by 12.23, and Cardiff Rugby won by 13.0. That's an absolute error of 0.8 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 96.0% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 44.5 and we have an actual total of 67.0. That's an absolute error of 22.5 compared to a six month average of 14.9. This prediction was more accurate than 22.2% of my recent predictions.
+For the Over/Under model, I predicted a total of 45.5 and we have an actual total of 67.0. That's an absolute error of 21.5 compared to a six month average of 14.9. This prediction was more accurate than 23.9% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">

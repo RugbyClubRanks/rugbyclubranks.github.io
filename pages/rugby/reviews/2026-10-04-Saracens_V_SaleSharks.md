@@ -6,7 +6,7 @@ categories: rugby "Gallagher Premiership 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Saracens to win by 11.91, and Sale Sharks won by 4.0. That's an absolute error of 15.9 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 36.6% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Saracens to win by 11.84, and Sale Sharks won by 4.0. That's an absolute error of 15.8 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 36.7% of my recent predictions.
 
 For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 38.0. That's an absolute error of 11.5 compared to a six month average of 14.9. This prediction was more accurate than 52.9% of my recent predictions.
 ### Projected Performances - Club Model
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 49.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Saracens to win by 5.86,  and Sale Sharks won by 4.0. That's an absolute error of 9.9 for the margin of victory, while the average error as been 14.9 for the past six months. So this prediction was more accurate than 40.9% of my recent predictions.
+With the player model, I predicted Saracens to win by 6.33,  and Sale Sharks won by 4.0. That's an absolute error of 10.3 for the margin of victory, while the average error as been 14.9 for the past six months. So this prediction was more accurate than 39.8% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">
