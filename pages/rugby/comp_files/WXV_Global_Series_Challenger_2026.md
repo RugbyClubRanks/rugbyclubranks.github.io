@@ -1,6 +1,6 @@
 ---
 title: "WXV Global Series Challenger 2026"
-date: 2026-10-09 6:00:00 -0500
+date: 2026-10-12 6:00:00 -0500
 categories: rugby model review projection
 layout: page
 aside:
@@ -27,7 +27,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 50.0% | 19.2 |
+| Club Level | 50.0% | 19.4 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 

@@ -9,16 +9,16 @@ header:
   pattern_class: pattern-rugby
 widget1:
   title: "Current Predictions"
-  url: '/pages/rugby/Current_Projections/'
+  url: '/pages/rugby/Current_Projections'
   #image: widget-1-302x182.jpg
   text: 'All the ongoing competitions'
 widget2:
   title: "Player and Club Rankings"
-  url: '/pages/rugby/player_rankings/'
+  url: '/pages/rugby/player_rankings'
   text: 'Ranks for all clubs, and all players'
 widget3:
   title: "Model Accuracies"
-  url: '/pages/rugby/accuracy_page/'
+  url: '/pages/rugby/accuracy_page'
   #image: widget-github-303x182.jpg
   text: 'Deep dive into the rugby models'
 #
