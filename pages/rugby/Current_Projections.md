@@ -22,7 +22,7 @@ categories: rugby
 
 Competition Accuracy: 10 of 15 (66.67%)
 
-Competition Error: 9.82 points per match
+Competition Error: 9.83 points per match
 
 Last Two Week Accuracy: 1 of 1 (100.0%)
 
@@ -88,9 +88,9 @@ Competition Accuracy: 32 of 42 (76.19%)
 
 Competition Error: 12.68 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 8.53 points per match
+Last Two Week Error: 6.53 points per match
 
 [2026/10/23 - La Rochelle V Bordeaux Begles](projections/2026-10-23-LaRochelle_V_BordeauxBegles)
 
@@ -148,9 +148,9 @@ Competition Accuracy: 11 of 15 (73.33%)
 
 Competition Error: 13.61 points per match
 
-Last Two Week Accuracy: 9 of 10 (90.0%)
+Last Two Week Accuracy: 5 of 5 (100.0%)
 
-Last Two Week Error: 12.43 points per match
+Last Two Week Error: 9.88 points per match
 
 [2026/11/01 - Sale Sharks V Harlequins](projections/2026-11-01-SaleSharks_V_Harlequins)
 
@@ -181,11 +181,11 @@ Last Two Week Error: 12.43 points per match
 
 Competition Accuracy: 13 of 24 (54.17%)
 
-Competition Error: 9.58 points per match
+Competition Error: 9.57 points per match
 
-Last Two Week Accuracy: 11 of 16 (68.75%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 8.5 points per match
+Last Two Week Error: 12.03 points per match
 
 [2026/10/24 - Stormers V Scarlets](projections/2026-10-24-Stormers_V_Scarlets)
 
@@ -275,24 +275,24 @@ Competition Accuracy: 53 of 81 (65.43%)
 
 Competition Error: 15.33 points per match
 
-Last Two Week Accuracy: 7 of 11 (63.64%)
+Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 16.01 points per match
+Last Two Week Error: 20.82 points per match
 
 [2026/10/16 - Northland V Otago](projections/2026-10-16-Northland_V_Otago)
 
-[2026/10/17 - Canterbury V Taranaki](projections/2026-10-17-Canterbury_V_Taranaki)
+[2026/10/18 - Canterbury V Taranaki](projections/2026-10-18-Canterbury_V_Taranaki)
 ### Pro D2
 
 [In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
 
 Competition Accuracy: 38 of 49 (77.55%)
 
-Competition Error: 13.11 points per match
+Competition Error: 13.12 points per match
 
 Last Two Week Accuracy: 7 of 8 (87.5%)
 
-Last Two Week Error: 13.45 points per match
+Last Two Week Error: 13.46 points per match
 
 [2026/10/23 - Valence Romans Drome Rugby V Colomiers](projections/2026-10-23-ValenceRomansDromeRugby_V_Colomiers)
 
@@ -349,9 +349,9 @@ Competition Accuracy: 19 of 28 (67.86%)
 
 Competition Error: 17.46 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 16.85 points per match
+Last Two Week Error: 20.53 points per match
 
 [2026/10/16 - Nottingham V Bedford](projections/2026-10-16-Nottingham_V_Bedford)
 
@@ -386,11 +386,11 @@ Last Two Week Error: 16.85 points per match
 
 Competition Accuracy: 97 of 154 (62.99%)
 
-Competition Error: 13.77 points per match
+Competition Error: 13.78 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 18.8 points per match
+Last Two Week Error: 17.77 points per match
 
 [2026/10/17 - Alumni V CASI](projections/2026-10-17-Alumni_V_CASI)
 
@@ -411,11 +411,11 @@ Last Two Week Error: 18.8 points per match
 
 Competition Accuracy: 37 of 49 (75.51%)
 
-Competition Error: 11.26 points per match
+Competition Error: 11.25 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 10.68 points per match
+Last Two Week Error: 15.18 points per match
 
 [2026/10/16 - Bourgoin-Jallieu V Carcassonne](projections/2026-10-16-Bourgoin-Jallieu_V_Carcassonne)
 

@@ -6,9 +6,9 @@ categories: rugby "Gallagher Premiership 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Saracens to win by 10.12, and Saracens won by 23.0. That's an absolute error of 12.9 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 46.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Saracens to win by 10.18, and Saracens won by 23.0. That's an absolute error of 12.8 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 47.2% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 37.0. That's an absolute error of 16.5 compared to a six month average of 14.9. This prediction was more accurate than 36.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 37.0. That's an absolute error of 15.5 compared to a six month average of 14.8. This prediction was more accurate than 39.0% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">

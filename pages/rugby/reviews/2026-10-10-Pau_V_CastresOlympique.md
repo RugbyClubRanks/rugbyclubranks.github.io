@@ -6,9 +6,9 @@ categories: rugby "Top 14 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Pau to win by 11.48, and Pau won by 9.0. That's an absolute error of 2.5 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 87.6% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Pau to win by 11.3, and Pau won by 9.0. That's an absolute error of 2.3 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 88.0% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 61.0. That's an absolute error of 11.5 compared to a six month average of 14.9. This prediction was more accurate than 52.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 61.0. That's an absolute error of 11.5 compared to a six month average of 14.8. This prediction was more accurate than 52.7% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">

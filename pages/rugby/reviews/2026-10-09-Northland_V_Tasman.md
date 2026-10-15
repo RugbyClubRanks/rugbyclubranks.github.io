@@ -6,9 +6,9 @@ categories: rugby "NPC 2026" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Northland to win by 10.4, and Northland won by 5.0. That's an absolute error of 5.4 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 75.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Northland to win by 10.54, and Northland won by 5.0. That's an absolute error of 5.5 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 74.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 47.0. That's an absolute error of 3.5 compared to a six month average of 14.9. This prediction was more accurate than 85.6% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 47.0. That's an absolute error of 4.5 compared to a six month average of 14.8. This prediction was more accurate than 80.4% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">

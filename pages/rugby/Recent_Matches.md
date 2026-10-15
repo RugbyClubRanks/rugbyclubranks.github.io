@@ -22,7 +22,7 @@ categories: rugby
 
 Competition Accuracy: 10 of 15 (66.67%)
 
-Competition Error: 9.82 points per match
+Competition Error: 9.83 points per match
 
 Last Two Week Accuracy: 1 of 1 (100.0%)
 
@@ -38,9 +38,9 @@ Competition Accuracy: 11 of 15 (73.33%)
 
 Competition Error: 13.61 points per match
 
-Last Two Week Accuracy: 9 of 10 (90.0%)
+Last Two Week Accuracy: 5 of 5 (100.0%)
 
-Last Two Week Error: 12.43 points per match
+Last Two Week Error: 9.88 points per match
 
 [2026/10/09, 38.0 to 31.0 - Leicester Tigers V Gloucester Rugby, 38.0 to 31.0](reviews/2026-10-09-LeicesterTigers_V_GloucesterRugby)
 
@@ -57,11 +57,11 @@ Last Two Week Error: 12.43 points per match
 
 Competition Accuracy: 13 of 24 (54.17%)
 
-Competition Error: 9.58 points per match
+Competition Error: 9.57 points per match
 
-Last Two Week Accuracy: 11 of 16 (68.75%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 8.5 points per match
+Last Two Week Error: 12.03 points per match
 
 [2026/10/10, 39.0 to 22.0 - Stormers V Sharks, 39.0 to 22.0](reviews/2026-10-10-Stormers_V_Sharks)
 
@@ -86,9 +86,9 @@ Competition Accuracy: 32 of 42 (76.19%)
 
 Competition Error: 12.68 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 8.53 points per match
+Last Two Week Error: 6.53 points per match
 
 [2026/10/11, 45.0 to 34.0 - Stade Toulousain V Bayonne, 45.0 to 34.0](reviews/2026-10-11-StadeToulousain_V_Bayonne)
 
@@ -127,28 +127,28 @@ Competition Accuracy: 53 of 81 (65.43%)
 
 Competition Error: 15.33 points per match
 
-Last Two Week Accuracy: 7 of 11 (63.64%)
+Last Two Week Accuracy: 3 of 4 (75.0%)
 
-Last Two Week Error: 16.01 points per match
+Last Two Week Error: 20.82 points per match
 
 [2026/10/09, 26.0 to 21.0 - Northland V Tasman, 26.0 to 21.0](reviews/2026-10-09-Northland_V_Tasman)
 
-[2026/10/09, 31.0 to 50.0 - North Harbour V Taranaki, 31.0 to 50.0](reviews/2026-10-09-NorthHarbour_V_Taranaki)
+[2026/10/10, 31.0 to 50.0 - North Harbour V Taranaki, 31.0 to 50.0](reviews/2026-10-10-NorthHarbour_V_Taranaki)
 
-[2026/10/10, 62.0 to 26.0 - Canterbury V Waikato, 62.0 to 26.0](reviews/2026-10-10-Canterbury_V_Waikato)
+[2026/10/11, 62.0 to 26.0 - Canterbury V Waikato, 62.0 to 26.0](reviews/2026-10-11-Canterbury_V_Waikato)
 
-[2026/10/09, 50.0 to 14.0 - Otago V Hawke's Bay, 50.0 to 14.0](reviews/2026-10-09-Otago_V_HawkesBay)
+[2026/10/10, 50.0 to 14.0 - Otago V Hawke's Bay, 50.0 to 14.0](reviews/2026-10-10-Otago_V_HawkesBay)
 ### Pro D2
 
 [In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
 
 Competition Accuracy: 38 of 49 (77.55%)
 
-Competition Error: 13.11 points per match
+Competition Error: 13.12 points per match
 
 Last Two Week Accuracy: 7 of 8 (87.5%)
 
-Last Two Week Error: 13.45 points per match
+Last Two Week Error: 13.46 points per match
 
 [2026/10/09, 49.0 to 30.0 - Agen V Dax, 49.0 to 30.0](reviews/2026-10-09-Agen_V_Dax)
 
@@ -171,11 +171,11 @@ Last Two Week Error: 13.45 points per match
 
 Competition Accuracy: 97 of 154 (62.99%)
 
-Competition Error: 13.77 points per match
+Competition Error: 13.78 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 18.8 points per match
+Last Two Week Error: 17.77 points per match
 
 [2026/10/10, 31.0 to 55.0 - Buenos Aires V Belgrano AC, 31.0 to 55.0](reviews/2026-10-10-BuenosAires_V_BelgranoAC)
 
@@ -198,11 +198,11 @@ Competition Accuracy: 19 of 28 (67.86%)
 
 Competition Error: 17.46 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 16.85 points per match
+Last Two Week Error: 20.53 points per match
 
-[2026/10/11, 71.0 to 7.0 - Ealing Trailfinders V Hartpury College, 71.0 to 7.0](reviews/2026-10-11-EalingTrailfinders_V_HartpuryCollege)
+[2026/10/11, 71.0 to 7.0 - Ealing Trailfinders V Hartpury College RFC, 71.0 to 7.0](reviews/2026-10-11-EalingTrailfinders_V_HartpuryCollege)
 
 [2026/10/10, 49.0 to 24.0 - Worcester Warriors V Nottingham, 49.0 to 24.0](reviews/2026-10-10-WorcesterWarriors_V_Nottingham)
 
@@ -221,11 +221,11 @@ Last Two Week Error: 16.85 points per match
 
 Competition Accuracy: 37 of 49 (75.51%)
 
-Competition Error: 11.26 points per match
+Competition Error: 11.25 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 10.68 points per match
+Last Two Week Error: 15.18 points per match
 
 [2026/10/10, 18.0 to 13.0 - Rennes V Suresnes, 18.0 to 13.0](reviews/2026-10-10-Rennes_V_Suresnes)
 
