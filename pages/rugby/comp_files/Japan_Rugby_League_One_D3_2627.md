@@ -1,6 +1,6 @@
 ---
 title: "Japan Rugby League One D3 26/27"
-date: 2026-10-15 6:00:00 -0500
+date: 2026-10-16 6:00:00 -0500
 categories: rugby model review projection
 layout: page
 aside:
@@ -14,12 +14,12 @@ aside:
 
 | Club                  |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:----------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Kamaishi Seawaves     |         1 |            0.971 |                   20.903 |                           0.023 |                              |                          3.913 |
-| Hino Red Dolphins     |         1 |            0.714 |                    6.953 |                           0.159 |                              |                          3.095 |
-| LeRIRO Fukuoka        |         1 |            0.522 |                    1.374 |                           0.187 |                              |                          2.341 |
-| Yakult Levins Toda    |         1 |            0.445 |                   -1.374 |                           0.208 |                              |                          2.054 |
-| Kurita Water Gush     |         1 |            0.246 |                   -6.953 |                           0.238 |                              |                          1.302 |
-| Chugoku Red Regulions |         1 |            0.026 |                  -20.903 |                           0.061 |                              |                          0.171 |
+| Kamaishi Seawaves     |         1 |            0.979 |                   20.219 |                           0.017 |                              |                          3.935 |
+| Hino Red Dolphins     |         1 |            0.754 |                    7.734 |                           0.146 |                              |                          3.214 |
+| LeRIRO Fukuoka        |         1 |            0.56  |                    2.774 |                           0.177 |                              |                          2.463 |
+| Yakult Levins Toda    |         1 |            0.417 |                   -2.774 |                           0.186 |                              |                          1.9   |
+| Kurita Water Gush     |         1 |            0.22  |                   -7.734 |                           0.254 |                              |                          1.186 |
+| Chugoku Red Regulions |         1 |            0.02  |                  -20.219 |                           0.086 |                              |                          0.168 |
 
 
 
@@ -27,12 +27,12 @@ aside:
 
 | Club                  |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:----------------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| Kamaishi Seawaves     |        1 |  0.971 |               20.903 |                 0.023 |                    |                3.913 |
-| Hino Red Dolphins     |        1 |  0.714 |                6.953 |                 0.159 |                    |                3.095 |
-| LeRIRO Fukuoka        |        1 |  0.522 |                1.374 |                 0.187 |                    |                2.341 |
-| Yakult Levins Toda    |        1 |  0.445 |               -1.374 |                 0.208 |                    |                2.054 |
-| Kurita Water Gush     |        1 |  0.246 |               -6.953 |                 0.238 |                    |                1.302 |
-| Chugoku Red Regulions |        1 |  0.026 |              -20.903 |                 0.061 |                    |                0.171 |
+| Kamaishi Seawaves     |        1 |  0.979 |               20.219 |                 0.017 |                    |                3.935 |
+| Hino Red Dolphins     |        1 |  0.754 |                7.734 |                 0.146 |                    |                3.214 |
+| LeRIRO Fukuoka        |        1 |  0.56  |                2.774 |                 0.177 |                    |                2.463 |
+| Yakult Levins Toda    |        1 |  0.417 |               -2.774 |                 0.186 |                    |                1.9   |
+| Kurita Water Gush     |        1 |  0.22  |               -7.734 |                 0.254 |                    |                1.186 |
+| Chugoku Red Regulions |        1 |  0.02  |              -20.219 |                 0.086 |                    |                0.168 |
 
 
 
@@ -40,7 +40,7 @@ aside:
 ### Week 1
 #### Kurita Water Gush V Hino Red Dolphins on 2026/12/12
 
-Average Margin: Hino Red Dolphins by 7.0
+Average Margin: Hino Red Dolphins by 7.7
 
 <p float="left">
 <img src="plots/2026-12-12-KuritaWaterGush_V_HinoRedDolphins_club_performances.png" width="32%" />
@@ -50,7 +50,7 @@ Average Margin: Hino Red Dolphins by 7.0
 
 #### Kamaishi Seawaves V Chugoku Red Regulions on 2026/12/12
 
-Average Margin: Kamaishi Seawaves by 20.9
+Average Margin: Kamaishi Seawaves by 20.2
 
 <p float="left">
 <img src="plots/2026-12-12-KamaishiSeawaves_V_ChugokuRedRegulions_club_performances.png" width="32%" />
@@ -60,7 +60,7 @@ Average Margin: Kamaishi Seawaves by 20.9
 
 #### LeRIRO Fukuoka V Yakult Levins Toda on 2026/12/13
 
-Average Margin: LeRIRO Fukuoka by 1.4
+Average Margin: LeRIRO Fukuoka by 2.8
 
 <p float="left">
 <img src="plots/2026-12-13-LeRIROFukuoka_V_YakultLevinsToda_club_performances.png" width="32%" />

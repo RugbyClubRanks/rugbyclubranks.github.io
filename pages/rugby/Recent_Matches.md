@@ -57,7 +57,7 @@ Last Two Week Error: 9.88 points per match
 
 Competition Accuracy: 13 of 24 (54.17%)
 
-Competition Error: 9.57 points per match
+Competition Error: 9.58 points per match
 
 Last Two Week Accuracy: 6 of 8 (75.0%)
 
@@ -123,36 +123,63 @@ Last Two Week Error: 24.64 points per match
 
 [In depth model review and projections for NPC 2026](comp_files/NPC_2026)
 
-Competition Accuracy: 53 of 81 (65.43%)
+Competition Accuracy: 54 of 82 (65.85%)
 
-Competition Error: 15.33 points per match
+Competition Error: 15.32 points per match
 
-Last Two Week Accuracy: 3 of 4 (75.0%)
+Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 20.82 points per match
+Last Two Week Error: 19.51 points per match
 
 [2026/10/09, 26.0 to 21.0 - Northland V Tasman, 26.0 to 21.0](reviews/2026-10-09-Northland_V_Tasman)
 
-[2026/10/10, 31.0 to 50.0 - North Harbour V Taranaki, 31.0 to 50.0](reviews/2026-10-10-NorthHarbour_V_Taranaki)
+[2026/10/09, 31.0 to 50.0 - North Harbour V Taranaki, 31.0 to 50.0](reviews/2026-10-09-NorthHarbour_V_Taranaki)
 
-[2026/10/11, 62.0 to 26.0 - Canterbury V Waikato, 62.0 to 26.0](reviews/2026-10-11-Canterbury_V_Waikato)
+[2026/10/16, 38.0 to 19.0 - Northland V Otago, 38.0 to 19.0](reviews/2026-10-16-Northland_V_Otago)
 
-[2026/10/10, 50.0 to 14.0 - Otago V Hawke's Bay, 50.0 to 14.0](reviews/2026-10-10-Otago_V_HawkesBay)
+[2026/10/10, 62.0 to 26.0 - Canterbury V Waikato, 62.0 to 26.0](reviews/2026-10-10-Canterbury_V_Waikato)
+
+[2026/10/09, 50.0 to 14.0 - Otago V Hawke's Bay, 50.0 to 14.0](reviews/2026-10-09-Otago_V_HawkesBay)
+### RFU Championship
+
+[In depth model review and projections for RFU Championship 26/27](comp_files/RFU_Championship_2627)
+
+Competition Accuracy: 19 of 28 (67.86%)
+
+Competition Error: 17.46 points per match
+
+Last Two Week Accuracy: 6 of 7 (85.71%)
+
+Last Two Week Error: 20.53 points per match
+
+[2026/10/10, 49.0 to 24.0 - Worcester Warriors V Nottingham, 49.0 to 24.0](reviews/2026-10-10-WorcesterWarriors_V_Nottingham)
+
+[2026/10/09, 38.0 to 36.0 - Coventry V Blackheath, 38.0 to 36.0](reviews/2026-10-09-Coventry_V_Blackheath)
+
+[2026/10/09, 41.0 to 26.0 - Rotherham Titans V Caldy, 41.0 to 26.0](reviews/2026-10-09-RotherhamTitans_V_Caldy)
+
+[2026/10/10, 26.0 to 56.0 - Ampthill V Doncaster, 26.0 to 56.0](reviews/2026-10-10-Ampthill_V_Doncaster)
+
+[2026/10/10, 38.0 to 14.0 - Bedford V Cornish Pirates, 38.0 to 14.0](reviews/2026-10-10-Bedford_V_CornishPirates)
+
+[2026/10/10, 40.0 to 24.0 - Chinnor V Richmond, 40.0 to 24.0](reviews/2026-10-10-Chinnor_V_Richmond)
+
+[2026/10/11, 71.0 to 7.0 - Ealing Trailfinders V Hartpury College RFC, 71.0 to 7.0](reviews/2026-10-11-EalingTrailfinders_V_HartpuryCollege)
 ### Pro D2
 
 [In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
 
 Competition Accuracy: 38 of 49 (77.55%)
 
-Competition Error: 13.12 points per match
+Competition Error: 13.11 points per match
 
 Last Two Week Accuracy: 7 of 8 (87.5%)
 
-Last Two Week Error: 13.46 points per match
-
-[2026/10/09, 49.0 to 30.0 - Agen V Dax, 49.0 to 30.0](reviews/2026-10-09-Agen_V_Dax)
+Last Two Week Error: 13.45 points per match
 
 [2026/10/09, 52.0 to 33.0 - Aurillac V Biarritz Olympique, 52.0 to 33.0](reviews/2026-10-09-Aurillac_V_BiarritzOlympique)
+
+[2026/10/09, 49.0 to 30.0 - Agen V Dax, 49.0 to 30.0](reviews/2026-10-09-Agen_V_Dax)
 
 [2026/10/09, 47.0 to 20.0 - Valence Romans Drome Rugby V Beziers, 47.0 to 20.0](reviews/2026-10-09-ValenceRomansDromeRugby_V_Beziers)
 
@@ -171,50 +198,25 @@ Last Two Week Error: 13.46 points per match
 
 Competition Accuracy: 97 of 154 (62.99%)
 
-Competition Error: 13.78 points per match
+Competition Error: 13.77 points per match
 
 Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 17.77 points per match
-
-[2026/10/10, 31.0 to 55.0 - Buenos Aires V Belgrano AC, 31.0 to 55.0](reviews/2026-10-10-BuenosAires_V_BelgranoAC)
-
-[2026/10/10, 30.0 to 44.0 - CUBA V SIC, 30.0 to 44.0](reviews/2026-10-10-CUBA_V_SIC)
-
-[2026/10/10, 27.0 to 37.0 - CASI V Newman, 27.0 to 37.0](reviews/2026-10-10-CASI_V_Newman)
-
-[2026/10/10, 23.0 to 7.0 - Los Matreros V La Plata, 23.0 to 7.0](reviews/2026-10-10-LosMatreros_V_LaPlata)
-
-[2026/10/10, 12.0 to 31.0 - Los Tilos V Alumni, 12.0 to 31.0](reviews/2026-10-10-LosTilos_V_Alumni)
+Last Two Week Error: 17.75 points per match
 
 [2026/10/10, 10.0 to 40.0 - Regatas Bella Vista V Hindu, 10.0 to 40.0](reviews/2026-10-10-RegatasBellaVista_V_Hindu)
 
+[2026/10/10, 12.0 to 31.0 - Los Tilos V Alumni, 12.0 to 31.0](reviews/2026-10-10-LosTilos_V_Alumni)
+
+[2026/10/10, 23.0 to 7.0 - Los Matreros V La Plata, 23.0 to 7.0](reviews/2026-10-10-LosMatreros_V_LaPlata)
+
+[2026/10/10, 27.0 to 37.0 - CASI V Newman, 27.0 to 37.0](reviews/2026-10-10-CASI_V_Newman)
+
+[2026/10/10, 30.0 to 44.0 - CUBA V SIC, 30.0 to 44.0](reviews/2026-10-10-CUBA_V_SIC)
+
+[2026/10/10, 31.0 to 55.0 - Buenos Aires V Belgrano AC, 31.0 to 55.0](reviews/2026-10-10-BuenosAires_V_BelgranoAC)
+
 [2026/10/10, 42.0 to 22.0 - Atlético del Rosario V Champagnat, 42.0 to 22.0](reviews/2026-10-10-AtleticodelRosario_V_Champagnat)
-### RFU Championship
-
-[In depth model review and projections for RFU Championship 26/27](comp_files/RFU_Championship_2627)
-
-Competition Accuracy: 19 of 28 (67.86%)
-
-Competition Error: 17.46 points per match
-
-Last Two Week Accuracy: 6 of 7 (85.71%)
-
-Last Two Week Error: 20.53 points per match
-
-[2026/10/11, 71.0 to 7.0 - Ealing Trailfinders V Hartpury College RFC, 71.0 to 7.0](reviews/2026-10-11-EalingTrailfinders_V_HartpuryCollege)
-
-[2026/10/10, 49.0 to 24.0 - Worcester Warriors V Nottingham, 49.0 to 24.0](reviews/2026-10-10-WorcesterWarriors_V_Nottingham)
-
-[2026/10/10, 40.0 to 24.0 - Chinnor V Richmond, 40.0 to 24.0](reviews/2026-10-10-Chinnor_V_Richmond)
-
-[2026/10/10, 38.0 to 14.0 - Bedford V Cornish Pirates, 38.0 to 14.0](reviews/2026-10-10-Bedford_V_CornishPirates)
-
-[2026/10/10, 26.0 to 56.0 - Ampthill V Doncaster, 26.0 to 56.0](reviews/2026-10-10-Ampthill_V_Doncaster)
-
-[2026/10/09, 41.0 to 26.0 - Rotherham Titans V Caldy, 41.0 to 26.0](reviews/2026-10-09-RotherhamTitans_V_Caldy)
-
-[2026/10/09, 38.0 to 36.0 - Coventry V Blackheath, 38.0 to 36.0](reviews/2026-10-09-Coventry_V_Blackheath)
 ### Nationale
 
 [In depth model review and projections for Nationale 26/27](comp_files/Nationale_2627)
@@ -225,7 +227,7 @@ Competition Error: 11.25 points per match
 
 Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 15.18 points per match
+Last Two Week Error: 15.19 points per match
 
 [2026/10/10, 18.0 to 13.0 - Rennes V Suresnes, 18.0 to 13.0](reviews/2026-10-10-Rennes_V_Suresnes)
 
