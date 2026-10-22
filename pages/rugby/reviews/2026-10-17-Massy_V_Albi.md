@@ -6,9 +6,9 @@ categories: rugby "Nationale 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Massy to win by 6.69, and Massy won by 18.0. That's an absolute error of 11.3 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 53.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Massy to win by 6.89, and Massy won by 18.0. That's an absolute error of 11.1 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 52.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 42.5 and we have an actual total of 64.0. That's an absolute error of 21.5 compared to a six month average of 14.8. This prediction was more accurate than 23.3% of my recent predictions.
+For the Over/Under model, I predicted a total of 42.5 and we have an actual total of 64.0. That's an absolute error of 21.5 compared to a six month average of 15.0. This prediction was more accurate than 24.0% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 42.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Massy to win by 10.72,  and Massy won by 18.0. That's an absolute error of 7.3 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 52.5% of my recent predictions.
+With the player model, I predicted Massy to win by 10.4,  and Massy won by 18.0. That's an absolute error of 7.6 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 51.9% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

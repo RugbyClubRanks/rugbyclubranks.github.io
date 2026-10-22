@@ -6,9 +6,9 @@ categories: rugby "European Rugby Champions Cup 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Bulls to win by 7.96, and Bulls won by 36.0. That's an absolute error of 28.0 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 13.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Bulls to win by 7.71, and Bulls won by 36.0. That's an absolute error of 28.3 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 11.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 76.0. That's an absolute error of 25.5 compared to a six month average of 14.8. This prediction was more accurate than 17.3% of my recent predictions.
+For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 76.0. That's an absolute error of 23.5 compared to a six month average of 15.0. This prediction was more accurate than 20.0% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 50.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Bulls to win by 15.36,  and Bulls won by 36.0. That's an absolute error of 20.6 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 20.9% of my recent predictions.
+With the player model, I predicted Bulls to win by 14.78,  and Bulls won by 36.0. That's an absolute error of 21.2 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 19.3% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

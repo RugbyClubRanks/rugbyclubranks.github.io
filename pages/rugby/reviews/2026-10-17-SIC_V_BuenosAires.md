@@ -6,9 +6,9 @@ categories: rugby "URBA Top 14 2026" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted SIC to win by 9.07, and SIC won by 23.0. That's an absolute error of 13.9 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 43.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted SIC to win by 9.24, and SIC won by 23.0. That's an absolute error of 13.8 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 44.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 73.0. That's an absolute error of 19.5 compared to a six month average of 14.8. This prediction was more accurate than 28.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 73.0. That's an absolute error of 20.5 compared to a six month average of 15.0. This prediction was more accurate than 26.5% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 53.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted SIC to win by 10.62,  and SIC won by 23.0. That's an absolute error of 12.4 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 37.5% of my recent predictions.
+With the player model, I predicted SIC to win by 10.55,  and SIC won by 23.0. That's an absolute error of 12.4 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 38.0% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

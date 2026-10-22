@@ -6,9 +6,9 @@ categories: rugby "Pro D2 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Colomiers to win by 9.98, and Colomiers won by 21.0. That's an absolute error of 11.0 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 54.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Colomiers to win by 10.22, and Colomiers won by 21.0. That's an absolute error of 10.8 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 53.6% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 77.0. That's an absolute error of 24.5 compared to a six month average of 14.8. This prediction was more accurate than 18.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 77.0. That's an absolute error of 24.5 compared to a six month average of 15.0. This prediction was more accurate than 18.5% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 52.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Colomiers to win by 5.19,  and Colomiers won by 21.0. That's an absolute error of 15.8 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 29.6% of my recent predictions.
+With the player model, I predicted Colomiers to win by 4.86,  and Colomiers won by 21.0. That's an absolute error of 16.1 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 28.8% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

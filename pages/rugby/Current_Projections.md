@@ -22,11 +22,11 @@ categories: rugby
 
 Competition Accuracy: 13 of 18 (72.22%)
 
-Competition Error: 12.38 points per match
+Competition Error: 12.39 points per match
 
-Last Two Week Accuracy: 2 of 4 (50.0%)
+Last Two Week Accuracy: 1 of 2 (50.0%)
 
-Last Two Week Error: 26.73 points per match
+Last Two Week Error: 27.0 points per match
 
 [2026/10/24 - Japan V Fiji](projections/2026-10-24-Japan_V_Fiji)
 
@@ -61,11 +61,11 @@ Last Two Week Error: 17.38 points per match
 
 [2026/10/24 - South Africa Women V Ireland Women](projections/2026-10-24-SouthAfricaWomen_V_IrelandWomen)
 
+[2026/10/24 - New Zealand Women V France Women](projections/2026-10-24-NewZealandWomen_V_FranceWomen)
+
 [2026/10/24 - Japan Women V Wales Women](projections/2026-10-24-JapanWomen_V_WalesWomen)
 
-[2026/10/23 - New Zealand Women V France Women](projections/2026-10-23-NewZealandWomen_V_FranceWomen)
-
-[2026/10/23 - Canada Women V England Women](projections/2026-10-23-CanadaWomen_V_EnglandWomen)
+[2026/10/24 - Canada Women V England Women](projections/2026-10-24-CanadaWomen_V_EnglandWomen)
 
 [2026/10/23 - Australia Women V Scotland Women](projections/2026-10-23-AustraliaWomen_V_ScotlandWomen)
 
@@ -144,10 +144,6 @@ Competition Accuracy: 13 of 24 (54.17%)
 
 Competition Error: 9.56 points per match
 
-Last Two Week Accuracy: 6 of 8 (75.0%)
-
-Last Two Week Error: 11.96 points per match
-
 [2026/10/23 - Cardiff Rugby V Sharks](projections/2026-10-23-CardiffRugby_V_Sharks)
 
 [2026/10/23 - Connacht V Zebre](projections/2026-10-23-Connacht_V_Zebre)
@@ -186,10 +182,6 @@ Last Two Week Error: 11.96 points per match
 Competition Accuracy: 32 of 42 (76.19%)
 
 Competition Error: 12.66 points per match
-
-Last Two Week Accuracy: 5 of 7 (71.43%)
-
-Last Two Week Error: 6.51 points per match
 
 [2026/10/31 - Lyon V Vannes](projections/2026-10-31-Lyon_V_Vannes)
 
@@ -242,10 +234,6 @@ Competition Accuracy: 11 of 15 (73.33%)
 
 Competition Error: 13.42 points per match
 
-Last Two Week Accuracy: 5 of 5 (100.0%)
-
-Last Two Week Error: 10.01 points per match
-
 [2026/10/23 - Gloucester Rugby V Bath Rugby](projections/2026-10-23-GloucesterRugby_V_BathRugby)
 
 [2026/10/23 - Newcastle Red Bulls V Sale Sharks](projections/2026-10-23-NewcastleRedBulls_V_SaleSharks)
@@ -277,9 +265,9 @@ Competition Accuracy: 7 of 8 (87.5%)
 
 Competition Error: 17.25 points per match
 
-Last Two Week Accuracy: 4 of 4 (100.0%)
+Last Two Week Accuracy: 2 of 2 (100.0%)
 
-Last Two Week Error: 18.68 points per match
+Last Two Week Error: 12.69 points per match
 
 [2026/10/24 - Brussels Devils V Delta](projections/2026-10-24-BrusselsDevils_V_Delta)
 
@@ -293,9 +281,9 @@ Competition Accuracy: 54 of 83 (65.06%)
 
 Competition Error: 15.21 points per match
 
-Last Two Week Accuracy: 5 of 6 (83.33%)
+Last Two Week Accuracy: 2 of 2 (100.0%)
 
-Last Two Week Error: 17.34 points per match
+Last Two Week Error: 10.49 points per match
 
 [2026/10/25 - Canterbury V Northland](projections/2026-10-25-Canterbury_V_Northland)
 ### Pro D2
@@ -304,11 +292,11 @@ Last Two Week Error: 17.34 points per match
 
 Competition Accuracy: 42 of 57 (73.68%)
 
-Competition Error: 13.35 points per match
+Competition Error: 13.34 points per match
 
-Last Two Week Accuracy: 11 of 16 (68.75%)
+Last Two Week Accuracy: 4 of 8 (50.0%)
 
-Last Two Week Error: 14.18 points per match
+Last Two Week Error: 14.89 points per match
 
 [2026/10/30 - Nice V Aurillac](projections/2026-10-30-Nice_V_Aurillac)
 
@@ -365,9 +353,9 @@ Competition Accuracy: 24 of 35 (68.57%)
 
 Competition Error: 16.34 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 16.19 points per match
+Last Two Week Error: 11.9 points per match
 
 [2026/10/30 - Chinnor V Nottingham](projections/2026-10-30-Chinnor_V_Nottingham)
 
@@ -404,9 +392,9 @@ Competition Accuracy: 43 of 56 (76.79%)
 
 Competition Error: 11.39 points per match
 
-Last Two Week Accuracy: 12 of 14 (85.71%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 13.79 points per match
+Last Two Week Error: 12.4 points per match
 
 [2026/10/30 - Albi V Chambery](projections/2026-10-30-Albi_V_Chambery)
 

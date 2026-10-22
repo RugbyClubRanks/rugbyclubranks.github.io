@@ -6,9 +6,9 @@ categories: rugby "RFU Championship 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Doncaster to win by 1.92, and Coventry won by 2.0. That's an absolute error of 3.9 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 82.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Doncaster to win by 1.59, and Coventry won by 2.0. That's an absolute error of 3.6 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 83.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 64.0. That's an absolute error of 12.5 compared to a six month average of 14.8. This prediction was more accurate than 48.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 64.0. That's an absolute error of 10.5 compared to a six month average of 15.0. This prediction was more accurate than 55.8% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 51.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Coventry to win by 3.16,  and Coventry won by 2.0. That's an absolute error of 1.2 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 76.9% of my recent predictions.
+With the player model, I predicted Coventry to win by 3.08,  and Coventry won by 2.0. That's an absolute error of 1.1 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 76.9% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

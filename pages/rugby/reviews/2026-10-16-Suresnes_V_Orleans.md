@@ -6,9 +6,9 @@ categories: rugby "Nationale 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Suresnes to win by 1.67, and Suresnes won by 4.0. That's an absolute error of 2.3 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 87.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Suresnes to win by 1.34, and Suresnes won by 4.0. That's an absolute error of 2.7 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 87.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 42.5 and we have an actual total of 38.0. That's an absolute error of 4.5 compared to a six month average of 14.8. This prediction was more accurate than 80.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 42.5 and we have an actual total of 38.0. That's an absolute error of 4.5 compared to a six month average of 15.0. This prediction was more accurate than 80.6% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 42.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Suresnes to win by 4.98,  and Suresnes won by 4.0. That's an absolute error of 1.0 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 78.0% of my recent predictions.
+With the player model, I predicted Suresnes to win by 5.22,  and Suresnes won by 4.0. That's an absolute error of 1.2 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 76.3% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

@@ -6,9 +6,9 @@ categories: rugby "Pro D2 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Beziers to win by 6.65, and Aurillac won by 1.0. That's an absolute error of 7.6 for the margin of victory, while my average absolute error has been 14.6 over the past six months. This prediction was more accurate than 64.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Beziers to win by 6.5, and Aurillac won by 1.0. That's an absolute error of 7.5 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 65.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 49.0. That's an absolute error of 1.5 compared to a six month average of 14.8. This prediction was more accurate than 92.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 49.0. That's an absolute error of 1.5 compared to a six month average of 15.0. This prediction was more accurate than 93.0% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 50.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Beziers to win by 7.14,  and Aurillac won by 1.0. That's an absolute error of 8.1 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 50.4% of my recent predictions.
+With the player model, I predicted Beziers to win by 6.63,  and Aurillac won by 1.0. That's an absolute error of 7.6 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 51.8% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

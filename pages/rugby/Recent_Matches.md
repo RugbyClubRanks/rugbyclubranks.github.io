@@ -22,11 +22,11 @@ categories: rugby
 
 Competition Accuracy: 13 of 18 (72.22%)
 
-Competition Error: 12.38 points per match
+Competition Error: 12.39 points per match
 
-Last Two Week Accuracy: 2 of 4 (50.0%)
+Last Two Week Accuracy: 1 of 2 (50.0%)
 
-Last Two Week Error: 26.73 points per match
+Last Two Week Error: 27.0 points per match
 
 [2026/10/17, 21.0 to 43.0 - Australia V New Zealand, 21.0 to 43.0](reviews/2026-10-17-Australia_V_NewZealand)
 ### WXV Global Series
@@ -41,13 +41,13 @@ Last Two Week Accuracy: 4 of 4 (100.0%)
 
 Last Two Week Error: 17.38 points per match
 
-[2026/10/16, 24.0 to 21.0 - Canada Women V England Women, 24.0 to 21.0](reviews/2026-10-16-CanadaWomen_V_EnglandWomen)
-
-[2026/10/16, 56.0 to 12.0 - Australia Women V Scotland Women, 56.0 to 12.0](reviews/2026-10-16-AustraliaWomen_V_ScotlandWomen)
-
-[2026/10/16, 81.0 to 12.0 - New Zealand Women V France Women, 81.0 to 12.0](reviews/2026-10-16-NewZealandWomen_V_FranceWomen)
+[2026/10/17, 24.0 to 21.0 - Canada Women V England Women, 24.0 to 21.0](reviews/2026-10-17-CanadaWomen_V_EnglandWomen)
 
 [2026/10/17, 36.0 to 27.0 - USA Women V Italy Women, 36.0 to 27.0](reviews/2026-10-17-USAWomen_V_ItalyWomen)
+
+[2026/10/17, 56.0 to 12.0 - Australia Women V Scotland Women, 56.0 to 12.0](reviews/2026-10-17-AustraliaWomen_V_ScotlandWomen)
+
+[2026/10/17, 81.0 to 12.0 - New Zealand Women V France Women, 81.0 to 12.0](reviews/2026-10-17-NewZealandWomen_V_FranceWomen)
 ## Top Flight  Competitions
 ### Rugby Europe Super Cup
 
@@ -57,9 +57,9 @@ Competition Accuracy: 7 of 8 (87.5%)
 
 Competition Error: 17.25 points per match
 
-Last Two Week Accuracy: 4 of 4 (100.0%)
+Last Two Week Accuracy: 2 of 2 (100.0%)
 
-Last Two Week Error: 18.68 points per match
+Last Two Week Error: 12.69 points per match
 
 [2026/10/17, 23.0 to 32.0 - Delta V Romanian Wolves, 23.0 to 32.0](reviews/2026-10-17-Delta_V_RomanianWolves)
 
@@ -137,9 +137,9 @@ Competition Accuracy: 54 of 83 (65.06%)
 
 Competition Error: 15.21 points per match
 
-Last Two Week Accuracy: 5 of 6 (83.33%)
+Last Two Week Accuracy: 2 of 2 (100.0%)
 
-Last Two Week Error: 17.34 points per match
+Last Two Week Error: 10.49 points per match
 
 [2026/10/16, 38.0 to 19.0 - Northland V Otago, 38.0 to 19.0](reviews/2026-10-16-Northland_V_Otago)
 
@@ -150,11 +150,11 @@ Last Two Week Error: 17.34 points per match
 
 Competition Accuracy: 42 of 57 (73.68%)
 
-Competition Error: 13.35 points per match
+Competition Error: 13.34 points per match
 
-Last Two Week Accuracy: 11 of 16 (68.75%)
+Last Two Week Accuracy: 4 of 8 (50.0%)
 
-Last Two Week Error: 14.18 points per match
+Last Two Week Error: 14.89 points per match
 
 [2026/10/17, 14.0 to 26.0 - Brive V Grenoble, 14.0 to 26.0](reviews/2026-10-17-Brive_V_Grenoble)
 
@@ -175,13 +175,13 @@ Last Two Week Error: 14.18 points per match
 
 [In depth model review and projections for URBA Top 14 2026](comp_files/URBA_Top_14_2026)
 
-Competition Accuracy: 102 of 161 (63.35%)
+Competition Accuracy: 103 of 161 (63.98%)
 
-Competition Error: 14.01 points per match
+Competition Error: 14.0 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 18.41 points per match
+Last Two Week Error: 18.9 points per match
 
 [2026/10/17, 48.0 to 25.0 - SIC V Buenos Aires, 48.0 to 25.0](reviews/2026-10-17-SIC_V_BuenosAires)
 
@@ -204,19 +204,19 @@ Competition Accuracy: 24 of 35 (68.57%)
 
 Competition Error: 16.34 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 16.19 points per match
+Last Two Week Error: 11.9 points per match
 
 [2026/10/18, 14.0 to 29.0 - Richmond V Rotherham Titans, 14.0 to 29.0](reviews/2026-10-18-Richmond_V_RotherhamTitans)
 
 [2026/10/17, 48.0 to 24.0 - Cornish Pirates V Chinnor, 48.0 to 24.0](reviews/2026-10-17-CornishPirates_V_Chinnor)
 
-[2026/10/17, 47.0 to 61.0 - Caldy V Ampthill, 47.0 to 61.0](reviews/2026-10-17-Caldy_V_Ampthill)
+[2026/10/17, 45.0 to 59.0 - Caldy V Ampthill, 45.0 to 59.0](reviews/2026-10-17-Caldy_V_Ampthill)
 
 [2026/10/17, 31.0 to 33.0 - Doncaster V Coventry, 31.0 to 33.0](reviews/2026-10-17-Doncaster_V_Coventry)
 
-[2026/10/17, 28.0 to 34.0 - Hartpury College V Worcester Warriors, 28.0 to 34.0](reviews/2026-10-17-HartpuryCollege_V_WorcesterWarriors)
+[2026/10/17, 28.0 to 34.0 - Hartpury College RFC V Worcester Warriors, 28.0 to 34.0](reviews/2026-10-17-HartpuryCollege_V_WorcesterWarriors)
 
 [2026/10/17, 22.0 to 59.0 - Blackheath V Ealing Trailfinders, 22.0 to 59.0](reviews/2026-10-17-Blackheath_V_EalingTrailfinders)
 
@@ -229,9 +229,9 @@ Competition Accuracy: 43 of 56 (76.79%)
 
 Competition Error: 11.39 points per match
 
-Last Two Week Accuracy: 12 of 14 (85.71%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 13.79 points per match
+Last Two Week Error: 12.4 points per match
 
 [2026/10/17, 41.0 to 23.0 - Massy V Albi, 41.0 to 23.0](reviews/2026-10-17-Massy_V_Albi)
 
