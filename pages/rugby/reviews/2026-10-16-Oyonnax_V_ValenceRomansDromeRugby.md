@@ -6,9 +6,9 @@ categories: rugby "Pro D2 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Oyonnax to win by 13.14, and Oyonnax won by 26.0. That's an absolute error of 12.9 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 47.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Oyonnax to win by 13.45, and Oyonnax won by 26.0. That's an absolute error of 12.6 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 48.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 76.0. That's an absolute error of 26.5 compared to a six month average of 15.0. This prediction was more accurate than 15.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 76.0. That's an absolute error of 26.5 compared to a six month average of 14.9. This prediction was more accurate than 15.4% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 49.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Oyonnax to win by 9.72,  and Oyonnax won by 26.0. That's an absolute error of 16.3 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 28.5% of my recent predictions.
+With the player model, I predicted Oyonnax to win by 10.07,  and Oyonnax won by 26.0. That's an absolute error of 15.9 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 29.7% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

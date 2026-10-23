@@ -1,6 +1,6 @@
 ---
 title: "WXV Global Series Challenger 2026"
-date: 2026-10-22 6:00:00 -0500
+date: 2026-10-23 6:00:00 -0500
 categories: rugby model review projection
 layout: page
 aside:

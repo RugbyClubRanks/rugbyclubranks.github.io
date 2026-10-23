@@ -6,9 +6,9 @@ categories: rugby "URBA Top 14 2026" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Los Tilos to win by 8.44, and Los Tilos won by 35.0. That's an absolute error of 26.6 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 15.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Los Tilos to win by 8.52, and Los Tilos won by 35.0. That's an absolute error of 26.5 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 15.1% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 83.0. That's an absolute error of 30.5 compared to a six month average of 15.0. This prediction was more accurate than 10.1% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 83.0. That's an absolute error of 31.5 compared to a six month average of 14.9. This prediction was more accurate than 9.0% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 52.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Los Tilos to win by 6.51,  and Los Tilos won by 35.0. That's an absolute error of 28.5 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 10.5% of my recent predictions.
+With the player model, I predicted Los Tilos to win by 6.8,  and Los Tilos won by 35.0. That's an absolute error of 28.2 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 10.6% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">
