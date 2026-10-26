@@ -1,6 +1,6 @@
 ---
 title: "Women's International Test Match 2026"
-date: 2026-10-23 6:00:00 -0500
+date: 2026-10-26 6:00:00 -0500
 categories: rugby model review projection
 layout: page
 aside:
@@ -22,7 +22,7 @@ aside:
 ### Week 4
 #### Fiji Women V South Africa Women on 2026/08/07
 
-Average Margin: Fiji Women by 3.9
+Average Margin: Fiji Women by 3.7
 
 <p float="left">
 <img src="plots/2026-08-07-FijiWomen_V_SouthAfricaWomen_club_performances.png" width="32%" />

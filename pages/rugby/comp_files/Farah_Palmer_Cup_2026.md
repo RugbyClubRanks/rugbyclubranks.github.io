@@ -1,6 +1,6 @@
 ---
 title: "Farah Palmer Cup 2026"
-date: 2026-10-23 6:00:00 -0500
+date: 2026-10-26 6:00:00 -0500
 categories: rugby model review projection
 layout: page
 aside:
@@ -29,10 +29,10 @@ aside:
 
 | Club             |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-----------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Canterbury Women |         1 |            0.752 |                   19.382 |                           0.074 |                              |                          3.1   |
-| Wellington Pride |         1 |            0.581 |                    6.106 |                           0.09  |                              |                          2.444 |
-| Northland Women  |         1 |            0.404 |                   -6.106 |                           0.103 |                              |                          1.749 |
-| Auckland Storm   |         1 |            0.239 |                  -19.382 |                           0.083 |                              |                          1.057 |
+| Canterbury Women |         1 |            0.768 |                   20.429 |                           0.067 |                              |                          3.161 |
+| Wellington Pride |         1 |            0.603 |                    7.535 |                           0.095 |                              |                          2.535 |
+| Northland Women  |         1 |            0.383 |                   -7.535 |                           0.098 |                              |                          1.658 |
+| Auckland Storm   |         1 |            0.221 |                  -20.429 |                           0.092 |                              |                          0.998 |
 
 
 
@@ -40,10 +40,10 @@ aside:
 
 | Club              |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:------------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| Canterbury Women  |        2 |  1.752 |               69.382 |                 0.074 |                    |                7.1   |
-| Wellington Pride  |        2 |  1.581 |               31.106 |                 0.09  |                    |                6.444 |
-| Northland Women   |        2 |  1.404 |               28.894 |                 0.103 |                    |                5.749 |
-| Auckland Storm    |        2 |  1.239 |              -14.382 |                 0.083 |                    |                5.057 |
+| Canterbury Women  |        2 |  1.768 |               70.429 |                 0.067 |                    |                7.161 |
+| Wellington Pride  |        2 |  1.603 |               32.535 |                 0.095 |                    |                6.535 |
+| Northland Women   |        2 |  1.383 |               27.465 |                 0.098 |                    |                5.658 |
+| Auckland Storm    |        2 |  1.221 |              -15.429 |                 0.092 |                    |                4.998 |
 | Waikato Women     |        1 |  0     |               -5     |                 1     |                    |                1     |
 | Hawkes Bay Tui    |        1 |  0     |              -25     |                 0     |                    |                0     |
 | Otago Spirit      |        1 |  0     |              -35     |                 0     |                    |                0     |
@@ -55,7 +55,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 100.0% | 15.4 |
+| Club Level | 100.0% | 15.5 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -64,7 +64,7 @@ aside:
 ### Week 2
 #### Wellington Pride V Northland Women on 2026/09/01
 
-Average Margin: Wellington Pride by 6.1
+Average Margin: Wellington Pride by 7.5
 
 <p float="left">
 <img src="plots/2026-09-01-WellingtonPride_V_NorthlandWomen_club_performances.png" width="32%" />
@@ -75,7 +75,7 @@ Average Margin: Wellington Pride by 6.1
 ### Week 3
 #### Canterbury Women V Auckland Storm on 2026/10/01
 
-Average Margin: Canterbury Women by 19.4
+Average Margin: Canterbury Women by 20.4
 
 <p float="left">
 <img src="plots/2026-10-01-CanterburyWomen_V_AucklandStorm_club_performances.png" width="32%" />
