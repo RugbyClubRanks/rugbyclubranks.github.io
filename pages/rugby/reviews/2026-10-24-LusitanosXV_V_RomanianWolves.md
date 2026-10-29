@@ -6,9 +6,9 @@ categories: rugby "Rugby Europe Super Cup 2026" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Romanian Wolves to win by 5.96, and Lusitanos XV won by 72.0. That's an absolute error of 78.0 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 0.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Romanian Wolves to win by 5.81, and Lusitanos XV won by 72.0. That's an absolute error of 77.8 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 0.0% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 82.0. That's an absolute error of 35.5 compared to a six month average of 14.9. This prediction was more accurate than 6.1% of my recent predictions.
+For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 82.0. That's an absolute error of 35.5 compared to a six month average of 14.9. This prediction was more accurate than 5.8% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 46.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Lusitanos XV to win by 8.1,  and Lusitanos XV won by 72.0. That's an absolute error of 63.9 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 0.4% of my recent predictions.
+With the player model, I predicted Lusitanos XV to win by 7.6,  and Lusitanos XV won by 72.0. That's an absolute error of 64.4 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 0.4% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

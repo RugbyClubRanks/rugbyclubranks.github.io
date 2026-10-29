@@ -6,9 +6,9 @@ categories: rugby "Elite 1 2026" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Stade Bordelais Feminin to win by 34.37, and Stade Bordelais Feminin won by 12.0. That's an absolute error of 22.4 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 20.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Stade Bordelais Feminin to win by 36.35, and Stade Bordelais Feminin won by 12.0. That's an absolute error of 24.4 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 17.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 60.0. That's an absolute error of 9.5 compared to a six month average of 14.9. This prediction was more accurate than 59.3% of my recent predictions.
+For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 60.0. That's an absolute error of 9.5 compared to a six month average of 14.9. This prediction was more accurate than 58.7% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 50.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Stade Bordelais Feminin to win by 19.68,  and Stade Bordelais Feminin won by 12.0. That's an absolute error of 7.7 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 51.8% of my recent predictions.
+With the player model, I predicted Stade Bordelais Feminin to win by 18.75,  and Stade Bordelais Feminin won by 12.0. That's an absolute error of 6.8 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 54.8% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

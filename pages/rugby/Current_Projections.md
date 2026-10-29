@@ -20,13 +20,13 @@ categories: rugby
 
 [In depth model review and projections for International Test Match 2026](comp_files/International_Test_Match_2026)
 
-Competition Accuracy: 14 of 21 (66.67%)
+Competition Accuracy: 15 of 21 (71.43%)
 
-Competition Error: 13.71 points per match
+Competition Error: 13.57 points per match
 
-Last Two Week Accuracy: 2 of 5 (40.0%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 23.76 points per match
+Last Two Week Error: 20.59 points per match
 
 [2026/10/31 - Belgium V Hong Kong](projections/2026-10-31-Belgium_V_HongKong)
 
@@ -102,9 +102,9 @@ Competition Accuracy: 18 of 26 (69.23%)
 
 Competition Error: 18.27 points per match
 
-Last Two Week Accuracy: 9 of 10 (90.0%)
+Last Two Week Accuracy: 5 of 6 (83.33%)
 
-Last Two Week Error: 15.3 points per match
+Last Two Week Error: 13.91 points per match
 
 [2026/10/30 - USA Women V England Women](projections/2026-10-30-USAWomen_V_EnglandWomen)
 
@@ -223,7 +223,7 @@ Last Two Week Error: 8.92 points per match
 
 Competition Accuracy: 20 of 32 (62.5%)
 
-Competition Error: 9.12 points per match
+Competition Error: 9.11 points per match
 
 Last Two Week Accuracy: 7 of 8 (87.5%)
 
@@ -278,10 +278,6 @@ Competition Accuracy: 43 of 56 (76.79%)
 
 Competition Error: 11.39 points per match
 
-Last Two Week Accuracy: 6 of 7 (85.71%)
-
-Last Two Week Error: 12.4 points per match
-
 [2026/10/30 - Albi V Chambery](projections/2026-10-30-Albi_V_Chambery)
 
 [2026/10/30 - Carcassonne V Suresnes](projections/2026-10-30-Carcassonne_V_Suresnes)
@@ -331,9 +327,9 @@ Competition Accuracy: 48 of 65 (73.85%)
 
 Competition Error: 13.51 points per match
 
-Last Two Week Accuracy: 10 of 16 (62.5%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 14.81 points per match
+Last Two Week Error: 14.74 points per match
 
 [2026/11/06 - Colomiers V Beziers](projections/2026-11-06-Colomiers_V_Beziers)
 
@@ -373,10 +369,6 @@ Last Two Week Error: 14.81 points per match
 Competition Accuracy: 24 of 35 (68.57%)
 
 Competition Error: 16.34 points per match
-
-Last Two Week Accuracy: 5 of 7 (71.43%)
-
-Last Two Week Error: 11.9 points per match
 
 [2026/10/30 - Chinnor V Nottingham](projections/2026-10-30-Chinnor_V_Nottingham)
 
@@ -425,11 +417,7 @@ Last Two Week Error: 11.9 points per match
 
 Competition Accuracy: 103 of 161 (63.98%)
 
-Competition Error: 13.99 points per match
-
-Last Two Week Accuracy: 5 of 7 (71.43%)
-
-Last Two Week Error: 18.96 points per match
+Competition Error: 14.0 points per match
 
 [2026/10/30 - Newman V Alumni](projections/2026-10-30-Newman_V_Alumni)
 

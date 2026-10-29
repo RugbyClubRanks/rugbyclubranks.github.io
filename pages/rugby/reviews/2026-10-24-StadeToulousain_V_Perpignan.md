@@ -6,9 +6,9 @@ categories: rugby "Top 14 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Stade Toulousain to win by 19.16, and Stade Toulousain won by 5.0. That's an absolute error of 14.2 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 42.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Stade Toulousain to win by 18.96, and Stade Toulousain won by 5.0. That's an absolute error of 14.0 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 42.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 71.0. That's an absolute error of 21.5 compared to a six month average of 14.9. This prediction was more accurate than 23.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 71.0. That's an absolute error of 21.5 compared to a six month average of 14.9. This prediction was more accurate than 24.0% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 49.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Stade Toulousain to win by 19.38,  and Stade Toulousain won by 5.0. That's an absolute error of 14.4 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 33.6% of my recent predictions.
+With the player model, I predicted Stade Toulousain to win by 20.22,  and Stade Toulousain won by 5.0. That's an absolute error of 15.2 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 31.2% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

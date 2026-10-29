@@ -6,9 +6,9 @@ categories: rugby "Pro D2 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Valence Romans Drome Rugby to win by 5.49, and Valence Romans Drome Rugby won by 5.0. That's an absolute error of 0.5 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 97.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Valence Romans Drome Rugby to win by 5.22, and Valence Romans Drome Rugby won by 5.0. That's an absolute error of 0.2 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 98.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 51.0. That's an absolute error of 0.5 compared to a six month average of 14.9. This prediction was more accurate than 97.3% of my recent predictions.
+For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 51.0. That's an absolute error of 0.5 compared to a six month average of 14.9. This prediction was more accurate than 97.2% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 51.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Valence Romans Drome Rugby to win by 13.15,  and Valence Romans Drome Rugby won by 5.0. That's an absolute error of 8.2 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 50.5% of my recent predictions.
+With the player model, I predicted Valence Romans Drome Rugby to win by 13.16,  and Valence Romans Drome Rugby won by 5.0. That's an absolute error of 8.2 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 49.9% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

@@ -20,19 +20,19 @@ categories: rugby
 
 [In depth model review and projections for International Test Match 2026](comp_files/International_Test_Match_2026)
 
-Competition Accuracy: 14 of 21 (66.67%)
+Competition Accuracy: 15 of 21 (71.43%)
 
-Competition Error: 13.71 points per match
+Competition Error: 13.57 points per match
 
-Last Two Week Accuracy: 2 of 5 (40.0%)
+Last Two Week Accuracy: 2 of 3 (66.67%)
 
-Last Two Week Error: 23.76 points per match
+Last Two Week Error: 20.59 points per match
 
-[2026/10/24, 0.0 to 0.0 - Zimbabwe V Namibia, 0.0 to 0.0](reviews/2026-10-24-Zimbabwe_V_Namibia)
-
-[2026/10/24, 12.0 to 61.0 - United States of America V Australia A, 12.0 to 61.0](reviews/2026-10-24-UnitedStatesofAmerica_V_AustraliaA)
+[2026/10/23, 12.0 to 61.0 - United States of America V Australia A, 12.0 to 61.0](reviews/2026-10-23-UnitedStatesofAmerica_V_AustraliaA)
 
 [2026/10/24, 28.0 to 34.0 - Japan V Fiji, 28.0 to 34.0](reviews/2026-10-24-Japan_V_Fiji)
+
+[2026/10/24, 36.0 to 33.0 - Zimbabwe V Namibia, 36.0 to 33.0](reviews/2026-10-24-Zimbabwe_V_Namibia)
 ### WXV Global Series
 
 [In depth model review and projections for WXV Global Series 2026](comp_files/WXV_Global_Series_2026)
@@ -41,19 +41,19 @@ Competition Accuracy: 18 of 26 (69.23%)
 
 Competition Error: 18.27 points per match
 
-Last Two Week Accuracy: 9 of 10 (90.0%)
+Last Two Week Accuracy: 5 of 6 (83.33%)
 
-Last Two Week Error: 15.3 points per match
-
-[2026/10/23, 31.0 to 12.0 - New Zealand Women V France Women, 31.0 to 12.0](reviews/2026-10-23-NewZealandWomen_V_FranceWomen)
-
-[2026/10/23, 31.0 to 22.0 - Canada Women V England Women, 31.0 to 22.0](reviews/2026-10-23-CanadaWomen_V_EnglandWomen)
+Last Two Week Error: 13.91 points per match
 
 [2026/10/23, 38.0 to 31.0 - Australia Women V Scotland Women, 38.0 to 31.0](reviews/2026-10-23-AustraliaWomen_V_ScotlandWomen)
 
 [2026/10/24, 0.0 to 17.0 - Japan Women V Wales Women, 0.0 to 17.0](reviews/2026-10-24-JapanWomen_V_WalesWomen)
 
 [2026/10/24, 27.0 to 40.0 - South Africa Women V Ireland Women, 27.0 to 40.0](reviews/2026-10-24-SouthAfricaWomen_V_IrelandWomen)
+
+[2026/10/24, 31.0 to 12.0 - New Zealand Women V France Women, 31.0 to 12.0](reviews/2026-10-24-NewZealandWomen_V_FranceWomen)
+
+[2026/10/24, 31.0 to 22.0 - Canada Women V England Women, 31.0 to 22.0](reviews/2026-10-24-CanadaWomen_V_EnglandWomen)
 
 [2026/10/24, 54.0 to 24.0 - USA Women V Italy Women, 54.0 to 24.0](reviews/2026-10-24-USAWomen_V_ItalyWomen)
 ## Top Flight  Competitions
@@ -109,7 +109,7 @@ Last Two Week Error: 8.92 points per match
 
 Competition Accuracy: 20 of 32 (62.5%)
 
-Competition Error: 9.12 points per match
+Competition Error: 9.11 points per match
 
 Last Two Week Accuracy: 7 of 8 (87.5%)
 
@@ -138,9 +138,9 @@ Competition Accuracy: 8 of 10 (80.0%)
 
 Competition Error: 21.73 points per match
 
-Last Two Week Accuracy: 3 of 4 (75.0%)
+Last Two Week Accuracy: 1 of 2 (50.0%)
 
-Last Two Week Error: 26.16 points per match
+Last Two Week Error: 39.64 points per match
 
 [2026/10/24, 77.0 to 5.0 - Lusitanos XV V Romanian Wolves, 77.0 to 5.0](reviews/2026-10-24-LusitanosXV_V_RomanianWolves)
 
@@ -173,11 +173,11 @@ Last Two Week Error: 17.2 points per match
 
 Competition Accuracy: 55 of 84 (65.48%)
 
-Competition Error: 15.22 points per match
+Competition Error: 15.21 points per match
 
-Last Two Week Accuracy: 3 of 3 (100.0%)
+Last Two Week Accuracy: 1 of 1 (100.0%)
 
-Last Two Week Error: 12.24 points per match
+Last Two Week Error: 15.73 points per match
 
 [2026/10/25, 43.0 to 24.0 - Canterbury V Northland, 43.0 to 24.0](reviews/2026-10-25-Canterbury_V_Northland)
 ### Pro D2
@@ -188,9 +188,9 @@ Competition Accuracy: 48 of 65 (73.85%)
 
 Competition Error: 13.51 points per match
 
-Last Two Week Accuracy: 10 of 16 (62.5%)
+Last Two Week Accuracy: 6 of 8 (75.0%)
 
-Last Two Week Error: 14.81 points per match
+Last Two Week Error: 14.74 points per match
 
 [2026/10/22, 24.0 to 23.0 - US Montauban V Oyonnax, 24.0 to 23.0](reviews/2026-10-22-USMontauban_V_Oyonnax)
 
