@@ -6,9 +6,9 @@ categories: rugby "Elite 1 2026" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Blagnac Feminin to win by 5.71, and Montpellier Feminin won by 11.0. That's an absolute error of 16.7 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 34.9% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Blagnac Feminin to win by 6.26, and Montpellier Feminin won by 11.0. That's an absolute error of 17.3 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 34.2% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 45.5 and we have an actual total of 51.0. That's an absolute error of 5.5 compared to a six month average of 14.9. This prediction was more accurate than 76.1% of my recent predictions.
+For the Over/Under model, I predicted a total of 44.5 and we have an actual total of 51.0. That's an absolute error of 6.5 compared to a six month average of 14.8. This prediction was more accurate than 72.1% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 45.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Montpellier Feminin to win by 1.14,  and Montpellier Feminin won by 11.0. That's an absolute error of 9.9 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 45.0% of my recent predictions.
+With the player model, I predicted Blagnac Feminin to win by 0.03,  and Montpellier Feminin won by 11.0. That's an absolute error of 11.0 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 41.6% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

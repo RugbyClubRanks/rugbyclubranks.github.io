@@ -20,9 +20,9 @@ categories: rugby
 
 [In depth model review and projections for International Test Match 2026](comp_files/International_Test_Match_2026)
 
-Competition Accuracy: 15 of 21 (71.43%)
+Competition Accuracy: 15 of 19 (78.95%)
 
-Competition Error: 13.57 points per match
+Competition Error: 11.37 points per match
 
 Last Two Week Accuracy: 2 of 3 (66.67%)
 
@@ -39,11 +39,11 @@ Last Two Week Error: 20.59 points per match
 
 Competition Accuracy: 18 of 26 (69.23%)
 
-Competition Error: 18.27 points per match
+Competition Error: 18.26 points per match
 
 Last Two Week Accuracy: 5 of 6 (83.33%)
 
-Last Two Week Error: 13.91 points per match
+Last Two Week Error: 13.93 points per match
 
 [2026/10/23, 38.0 to 31.0 - Australia Women V Scotland Women, 38.0 to 31.0](reviews/2026-10-23-AustraliaWomen_V_ScotlandWomen)
 
@@ -88,7 +88,7 @@ Competition Error: 12.13 points per match
 
 Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 8.92 points per match
+Last Two Week Error: 8.91 points per match
 
 [2026/10/24, 27.0 to 26.0 - Vannes V Clermont Auvergne, 27.0 to 26.0](reviews/2026-10-24-Vannes_V_ClermontAuvergne)
 
@@ -184,13 +184,13 @@ Last Two Week Error: 15.73 points per match
 
 [In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
 
-Competition Accuracy: 48 of 65 (73.85%)
+Competition Accuracy: 48 of 66 (72.73%)
 
-Competition Error: 13.51 points per match
+Competition Error: 13.32 points per match
 
-Last Two Week Accuracy: 6 of 8 (75.0%)
+Last Two Week Accuracy: 6 of 9 (66.67%)
 
-Last Two Week Error: 14.74 points per match
+Last Two Week Error: 13.22 points per match
 
 [2026/10/22, 24.0 to 23.0 - US Montauban V Oyonnax, 24.0 to 23.0](reviews/2026-10-22-USMontauban_V_Oyonnax)
 
@@ -207,3 +207,5 @@ Last Two Week Error: 14.74 points per match
 [2026/10/23, 49.0 to 7.0 - Soyaux-Angouleme V Dax, 49.0 to 7.0](reviews/2026-10-23-Soyaux-Angouleme_V_Dax)
 
 [2026/10/23, 54.0 to 3.0 - Provence Rugby V Beziers, 54.0 to 3.0](reviews/2026-10-23-ProvenceRugby_V_Beziers)
+
+[2026/10/29, 16.0 to 16.0 - Dax V Provence Rugby, 16.0 to 16.0](reviews/2026-10-29-Dax_V_ProvenceRugby)

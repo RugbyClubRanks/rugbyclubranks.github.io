@@ -6,9 +6,9 @@ categories: rugby "Pro D2 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Narbonne to win by 0.2, and Narbonne won by 8.0. That's an absolute error of 7.8 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 64.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Brive to win by 0.2, and Narbonne won by 8.0. That's an absolute error of 8.2 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 63.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 60.0. That's an absolute error of 8.5 compared to a six month average of 14.9. This prediction was more accurate than 62.9% of my recent predictions.
+For the Over/Under model, I predicted a total of 51.5 and we have an actual total of 60.0. That's an absolute error of 8.5 compared to a six month average of 14.8. This prediction was more accurate than 62.9% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 51.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Brive to win by 3.65,  and Narbonne won by 8.0. That's an absolute error of 11.6 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 40.5% of my recent predictions.
+With the player model, I predicted Brive to win by 3.94,  and Narbonne won by 8.0. That's an absolute error of 11.9 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 39.6% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

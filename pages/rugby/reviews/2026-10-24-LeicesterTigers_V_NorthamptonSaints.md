@@ -6,9 +6,9 @@ categories: rugby "Gallagher Premiership 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Leicester Tigers to win by 2.88, and Leicester Tigers won by 21.0. That's an absolute error of 18.1 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 32.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Leicester Tigers to win by 2.72, and Leicester Tigers won by 21.0. That's an absolute error of 18.3 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 31.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 35.0. That's an absolute error of 17.5 compared to a six month average of 14.9. This prediction was more accurate than 35.1% of my recent predictions.
+For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 35.0. That's an absolute error of 17.5 compared to a six month average of 14.8. This prediction was more accurate than 35.0% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 52.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Northampton Saints to win by 2.47,  and Leicester Tigers won by 21.0. That's an absolute error of 23.5 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 16.2% of my recent predictions.
+With the player model, I predicted Northampton Saints to win by 2.37,  and Leicester Tigers won by 21.0. That's an absolute error of 23.4 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 16.4% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

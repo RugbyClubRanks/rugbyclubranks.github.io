@@ -1,6 +1,6 @@
 ---
 title: "WXV Global Series 2026"
-date: 2026-10-29 6:00:00 -0500
+date: 2026-10-30 6:00:00 -0500
 categories: rugby model review projection
 layout: page
 aside:
@@ -34,14 +34,14 @@ aside:
 
 | Club               |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| New Zealand Women  |         1 |            0.959 |                   22.854 |                           0.029 |                              |                          3.871 |
-| England Women      |         1 |            0.914 |                   17.966 |                           0.053 |                              |                          3.727 |
-| Ireland Women      |         1 |            0.583 |                    3.552 |                           0.191 |                              |                          2.593 |
-| Wales Women        |         1 |            0.542 |                    2.273 |                           0.208 |                              |                          2.428 |
-| Japan Women        |         1 |            0.432 |                   -2.273 |                           0.202 |                              |                          1.982 |
-| South Africa Women |         1 |            0.382 |                   -3.552 |                           0.208 |                              |                          1.806 |
-| USA Women          |         1 |            0.077 |                  -17.966 |                           0.119 |                              |                          0.445 |
-| France Women       |         1 |            0.038 |                  -22.854 |                           0.082 |                              |                          0.24  |
+| New Zealand Women  |         1 |            0.944 |                   22.692 |                           0.038 |                              |                          3.832 |
+| England Women      |         1 |            0.914 |                   17.984 |                           0.049 |                              |                          3.721 |
+| Ireland Women      |         1 |            0.564 |                    3.075 |                           0.208 |                              |                          2.554 |
+| Wales Women        |         1 |            0.531 |                    1.649 |                           0.2   |                              |                          2.398 |
+| Japan Women        |         1 |            0.432 |                   -1.649 |                           0.234 |                              |                          2.036 |
+| South Africa Women |         1 |            0.391 |                   -3.075 |                           0.225 |                              |                          1.879 |
+| USA Women          |         1 |            0.078 |                  -17.984 |                           0.141 |                              |                          0.469 |
+| France Women       |         1 |            0.047 |                  -22.692 |                           0.08  |                              |                          0.286 |
 
 
 
@@ -49,17 +49,17 @@ aside:
 
 | Club               |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:-------------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| New Zealand Women  |        6 |  4.959 |              169.854 |                 1.029 |                    |               20.871 |
-| USA Women          |        5 |  4.077 |               27.034 |                 0.119 |                    |               16.445 |
-| England Women      |        6 |  2.914 |               45.966 |                 1.053 |                    |               14.727 |
+| New Zealand Women  |        6 |  4.944 |              169.692 |                 1.038 |                    |               20.832 |
+| USA Women          |        5 |  4.078 |               27.016 |                 0.141 |                    |               16.469 |
+| England Women      |        6 |  2.914 |               45.984 |                 1.049 |                    |               14.721 |
 | Canada Women       |        5 |  3     |               34     |                 0     |                    |               14     |
 | Australia Women    |        5 |  3     |               35     |                 1     |                    |               13     |
-| Ireland Women      |        4 |  2.583 |               19.552 |                 1.191 |                    |               11.593 |
-| Wales Women        |        4 |  2.542 |               48.273 |                 1.208 |                    |               11.428 |
-| South Africa Women |        5 |  2.382 |              -15.552 |                 0.208 |                    |                9.806 |
-| France Women       |        6 |  2.038 |             -105.854 |                 0.082 |                    |                8.24  |
+| Ireland Women      |        4 |  2.564 |               19.075 |                 1.208 |                    |               11.554 |
+| Wales Women        |        4 |  2.531 |               47.649 |                 1.2   |                    |               11.398 |
+| South Africa Women |        5 |  2.391 |              -15.075 |                 0.225 |                    |                9.879 |
+| France Women       |        6 |  2.047 |             -105.692 |                 0.08  |                    |                8.286 |
 | Italy Women        |        4 |  1     |              -17     |                 0     |                    |                4     |
-| Japan Women        |        4 |  0.432 |              -60.273 |                 1.202 |                    |                2.982 |
+| Japan Women        |        4 |  0.432 |              -59.649 |                 1.234 |                    |                3.036 |
 | Scotland Women     |        5 |  0     |             -161     |                 1     |                    |                1     |
 | Spain Women        |        1 |  0     |              -20     |                 0     |                    |                0     |
 
@@ -69,7 +69,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 66.7% | 17.9 |
+| Club Level | 73.3% | 17.2 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -86,9 +86,19 @@ Average Margin: England Women by 18.0
 <img src="plots/2026-10-30-USAWomen_V_EnglandWomen_club_spreads.png" width="32%" />
 </p>
 
+#### South Africa Women V Ireland Women on 2026/10/31
+
+Average Margin: Ireland Women by 3.1
+
+<p float="left">
+<img src="plots/2026-10-31-SouthAfricaWomen_V_IrelandWomen_club_performances.png" width="32%" />
+<img src="plots/2026-10-31-SouthAfricaWomen_V_IrelandWomen_club_resultbar.png" width="32%" />
+<img src="plots/2026-10-31-SouthAfricaWomen_V_IrelandWomen_club_spreads.png" width="32%" />
+</p>
+
 #### New Zealand Women V France Women on 2026/10/31
 
-Average Margin: New Zealand Women by 22.9
+Average Margin: New Zealand Women by 22.7
 
 <p float="left">
 <img src="plots/2026-10-31-NewZealandWomen_V_FranceWomen_club_performances.png" width="32%" />
@@ -98,20 +108,10 @@ Average Margin: New Zealand Women by 22.9
 
 #### Japan Women V Wales Women on 2026/10/31
 
-Average Margin: Wales Women by 2.3
+Average Margin: Wales Women by 1.6
 
 <p float="left">
 <img src="plots/2026-10-31-JapanWomen_V_WalesWomen_club_performances.png" width="32%" />
 <img src="plots/2026-10-31-JapanWomen_V_WalesWomen_club_resultbar.png" width="32%" />
 <img src="plots/2026-10-31-JapanWomen_V_WalesWomen_club_spreads.png" width="32%" />
-</p>
-
-#### South Africa Women V Ireland Women on 2026/10/31
-
-Average Margin: Ireland Women by 3.6
-
-<p float="left">
-<img src="plots/2026-10-31-SouthAfricaWomen_V_IrelandWomen_club_performances.png" width="32%" />
-<img src="plots/2026-10-31-SouthAfricaWomen_V_IrelandWomen_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-31-SouthAfricaWomen_V_IrelandWomen_club_spreads.png" width="32%" />
 </p>

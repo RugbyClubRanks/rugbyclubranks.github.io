@@ -6,9 +6,9 @@ categories: rugby "Gallagher Premiership 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Bath Rugby to win by 0.83, and Gloucester Rugby won by 18.0. That's an absolute error of 18.8 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 30.2% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Bath Rugby to win by 0.81, and Gloucester Rugby won by 18.0. That's an absolute error of 18.8 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 30.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 28.0. That's an absolute error of 24.5 compared to a six month average of 14.9. This prediction was more accurate than 18.2% of my recent predictions.
+For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 28.0. That's an absolute error of 24.5 compared to a six month average of 14.8. This prediction was more accurate than 18.1% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 52.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Gloucester Rugby to win by 1.81,  and Gloucester Rugby won by 18.0. That's an absolute error of 16.2 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 28.8% of my recent predictions.
+With the player model, I predicted Gloucester Rugby to win by 1.34,  and Gloucester Rugby won by 18.0. That's an absolute error of 16.7 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 28.2% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">
