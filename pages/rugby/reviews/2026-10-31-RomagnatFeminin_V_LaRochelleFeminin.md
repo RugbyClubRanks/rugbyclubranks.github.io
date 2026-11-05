@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Romagnat Feminin V La Rochelle Féminin on 2026/10/31, 43.0 to 7.0
+title: Romagnat Feminin V La Rochelle Feminin on 2026/10/31, 43.0 to 7.0
 date: 2026-10-31
 categories: rugby "Elite 1 2026" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Romagnat Feminin to win by 13.95, and Romagnat Feminin won by 36.0. That's an absolute error of 22.0 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 21.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Romagnat Feminin to win by 13.28, and Romagnat Feminin won by 36.0. That's an absolute error of 22.7 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 19.6% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 50.0. That's an absolute error of 1.5 compared to a six month average of 14.8. This prediction was more accurate than 92.9% of my recent predictions.
+For the Over/Under model, I predicted a total of 46.5 and we have an actual total of 50.0. That's an absolute error of 3.5 compared to a six month average of 14.6. This prediction was more accurate than 85.4% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 48.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Romagnat Feminin to win by 13.96,  and Romagnat Feminin won by 36.0. That's an absolute error of 22.0 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 18.4% of my recent predictions.
+With the player model, I predicted Romagnat Feminin to win by 14.87,  and Romagnat Feminin won by 36.0. That's an absolute error of 21.1 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 19.5% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

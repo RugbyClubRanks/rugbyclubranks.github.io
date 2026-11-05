@@ -1,6 +1,6 @@
 ---
 title: "International Test Match 2026"
-date: 2026-10-30 6:00:00 -0500
+date: 2026-11-05 6:00:00 -0500
 categories: rugby model review projection
 layout: page
 aside:
@@ -13,7 +13,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 84.6% | 10.8 |
+| Club Level | 80.8% | 13.2 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -22,7 +22,7 @@ aside:
 ### Week 8
 #### New Zealand V Australia on 2026/10/01
 
-Average Margin: New Zealand by 11.8
+Average Margin: New Zealand by 11.3
 
 <p float="left">
 <img src="plots/2026-10-01-NewZealand_V_Australia_club_performances.png" width="32%" />
@@ -31,30 +31,9 @@ Average Margin: New Zealand by 11.8
 </p>
 
 ### Week 9
-#### United States of America V Australia A on 2026/10/31
-
-Average Margin: Australia A by 19.7
-
-<p float="left">
-<img src="plots/2026-10-31-UnitedStatesofAmerica_V_AustraliaA_club_performances.png" width="32%" />
-<img src="plots/2026-10-31-UnitedStatesofAmerica_V_AustraliaA_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-31-UnitedStatesofAmerica_V_AustraliaA_club_spreads.png" width="32%" />
-</p>
-
-#### Belgium V Hong Kong on 2026/10/31
-
-Average Margin: Belgium by 8.2
-
-<p float="left">
-<img src="plots/2026-10-31-Belgium_V_HongKong_club_performances.png" width="32%" />
-<img src="plots/2026-10-31-Belgium_V_HongKong_club_resultbar.png" width="32%" />
-<img src="plots/2026-10-31-Belgium_V_HongKong_club_spreads.png" width="32%" />
-</p>
-
-### Week 10
 #### England A V Argentina A on 2026/11/06
 
-Average Margin: England A by 11.9
+Average Margin: England A by 10.6
 
 <p float="left">
 <img src="plots/2026-11-06-EnglandA_V_ArgentinaA_club_performances.png" width="32%" />
@@ -64,7 +43,7 @@ Average Margin: England A by 11.9
 
 #### Pakistan V Uzbekistan on 2026/11/08
 
-Average Margin: Pakistan by 11.2
+Average Margin: Pakistan by 11.9
 
 <p float="left">
 <img src="plots/2026-11-08-Pakistan_V_Uzbekistan_club_performances.png" width="32%" />
@@ -72,23 +51,24 @@ Average Margin: Pakistan by 11.2
 <img src="plots/2026-11-08-Pakistan_V_Uzbekistan_club_spreads.png" width="32%" />
 </p>
 
-### Week 11
-#### Pakistan V Uzbekistan on 2026/11/12
-
-Average Margin: Pakistan by 10.5
-
-<p float="left">
-<img src="plots/2026-11-12-Pakistan_V_Uzbekistan_club_performances.png" width="32%" />
-<img src="plots/2026-11-12-Pakistan_V_Uzbekistan_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-12-Pakistan_V_Uzbekistan_club_spreads.png" width="32%" />
-</p>
-
+### Week 10
 #### Paraguay V Brazil on 2026/11/13
 
-Average Margin: Paraguay by 22.2
+Average Margin: Paraguay by 19.9
 
 <p float="left">
 <img src="plots/2026-11-13-Paraguay_V_Brazil_club_performances.png" width="32%" />
 <img src="plots/2026-11-13-Paraguay_V_Brazil_club_resultbar.png" width="32%" />
 <img src="plots/2026-11-13-Paraguay_V_Brazil_club_spreads.png" width="32%" />
+</p>
+
+### Week 11
+#### Peru V Cayman Islands on 2026/11/21
+
+Average Margin: Peru by 16.9
+
+<p float="left">
+<img src="plots/2026-11-21-Peru_V_CaymanIslands_club_performances.png" width="32%" />
+<img src="plots/2026-11-21-Peru_V_CaymanIslands_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-21-Peru_V_CaymanIslands_club_spreads.png" width="32%" />
 </p>
