@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Model Accuracies
-date: 2026-11-05 6:00:00 -0500
+date: 2026-11-06 6:00:00 -0500
 categories: rugby model
 ---
 

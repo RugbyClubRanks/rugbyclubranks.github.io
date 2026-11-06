@@ -6,9 +6,9 @@ categories: rugby "Nationale 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Massy to win by 5.34, and Massy won by 16.0. That's an absolute error of 10.7 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 53.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Massy to win by 5.56, and Massy won by 16.0. That's an absolute error of 10.4 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 54.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 44.5 and we have an actual total of 46.0. That's an absolute error of 1.5 compared to a six month average of 14.6. This prediction was more accurate than 92.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 43.5 and we have an actual total of 46.0. That's an absolute error of 2.5 compared to a six month average of 14.6. This prediction was more accurate than 89.0% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 44.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Massy to win by 7.4,  and Massy won by 16.0. That's an absolute error of 8.6 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 48.1% of my recent predictions.
+With the player model, I predicted Massy to win by 6.03,  and Massy won by 16.0. That's an absolute error of 10.0 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 44.2% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

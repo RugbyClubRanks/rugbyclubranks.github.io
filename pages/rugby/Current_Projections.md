@@ -22,7 +22,7 @@ categories: rugby
 
 Competition Accuracy: 17 of 21 (80.95%)
 
-Competition Error: 12.11 points per match
+Competition Error: 12.1 points per match
 
 Last Two Week Accuracy: 2 of 2 (100.0%)
 
@@ -30,7 +30,7 @@ Last Two Week Error: 19.64 points per match
 
 [2026/11/06 - England A V Argentina A](projections/2026-11-06-EnglandA_V_ArgentinaA)
 
-[2026/11/08 - Pakistan V Uzbekistan](projections/2026-11-08-Pakistan_V_Uzbekistan)
+[2026/11/10 - Pakistan V Uzbekistan](projections/2026-11-10-Pakistan_V_Uzbekistan)
 
 [2026/11/13 - Paraguay V Brazil](projections/2026-11-13-Paraguay_V_Brazil)
 
@@ -160,11 +160,13 @@ Last Two Week Error: 22.57 points per match
 
 [2026/11/14 - Grenoble Amazones Feminin V Romagnat Feminin](projections/2026-11-14-GrenobleAmazonesFeminin_V_RomagnatFeminin)
 
-[2026/11/15 - Blagnac Feminin V Toulon Provence Mediterranee Feminin](projections/2026-11-15-BlagnacFeminin_V_ToulonProvenceMediterraneeFeminin)
+[2026/11/14 - Stade Toulousain Feminin V Bobigny Feminin](projections/2026-11-14-StadeToulousainFeminin_V_BobignyFeminin)
 
 [2026/11/22 - Toulon Provence Mediterranee Feminin V LOU Feminin](projections/2026-11-22-ToulonProvenceMediterraneeFeminin_V_LOUFeminin)
 
 [2026/11/22 - Bobigny Feminin V La Rochelle Feminin](projections/2026-11-22-BobignyFeminin_V_LaRochelleFeminin)
+
+[2026/11/22 - Blagnac Feminin V Stade Toulousain Feminin](projections/2026-11-22-BlagnacFeminin_V_StadeToulousainFeminin)
 
 [2026/11/21 - Romagnat Feminin V Stade Bordelais Feminin](projections/2026-11-21-RomagnatFeminin_V_StadeBordelaisFeminin)
 
@@ -173,6 +175,8 @@ Last Two Week Error: 22.57 points per match
 [2026/11/15 - Stade Bordelais Feminin V LOU Feminin](projections/2026-11-15-StadeBordelaisFeminin_V_LOUFeminin)
 
 [2026/11/15 - La Rochelle Feminin V Montpellier Feminin](projections/2026-11-15-LaRochelleFeminin_V_MontpellierFeminin)
+
+[2026/11/15 - Blagnac Feminin V Toulon Provence Mediterranee Feminin](projections/2026-11-15-BlagnacFeminin_V_ToulonProvenceMediterraneeFeminin)
 ### Top 14
 
 [In depth model review and projections for Top 14 26/27](comp_files/Top_14_2627)
@@ -183,7 +187,7 @@ Competition Error: 12.52 points per match
 
 Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 15.31 points per match
+Last Two Week Error: 15.29 points per match
 
 [2026/11/07 - Vannes V Bordeaux Begles](projections/2026-11-08-Vannes_V_BordeauxBegles)
 
@@ -241,13 +245,11 @@ Competition Error: 11.25 points per match
 
 Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 10.23 points per match
+Last Two Week Error: 10.22 points per match
 
 [2026/11/06 - Chambery V US Bressane](projections/2026-11-06-Chambery_V_USBressane)
 
 [2026/11/06 - Massy V Rouen](projections/2026-11-06-Massy_V_Rouen)
-
-[2026/11/20 - Carcassonne V Mont-de-Marsan](projections/2026-11-20-Carcassonne_V_Mont-de-Marsan)
 
 [2026/11/06 - Orleans V Carcassonne](projections/2026-11-06-Orleans_V_Carcassonne)
 
@@ -272,6 +274,8 @@ Last Two Week Error: 10.23 points per match
 [2026/11/14 - Rennes V Carcassonne](projections/2026-11-14-Rennes_V_Carcassonne)
 
 [2026/11/14 - Vienne V Suresnes](projections/2026-11-14-Vienne_V_Suresnes)
+
+[2026/11/20 - Carcassonne V Mont-de-Marsan](projections/2026-11-20-Carcassonne_V_Mont-de-Marsan)
 
 [2026/11/20 - Chambery V Marcq-en-Baroeul](projections/2026-11-20-Chambery_V_Marcq-en-Baroeul)
 
@@ -341,13 +345,13 @@ Last Two Week Error: 11.27 points per match
 
 [In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
 
-Competition Accuracy: 54 of 73 (73.97%)
+Competition Accuracy: 55 of 74 (74.32%)
 
-Competition Error: 12.67 points per match
+Competition Error: 12.87 points per match
 
-Last Two Week Accuracy: 6 of 8 (75.0%)
+Last Two Week Accuracy: 7 of 9 (77.78%)
 
-Last Two Week Error: 5.77 points per match
+Last Two Week Error: 8.11 points per match
 
 [2026/11/20 - Biarritz Olympique V Narbonne](projections/2026-11-20-BiarritzOlympique_V_Narbonne)
 
@@ -359,15 +363,13 @@ Last Two Week Error: 5.77 points per match
 
 [2026/11/20 - USON Nevers V Soyaux-Angouleme](projections/2026-11-20-USONNevers_V_Soyaux-Angouleme)
 
-[2026/11/20 - Aurillac V Colomiers](projections/2026-11-20-Aurillac_V_Colomiers)
-
 [2026/11/20 - Beziers V Dax](projections/2026-11-20-Beziers_V_Dax)
+
+[2026/11/20 - Aurillac V Colomiers](projections/2026-11-20-Aurillac_V_Colomiers)
 
 [2026/11/19 - Grenoble V Provence Rugby](projections/2026-11-19-Grenoble_V_ProvenceRugby)
 
 [2026/11/06 - Valence Romans Drome Rugby V USON Nevers](projections/2026-11-06-ValenceRomansDromeRugby_V_USONNevers)
-
-[2026/11/05 - Agen V Biarritz Olympique](projections/2026-11-05-Agen_V_BiarritzOlympique)
 
 [2026/11/06 - Aurillac V US Montauban](projections/2026-11-06-Aurillac_V_USMontauban)
 
@@ -384,12 +386,12 @@ Last Two Week Error: 5.77 points per match
 
 [In depth model review and projections for URBA Top 14 2026](comp_files/URBA_Top_14_2026)
 
-Competition Accuracy: 104 of 163 (63.8%)
+Competition Accuracy: 105 of 163 (64.42%)
 
-Competition Error: 13.88 points per match
+Competition Error: 13.89 points per match
 
 Last Two Week Accuracy: 2 of 2 (100.0%)
 
-Last Two Week Error: 4.04 points per match
+Last Two Week Error: 4.06 points per match
 
 [2026/11/07 - Newman V Hindu](projections/2026-11-07-Newman_V_Hindu)

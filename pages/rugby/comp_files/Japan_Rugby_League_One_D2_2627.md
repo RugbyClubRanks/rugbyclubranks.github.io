@@ -1,6 +1,6 @@
 ---
 title: "Japan Rugby League One D2 26/27"
-date: 2026-11-05 6:00:00 -0500
+date: 2026-11-06 6:00:00 -0500
 categories: rugby model review projection
 layout: page
 aside:
@@ -14,14 +14,14 @@ aside:
 
 | Club                     |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-------------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Toyota Shuttles Aichi    |         2 |            1.62  |                   23.417 |                           0.218 |                              |                          6.778 |
-| Green Rockets Tokatsu    |         2 |            1.252 |                    7.936 |                           0.378 |                              |                          5.528 |
-| Hanazono Kintetsu Liners |         2 |            1.263 |                    9.292 |                           0.35  |                              |                          5.52  |
-| Sayama Secom Rugguts     |         2 |            1.068 |                    2.455 |                           0.408 |                              |                          4.796 |
-| Shimizu Blue Sharks      |         2 |            0.937 |                   -0.463 |                           0.474 |                              |                          4.38  |
-| Kyuden Voltex            |         2 |            0.794 |                   -4.66  |                           0.488 |                              |                          3.804 |
-| Red Hurricanes Osaka     |         2 |            0.457 |                  -15.076 |                           0.476 |                              |                          2.454 |
-| Skyactivs Hiroshima      |         2 |            0.366 |                  -22.901 |                           0.379 |                              |                          1.911 |
+| Toyota Shuttles Aichi    |         2 |            1.62  |                   23.456 |                           0.211 |                              |                          6.773 |
+| Green Rockets Tokatsu    |         2 |            1.252 |                    8.458 |                           0.403 |                              |                          5.539 |
+| Hanazono Kintetsu Liners |         2 |            1.234 |                    8.897 |                           0.376 |                              |                          5.448 |
+| Sayama Secom Rugguts     |         2 |            1.056 |                    2.586 |                           0.416 |                              |                          4.786 |
+| Shimizu Blue Sharks      |         2 |            0.926 |                   -0.695 |                           0.491 |                              |                          4.323 |
+| Kyuden Voltex            |         2 |            0.815 |                   -4.833 |                           0.458 |                              |                          3.862 |
+| Red Hurricanes Osaka     |         2 |            0.484 |                  -14.83  |                           0.47  |                              |                          2.512 |
+| Skyactivs Hiroshima      |         2 |            0.374 |                  -23.039 |                           0.347 |                              |                          1.929 |
 
 
 
@@ -29,14 +29,14 @@ aside:
 
 | Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| Toyota Shuttles Aichi    |        2 |  1.62  |               23.417 |                 0.218 |                    |                6.778 |
-| Green Rockets Tokatsu    |        2 |  1.252 |                7.936 |                 0.378 |                    |                5.528 |
-| Hanazono Kintetsu Liners |        2 |  1.263 |                9.292 |                 0.35  |                    |                5.52  |
-| Sayama Secom Rugguts     |        2 |  1.068 |                2.455 |                 0.408 |                    |                4.796 |
-| Shimizu Blue Sharks      |        2 |  0.937 |               -0.463 |                 0.474 |                    |                4.38  |
-| Kyuden Voltex            |        2 |  0.794 |               -4.66  |                 0.488 |                    |                3.804 |
-| Red Hurricanes Osaka     |        2 |  0.457 |              -15.076 |                 0.476 |                    |                2.454 |
-| Skyactivs Hiroshima      |        2 |  0.366 |              -22.901 |                 0.379 |                    |                1.911 |
+| Toyota Shuttles Aichi    |        2 |  1.62  |               23.456 |                 0.211 |                    |                6.773 |
+| Green Rockets Tokatsu    |        2 |  1.252 |                8.458 |                 0.403 |                    |                5.539 |
+| Hanazono Kintetsu Liners |        2 |  1.234 |                8.897 |                 0.376 |                    |                5.448 |
+| Sayama Secom Rugguts     |        2 |  1.056 |                2.586 |                 0.416 |                    |                4.786 |
+| Shimizu Blue Sharks      |        2 |  0.926 |               -0.695 |                 0.491 |                    |                4.323 |
+| Kyuden Voltex            |        2 |  0.815 |               -4.833 |                 0.458 |                    |                3.862 |
+| Red Hurricanes Osaka     |        2 |  0.484 |              -14.83  |                 0.47  |                    |                2.512 |
+| Skyactivs Hiroshima      |        2 |  0.374 |              -23.039 |                 0.347 |                    |                1.929 |
 
 
 
@@ -44,7 +44,7 @@ aside:
 ### Week 1
 #### Skyactivs Hiroshima V Sayama Secom Rugguts on 2026/12/12
 
-Average Margin: Sayama Secom Rugguts by 4.0
+Average Margin: Sayama Secom Rugguts by 4.3
 
 <p float="left">
 <img src="plots/2026-12-12-SkyactivsHiroshima_V_SayamaSecomRugguts_club_performances.png" width="32%" />
@@ -52,19 +52,9 @@ Average Margin: Sayama Secom Rugguts by 4.0
 <img src="plots/2026-12-12-SkyactivsHiroshima_V_SayamaSecomRugguts_club_spreads.png" width="32%" />
 </p>
 
-#### Hanazono Kintetsu Liners V Red Hurricanes Osaka on 2026/12/12
-
-Average Margin: Hanazono Kintetsu Liners by 11.0
-
-<p float="left">
-<img src="plots/2026-12-12-HanazonoKintetsuLiners_V_RedHurricanesOsaka_club_performances.png" width="32%" />
-<img src="plots/2026-12-12-HanazonoKintetsuLiners_V_RedHurricanesOsaka_club_resultbar.png" width="32%" />
-<img src="plots/2026-12-12-HanazonoKintetsuLiners_V_RedHurricanesOsaka_club_spreads.png" width="32%" />
-</p>
-
 #### Shimizu Blue Sharks V Toyota Shuttles Aichi on 2026/12/12
 
-Average Margin: Toyota Shuttles Aichi by 4.5
+Average Margin: Toyota Shuttles Aichi by 4.7
 
 <p float="left">
 <img src="plots/2026-12-12-ShimizuBlueSharks_V_ToyotaShuttlesAichi_club_performances.png" width="32%" />
@@ -72,9 +62,19 @@ Average Margin: Toyota Shuttles Aichi by 4.5
 <img src="plots/2026-12-12-ShimizuBlueSharks_V_ToyotaShuttlesAichi_club_spreads.png" width="32%" />
 </p>
 
+#### Hanazono Kintetsu Liners V Red Hurricanes Osaka on 2026/12/12
+
+Average Margin: Hanazono Kintetsu Liners by 10.8
+
+<p float="left">
+<img src="plots/2026-12-12-HanazonoKintetsuLiners_V_RedHurricanesOsaka_club_performances.png" width="32%" />
+<img src="plots/2026-12-12-HanazonoKintetsuLiners_V_RedHurricanesOsaka_club_resultbar.png" width="32%" />
+<img src="plots/2026-12-12-HanazonoKintetsuLiners_V_RedHurricanesOsaka_club_spreads.png" width="32%" />
+</p>
+
 #### Green Rockets Tokatsu V Kyuden Voltex on 2026/12/13
 
-Average Margin: Green Rockets Tokatsu by 6.4
+Average Margin: Green Rockets Tokatsu by 6.8
 
 <p float="left">
 <img src="plots/2026-12-13-GreenRocketsTokatsu_V_KyudenVoltex_club_performances.png" width="32%" />
@@ -85,7 +85,7 @@ Average Margin: Green Rockets Tokatsu by 6.4
 ### Week 2
 #### Red Hurricanes Osaka V Shimizu Blue Sharks on 2026/12/19
 
-Average Margin: Shimizu Blue Sharks by 4.1
+Average Margin: Shimizu Blue Sharks by 4.0
 
 <p float="left">
 <img src="plots/2026-12-19-RedHurricanesOsaka_V_ShimizuBlueSharks_club_performances.png" width="32%" />
@@ -95,7 +95,7 @@ Average Margin: Shimizu Blue Sharks by 4.1
 
 #### Toyota Shuttles Aichi V Skyactivs Hiroshima on 2026/12/19
 
-Average Margin: Toyota Shuttles Aichi by 18.9
+Average Margin: Toyota Shuttles Aichi by 18.8
 
 <p float="left">
 <img src="plots/2026-12-19-ToyotaShuttlesAichi_V_SkyactivsHiroshima_club_performances.png" width="32%" />
@@ -105,7 +105,7 @@ Average Margin: Toyota Shuttles Aichi by 18.9
 
 #### Kyuden Voltex V Hanazono Kintetsu Liners on 2026/12/20
 
-Average Margin: Kyuden Voltex by 1.7
+Average Margin: Kyuden Voltex by 1.9
 
 <p float="left">
 <img src="plots/2026-12-20-KyudenVoltex_V_HanazonoKintetsuLiners_club_performances.png" width="32%" />
@@ -116,7 +116,7 @@ Average Margin: Kyuden Voltex by 1.7
 ### Week 3
 #### Sayama Secom Rugguts V Green Rockets Tokatsu on 2026/12/27
 
-Average Margin: Green Rockets Tokatsu by 1.6
+Average Margin: Green Rockets Tokatsu by 1.7
 
 <p float="left">
 <img src="plots/2026-12-27-SayamaSecomRugguts_V_GreenRocketsTokatsu_club_performances.png" width="32%" />
