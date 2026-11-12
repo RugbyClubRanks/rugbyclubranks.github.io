@@ -6,9 +6,9 @@ categories: rugby "Top 14 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Toulon to win by 5.62, and Toulon won by 20.0. That's an absolute error of 14.4 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 41.0% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Toulon to win by 5.98, and Toulon won by 20.0. That's an absolute error of 14.0 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 42.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 66.0. That's an absolute error of 16.5 compared to a six month average of 14.6. This prediction was more accurate than 36.7% of my recent predictions.
+For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 66.0. That's an absolute error of 17.5 compared to a six month average of 14.3. This prediction was more accurate than 33.8% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">

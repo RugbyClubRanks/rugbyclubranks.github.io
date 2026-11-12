@@ -20,15 +20,17 @@ categories: rugby
 
 [In depth model review and projections for International Test Match 2026](comp_files/International_Test_Match_2026)
 
-Competition Accuracy: 18 of 22 (81.82%)
+Competition Accuracy: 18 of 23 (78.26%)
 
-Competition Error: 12.28 points per match
+Competition Error: 12.53 points per match
 
-Last Two Week Accuracy: 3 of 3 (100.0%)
+Last Two Week Accuracy: 1 of 2 (50.0%)
 
-Last Two Week Error: 18.47 points per match
+Last Two Week Error: 17.0 points per match
 
-[2026/11/06, 52.0 to 24.0 - England A V Argentina A, 52.0 to 24.0](reviews/2026-11-06-EnglandA_V_ArgentinaA)
+[2026/11/06, 59.0 to 24.0 - England A V Argentina A, 59.0 to 24.0](reviews/2026-11-06-EnglandA_V_ArgentinaA)
+
+[2026/11/09, 0.0 to 0.0 - Pakistan V Uzbekistan, 0.0 to 0.0](reviews/2026-11-09-Pakistan_V_Uzbekistan)
 ### Nations Championship
 
 [In depth model review and projections for Nations Championship 2026](comp_files/Nations_Championship_2026)
@@ -101,11 +103,11 @@ Last Two Week Error: 13.59 points per match
 
 Competition Accuracy: 47 of 63 (74.6%)
 
-Competition Error: 12.47 points per match
+Competition Error: 12.48 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 13.7 points per match
+Last Two Week Error: 12.09 points per match
 
 [2026/11/07, 21.0 to 19.0 - Montpellier Herault V Lyon, 21.0 to 19.0](reviews/2026-11-07-MontpellierHerault_V_Lyon)
 
@@ -129,9 +131,9 @@ Competition Accuracy: 9 of 10 (90.0%)
 
 Competition Error: 15.54 points per match
 
-Last Two Week Accuracy: 9 of 10 (90.0%)
+Last Two Week Accuracy: 5 of 5 (100.0%)
 
-Last Two Week Error: 15.54 points per match
+Last Two Week Error: 15.15 points per match
 
 [2026/11/08, 22.0 to 42.0 - CRC Pozuelo Rugby V Alcobendas, 22.0 to 42.0](reviews/2026-11-08-CRCPozueloRugby_V_Alcobendas)
 
@@ -148,9 +150,9 @@ Competition Accuracy: 61 of 81 (75.31%)
 
 Competition Error: 13.25 points per match
 
-Last Two Week Accuracy: 13 of 16 (81.25%)
+Last Two Week Accuracy: 7 of 8 (87.5%)
 
-Last Two Week Error: 12.19 points per match
+Last Two Week Error: 18.6 points per match
 
 [2026/11/06, 32.0 to 23.0 - Provence Rugby V Oyonnax, 32.0 to 23.0](reviews/2026-11-06-ProvenceRugby_V_Oyonnax)
 
@@ -175,9 +177,9 @@ Competition Accuracy: 33 of 49 (67.35%)
 
 Competition Error: 15.85 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 3 of 7 (42.86%)
 
-Last Two Week Error: 14.62 points per match
+Last Two Week Error: 17.98 points per match
 
 [2026/11/08, 12.0 to 36.0 - Hartpury College RFC V Chinnor, 12.0 to 36.0](reviews/2026-11-08-HartpuryCollege_V_Chinnor)
 
@@ -200,9 +202,9 @@ Competition Accuracy: 53 of 70 (75.71%)
 
 Competition Error: 11.09 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 9.93 points per match
+Last Two Week Error: 9.65 points per match
 
 [2026/11/07, 36.0 to 17.0 - Perigueux V Albi, 36.0 to 17.0](reviews/2026-11-07-Perigueux_V_Albi)
 
@@ -221,12 +223,12 @@ Last Two Week Error: 9.93 points per match
 
 [In depth model review and projections for URBA Top 14 2026](comp_files/URBA_Top_14_2026)
 
-Competition Accuracy: 105 of 164 (64.02%)
+Competition Accuracy: 106 of 164 (64.63%)
 
-Competition Error: 13.81 points per match
+Competition Error: 13.82 points per match
 
-Last Two Week Accuracy: 3 of 3 (100.0%)
+Last Two Week Accuracy: 1 of 1 (100.0%)
 
-Last Two Week Error: 3.86 points per match
+Last Two Week Error: 3.56 points per match
 
 [2026/11/07, 33.0 to 32.0 - Newman V Hindu, 33.0 to 32.0](reviews/2026-11-07-Newman_V_Hindu)

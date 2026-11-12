@@ -6,9 +6,9 @@ categories: rugby "Nations Championship 2026" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Ireland to win by 10.5, and Ireland won by 30.0. That's an absolute error of 19.5 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 28.1% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Ireland to win by 10.36, and Ireland won by 30.0. That's an absolute error of 19.6 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 27.3% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 54.0. That's an absolute error of 3.5 compared to a six month average of 14.6. This prediction was more accurate than 85.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 54.0. That's an absolute error of 3.5 compared to a six month average of 14.3. This prediction was more accurate than 84.8% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 50.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Ireland to win by 5.22,  and Ireland won by 30.0. That's an absolute error of 24.8 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 15.4% of my recent predictions.
+With the player model, I predicted Ireland to win by 6.07,  and Ireland won by 30.0. That's an absolute error of 23.9 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 16.6% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

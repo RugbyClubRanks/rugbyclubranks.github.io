@@ -1,6 +1,6 @@
 ---
 title: "Rugby Europe Super Cup 2026"
-date: 2026-11-09 6:00:00 -0500
+date: 2026-11-12 6:00:00 -0500
 categories: rugby model review projection
 layout: page
 aside:
@@ -27,11 +27,11 @@ aside:
 
 | Club                   |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-----------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Lusitanos XV           |         2 |            1.773 |                   44.748 |                           0.119 |                              |                          7.255 |
-| Brussels Devils        |         2 |            0.922 |                   -1.506 |                           0.105 |                              |                          3.847 |
-| Romanian Wolves        |         1 |            0.93  |                   33.348 |                           0.027 |                              |                          3.761 |
-| Bohemia Rugby Warriors |         2 |            0.178 |                  -58.986 |                           0.129 |                              |                          0.891 |
-| Delta                  |         1 |            0.15  |                  -17.604 |                           0.106 |                              |                          0.732 |
+| Lusitanos XV           |         2 |            1.753 |                   43.704 |                           0.118 |                              |                          7.174 |
+| Brussels Devils        |         2 |            0.935 |                   -1.342 |                           0.117 |                              |                          3.891 |
+| Romanian Wolves        |         1 |            0.924 |                   32.789 |                           0.03  |                              |                          3.734 |
+| Bohemia Rugby Warriors |         2 |            0.183 |                  -58.148 |                           0.15  |                              |                          0.904 |
+| Delta                  |         1 |            0.172 |                  -17.003 |                           0.112 |                              |                          0.824 |
 
 
 
@@ -39,12 +39,12 @@ aside:
 
 | Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points |   Try Bonus Points |   Competition Points |
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|-------------------:|---------------------:|
-| Lusitanos XV             |        6 |  4.773 |              202.748 |                 0.119 |                    |               19.255 |
-| Delta                    |        6 |  3.15  |               -7.604 |                 1.106 |                    |               13.732 |
-| Romanian Wolves          |        4 |  2.93  |              -25.652 |                 0.027 |                  1 |               12.761 |
+| Lusitanos XV             |        6 |  4.753 |              201.704 |                 0.118 |                    |               19.174 |
+| Delta                    |        6 |  3.172 |               -7.003 |                 1.112 |                    |               13.824 |
+| Romanian Wolves          |        4 |  2.924 |              -26.211 |                 0.03  |                  1 |               12.734 |
 | Castilla y Leon Iberians |        2 |  2     |               30     |                 0     |                    |                8     |
-| Brussels Devils          |        6 |  0.922 |              -63.506 |                 3.105 |                  1 |                7.847 |
-| Bohemia Rugby Warriors   |        4 |  0.178 |             -135.986 |                 0.129 |                    |                0.891 |
+| Brussels Devils          |        6 |  0.935 |              -63.342 |                 3.117 |                  1 |                7.891 |
+| Bohemia Rugby Warriors   |        4 |  0.183 |             -135.148 |                 0.15  |                    |                0.904 |
 
 
 
@@ -52,7 +52,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 78.6% | 18.4 |
+| Club Level | 85.7% | 20.8 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -61,7 +61,7 @@ aside:
 ### Week 6
 #### Romanian Wolves V Bohemia Rugby Warriors on 2026/12/05
 
-Average Margin: Romanian Wolves by 33.3
+Average Margin: Romanian Wolves by 32.8
 
 <p float="left">
 <img src="plots/2026-12-05-RomanianWolves_V_BohemiaRugbyWarriors_club_performances.png" width="32%" />
@@ -71,7 +71,7 @@ Average Margin: Romanian Wolves by 33.3
 
 #### Lusitanos XV V Brussels Devils on 2026/12/05
 
-Average Margin: Lusitanos XV by 27.1
+Average Margin: Lusitanos XV by 26.7
 
 <p float="left">
 <img src="plots/2026-12-05-LusitanosXV_V_BrusselsDevils_club_performances.png" width="32%" />
@@ -82,7 +82,7 @@ Average Margin: Lusitanos XV by 27.1
 ### Week 7
 #### Brussels Devils V Bohemia Rugby Warriors on 2026/12/12
 
-Average Margin: Brussels Devils by 25.6
+Average Margin: Brussels Devils by 25.4
 
 <p float="left">
 <img src="plots/2026-12-12-BrusselsDevils_V_BohemiaRugbyWarriors_club_performances.png" width="32%" />
@@ -92,7 +92,7 @@ Average Margin: Brussels Devils by 25.6
 
 #### Delta V Lusitanos XV on 2026/12/13
 
-Average Margin: Lusitanos XV by 17.6
+Average Margin: Lusitanos XV by 17.0
 
 <p float="left">
 <img src="plots/2026-12-13-Delta_V_LusitanosXV_club_performances.png" width="32%" />

@@ -20,90 +20,17 @@ categories: rugby
 
 [In depth model review and projections for International Test Match 2026](comp_files/International_Test_Match_2026)
 
-Competition Accuracy: 18 of 22 (81.82%)
+Competition Accuracy: 18 of 23 (78.26%)
 
-Competition Error: 12.28 points per match
+Competition Error: 12.53 points per match
 
-Last Two Week Accuracy: 3 of 3 (100.0%)
+Last Two Week Accuracy: 1 of 2 (50.0%)
 
-Last Two Week Error: 18.47 points per match
-
-[2026/11/09 - Pakistan V Uzbekistan](projections/2026-11-09-Pakistan_V_Uzbekistan)
+Last Two Week Error: 17.0 points per match
 
 [2026/11/13 - Paraguay V Brazil](projections/2026-11-13-Paraguay_V_Brazil)
 
 [2026/11/21 - Peru V Cayman Islands](projections/2026-11-21-Peru_V_CaymanIslands)
-### Nations Championship
-
-[In depth model review and projections for Nations Championship 2026](comp_files/Nations_Championship_2026)
-
-Competition Accuracy: 19 of 24 (79.17%)
-
-Competition Error: 16.72 points per match
-
-Last Two Week Accuracy: 6 of 6 (100.0%)
-
-Last Two Week Error: 17.42 points per match
-
-[2026/11/21 - Ireland V South Africa](projections/2026-11-21-Ireland_V_SouthAfrica)
-
-[2026/11/21 - Scotland V Japan](projections/2026-11-21-Scotland_V_Japan)
-
-[2026/11/21 - Wales V Australia](projections/2026-11-21-Wales_V_Australia)
-
-[2026/11/21 - Italy V Fiji](projections/2026-11-21-Italy_V_Fiji)
-
-[2026/11/21 - France V Argentina](projections/2026-11-21-France_V_Argentina)
-
-[2026/11/21 - England V New Zealand](projections/2026-11-21-England_V_NewZealand)
-
-[2026-11-26 - England V Argentina](projections/2026-11-26-England_V_Argentina)
-
-[2026-11-26 - England V Australia](projections/2026-11-26-England_V_Australia)
-
-[2026-11-26 - England V New Zealand](projections/2026-11-26-England_V_NewZealand)
-
-[2026-11-26 - England V South Africa](projections/2026-11-26-England_V_SouthAfrica)
-
-[2026-11-26 - France V Argentina](projections/2026-11-26-France_V_Argentina)
-
-[2026-11-26 - France V Australia](projections/2026-11-26-France_V_Australia)
-
-[2026-11-26 - France V New Zealand](projections/2026-11-26-France_V_NewZealand)
-
-[2026-11-26 - France V South Africa](projections/2026-11-26-France_V_SouthAfrica)
-
-[2026-11-26 - Ireland V Argentina](projections/2026-11-26-Ireland_V_Argentina)
-
-[2026-11-26 - Ireland V Australia](projections/2026-11-26-Ireland_V_Australia)
-
-[2026-11-26 - Ireland V New Zealand](projections/2026-11-26-Ireland_V_NewZealand)
-
-[2026-11-26 - Ireland V South Africa](projections/2026-11-26-Ireland_V_SouthAfrica)
-
-[2026-11-26 - Italy V Fiji](projections/2026-11-26-Italy_V_Fiji)
-
-[2026-11-26 - Scotland V Argentina](projections/2026-11-26-Scotland_V_Argentina)
-
-[2026-11-26 - Scotland V Australia](projections/2026-11-26-Scotland_V_Australia)
-
-[2026-11-26 - Scotland V Japan](projections/2026-11-26-Scotland_V_Japan)
-
-[2026-11-26 - Wales V Argentina](projections/2026-11-26-Wales_V_Argentina)
-
-[2026-11-26 - Wales V Japan](projections/2026-11-26-Wales_V_Japan)
-
-[2026/11/13 - France V South Africa](projections/2026-11-13-France_V_SouthAfrica)
-
-[2026/11/14 - England V Japan](projections/2026-11-14-England_V_Japan)
-
-[2026/11/14 - Ireland V Fiji](projections/2026-11-14-Ireland_V_Fiji)
-
-[2026/11/14 - Italy V Argentina](projections/2026-11-14-Italy_V_Argentina)
-
-[2026/11/14 - Wales V New Zealand](projections/2026-11-14-Wales_V_NewZealand)
-
-[2026/11/15 - Scotland V Australia](projections/2026-11-15-Scotland_V_Australia)
 ### Nations Cup
 
 [In depth model review and projections for Nations Cup 2026](comp_files/Nations_Cup_2026)
@@ -115,6 +42,8 @@ Competition Error: 13.61 points per match
 Last Two Week Accuracy: 4 of 6 (66.67%)
 
 Last Two Week Error: 15.05 points per match
+
+[2026/11/14 - Portugal V Chile](projections/2026-11-14-Portugal_V_Chile)
 
 [2026/11/07 - Georgia V Tonga](projections/2026-11-07-Georgia_V_Tonga)
 
@@ -135,8 +64,6 @@ Last Two Week Error: 15.05 points per match
 [2026/11/14 - Hong Kong V Canada](projections/2026-11-14-HongKong_V_Canada)
 
 [2026/11/14 - Hong Kong V United States of America](projections/2026-11-14-HongKong_V_UnitedStatesofAmerica)
-
-[2026/11/14 - Portugal V Chile](projections/2026-11-14-Portugal_V_Chile)
 
 [2026/11/14 - Portugal V Samoa](projections/2026-11-14-Portugal_V_Samoa)
 
@@ -163,6 +90,73 @@ Last Two Week Error: 15.05 points per match
 [2026/11/21 - Spain V Samoa](projections/2026-11-21-Spain_V_Samoa)
 
 [2026/11/21 - Zimbabwe V Chile](projections/2026-11-21-Zimbabwe_V_Chile)
+### Nations Championship
+
+[In depth model review and projections for Nations Championship 2026](comp_files/Nations_Championship_2026)
+
+Competition Accuracy: 19 of 24 (79.17%)
+
+Competition Error: 16.72 points per match
+
+Last Two Week Accuracy: 6 of 6 (100.0%)
+
+Last Two Week Error: 17.42 points per match
+
+[2026/11/21 - Wales V Australia](projections/2026-11-21-Wales_V_Australia)
+
+[2026/11/21 - Scotland V Japan](projections/2026-11-21-Scotland_V_Japan)
+
+[2026/11/21 - Italy V Fiji](projections/2026-11-21-Italy_V_Fiji)
+
+[2026/11/21 - Ireland V South Africa](projections/2026-11-21-Ireland_V_SouthAfrica)
+
+[2026/11/21 - France V Argentina](projections/2026-11-21-France_V_Argentina)
+
+[2026-11-26 - England V Argentina](projections/2026-11-26-England_V_Argentina)
+
+[2026-11-26 - England V Australia](projections/2026-11-26-England_V_Australia)
+
+[2026-11-26 - England V New Zealand](projections/2026-11-26-England_V_NewZealand)
+
+[2026-11-26 - England V South Africa](projections/2026-11-26-England_V_SouthAfrica)
+
+[2026-11-26 - France V Australia](projections/2026-11-26-France_V_Australia)
+
+[2026-11-26 - France V New Zealand](projections/2026-11-26-France_V_NewZealand)
+
+[2026-11-26 - France V South Africa](projections/2026-11-26-France_V_SouthAfrica)
+
+[2026-11-26 - Ireland V Argentina](projections/2026-11-26-Ireland_V_Argentina)
+
+[2026-11-26 - Ireland V Australia](projections/2026-11-26-Ireland_V_Australia)
+
+[2026-11-26 - Ireland V New Zealand](projections/2026-11-26-Ireland_V_NewZealand)
+
+[2026-11-26 - Ireland V South Africa](projections/2026-11-26-Ireland_V_SouthAfrica)
+
+[2026-11-26 - Italy V Fiji](projections/2026-11-26-Italy_V_Fiji)
+
+[2026-11-26 - Scotland V Argentina](projections/2026-11-26-Scotland_V_Argentina)
+
+[2026-11-26 - Scotland V Australia](projections/2026-11-26-Scotland_V_Australia)
+
+[2026-11-26 - Scotland V Japan](projections/2026-11-26-Scotland_V_Japan)
+
+[2026-11-26 - Wales V Japan](projections/2026-11-26-Wales_V_Japan)
+
+[2026/11/13 - France V South Africa](projections/2026-11-13-France_V_SouthAfrica)
+
+[2026/11/14 - England V Japan](projections/2026-11-14-England_V_Japan)
+
+[2026/11/14 - Ireland V Fiji](projections/2026-11-14-Ireland_V_Fiji)
+
+[2026/11/14 - Italy V Argentina](projections/2026-11-14-Italy_V_Argentina)
+
+[2026/11/14 - Wales V New Zealand](projections/2026-11-14-Wales_V_NewZealand)
+
+[2026/11/15 - Scotland V Australia](projections/2026-11-15-Scotland_V_Australia)
+
+[2026/11/21 - England V New Zealand](projections/2026-11-21-England_V_NewZealand)
 ## Top Flight Competitions
 ### Elite 1
 
@@ -172,19 +166,15 @@ Competition Accuracy: 43 of 68 (63.24%)
 
 Competition Error: 15.37 points per match
 
-Last Two Week Accuracy: 2 of 5 (40.0%)
-
-Last Two Week Error: 22.57 points per match
-
 [2026/11/14 - Grenoble Amazones Feminin V Romagnat Feminin](projections/2026-11-14-GrenobleAmazonesFeminin_V_RomagnatFeminin)
 
-[2026/11/29 - Stade Bordelais Feminin V Montpellier Feminin](projections/2026-11-29-StadeBordelaisFeminin_V_MontpellierFeminin)
+[2026/11/14 - Stade Toulousain Feminin V Bobigny Feminin](projections/2026-11-14-StadeToulousainFeminin_V_BobignyFeminin)
 
 [2026/11/29 - Stade Toulousain Feminin V Toulon Provence Mediterranee Feminin](projections/2026-11-29-StadeToulousainFeminin_V_ToulonProvenceMediterraneeFeminin)
 
-[2026/11/29 - La Rochelle Feminin V Blagnac Feminin](projections/2026-11-29-LaRochelleFeminin_V_BlagnacFeminin)
+[2026/11/29 - Stade Bordelais Feminin V Montpellier Feminin](projections/2026-11-29-StadeBordelaisFeminin_V_MontpellierFeminin)
 
-[2026/11/14 - Stade Toulousain Feminin V Bobigny Feminin](projections/2026-11-14-StadeToulousainFeminin_V_BobignyFeminin)
+[2026/11/29 - La Rochelle Feminin V Blagnac Feminin](projections/2026-11-29-LaRochelleFeminin_V_BlagnacFeminin)
 
 [2026/11/29 - LOU Feminin V Romagnat Feminin](projections/2026-11-29-LOUFeminin_V_RomagnatFeminin)
 
@@ -211,11 +201,11 @@ Last Two Week Error: 22.57 points per match
 
 Competition Accuracy: 47 of 63 (74.6%)
 
-Competition Error: 12.47 points per match
+Competition Error: 12.48 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 13.7 points per match
+Last Two Week Error: 12.09 points per match
 
 [2026/11/28 - Racing 92 V Pau](projections/2026-11-28-Racing92_V_Pau)
 
@@ -246,6 +236,8 @@ Last Two Week Error: 13.59 points per match
 
 [2026/11/14 - Newcastle Red Bulls V Harlequins](projections/2026-11-14-NewcastleRedBulls_V_Harlequins)
 
+[2026/11/14 - Bath Rugby V Gloucester Rugby](projections/2026-11-14-BathRugby_V_GloucesterRugby)
+
 [2026/11/13 - Sale Sharks V Exeter Chiefs](projections/2026-11-13-SaleSharks_V_ExeterChiefs)
 ## Domestic Competitions
 ### Nationale
@@ -256,9 +248,9 @@ Competition Accuracy: 53 of 70 (75.71%)
 
 Competition Error: 11.09 points per match
 
-Last Two Week Accuracy: 11 of 14 (78.57%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 9.93 points per match
+Last Two Week Error: 9.65 points per match
 
 [2026/11/13 - Albi V Bourgoin-Jallieu](projections/2026-11-13-Albi_V_Bourgoin-Jallieu)
 
@@ -295,9 +287,9 @@ Competition Accuracy: 61 of 81 (75.31%)
 
 Competition Error: 13.25 points per match
 
-Last Two Week Accuracy: 13 of 16 (81.25%)
+Last Two Week Accuracy: 7 of 8 (87.5%)
 
-Last Two Week Error: 12.19 points per match
+Last Two Week Error: 18.6 points per match
 
 [2026/11/27 - Colomiers V USON Nevers](projections/2026-11-27-Colomiers_V_USONNevers)
 
@@ -338,9 +330,9 @@ Competition Accuracy: 33 of 49 (67.35%)
 
 Competition Error: 15.85 points per match
 
-Last Two Week Accuracy: 9 of 14 (64.29%)
+Last Two Week Accuracy: 3 of 7 (42.86%)
 
-Last Two Week Error: 14.62 points per match
+Last Two Week Error: 17.98 points per match
 
 [2026/11/13 - Bedford V Doncaster](projections/2026-11-13-Bedford_V_Doncaster)
 
