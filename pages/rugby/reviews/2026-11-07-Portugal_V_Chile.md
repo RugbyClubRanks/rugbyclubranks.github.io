@@ -6,9 +6,9 @@ categories: rugby "Nations Cup 2026" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Portugal to win by 7.85, and Portugal won by 21.0. That's an absolute error of 13.2 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 46.6% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Portugal to win by 7.9, and Portugal won by 21.0. That's an absolute error of 13.1 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 46.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 51.0. That's an absolute error of 1.5 compared to a six month average of 14.3. This prediction was more accurate than 92.2% of my recent predictions.
+For the Over/Under model, I predicted a total of 54.5 and we have an actual total of 51.0. That's an absolute error of 3.5 compared to a six month average of 14.4. This prediction was more accurate than 85.0% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 52.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Portugal to win by 13.27,  and Portugal won by 21.0. That's an absolute error of 7.7 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 50.9% of my recent predictions.
+With the player model, I predicted Portugal to win by 13.2,  and Portugal won by 21.0. That's an absolute error of 7.8 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 50.7% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

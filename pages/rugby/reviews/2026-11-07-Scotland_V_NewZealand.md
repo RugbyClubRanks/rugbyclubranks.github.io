@@ -6,9 +6,9 @@ categories: rugby "Nations Championship 2026" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted New Zealand to win by 4.48, and New Zealand won by 22.0. That's an absolute error of 17.5 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 33.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted New Zealand to win by 4.57, and New Zealand won by 22.0. That's an absolute error of 17.4 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 33.4% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 64.0. That's an absolute error of 10.5 compared to a six month average of 14.3. This prediction was more accurate than 54.1% of my recent predictions.
+For the Over/Under model, I predicted a total of 54.5 and we have an actual total of 64.0. That's an absolute error of 9.5 compared to a six month average of 14.4. This prediction was more accurate than 57.9% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 53.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted New Zealand to win by 3.92,  and New Zealand won by 22.0. That's an absolute error of 18.1 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 25.1% of my recent predictions.
+With the player model, I predicted New Zealand to win by 4.21,  and New Zealand won by 22.0. That's an absolute error of 17.8 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 25.4% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

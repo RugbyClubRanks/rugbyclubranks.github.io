@@ -22,11 +22,11 @@ categories: rugby
 
 Competition Accuracy: 18 of 23 (78.26%)
 
-Competition Error: 12.53 points per match
+Competition Error: 12.55 points per match
 
 Last Two Week Accuracy: 1 of 2 (50.0%)
 
-Last Two Week Error: 17.0 points per match
+Last Two Week Error: 17.13 points per match
 
 [2026/11/06, 59.0 to 24.0 - England A V Argentina A, 59.0 to 24.0](reviews/2026-11-06-EnglandA_V_ArgentinaA)
 
@@ -37,11 +37,11 @@ Last Two Week Error: 17.0 points per match
 
 Competition Accuracy: 19 of 24 (79.17%)
 
-Competition Error: 16.72 points per match
+Competition Error: 16.73 points per match
 
 Last Two Week Accuracy: 6 of 6 (100.0%)
 
-Last Two Week Error: 17.42 points per match
+Last Two Week Error: 17.45 points per match
 
 [2026/11/06, 42.0 to 12.0 - Ireland V Argentina, 42.0 to 12.0](reviews/2026-11-06-Ireland_V_Argentina)
 
@@ -107,7 +107,7 @@ Competition Error: 12.48 points per match
 
 Last Two Week Accuracy: 5 of 7 (71.43%)
 
-Last Two Week Error: 12.09 points per match
+Last Two Week Error: 12.1 points per match
 
 [2026/11/07, 21.0 to 19.0 - Montpellier Herault V Lyon, 21.0 to 19.0](reviews/2026-11-07-MontpellierHerault_V_Lyon)
 
@@ -148,11 +148,11 @@ Last Two Week Error: 15.15 points per match
 
 Competition Accuracy: 61 of 81 (75.31%)
 
-Competition Error: 13.25 points per match
+Competition Error: 13.26 points per match
 
 Last Two Week Accuracy: 7 of 8 (87.5%)
 
-Last Two Week Error: 18.6 points per match
+Last Two Week Error: 18.62 points per match
 
 [2026/11/06, 32.0 to 23.0 - Provence Rugby V Oyonnax, 32.0 to 23.0](reviews/2026-11-06-ProvenceRugby_V_Oyonnax)
 
@@ -204,7 +204,7 @@ Competition Error: 11.09 points per match
 
 Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 9.65 points per match
+Last Two Week Error: 9.66 points per match
 
 [2026/11/07, 36.0 to 17.0 - Perigueux V Albi, 36.0 to 17.0](reviews/2026-11-07-Perigueux_V_Albi)
 
@@ -225,10 +225,10 @@ Last Two Week Error: 9.65 points per match
 
 Competition Accuracy: 106 of 164 (64.63%)
 
-Competition Error: 13.82 points per match
+Competition Error: 13.81 points per match
 
 Last Two Week Accuracy: 1 of 1 (100.0%)
 
-Last Two Week Error: 3.56 points per match
+Last Two Week Error: 3.52 points per match
 
 [2026/11/07, 33.0 to 32.0 - Newman V Hindu, 33.0 to 32.0](reviews/2026-11-07-Newman_V_Hindu)
