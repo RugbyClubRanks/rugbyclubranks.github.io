@@ -1,6 +1,6 @@
 ---
 title: "Premiership Cup 2026"
-date: 2026-11-13 6:00:00 -0500
+date: 2026-11-16 6:00:00 -0500
 categories: rugby model review projection
 layout: page
 aside:
@@ -14,14 +14,14 @@ aside:
 
 | Club                |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:--------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Northampton Saints  |         1 |            0.867 |                    7.767 |                           0.092 |                              |                          3.624 |
-| Saracens            |         1 |            0.8   |                    5.769 |                           0.133 |                              |                          3.433 |
-| Exeter Chiefs       |         1 |            0.77  |                    4.945 |                           0.15  |                              |                          3.334 |
-| Bristol Rugby       |         1 |            0.523 |                    0.918 |                           0.337 |                              |                          2.539 |
-| Bath Rugby          |         1 |            0.422 |                   -0.918 |                           0.381 |                              |                          2.179 |
-| Gloucester Rugby    |         1 |            0.178 |                   -4.945 |                           0.431 |                              |                          1.247 |
-| Harlequins          |         1 |            0.15  |                   -5.769 |                           0.419 |                              |                          1.119 |
-| Newcastle Red Bulls |         1 |            0.101 |                   -7.767 |                           0.347 |                              |                          0.815 |
+| Northampton Saints  |         1 |            0.896 |                    8.455 |                           0.071 |                              |                          3.705 |
+| Saracens            |         1 |            0.786 |                    5.669 |                           0.161 |                              |                          3.383 |
+| Exeter Chiefs       |         1 |            0.707 |                    3.729 |                           0.206 |                              |                          3.13  |
+| Bristol Rugby       |         1 |            0.538 |                    1.235 |                           0.306 |                              |                          2.592 |
+| Bath Rugby          |         1 |            0.395 |                   -1.235 |                           0.375 |                              |                          2.089 |
+| Gloucester Rugby    |         1 |            0.245 |                   -3.729 |                           0.429 |                              |                          1.505 |
+| Harlequins          |         1 |            0.175 |                   -5.669 |                           0.387 |                              |                          1.165 |
+| Newcastle Red Bulls |         1 |            0.079 |                   -8.455 |                           0.329 |                              |                          0.695 |
 
 
 
@@ -29,14 +29,14 @@ aside:
 
 | Club                |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:--------------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| Northampton Saints  |        1 |  0.867 |                7.767 |                 0.092 |                    |                3.624 |
-| Saracens            |        1 |  0.8   |                5.769 |                 0.133 |                    |                3.433 |
-| Exeter Chiefs       |        1 |  0.77  |                4.945 |                 0.15  |                    |                3.334 |
-| Bristol Rugby       |        1 |  0.523 |                0.918 |                 0.337 |                    |                2.539 |
-| Bath Rugby          |        1 |  0.422 |               -0.918 |                 0.381 |                    |                2.179 |
-| Gloucester Rugby    |        1 |  0.178 |               -4.945 |                 0.431 |                    |                1.247 |
-| Harlequins          |        1 |  0.15  |               -5.769 |                 0.419 |                    |                1.119 |
-| Newcastle Red Bulls |        1 |  0.101 |               -7.767 |                 0.347 |                    |                0.815 |
+| Northampton Saints  |        1 |  0.896 |                8.455 |                 0.071 |                    |                3.705 |
+| Saracens            |        1 |  0.786 |                5.669 |                 0.161 |                    |                3.383 |
+| Exeter Chiefs       |        1 |  0.707 |                3.729 |                 0.206 |                    |                3.13  |
+| Bristol Rugby       |        1 |  0.538 |                1.235 |                 0.306 |                    |                2.592 |
+| Bath Rugby          |        1 |  0.395 |               -1.235 |                 0.375 |                    |                2.089 |
+| Gloucester Rugby    |        1 |  0.245 |               -3.729 |                 0.429 |                    |                1.505 |
+| Harlequins          |        1 |  0.175 |               -5.669 |                 0.387 |                    |                1.165 |
+| Newcastle Red Bulls |        1 |  0.079 |               -8.455 |                 0.329 |                    |                0.695 |
 
 
 
@@ -44,7 +44,7 @@ aside:
 ### Week 1
 #### Bristol Rugby V Bath Rugby on 2026/11/20
 
-Average Margin: Bristol Rugby by 0.9
+Average Margin: Bristol Rugby by 1.2
 
 <p float="left">
 <img src="plots/2026-11-20-BristolRugby_V_BathRugby_club_performances.png" width="32%" />
@@ -52,32 +52,22 @@ Average Margin: Bristol Rugby by 0.9
 <img src="plots/2026-11-20-BristolRugby_V_BathRugby_club_spreads.png" width="32%" />
 </p>
 
-#### Exeter Chiefs V Gloucester Rugby on 2026/11/21
-
-Average Margin: Exeter Chiefs by 4.9
-
-<p float="left">
-<img src="plots/2026-11-21-ExeterChiefs_V_GloucesterRugby_club_performances.png" width="32%" />
-<img src="plots/2026-11-21-ExeterChiefs_V_GloucesterRugby_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-21-ExeterChiefs_V_GloucesterRugby_club_spreads.png" width="32%" />
-</p>
-
-#### Newcastle Red Bulls V Northampton Saints on 2026/11/21
-
-Average Margin: Northampton Saints by 7.8
-
-<p float="left">
-<img src="plots/2026-11-21-NewcastleRedBulls_V_NorthamptonSaints_club_performances.png" width="32%" />
-<img src="plots/2026-11-21-NewcastleRedBulls_V_NorthamptonSaints_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-21-NewcastleRedBulls_V_NorthamptonSaints_club_spreads.png" width="32%" />
-</p>
-
 #### Saracens V Harlequins on 2026/11/21
 
-Average Margin: Saracens by 5.8
+Average Margin: Saracens by 5.7
 
 <p float="left">
 <img src="plots/2026-11-21-Saracens_V_Harlequins_club_performances.png" width="32%" />
 <img src="plots/2026-11-21-Saracens_V_Harlequins_club_resultbar.png" width="32%" />
 <img src="plots/2026-11-21-Saracens_V_Harlequins_club_spreads.png" width="32%" />
+</p>
+
+#### Newcastle Red Bulls V Northampton Saints on 2026/11/21
+
+Average Margin: Northampton Saints by 8.5
+
+<p float="left">
+<img src="plots/2026-11-21-NewcastleRedBulls_V_NorthamptonSaints_club_performances.png" width="32%" />
+<img src="plots/2026-11-21-NewcastleRedBulls_V_NorthamptonSaints_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-21-NewcastleRedBulls_V_NorthamptonSaints_club_spreads.png" width="32%" />
 </p>
