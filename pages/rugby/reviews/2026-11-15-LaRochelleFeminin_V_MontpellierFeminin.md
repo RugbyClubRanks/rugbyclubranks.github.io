@@ -6,9 +6,9 @@ categories: rugby "Elite 1 2026" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Montpellier Feminin to win by 5.74, and Montpellier Feminin won by 26.0. That's an absolute error of 20.3 for the margin of victory, while my average absolute error has been 14.5 over the past six months. This prediction was more accurate than 25.7% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Montpellier Feminin to win by 5.67, and Montpellier Feminin won by 26.0. That's an absolute error of 20.3 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 25.2% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 48.5 and we have an actual total of 26.0. That's an absolute error of 22.5 compared to a six month average of 14.4. This prediction was more accurate than 20.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 26.0. That's an absolute error of 21.5 compared to a six month average of 14.3. This prediction was more accurate than 22.4% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 48.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted La Rochelle Feminin to win by 6.05,  and Montpellier Feminin won by 26.0. That's an absolute error of 32.0 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 8.0% of my recent predictions.
+With the player model, I predicted La Rochelle Feminin to win by 6.28,  and Montpellier Feminin won by 26.0. That's an absolute error of 32.3 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 7.7% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

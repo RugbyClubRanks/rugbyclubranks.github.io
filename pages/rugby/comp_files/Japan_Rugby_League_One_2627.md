@@ -1,6 +1,6 @@
 ---
 title: "Japan Rugby League One 26/27"
-date: 2026-11-16 6:00:00 -0500
+date: 2026-11-19 6:00:00 -0500
 categories: rugby model review projection
 layout: page
 aside:
@@ -14,18 +14,18 @@ aside:
 
 | Club                  |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:----------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Saitama Wild Knights  |         5 |            4.386 |                   75.09  |                           0.364 |                              |                         18.084 |
-| Kobelco Kobe Steelers |         5 |            4.173 |                   58.556 |                           0.523 |                              |                         17.443 |
-| Kubota Spears         |         5 |            4.018 |                   66.602 |                           0.433 |                              |                         16.671 |
-| Shizuoka Blue Revs    |         5 |            3.008 |                   14.503 |                           0.736 |                              |                         12.998 |
-| Tokyo Sungoliath      |         5 |            2.688 |                    7.075 |                           1.114 |                              |                         12.246 |
-| Mie Honda Heat        |         5 |            2.615 |                    5.13  |                           1.143 |                              |                         11.937 |
-| Black Rams Tokyo      |         5 |            1.906 |                  -14.225 |                           1.192 |                              |                          9.112 |
-| Toshiba Brave Lupus   |         5 |            1.527 |                  -24.768 |                           1.308 |                              |                          7.744 |
-| Yokohama Canon Eagles |         5 |            1.516 |                  -29.153 |                           1.227 |                              |                          7.621 |
-| Toyota Verblitz       |         5 |            1.567 |                  -34.809 |                           0.851 |                              |                          7.333 |
-| Mitsubishi Dynaboars  |         5 |            1.087 |                  -54.705 |                           0.87  |                              |                          5.444 |
-| Urayasu D-Rocks       |         5 |            0.741 |                  -69.296 |                           0.841 |                              |                          3.969 |
+| Saitama Wild Knights  |         5 |            4.352 |                   74.074 |                           0.375 |                              |                         17.983 |
+| Kobelco Kobe Steelers |         5 |            4.177 |                   57.989 |                           0.496 |                              |                         17.418 |
+| Kubota Spears         |         5 |            4.06  |                   67.447 |                           0.427 |                              |                         16.799 |
+| Shizuoka Blue Revs    |         5 |            2.915 |                   10.958 |                           0.758 |                              |                         12.662 |
+| Tokyo Sungoliath      |         5 |            2.56  |                    5.106 |                           1.185 |                              |                         11.803 |
+| Mie Honda Heat        |         5 |            2.53  |                    4.176 |                           1.192 |                              |                         11.668 |
+| Black Rams Tokyo      |         5 |            1.972 |                  -12.824 |                           1.125 |                              |                          9.345 |
+| Yokohama Canon Eagles |         5 |            1.601 |                  -29.086 |                           1.14  |                              |                          7.862 |
+| Toshiba Brave Lupus   |         5 |            1.521 |                  -23.846 |                           1.349 |                              |                          7.775 |
+| Toyota Verblitz       |         5 |            1.583 |                  -33.828 |                           0.845 |                              |                          7.411 |
+| Mitsubishi Dynaboars  |         5 |            1.109 |                  -53.505 |                           0.855 |                              |                          5.553 |
+| Urayasu D-Rocks       |         5 |            0.809 |                  -66.661 |                           0.832 |                              |                          4.3   |
 
 
 
@@ -33,18 +33,18 @@ aside:
 
 | Club                  |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:----------------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| Saitama Wild Knights  |        5 |  4.386 |               75.09  |                 0.364 |                    |               18.084 |
-| Kobelco Kobe Steelers |        5 |  4.173 |               58.556 |                 0.523 |                    |               17.443 |
-| Kubota Spears         |        5 |  4.018 |               66.602 |                 0.433 |                    |               16.671 |
-| Shizuoka Blue Revs    |        5 |  3.008 |               14.503 |                 0.736 |                    |               12.998 |
-| Tokyo Sungoliath      |        5 |  2.688 |                7.075 |                 1.114 |                    |               12.246 |
-| Mie Honda Heat        |        5 |  2.615 |                5.13  |                 1.143 |                    |               11.937 |
-| Black Rams Tokyo      |        5 |  1.906 |              -14.225 |                 1.192 |                    |                9.112 |
-| Toshiba Brave Lupus   |        5 |  1.527 |              -24.768 |                 1.308 |                    |                7.744 |
-| Yokohama Canon Eagles |        5 |  1.516 |              -29.153 |                 1.227 |                    |                7.621 |
-| Toyota Verblitz       |        5 |  1.567 |              -34.809 |                 0.851 |                    |                7.333 |
-| Mitsubishi Dynaboars  |        5 |  1.087 |              -54.705 |                 0.87  |                    |                5.444 |
-| Urayasu D-Rocks       |        5 |  0.741 |              -69.296 |                 0.841 |                    |                3.969 |
+| Saitama Wild Knights  |        5 |  4.352 |               74.074 |                 0.375 |                    |               17.983 |
+| Kobelco Kobe Steelers |        5 |  4.177 |               57.989 |                 0.496 |                    |               17.418 |
+| Kubota Spears         |        5 |  4.06  |               67.447 |                 0.427 |                    |               16.799 |
+| Shizuoka Blue Revs    |        5 |  2.915 |               10.958 |                 0.758 |                    |               12.662 |
+| Tokyo Sungoliath      |        5 |  2.56  |                5.106 |                 1.185 |                    |               11.803 |
+| Mie Honda Heat        |        5 |  2.53  |                4.176 |                 1.192 |                    |               11.668 |
+| Black Rams Tokyo      |        5 |  1.972 |              -12.824 |                 1.125 |                    |                9.345 |
+| Yokohama Canon Eagles |        5 |  1.601 |              -29.086 |                 1.14  |                    |                7.862 |
+| Toshiba Brave Lupus   |        5 |  1.521 |              -23.846 |                 1.349 |                    |                7.775 |
+| Toyota Verblitz       |        5 |  1.583 |              -33.828 |                 0.845 |                    |                7.411 |
+| Mitsubishi Dynaboars  |        5 |  1.109 |              -53.505 |                 0.855 |                    |                5.553 |
+| Urayasu D-Rocks       |        5 |  0.809 |              -66.661 |                 0.832 |                    |                4.3   |
 
 
 
@@ -52,12 +52,22 @@ aside:
 ### Week 1
 #### Saitama Wild Knights V Urayasu D-Rocks on 2026/12/11
 
-Average Margin: Saitama Wild Knights by 23.8
+Average Margin: Saitama Wild Knights by 23.6
 
 <p float="left">
 <img src="plots/2026-12-11-SaitamaWildKnights_V_UrayasuD-Rocks_club_performances.png" width="32%" />
 <img src="plots/2026-12-11-SaitamaWildKnights_V_UrayasuD-Rocks_club_resultbar.png" width="32%" />
 <img src="plots/2026-12-11-SaitamaWildKnights_V_UrayasuD-Rocks_club_spreads.png" width="32%" />
+</p>
+
+#### Kobelco Kobe Steelers V Toyota Verblitz on 2026/12/11
+
+Average Margin: Kobelco Kobe Steelers by 17.6
+
+<p float="left">
+<img src="plots/2026-12-11-KobelcoKobeSteelers_V_ToyotaVerblitz_club_performances.png" width="32%" />
+<img src="plots/2026-12-11-KobelcoKobeSteelers_V_ToyotaVerblitz_club_resultbar.png" width="32%" />
+<img src="plots/2026-12-11-KobelcoKobeSteelers_V_ToyotaVerblitz_club_spreads.png" width="32%" />
 </p>
 
 #### Mie Honda Heat V Toshiba Brave Lupus on 2026/12/11
@@ -70,19 +80,19 @@ Average Margin: Mie Honda Heat by 4.9
 <img src="plots/2026-12-11-MieHondaHeat_V_ToshibaBraveLupus_club_spreads.png" width="32%" />
 </p>
 
-#### Kobelco Kobe Steelers V Toyota Verblitz on 2026/12/11
+#### Tokyo Sungoliath V Black Rams Tokyo on 2026/12/12
 
-Average Margin: Kobelco Kobe Steelers by 18.1
+Average Margin: Tokyo Sungoliath by 7.4
 
 <p float="left">
-<img src="plots/2026-12-11-KobelcoKobeSteelers_V_ToyotaVerblitz_club_performances.png" width="32%" />
-<img src="plots/2026-12-11-KobelcoKobeSteelers_V_ToyotaVerblitz_club_resultbar.png" width="32%" />
-<img src="plots/2026-12-11-KobelcoKobeSteelers_V_ToyotaVerblitz_club_spreads.png" width="32%" />
+<img src="plots/2026-12-12-TokyoSungoliath_V_BlackRamsTokyo_club_performances.png" width="32%" />
+<img src="plots/2026-12-12-TokyoSungoliath_V_BlackRamsTokyo_club_resultbar.png" width="32%" />
+<img src="plots/2026-12-12-TokyoSungoliath_V_BlackRamsTokyo_club_spreads.png" width="32%" />
 </p>
 
 #### Kubota Spears V Shizuoka Blue Revs on 2026/12/12
 
-Average Margin: Kubota Spears by 15.0
+Average Margin: Kubota Spears by 15.6
 
 <p float="left">
 <img src="plots/2026-12-12-KubotaSpears_V_ShizuokaBlueRevs_club_performances.png" width="32%" />
@@ -92,7 +102,7 @@ Average Margin: Kubota Spears by 15.0
 
 #### Mitsubishi Dynaboars V Yokohama Canon Eagles on 2026/12/12
 
-Average Margin: Yokohama Canon Eagles by 0.3
+Average Margin: Mitsubishi Dynaboars by 0.4
 
 <p float="left">
 <img src="plots/2026-12-12-MitsubishiDynaboars_V_YokohamaCanonEagles_club_performances.png" width="32%" />
@@ -100,17 +110,17 @@ Average Margin: Yokohama Canon Eagles by 0.3
 <img src="plots/2026-12-12-MitsubishiDynaboars_V_YokohamaCanonEagles_club_spreads.png" width="32%" />
 </p>
 
-#### Tokyo Sungoliath V Black Rams Tokyo on 2026/12/12
+### Week 2
+#### Toshiba Brave Lupus V Saitama Wild Knights on 2026/12/19
 
-Average Margin: Tokyo Sungoliath by 8.0
+Average Margin: Saitama Wild Knights by 10.3
 
 <p float="left">
-<img src="plots/2026-12-12-TokyoSungoliath_V_BlackRamsTokyo_club_performances.png" width="32%" />
-<img src="plots/2026-12-12-TokyoSungoliath_V_BlackRamsTokyo_club_resultbar.png" width="32%" />
-<img src="plots/2026-12-12-TokyoSungoliath_V_BlackRamsTokyo_club_spreads.png" width="32%" />
+<img src="plots/2026-12-19-ToshibaBraveLupus_V_SaitamaWildKnights_club_performances.png" width="32%" />
+<img src="plots/2026-12-19-ToshibaBraveLupus_V_SaitamaWildKnights_club_resultbar.png" width="32%" />
+<img src="plots/2026-12-19-ToshibaBraveLupus_V_SaitamaWildKnights_club_spreads.png" width="32%" />
 </p>
 
-### Week 2
 #### Black Rams Tokyo V Kobelco Kobe Steelers on 2026/12/19
 
 Average Margin: Kobelco Kobe Steelers by 10.4
@@ -123,7 +133,7 @@ Average Margin: Kobelco Kobe Steelers by 10.4
 
 #### Toyota Verblitz V Kubota Spears on 2026/12/19
 
-Average Margin: Kubota Spears by 10.3
+Average Margin: Kubota Spears by 10.0
 
 <p float="left">
 <img src="plots/2026-12-19-ToyotaVerblitz_V_KubotaSpears_club_performances.png" width="32%" />
@@ -131,29 +141,9 @@ Average Margin: Kubota Spears by 10.3
 <img src="plots/2026-12-19-ToyotaVerblitz_V_KubotaSpears_club_spreads.png" width="32%" />
 </p>
 
-#### Toshiba Brave Lupus V Saitama Wild Knights on 2026/12/19
-
-Average Margin: Saitama Wild Knights by 10.9
-
-<p float="left">
-<img src="plots/2026-12-19-ToshibaBraveLupus_V_SaitamaWildKnights_club_performances.png" width="32%" />
-<img src="plots/2026-12-19-ToshibaBraveLupus_V_SaitamaWildKnights_club_resultbar.png" width="32%" />
-<img src="plots/2026-12-19-ToshibaBraveLupus_V_SaitamaWildKnights_club_spreads.png" width="32%" />
-</p>
-
-#### Shizuoka Blue Revs V Mitsubishi Dynaboars on 2026/12/20
-
-Average Margin: Shizuoka Blue Revs by 11.2
-
-<p float="left">
-<img src="plots/2026-12-20-ShizuokaBlueRevs_V_MitsubishiDynaboars_club_performances.png" width="32%" />
-<img src="plots/2026-12-20-ShizuokaBlueRevs_V_MitsubishiDynaboars_club_resultbar.png" width="32%" />
-<img src="plots/2026-12-20-ShizuokaBlueRevs_V_MitsubishiDynaboars_club_spreads.png" width="32%" />
-</p>
-
 #### Urayasu D-Rocks V Mie Honda Heat on 2026/12/20
 
-Average Margin: Mie Honda Heat by 3.4
+Average Margin: Mie Honda Heat by 2.9
 
 <p float="left">
 <img src="plots/2026-12-20-UrayasuD-Rocks_V_MieHondaHeat_club_performances.png" width="32%" />
@@ -163,7 +153,7 @@ Average Margin: Mie Honda Heat by 3.4
 
 #### Yokohama Canon Eagles V Tokyo Sungoliath on 2026/12/20
 
-Average Margin: Tokyo Sungoliath by 3.7
+Average Margin: Tokyo Sungoliath by 3.3
 
 <p float="left">
 <img src="plots/2026-12-20-YokohamaCanonEagles_V_TokyoSungoliath_club_performances.png" width="32%" />
@@ -171,20 +161,20 @@ Average Margin: Tokyo Sungoliath by 3.7
 <img src="plots/2026-12-20-YokohamaCanonEagles_V_TokyoSungoliath_club_spreads.png" width="32%" />
 </p>
 
-### Week 3
-#### Kubota Spears V Urayasu D-Rocks on 2026/12/26
+#### Shizuoka Blue Revs V Mitsubishi Dynaboars on 2026/12/20
 
-Average Margin: Kubota Spears by 24.7
+Average Margin: Shizuoka Blue Revs by 11.0
 
 <p float="left">
-<img src="plots/2026-12-26-KubotaSpears_V_UrayasuD-Rocks_club_performances.png" width="32%" />
-<img src="plots/2026-12-26-KubotaSpears_V_UrayasuD-Rocks_club_resultbar.png" width="32%" />
-<img src="plots/2026-12-26-KubotaSpears_V_UrayasuD-Rocks_club_spreads.png" width="32%" />
+<img src="plots/2026-12-20-ShizuokaBlueRevs_V_MitsubishiDynaboars_club_performances.png" width="32%" />
+<img src="plots/2026-12-20-ShizuokaBlueRevs_V_MitsubishiDynaboars_club_resultbar.png" width="32%" />
+<img src="plots/2026-12-20-ShizuokaBlueRevs_V_MitsubishiDynaboars_club_spreads.png" width="32%" />
 </p>
 
+### Week 3
 #### Saitama Wild Knights V Toyota Verblitz on 2026/12/26
 
-Average Margin: Saitama Wild Knights by 16.4
+Average Margin: Saitama Wild Knights by 16.1
 
 <p float="left">
 <img src="plots/2026-12-26-SaitamaWildKnights_V_ToyotaVerblitz_club_performances.png" width="32%" />
@@ -192,9 +182,29 @@ Average Margin: Saitama Wild Knights by 16.4
 <img src="plots/2026-12-26-SaitamaWildKnights_V_ToyotaVerblitz_club_spreads.png" width="32%" />
 </p>
 
+#### Kubota Spears V Urayasu D-Rocks on 2026/12/26
+
+Average Margin: Kubota Spears by 24.4
+
+<p float="left">
+<img src="plots/2026-12-26-KubotaSpears_V_UrayasuD-Rocks_club_performances.png" width="32%" />
+<img src="plots/2026-12-26-KubotaSpears_V_UrayasuD-Rocks_club_resultbar.png" width="32%" />
+<img src="plots/2026-12-26-KubotaSpears_V_UrayasuD-Rocks_club_spreads.png" width="32%" />
+</p>
+
+#### Mie Honda Heat V Yokohama Canon Eagles on 2026/12/27
+
+Average Margin: Mie Honda Heat by 6.4
+
+<p float="left">
+<img src="plots/2026-12-27-MieHondaHeat_V_YokohamaCanonEagles_club_performances.png" width="32%" />
+<img src="plots/2026-12-27-MieHondaHeat_V_YokohamaCanonEagles_club_resultbar.png" width="32%" />
+<img src="plots/2026-12-27-MieHondaHeat_V_YokohamaCanonEagles_club_spreads.png" width="32%" />
+</p>
+
 #### Mitsubishi Dynaboars V Toshiba Brave Lupus on 2026/12/27
 
-Average Margin: Toshiba Brave Lupus by 0.5
+Average Margin: Mitsubishi Dynaboars by 0.3
 
 <p float="left">
 <img src="plots/2026-12-27-MitsubishiDynaboars_V_ToshibaBraveLupus_club_performances.png" width="32%" />
@@ -204,7 +214,7 @@ Average Margin: Toshiba Brave Lupus by 0.5
 
 #### Tokyo Sungoliath V Kobelco Kobe Steelers on 2026/12/27
 
-Average Margin: Kobelco Kobe Steelers by 5.5
+Average Margin: Kobelco Kobe Steelers by 5.6
 
 <p float="left">
 <img src="plots/2026-12-27-TokyoSungoliath_V_KobelcoKobeSteelers_club_performances.png" width="32%" />
@@ -214,7 +224,7 @@ Average Margin: Kobelco Kobe Steelers by 5.5
 
 #### Shizuoka Blue Revs V Black Rams Tokyo on 2026/12/27
 
-Average Margin: Shizuoka Blue Revs by 4.9
+Average Margin: Shizuoka Blue Revs by 4.4
 
 <p float="left">
 <img src="plots/2026-12-27-ShizuokaBlueRevs_V_BlackRamsTokyo_club_performances.png" width="32%" />
@@ -222,30 +232,10 @@ Average Margin: Shizuoka Blue Revs by 4.9
 <img src="plots/2026-12-27-ShizuokaBlueRevs_V_BlackRamsTokyo_club_spreads.png" width="32%" />
 </p>
 
-#### Mie Honda Heat V Yokohama Canon Eagles on 2026/12/27
-
-Average Margin: Mie Honda Heat by 6.2
-
-<p float="left">
-<img src="plots/2026-12-27-MieHondaHeat_V_YokohamaCanonEagles_club_performances.png" width="32%" />
-<img src="plots/2026-12-27-MieHondaHeat_V_YokohamaCanonEagles_club_resultbar.png" width="32%" />
-<img src="plots/2026-12-27-MieHondaHeat_V_YokohamaCanonEagles_club_spreads.png" width="32%" />
-</p>
-
 ### Week 4
-#### Urayasu D-Rocks V Black Rams Tokyo on 2027/01/09
-
-Average Margin: Black Rams Tokyo by 4.3
-
-<p float="left">
-<img src="plots/2027-01-09-UrayasuD-Rocks_V_BlackRamsTokyo_club_performances.png" width="32%" />
-<img src="plots/2027-01-09-UrayasuD-Rocks_V_BlackRamsTokyo_club_resultbar.png" width="32%" />
-<img src="plots/2027-01-09-UrayasuD-Rocks_V_BlackRamsTokyo_club_spreads.png" width="32%" />
-</p>
-
 #### Saitama Wild Knights V Mitsubishi Dynaboars on 2027/01/09
 
-Average Margin: Saitama Wild Knights by 20.8
+Average Margin: Saitama Wild Knights by 21.0
 
 <p float="left">
 <img src="plots/2027-01-09-SaitamaWildKnights_V_MitsubishiDynaboars_club_performances.png" width="32%" />
@@ -253,19 +243,19 @@ Average Margin: Saitama Wild Knights by 20.8
 <img src="plots/2027-01-09-SaitamaWildKnights_V_MitsubishiDynaboars_club_spreads.png" width="32%" />
 </p>
 
-#### Yokohama Canon Eagles V Shizuoka Blue Revs on 2027/01/09
+#### Urayasu D-Rocks V Black Rams Tokyo on 2027/01/09
 
-Average Margin: Shizuoka Blue Revs by 0.3
+Average Margin: Black Rams Tokyo by 4.1
 
 <p float="left">
-<img src="plots/2027-01-09-YokohamaCanonEagles_V_ShizuokaBlueRevs_club_performances.png" width="32%" />
-<img src="plots/2027-01-09-YokohamaCanonEagles_V_ShizuokaBlueRevs_club_resultbar.png" width="32%" />
-<img src="plots/2027-01-09-YokohamaCanonEagles_V_ShizuokaBlueRevs_club_spreads.png" width="32%" />
+<img src="plots/2027-01-09-UrayasuD-Rocks_V_BlackRamsTokyo_club_performances.png" width="32%" />
+<img src="plots/2027-01-09-UrayasuD-Rocks_V_BlackRamsTokyo_club_resultbar.png" width="32%" />
+<img src="plots/2027-01-09-UrayasuD-Rocks_V_BlackRamsTokyo_club_spreads.png" width="32%" />
 </p>
 
 #### Toshiba Brave Lupus V Tokyo Sungoliath on 2027/01/09
 
-Average Margin: Tokyo Sungoliath by 4.1
+Average Margin: Tokyo Sungoliath by 3.2
 
 <p float="left">
 <img src="plots/2027-01-09-ToshibaBraveLupus_V_TokyoSungoliath_club_performances.png" width="32%" />
@@ -273,9 +263,19 @@ Average Margin: Tokyo Sungoliath by 4.1
 <img src="plots/2027-01-09-ToshibaBraveLupus_V_TokyoSungoliath_club_spreads.png" width="32%" />
 </p>
 
+#### Yokohama Canon Eagles V Shizuoka Blue Revs on 2027/01/09
+
+Average Margin: Yokohama Canon Eagles by 0.6
+
+<p float="left">
+<img src="plots/2027-01-09-YokohamaCanonEagles_V_ShizuokaBlueRevs_club_performances.png" width="32%" />
+<img src="plots/2027-01-09-YokohamaCanonEagles_V_ShizuokaBlueRevs_club_resultbar.png" width="32%" />
+<img src="plots/2027-01-09-YokohamaCanonEagles_V_ShizuokaBlueRevs_club_spreads.png" width="32%" />
+</p>
+
 #### Toyota Verblitz V Mie Honda Heat on 2027/01/09
 
-Average Margin: Toyota Verblitz by 4.7
+Average Margin: Toyota Verblitz by 4.8
 
 <p float="left">
 <img src="plots/2027-01-09-ToyotaVerblitz_V_MieHondaHeat_club_performances.png" width="32%" />
@@ -285,7 +285,7 @@ Average Margin: Toyota Verblitz by 4.7
 
 #### Kobelco Kobe Steelers V Kubota Spears on 2027/01/10
 
-Average Margin: Kobelco Kobe Steelers by 5.4
+Average Margin: Kobelco Kobe Steelers by 4.7
 
 <p float="left">
 <img src="plots/2027-01-10-KobelcoKobeSteelers_V_KubotaSpears_club_performances.png" width="32%" />
@@ -294,19 +294,9 @@ Average Margin: Kobelco Kobe Steelers by 5.4
 </p>
 
 ### Week 5
-#### Kubota Spears V Mitsubishi Dynaboars on 2027/01/16
-
-Average Margin: Kubota Spears by 22.0
-
-<p float="left">
-<img src="plots/2027-01-16-KubotaSpears_V_MitsubishiDynaboars_club_performances.png" width="32%" />
-<img src="plots/2027-01-16-KubotaSpears_V_MitsubishiDynaboars_club_resultbar.png" width="32%" />
-<img src="plots/2027-01-16-KubotaSpears_V_MitsubishiDynaboars_club_spreads.png" width="32%" />
-</p>
-
 #### Black Rams Tokyo V Mie Honda Heat on 2027/01/16
 
-Average Margin: Black Rams Tokyo by 4.7
+Average Margin: Black Rams Tokyo by 5.3
 
 <p float="left">
 <img src="plots/2027-01-16-BlackRamsTokyo_V_MieHondaHeat_club_performances.png" width="32%" />
@@ -314,19 +304,9 @@ Average Margin: Black Rams Tokyo by 4.7
 <img src="plots/2027-01-16-BlackRamsTokyo_V_MieHondaHeat_club_spreads.png" width="32%" />
 </p>
 
-#### Shizuoka Blue Revs V Urayasu D-Rocks on 2027/01/16
-
-Average Margin: Shizuoka Blue Revs by 13.0
-
-<p float="left">
-<img src="plots/2027-01-16-ShizuokaBlueRevs_V_UrayasuD-Rocks_club_performances.png" width="32%" />
-<img src="plots/2027-01-16-ShizuokaBlueRevs_V_UrayasuD-Rocks_club_resultbar.png" width="32%" />
-<img src="plots/2027-01-16-ShizuokaBlueRevs_V_UrayasuD-Rocks_club_spreads.png" width="32%" />
-</p>
-
 #### Toyota Verblitz V Toshiba Brave Lupus on 2027/01/16
 
-Average Margin: Toyota Verblitz by 5.3
+Average Margin: Toyota Verblitz by 5.1
 
 <p float="left">
 <img src="plots/2027-01-16-ToyotaVerblitz_V_ToshibaBraveLupus_club_performances.png" width="32%" />
@@ -334,22 +314,42 @@ Average Margin: Toyota Verblitz by 5.3
 <img src="plots/2027-01-16-ToyotaVerblitz_V_ToshibaBraveLupus_club_spreads.png" width="32%" />
 </p>
 
-#### Kobelco Kobe Steelers V Yokohama Canon Eagles on 2027/01/16
+#### Kubota Spears V Mitsubishi Dynaboars on 2027/01/16
 
-Average Margin: Kobelco Kobe Steelers by 19.2
+Average Margin: Kubota Spears by 22.2
 
 <p float="left">
-<img src="plots/2027-01-16-KobelcoKobeSteelers_V_YokohamaCanonEagles_club_performances.png" width="32%" />
-<img src="plots/2027-01-16-KobelcoKobeSteelers_V_YokohamaCanonEagles_club_resultbar.png" width="32%" />
-<img src="plots/2027-01-16-KobelcoKobeSteelers_V_YokohamaCanonEagles_club_spreads.png" width="32%" />
+<img src="plots/2027-01-16-KubotaSpears_V_MitsubishiDynaboars_club_performances.png" width="32%" />
+<img src="plots/2027-01-16-KubotaSpears_V_MitsubishiDynaboars_club_resultbar.png" width="32%" />
+<img src="plots/2027-01-16-KubotaSpears_V_MitsubishiDynaboars_club_spreads.png" width="32%" />
+</p>
+
+#### Shizuoka Blue Revs V Urayasu D-Rocks on 2027/01/16
+
+Average Margin: Shizuoka Blue Revs by 11.7
+
+<p float="left">
+<img src="plots/2027-01-16-ShizuokaBlueRevs_V_UrayasuD-Rocks_club_performances.png" width="32%" />
+<img src="plots/2027-01-16-ShizuokaBlueRevs_V_UrayasuD-Rocks_club_resultbar.png" width="32%" />
+<img src="plots/2027-01-16-ShizuokaBlueRevs_V_UrayasuD-Rocks_club_spreads.png" width="32%" />
 </p>
 
 #### Tokyo Sungoliath V Saitama Wild Knights on 2027/01/16
 
-Average Margin: Saitama Wild Knights by 3.2
+Average Margin: Saitama Wild Knights by 3.1
 
 <p float="left">
 <img src="plots/2027-01-16-TokyoSungoliath_V_SaitamaWildKnights_club_performances.png" width="32%" />
 <img src="plots/2027-01-16-TokyoSungoliath_V_SaitamaWildKnights_club_resultbar.png" width="32%" />
 <img src="plots/2027-01-16-TokyoSungoliath_V_SaitamaWildKnights_club_spreads.png" width="32%" />
+</p>
+
+#### Kobelco Kobe Steelers V Yokohama Canon Eagles on 2027/01/16
+
+Average Margin: Kobelco Kobe Steelers by 19.6
+
+<p float="left">
+<img src="plots/2027-01-16-KobelcoKobeSteelers_V_YokohamaCanonEagles_club_performances.png" width="32%" />
+<img src="plots/2027-01-16-KobelcoKobeSteelers_V_YokohamaCanonEagles_club_resultbar.png" width="32%" />
+<img src="plots/2027-01-16-KobelcoKobeSteelers_V_YokohamaCanonEagles_club_spreads.png" width="32%" />
 </p>

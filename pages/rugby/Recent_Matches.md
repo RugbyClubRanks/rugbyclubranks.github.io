@@ -22,11 +22,11 @@ categories: rugby
 
 Competition Accuracy: 18 of 24 (75.0%)
 
-Competition Error: 12.88 points per match
+Competition Error: 12.9 points per match
 
-Last Two Week Accuracy: 1 of 3 (33.33%)
+Last Two Week Accuracy: 0 of 1 (0.0%)
 
-Last Two Week Error: 18.36 points per match
+Last Two Week Error: 21.23 points per match
 
 [2026/11/09, 0.0 to 0.0 - Pakistan V Uzbekistan, 0.0 to 0.0](reviews/2026-11-09-Pakistan_V_Uzbekistan)
 
@@ -39,9 +39,9 @@ Competition Accuracy: 24 of 30 (80.0%)
 
 Competition Error: 15.89 points per match
 
-Last Two Week Accuracy: 11 of 12 (91.67%)
+Last Two Week Accuracy: 5 of 6 (83.33%)
 
-Last Two Week Error: 14.99 points per match
+Last Two Week Error: 12.53 points per match
 
 [2026/11/13, 21.0 to 19.0 - France V South Africa, 21.0 to 19.0](reviews/2026-11-13-France_V_SouthAfrica)
 
@@ -62,9 +62,9 @@ Competition Accuracy: 15 of 30 (50.0%)
 
 Competition Error: 14.66 points per match
 
-Last Two Week Accuracy: 6 of 12 (50.0%)
+Last Two Week Accuracy: 2 of 6 (33.33%)
 
-Last Two Week Error: 16.95 points per match
+Last Two Week Error: 18.85 points per match
 
 [2026/11/14, 15.0 to 20.0 - Zimbabwe V Uruguay, 15.0 to 20.0](reviews/2026-11-14-Zimbabwe_V_Uruguay)
 
@@ -107,9 +107,9 @@ Competition Accuracy: 9 of 16 (56.25%)
 
 Competition Error: 17.56 points per match
 
-Last Two Week Accuracy: 5 of 8 (62.5%)
+Last Two Week Accuracy: 2 of 4 (50.0%)
 
-Last Two Week Error: 11.63 points per match
+Last Two Week Error: 9.66 points per match
 
 [2026/11/13, 38.0 to 24.0 - Sale Sharks V Exeter Chiefs, 38.0 to 24.0](reviews/2026-11-13-SaleSharks_V_ExeterChiefs)
 
@@ -125,11 +125,11 @@ Last Two Week Error: 11.63 points per match
 
 Competition Accuracy: 59 of 77 (76.62%)
 
-Competition Error: 10.67 points per match
+Competition Error: 10.66 points per match
 
-Last Two Week Accuracy: 12 of 14 (85.71%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 8.03 points per match
+Last Two Week Error: 6.39 points per match
 
 [2026/11/13, 16.0 to 22.0 - Rouen V Chambery, 16.0 to 22.0](reviews/2026-11-13-Rouen_V_Chambery)
 
@@ -152,15 +152,15 @@ Competition Accuracy: 37 of 56 (66.07%)
 
 Competition Error: 16.03 points per match
 
-Last Two Week Accuracy: 7 of 14 (50.0%)
+Last Two Week Accuracy: 4 of 7 (57.14%)
 
-Last Two Week Error: 17.65 points per match
+Last Two Week Error: 17.32 points per match
 
 [2026/11/13, 48.0 to 26.0 - Bedford V Doncaster, 48.0 to 26.0](reviews/2026-11-13-Bedford_V_Doncaster)
 
 [2026/11/14, 21.0 to 20.0 - Richmond V Nottingham, 21.0 to 20.0](reviews/2026-11-14-Richmond_V_Nottingham)
 
-[2026/11/14, 26.0 to 32.0 - Rotherham Titans V Hartpury College, 26.0 to 32.0](reviews/2026-11-14-RotherhamTitans_V_HartpuryCollege)
+[2026/11/14, 26.0 to 32.0 - Rotherham Titans V Hartpury College RFC, 26.0 to 32.0](reviews/2026-11-14-RotherhamTitans_V_HartpuryCollege)
 
 [2026/11/14, 33.0 to 23.0 - Chinnor V Blackheath, 33.0 to 23.0](reviews/2026-11-14-Chinnor_V_Blackheath)
 
