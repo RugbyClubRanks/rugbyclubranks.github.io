@@ -1,6 +1,6 @@
 ---
 title: "International Test Match 2026"
-date: 2026-11-19 6:00:00 -0500
+date: 2026-11-20 6:00:00 -0500
 categories: rugby model review projection
 layout: page
 aside:
@@ -13,7 +13,7 @@ aside:
 
 | Model | Percent Correct Predictions | Spread Error |
 | ------ | ------ | ------ |
-| Club Level | 71.4% | 13.7 |
+| Club Level | 78.6% | 12.6 |
 | Player Level: Lineup | nan% | nan |
 | Player Level: Minutes | nan% | nan |
 
@@ -22,7 +22,7 @@ aside:
 ### Week 8
 #### New Zealand V Australia on 2026/10/01
 
-Average Margin: New Zealand by 10.8
+Average Margin: New Zealand by 11.3
 
 <p float="left">
 <img src="plots/2026-10-01-NewZealand_V_Australia_club_performances.png" width="32%" />
@@ -31,24 +31,24 @@ Average Margin: New Zealand by 10.8
 </p>
 
 ### Week 9
-#### Peru V Cayman Islands on 2026/11/21
-
-Average Margin: Peru by 17.1
-
-<p float="left">
-<img src="plots/2026-11-21-Peru_V_CaymanIslands_club_performances.png" width="32%" />
-<img src="plots/2026-11-21-Peru_V_CaymanIslands_club_resultbar.png" width="32%" />
-<img src="plots/2026-11-21-Peru_V_CaymanIslands_club_spreads.png" width="32%" />
-</p>
-
 #### Tunisia V Switzerland on 2026/11/21
 
-Average Margin: Switzerland by 4.8
+Average Margin: Switzerland by 6.2
 
 <p float="left">
 <img src="plots/2026-11-21-Tunisia_V_Switzerland_club_performances.png" width="32%" />
 <img src="plots/2026-11-21-Tunisia_V_Switzerland_club_resultbar.png" width="32%" />
 <img src="plots/2026-11-21-Tunisia_V_Switzerland_club_spreads.png" width="32%" />
+</p>
+
+#### Peru V Cayman Islands on 2026/11/21
+
+Average Margin: Peru by 17.4
+
+<p float="left">
+<img src="plots/2026-11-21-Peru_V_CaymanIslands_club_performances.png" width="32%" />
+<img src="plots/2026-11-21-Peru_V_CaymanIslands_club_resultbar.png" width="32%" />
+<img src="plots/2026-11-21-Peru_V_CaymanIslands_club_spreads.png" width="32%" />
 </p>
 
 ### Week 10

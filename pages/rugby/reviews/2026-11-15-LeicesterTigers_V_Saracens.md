@@ -6,7 +6,7 @@ categories: rugby "Premiership Rugby Cup 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Leicester Tigers to win by 4.34, and Saracens won by 2.0. That's an absolute error of 6.3 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 71.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Leicester Tigers to win by 4.37, and Saracens won by 2.0. That's an absolute error of 6.4 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 71.4% of my recent predictions.
 
 For the Over/Under model, I predicted a total of 52.5 and we have an actual total of 36.0. That's an absolute error of 16.5 compared to a six month average of 14.3. This prediction was more accurate than 36.1% of my recent predictions.
 ### Projected Performances - Club Model
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 52.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Saracens to win by 1.85,  and Saracens won by 2.0. That's an absolute error of 0.1 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 82.4% of my recent predictions.
+With the player model, I predicted Saracens to win by 2.19,  and Saracens won by 2.0. That's an absolute error of 0.2 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 82.5% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

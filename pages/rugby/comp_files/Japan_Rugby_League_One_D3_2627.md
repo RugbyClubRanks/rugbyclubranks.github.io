@@ -1,6 +1,6 @@
 ---
 title: "Japan Rugby League One D3 26/27"
-date: 2026-11-19 6:00:00 -0500
+date: 2026-11-20 6:00:00 -0500
 categories: rugby model review projection
 layout: page
 aside:
@@ -14,13 +14,13 @@ aside:
 
 | Club                     |   To Play |   Projected Wins |   Projected Differential |   Projected Losing Bonus Points | Projected Try Bonus Points   |   Projected Competition Points |
 |:-------------------------|----------:|-----------------:|-------------------------:|--------------------------------:|:-----------------------------|-------------------------------:|
-| Maruwa Momotaro's Narita |         3 |            2.84  |                  108.191 |                           0.067 |                              |                         11.463 |
-| Kurita Water Gush        |         4 |            1.746 |                   -4.608 |                           0.817 |                              |                          8.009 |
-| Kamaishi Seawaves        |         3 |            1.886 |                   -7.698 |                           0.162 |                              |                          7.768 |
-| Hino Red Dolphins        |         3 |            1.702 |                   -2.412 |                           0.252 |                              |                          7.144 |
-| Chugoku Red Regulions    |         4 |            0.933 |                  -62.292 |                           0.57  |                              |                          4.466 |
-| LeRIRO Fukuoka           |         2 |            0.936 |                   -1.385 |                           0.378 |                              |                          4.264 |
-| Yakult Levins Toda       |         3 |            0.748 |                  -29.796 |                           0.466 |                              |                          3.598 |
+| Maruwa Momotaro's Narita |         3 |            2.837 |                  107.493 |                           0.055 |                              |                         11.437 |
+| Kurita Water Gush        |         4 |            1.727 |                   -5.525 |                           0.813 |                              |                          7.927 |
+| Kamaishi Seawaves        |         3 |            1.889 |                   -6.636 |                           0.16  |                              |                          7.776 |
+| Hino Red Dolphins        |         3 |            1.691 |                   -2.47  |                           0.253 |                              |                          7.113 |
+| Chugoku Red Regulions    |         4 |            0.963 |                  -62.695 |                           0.544 |                              |                          4.536 |
+| LeRIRO Fukuoka           |         2 |            0.95  |                   -0.725 |                           0.404 |                              |                          4.306 |
+| Yakult Levins Toda       |         3 |            0.755 |                  -29.442 |                           0.488 |                              |                          3.622 |
 
 
 
@@ -28,31 +28,21 @@ aside:
 
 | Club                     |   Played |   Wins |   Point Differential |   Losing Bonus Points | Try Bonus Points   |   Competition Points |
 |:-------------------------|---------:|-------:|---------------------:|----------------------:|:-------------------|---------------------:|
-| Maruwa Momotaro's Narita |        3 |  2.84  |              108.191 |                 0.067 |                    |               11.463 |
-| Kurita Water Gush        |        4 |  1.746 |               -4.608 |                 0.817 |                    |                8.009 |
-| Kamaishi Seawaves        |        3 |  1.886 |               -7.698 |                 0.162 |                    |                7.768 |
-| Hino Red Dolphins        |        3 |  1.702 |               -2.412 |                 0.252 |                    |                7.144 |
-| Chugoku Red Regulions    |        4 |  0.933 |              -62.292 |                 0.57  |                    |                4.466 |
-| LeRIRO Fukuoka           |        2 |  0.936 |               -1.385 |                 0.378 |                    |                4.264 |
-| Yakult Levins Toda       |        3 |  0.748 |              -29.796 |                 0.466 |                    |                3.598 |
+| Maruwa Momotaro's Narita |        3 |  2.837 |              107.493 |                 0.055 |                    |               11.437 |
+| Kurita Water Gush        |        4 |  1.727 |               -5.525 |                 0.813 |                    |                7.927 |
+| Kamaishi Seawaves        |        3 |  1.889 |               -6.636 |                 0.16  |                    |                7.776 |
+| Hino Red Dolphins        |        3 |  1.691 |               -2.47  |                 0.253 |                    |                7.113 |
+| Chugoku Red Regulions    |        4 |  0.963 |              -62.695 |                 0.544 |                    |                4.536 |
+| LeRIRO Fukuoka           |        2 |  0.95  |               -0.725 |                 0.404 |                    |                4.306 |
+| Yakult Levins Toda       |        3 |  0.755 |              -29.442 |                 0.488 |                    |                3.622 |
 
 
 
 ## Future Predictions
 ### Week 1
-#### Kurita Water Gush V Hino Red Dolphins on 2026/12/12
-
-Average Margin: Hino Red Dolphins by 7.0
-
-<p float="left">
-<img src="plots/2026-12-12-KuritaWaterGush_V_HinoRedDolphins_club_performances.png" width="32%" />
-<img src="plots/2026-12-12-KuritaWaterGush_V_HinoRedDolphins_club_resultbar.png" width="32%" />
-<img src="plots/2026-12-12-KuritaWaterGush_V_HinoRedDolphins_club_spreads.png" width="32%" />
-</p>
-
 #### Kamaishi Seawaves V Chugoku Red Regulions on 2026/12/12
 
-Average Margin: Kamaishi Seawaves by 20.5
+Average Margin: Kamaishi Seawaves by 20.8
 
 <p float="left">
 <img src="plots/2026-12-12-KamaishiSeawaves_V_ChugokuRedRegulions_club_performances.png" width="32%" />
@@ -60,9 +50,19 @@ Average Margin: Kamaishi Seawaves by 20.5
 <img src="plots/2026-12-12-KamaishiSeawaves_V_ChugokuRedRegulions_club_spreads.png" width="32%" />
 </p>
 
+#### Kurita Water Gush V Hino Red Dolphins on 2026/12/12
+
+Average Margin: Hino Red Dolphins by 7.4
+
+<p float="left">
+<img src="plots/2026-12-12-KuritaWaterGush_V_HinoRedDolphins_club_performances.png" width="32%" />
+<img src="plots/2026-12-12-KuritaWaterGush_V_HinoRedDolphins_club_resultbar.png" width="32%" />
+<img src="plots/2026-12-12-KuritaWaterGush_V_HinoRedDolphins_club_spreads.png" width="32%" />
+</p>
+
 #### LeRIRO Fukuoka V Yakult Levins Toda on 2026/12/13
 
-Average Margin: LeRIRO Fukuoka by 1.5
+Average Margin: LeRIRO Fukuoka by 2.0
 
 <p float="left">
 <img src="plots/2026-12-13-LeRIROFukuoka_V_YakultLevinsToda_club_performances.png" width="32%" />
@@ -73,7 +73,7 @@ Average Margin: LeRIRO Fukuoka by 1.5
 ### Week 2
 #### Chugoku Red Regulions V Kurita Water Gush on 2026/12/19
 
-Average Margin: Kurita Water Gush by 3.7
+Average Margin: Kurita Water Gush by 3.8
 
 <p float="left">
 <img src="plots/2026-12-19-ChugokuRedRegulions_V_KuritaWaterGush_club_performances.png" width="32%" />
@@ -83,7 +83,7 @@ Average Margin: Kurita Water Gush by 3.7
 
 #### Yakult Levins Toda V Hino Red Dolphins on 2026/12/20
 
-Average Margin: Hino Red Dolphins by 19.7
+Average Margin: Hino Red Dolphins by 19.4
 
 <p float="left">
 <img src="plots/2026-12-20-YakultLevinsToda_V_HinoRedDolphins_club_performances.png" width="32%" />
@@ -93,7 +93,7 @@ Average Margin: Hino Red Dolphins by 19.7
 
 #### Maruwa Momotaro's Narita V Kamaishi Seawaves on 2026/12/20
 
-Average Margin: Maruwa Momotaro's Narita by 38.2
+Average Margin: Maruwa Momotaro's Narita by 37.4
 
 <p float="left">
 <img src="plots/2026-12-20-MaruwaMomotaro'sNarita_V_KamaishiSeawaves_club_performances.png" width="32%" />
@@ -104,7 +104,7 @@ Average Margin: Maruwa Momotaro's Narita by 38.2
 ### Week 3
 #### Hino Red Dolphins V Maruwa Momotaro's Narita on 2026/12/26
 
-Average Margin: Maruwa Momotaro's Narita by 29.1
+Average Margin: Maruwa Momotaro's Narita by 29.3
 
 <p float="left">
 <img src="plots/2026-12-26-HinoRedDolphins_V_MaruwaMomotaro'sNarita_club_performances.png" width="32%" />
@@ -115,7 +115,7 @@ Average Margin: Maruwa Momotaro's Narita by 29.1
 ### Week 4
 #### Kurita Water Gush V Kamaishi Seawaves on 2027/01/09
 
-Average Margin: Kamaishi Seawaves by 10.0
+Average Margin: Kamaishi Seawaves by 9.9
 
 <p float="left">
 <img src="plots/2027-01-09-KuritaWaterGush_V_KamaishiSeawaves_club_performances.png" width="32%" />
@@ -125,7 +125,7 @@ Average Margin: Kamaishi Seawaves by 10.0
 
 #### LeRIRO Fukuoka V Chugoku Red Regulions on 2027/01/10
 
-Average Margin: Chugoku Red Regulions by 2.9
+Average Margin: Chugoku Red Regulions by 2.7
 
 <p float="left">
 <img src="plots/2027-01-10-LeRIROFukuoka_V_ChugokuRedRegulions_club_performances.png" width="32%" />
@@ -136,7 +136,7 @@ Average Margin: Chugoku Red Regulions by 2.9
 ### Week 5
 #### Chugoku Red Regulions V Maruwa Momotaro's Narita on 2027/01/17
 
-Average Margin: Maruwa Momotaro's Narita by 40.9
+Average Margin: Maruwa Momotaro's Narita by 40.8
 
 <p float="left">
 <img src="plots/2027-01-17-ChugokuRedRegulions_V_MaruwaMomotaro'sNarita_club_performances.png" width="32%" />
@@ -146,7 +146,7 @@ Average Margin: Maruwa Momotaro's Narita by 40.9
 
 #### Yakult Levins Toda V Kurita Water Gush on 2027/01/17
 
-Average Margin: Kurita Water Gush by 8.6
+Average Margin: Kurita Water Gush by 8.0
 
 <p float="left">
 <img src="plots/2027-01-17-YakultLevinsToda_V_KuritaWaterGush_club_performances.png" width="32%" />

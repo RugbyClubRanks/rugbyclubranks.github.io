@@ -22,7 +22,7 @@ categories: rugby
 
 Competition Accuracy: 18 of 24 (75.0%)
 
-Competition Error: 12.9 points per match
+Competition Error: 12.88 points per match
 
 Last Two Week Accuracy: 0 of 1 (0.0%)
 
@@ -288,11 +288,11 @@ Competition Error: 13.2 points per match
 
 Competition Accuracy: 59 of 77 (76.62%)
 
-Competition Error: 10.66 points per match
+Competition Error: 10.67 points per match
 
 Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 6.39 points per match
+Last Two Week Error: 6.4 points per match
 
 [2026/11/20 - Carcassonne V Mont-de-Marsan](projections/2026-11-20-Carcassonne_V_Mont-de-Marsan)
 
@@ -321,61 +321,6 @@ Last Two Week Error: 6.39 points per match
 [2026/12/05 - Marcq-en-Baroeul V Perigueux](projections/2026-12-05-Marcq-en-Baroeul_V_Perigueux)
 
 [2026/12/05 - Vienne V Carcassonne](projections/2026-12-05-Vienne_V_Carcassonne)
-### Pro D2
-
-[In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
-
-Competition Accuracy: 61 of 81 (75.31%)
-
-Competition Error: 13.26 points per match
-
-[2026/11/27 - Soyaux-Angouleme V Nice](projections/2026-11-27-Soyaux-Angouleme_V_Nice)
-
-[2026/11/27 - Valence Romans Drome Rugby V Aurillac](projections/2026-11-27-ValenceRomansDromeRugby_V_Aurillac)
-
-[2026/12/04 - Aurillac V Soyaux-Angouleme](projections/2026-12-04-Aurillac_V_Soyaux-Angouleme)
-
-[2026/12/04 - Beziers V Brive](projections/2026-12-04-Beziers_V_Brive)
-
-[2026/12/04 - Biarritz Olympique V Provence Rugby](projections/2026-12-04-BiarritzOlympique_V_ProvenceRugby)
-
-[2026/12/04 - Narbonne V Agen](projections/2026-12-04-Narbonne_V_Agen)
-
-[2026/12/04 - Nice V Colomiers](projections/2026-12-04-Nice_V_Colomiers)
-
-[2026/12/04 - Oyonnax V Grenoble](projections/2026-12-04-Oyonnax_V_Grenoble)
-
-[2026/12/04 - US Montauban V Valence Romans Drome Rugby](projections/2026-12-04-USMontauban_V_ValenceRomansDromeRugby)
-
-[2026/12/04 - USON Nevers V Dax](projections/2026-12-04-USONNevers_V_Dax)
-
-[2026/11/27 - Provence Rugby V US Montauban](projections/2026-11-27-ProvenceRugby_V_USMontauban)
-
-[2026/11/27 - Narbonne V Grenoble](projections/2026-11-27-Narbonne_V_Grenoble)
-
-[2026/11/27 - Dax V Oyonnax](projections/2026-11-27-Dax_V_Oyonnax)
-
-[2026/11/27 - Colomiers V USON Nevers](projections/2026-11-27-Colomiers_V_USONNevers)
-
-[2026/11/19 - Grenoble V Provence Rugby](projections/2026-11-19-Grenoble_V_ProvenceRugby)
-
-[2026/11/20 - Aurillac V Colomiers](projections/2026-11-20-Aurillac_V_Colomiers)
-
-[2026/11/20 - Beziers V Dax](projections/2026-11-20-Beziers_V_Dax)
-
-[2026/11/20 - Biarritz Olympique V Narbonne](projections/2026-11-20-BiarritzOlympique_V_Narbonne)
-
-[2026/11/20 - Nice V Valence Romans Drome Rugby](projections/2026-11-20-Nice_V_ValenceRomansDromeRugby)
-
-[2026/11/20 - Oyonnax V Brive](projections/2026-11-20-Oyonnax_V_Brive)
-
-[2026/11/20 - US Montauban V Agen](projections/2026-11-20-USMontauban_V_Agen)
-
-[2026/11/20 - USON Nevers V Soyaux-Angouleme](projections/2026-11-20-USONNevers_V_Soyaux-Angouleme)
-
-[2026/11/26 - Brive V Biarritz Olympique](projections/2026-11-26-Brive_V_BiarritzOlympique)
-
-[2026/11/27 - Agen V Beziers](projections/2026-11-27-Agen_V_Beziers)
 ### RFU Championship
 
 [In depth model review and projections for RFU Championship 26/27](comp_files/RFU_Championship_2627)
@@ -388,9 +333,9 @@ Last Two Week Accuracy: 4 of 7 (57.14%)
 
 Last Two Week Error: 17.32 points per match
 
-[2026/11/21 - Ampthill V Bedford](projections/2026-11-21-Ampthill_V_Bedford)
-
 [2026/11/21 - Blackheath V Rotherham Titans](projections/2026-11-21-Blackheath_V_RotherhamTitans)
+
+[2026/11/21 - Ampthill V Bedford](projections/2026-11-21-Ampthill_V_Bedford)
 
 [2026/11/21 - Caldy V Ealing Trailfinders](projections/2026-11-21-Caldy_V_EalingTrailfinders)
 
@@ -415,3 +360,60 @@ Last Two Week Error: 17.32 points per match
 [2026/12/05 - Worcester Warriors V Ealing Trailfinders](projections/2026-12-05-WorcesterWarriors_V_EalingTrailfinders)
 
 [2026/12/06 - Chinnor V Ampthill](projections/2026-12-06-Chinnor_V_Ampthill)
+### Pro D2
+
+[In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
+
+Competition Accuracy: 61 of 82 (74.39%)
+
+Competition Error: 13.23 points per match
+
+Last Two Week Accuracy: 0 of 1 (0.0%)
+
+Last Two Week Error: 11.02 points per match
+
+[2026/11/27 - Valence Romans Drome Rugby V Aurillac](projections/2026-11-27-ValenceRomansDromeRugby_V_Aurillac)
+
+[2026/12/04 - Aurillac V Soyaux-Angouleme](projections/2026-12-04-Aurillac_V_Soyaux-Angouleme)
+
+[2026/12/04 - Beziers V Brive](projections/2026-12-04-Beziers_V_Brive)
+
+[2026/12/04 - Biarritz Olympique V Provence Rugby](projections/2026-12-04-BiarritzOlympique_V_ProvenceRugby)
+
+[2026/12/04 - Narbonne V Agen](projections/2026-12-04-Narbonne_V_Agen)
+
+[2026/12/04 - Nice V Colomiers](projections/2026-12-04-Nice_V_Colomiers)
+
+[2026/12/04 - Oyonnax V Grenoble](projections/2026-12-04-Oyonnax_V_Grenoble)
+
+[2026/12/04 - US Montauban V Valence Romans Drome Rugby](projections/2026-12-04-USMontauban_V_ValenceRomansDromeRugby)
+
+[2026/12/04 - USON Nevers V Dax](projections/2026-12-04-USONNevers_V_Dax)
+
+[2026/11/27 - Provence Rugby V US Montauban](projections/2026-11-27-ProvenceRugby_V_USMontauban)
+
+[2026/11/27 - Soyaux-Angouleme V Nice](projections/2026-11-27-Soyaux-Angouleme_V_Nice)
+
+[2026/11/27 - Narbonne V Grenoble](projections/2026-11-27-Narbonne_V_Grenoble)
+
+[2026/11/27 - Dax V Oyonnax](projections/2026-11-27-Dax_V_Oyonnax)
+
+[2026/11/20 - Aurillac V Colomiers](projections/2026-11-20-Aurillac_V_Colomiers)
+
+[2026/11/20 - Beziers V Dax](projections/2026-11-20-Beziers_V_Dax)
+
+[2026/11/20 - Biarritz Olympique V Narbonne](projections/2026-11-20-BiarritzOlympique_V_Narbonne)
+
+[2026/11/20 - Nice V Valence Romans Drome Rugby](projections/2026-11-20-Nice_V_ValenceRomansDromeRugby)
+
+[2026/11/20 - Oyonnax V Brive](projections/2026-11-20-Oyonnax_V_Brive)
+
+[2026/11/20 - US Montauban V Agen](projections/2026-11-20-USMontauban_V_Agen)
+
+[2026/11/20 - USON Nevers V Soyaux-Angouleme](projections/2026-11-20-USONNevers_V_Soyaux-Angouleme)
+
+[2026/11/26 - Brive V Biarritz Olympique](projections/2026-11-26-Brive_V_BiarritzOlympique)
+
+[2026/11/27 - Agen V Beziers](projections/2026-11-27-Agen_V_Beziers)
+
+[2026/11/27 - Colomiers V USON Nevers](projections/2026-11-27-Colomiers_V_USONNevers)

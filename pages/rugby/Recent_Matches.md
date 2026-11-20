@@ -22,7 +22,7 @@ categories: rugby
 
 Competition Accuracy: 18 of 24 (75.0%)
 
-Competition Error: 12.9 points per match
+Competition Error: 12.88 points per match
 
 Last Two Week Accuracy: 0 of 1 (0.0%)
 
@@ -125,11 +125,11 @@ Last Two Week Error: 9.66 points per match
 
 Competition Accuracy: 59 of 77 (76.62%)
 
-Competition Error: 10.66 points per match
+Competition Error: 10.67 points per match
 
 Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 6.39 points per match
+Last Two Week Error: 6.4 points per match
 
 [2026/11/13, 16.0 to 22.0 - Rouen V Chambery, 16.0 to 22.0](reviews/2026-11-13-Rouen_V_Chambery)
 
@@ -144,6 +144,19 @@ Last Two Week Error: 6.39 points per match
 [2026/11/14, 22.0 to 27.0 - Rennes V Carcassonne, 22.0 to 27.0](reviews/2026-11-14-Rennes_V_Carcassonne)
 
 [2026/11/14, 24.0 to 22.0 - Marcq-en-Baroeul V Massy, 24.0 to 22.0](reviews/2026-11-14-Marcq-en-Baroeul_V_Massy)
+### Pro D2
+
+[In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
+
+Competition Accuracy: 61 of 82 (74.39%)
+
+Competition Error: 13.23 points per match
+
+Last Two Week Accuracy: 0 of 1 (0.0%)
+
+Last Two Week Error: 11.02 points per match
+
+[2026/11/19, 41.0 to 30.0 - Grenoble V Provence Rugby, 41.0 to 30.0](reviews/2026-11-19-Grenoble_V_ProvenceRugby)
 ### RFU Championship
 
 [In depth model review and projections for RFU Championship 26/27](comp_files/RFU_Championship_2627)
