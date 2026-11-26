@@ -6,9 +6,9 @@ categories: rugby "Pro D2 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Aurillac to win by 1.72, and Aurillac won by 24.0. That's an absolute error of 22.3 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 20.5% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Aurillac to win by 2.12, and Aurillac won by 24.0. That's an absolute error of 21.9 for the margin of victory, while my average absolute error has been 14.7 over the past six months. This prediction was more accurate than 21.8% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 50.5 and we have an actual total of 62.0. That's an absolute error of 11.5 compared to a six month average of 14.3. This prediction was more accurate than 51.1% of my recent predictions.
+For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 62.0. That's an absolute error of 12.5 compared to a six month average of 14.3. This prediction was more accurate than 47.3% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 50.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Aurillac to win by 12.8,  and Aurillac won by 24.0. That's an absolute error of 11.2 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 42.3% of my recent predictions.
+With the player model, I predicted Aurillac to win by 12.41,  and Aurillac won by 24.0. That's an absolute error of 11.6 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 41.4% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

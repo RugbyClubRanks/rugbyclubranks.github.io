@@ -6,7 +6,7 @@ categories: rugby "Japan Rugby League One D3 26/27" match review
 ---
 ## Club Level Predictions
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Kamaishi Seawaves to win by 21.0.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Kamaishi Seawaves to win by 20.5.
 
 Our Over/Under is 53.5 - and combined with the spread above, we have a predicted scoreline of 37 to 16
 

@@ -20,17 +20,15 @@ categories: rugby
 
 [In depth model review and projections for International Test Match 2026](comp_files/International_Test_Match_2026)
 
-Competition Accuracy: 18 of 25 (72.0%)
+Competition Accuracy: 18 of 26 (69.23%)
 
-Competition Error: 13.06 points per match
+Competition Error: 15.27 points per match
 
 Last Two Week Accuracy: 0 of 2 (0.0%)
 
-Last Two Week Error: 19.0 points per match
+Last Two Week Error: 43.9 points per match
 
 [2026/11/21 - Peru V Cayman Islands](projections/2026-11-21-Peru_V_CaymanIslands)
-
-[2026/11/24 - Tunisia V Poland](projections/2026-11-24-Tunisia_V_Poland)
 ### Nations Championship
 
 [In depth model review and projections for Nations Championship 2026](comp_files/Nations_Championship_2026)
@@ -39,9 +37,9 @@ Competition Accuracy: 27 of 36 (75.0%)
 
 Competition Error: 16.03 points per match
 
-Last Two Week Accuracy: 8 of 12 (66.67%)
+Last Two Week Accuracy: 3 of 6 (50.0%)
 
-Last Two Week Error: 14.62 points per match
+Last Two Week Error: 16.7 points per match
 
 [2026-11-26 - England V New Zealand](projections/2026-11-26-England_V_NewZealand)
 
@@ -74,9 +72,9 @@ Competition Accuracy: 18 of 35 (51.43%)
 
 Competition Error: 16.2 points per match
 
-Last Two Week Accuracy: 5 of 11 (45.45%)
+Last Two Week Accuracy: 3 of 5 (60.0%)
 
-Last Two Week Error: 21.85 points per match
+Last Two Week Error: 25.44 points per match
 
 [2026/11/21 - Portugal V Uruguay](projections/2026-11-21-Portugal_V_Uruguay)
 ## Top Flight Competitions
@@ -88,15 +86,15 @@ Competition Accuracy: 52 of 78 (66.67%)
 
 Competition Error: 15.06 points per match
 
-Last Two Week Accuracy: 9 of 10 (90.0%)
+Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 12.98 points per match
+Last Two Week Error: 19.95 points per match
 
 [2026/11/28 - LOU Feminin V Romagnat Feminin](projections/2026-11-28-LOUFeminin_V_RomagnatFeminin)
 
-[2026/11/29 - Grenoble Amazones Feminin V Bobigny Feminin](projections/2026-11-29-GrenobleAmazonesFeminin_V_BobignyFeminin)
+[2026/11/28 - La Rochelle Feminin V Blagnac Feminin](projections/2026-11-28-LaRochelleFeminin_V_BlagnacFeminin)
 
-[2026/11/29 - La Rochelle Feminin V Blagnac Feminin](projections/2026-11-29-LaRochelleFeminin_V_BlagnacFeminin)
+[2026/11/29 - Grenoble Amazones Feminin V Bobigny Feminin](projections/2026-11-29-GrenobleAmazonesFeminin_V_BobignyFeminin)
 
 [2026/11/29 - Stade Bordelais Feminin V Montpellier Feminin](projections/2026-11-29-StadeBordelaisFeminin_V_MontpellierFeminin)
 
@@ -253,7 +251,7 @@ Competition Error: 13.2 points per match
 
 Competition Accuracy: 10 of 12 (83.33%)
 
-Competition Error: 14.7 points per match
+Competition Error: 14.71 points per match
 
 [2026/12/12 - Saracens V La Rochelle](projections/2026-12-12-Saracens_V_LaRochelle)
 
@@ -386,9 +384,9 @@ Competition Accuracy: 43 of 63 (68.25%)
 
 Competition Error: 16.08 points per match
 
-Last Two Week Accuracy: 10 of 14 (71.43%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 16.87 points per match
+Last Two Week Error: 16.42 points per match
 
 [2026/12/04 - Nottingham V Caldy](projections/2026-12-04-Nottingham_V_Caldy)
 
@@ -425,9 +423,9 @@ Competition Accuracy: 65 of 84 (77.38%)
 
 Competition Error: 11.22 points per match
 
-Last Two Week Accuracy: 12 of 14 (85.71%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 11.86 points per match
+Last Two Week Error: 17.32 points per match
 
 [2026/12/05 - Marcq-en-Baroeul V Perigueux](projections/2026-12-05-Marcq-en-Baroeul_V_Perigueux)
 

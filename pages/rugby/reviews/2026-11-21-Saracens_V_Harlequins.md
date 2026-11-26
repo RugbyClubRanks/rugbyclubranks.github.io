@@ -6,9 +6,9 @@ categories: rugby "Premiership Rugby Cup 26/27" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Saracens to win by 5.58, and Saracens won by 17.0. That's an absolute error of 11.4 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 51.4% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Saracens to win by 5.31, and Saracens won by 17.0. That's an absolute error of 11.7 for the margin of victory, while my average absolute error has been 14.7 over the past six months. This prediction was more accurate than 50.9% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 69.0. That's an absolute error of 15.5 compared to a six month average of 14.3. This prediction was more accurate than 38.4% of my recent predictions.
+For the Over/Under model, I predicted a total of 53.5 and we have an actual total of 69.0. That's an absolute error of 15.5 compared to a six month average of 14.3. This prediction was more accurate than 38.2% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 53.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Saracens to win by 8.6,  and Saracens won by 17.0. That's an absolute error of 8.4 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 49.3% of my recent predictions.
+With the player model, I predicted Saracens to win by 8.78,  and Saracens won by 17.0. That's an absolute error of 8.2 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 50.1% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

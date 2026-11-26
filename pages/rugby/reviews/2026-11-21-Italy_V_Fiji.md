@@ -6,9 +6,9 @@ categories: rugby "Nations Championship 2026" match projection
 ---
 ## Club Level Predictions
 
-Now that the game has been played, lets see how the club predictions did. I predicted Italy to win by 6.31, and Fiji won by 5.0. That's an absolute error of 11.3 for the margin of victory, while my average absolute error has been 14.4 over the past six months. This prediction was more accurate than 51.8% of my recent predictions.
+Now that the game has been played, lets see how the club predictions did. I predicted Italy to win by 5.92, and Fiji won by 5.0. That's an absolute error of 10.9 for the margin of victory, while my average absolute error has been 14.7 over the past six months. This prediction was more accurate than 53.5% of my recent predictions.
 
-For the Over/Under model, I predicted a total of 49.5 and we have an actual total of 37.0. That's an absolute error of 12.5 compared to a six month average of 14.3. This prediction was more accurate than 47.5% of my recent predictions.
+For the Over/Under model, I predicted a total of 47.5 and we have an actual total of 37.0. That's an absolute error of 10.5 compared to a six month average of 14.3. This prediction was more accurate than 54.4% of my recent predictions.
 ### Projected Performances - Club Model
 
 <p float="left">
@@ -29,7 +29,7 @@ For the Over/Under model, I predicted a total of 49.5 and we have an actual tota
 
 ## Player Level Predictions
 
-With the player model, I predicted Fiji to win by 3.04,  and Fiji won by 5.0. That's an absolute error of 2.0 for the margin of victory, while the average error as been 14.4 for the past six months. So this prediction was more accurate than 75.0% of my recent predictions.
+With the player model, I predicted Fiji to win by 1.33,  and Fiji won by 5.0. That's an absolute error of 3.7 for the margin of victory, while the average error as been 14.5 for the past six months. So this prediction was more accurate than 67.9% of my recent predictions.
 ### Projected Performances - Player Model
 
 <p float="left">

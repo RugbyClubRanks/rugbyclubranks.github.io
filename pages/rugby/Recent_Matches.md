@@ -20,15 +20,17 @@ categories: rugby
 
 [In depth model review and projections for International Test Match 2026](comp_files/International_Test_Match_2026)
 
-Competition Accuracy: 18 of 25 (72.0%)
+Competition Accuracy: 18 of 26 (69.23%)
 
-Competition Error: 13.06 points per match
+Competition Error: 15.27 points per match
 
 Last Two Week Accuracy: 0 of 2 (0.0%)
 
-Last Two Week Error: 19.0 points per match
+Last Two Week Error: 43.9 points per match
 
 [2026/11/21, 25.0 to 14.0 - Tunisia V Switzerland, 25.0 to 14.0](reviews/2026-11-21-Tunisia_V_Switzerland)
+
+[2026/11/24, 22.0 to 7.0 - Tunisia V Poland, 22.0 to 7.0](reviews/2026-11-24-Tunisia_V_Poland)
 ### Nations Championship
 
 [In depth model review and projections for Nations Championship 2026](comp_files/Nations_Championship_2026)
@@ -37,9 +39,9 @@ Competition Accuracy: 27 of 36 (75.0%)
 
 Competition Error: 16.03 points per match
 
-Last Two Week Accuracy: 8 of 12 (66.67%)
+Last Two Week Accuracy: 3 of 6 (50.0%)
 
-Last Two Week Error: 14.62 points per match
+Last Two Week Error: 16.7 points per match
 
 [2026/11/21, 16.0 to 21.0 - Italy V Fiji, 16.0 to 21.0](reviews/2026-11-21-Italy_V_Fiji)
 
@@ -60,9 +62,9 @@ Competition Accuracy: 18 of 35 (51.43%)
 
 Competition Error: 16.2 points per match
 
-Last Two Week Accuracy: 5 of 11 (45.45%)
+Last Two Week Accuracy: 3 of 5 (60.0%)
 
-Last Two Week Error: 21.85 points per match
+Last Two Week Error: 25.44 points per match
 
 [2026/11/20, 26.0 to 27.0 - Romania V Canada, 26.0 to 27.0](reviews/2026-11-20-Romania_V_Canada)
 
@@ -82,9 +84,9 @@ Competition Accuracy: 52 of 78 (66.67%)
 
 Competition Error: 15.06 points per match
 
-Last Two Week Accuracy: 9 of 10 (90.0%)
+Last Two Week Accuracy: 4 of 5 (80.0%)
 
-Last Two Week Error: 12.98 points per match
+Last Two Week Error: 19.95 points per match
 
 [2026/11/21, 22.0 to 21.0 - Romagnat Feminin V Stade Bordelais Feminin, 22.0 to 21.0](reviews/2026-11-21-RomagnatFeminin_V_StadeBordelaisFeminin)
 
@@ -122,9 +124,9 @@ Competition Accuracy: 11 of 20 (55.0%)
 
 Competition Error: 20.3 points per match
 
-Last Two Week Accuracy: 4 of 8 (50.0%)
+Last Two Week Accuracy: 2 of 4 (50.0%)
 
-Last Two Week Error: 20.45 points per match
+Last Two Week Error: 31.23 points per match
 
 [2026/11/20, 14.0 to 39.0 - Bristol Rugby V Bath Rugby, 14.0 to 39.0](reviews/2026-11-20-BristolRugby_V_BathRugby)
 
@@ -142,9 +144,9 @@ Competition Accuracy: 65 of 84 (77.38%)
 
 Competition Error: 11.22 points per match
 
-Last Two Week Accuracy: 12 of 14 (85.71%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 11.86 points per match
+Last Two Week Error: 17.32 points per match
 
 [2026/11/20, 34.0 to 31.0 - Carcassonne V Mont-de-Marsan, 34.0 to 31.0](reviews/2026-11-20-Carcassonne_V_Mont-de-Marsan)
 
@@ -167,13 +169,13 @@ Competition Accuracy: 43 of 63 (68.25%)
 
 Competition Error: 16.08 points per match
 
-Last Two Week Accuracy: 10 of 14 (71.43%)
+Last Two Week Accuracy: 6 of 7 (85.71%)
 
-Last Two Week Error: 16.87 points per match
+Last Two Week Error: 16.42 points per match
 
 [2026/11/21, 57.0 to 42.0 - Coventry V Worcester Warriors, 57.0 to 42.0](reviews/2026-11-21-Coventry_V_WorcesterWarriors)
 
-[2026/11/21, 48.0 to 21.0 - Hartpury College V Richmond, 48.0 to 21.0](reviews/2026-11-21-HartpuryCollege_V_Richmond)
+[2026/11/21, 48.0 to 21.0 - Hartpury College RFC V Richmond, 48.0 to 21.0](reviews/2026-11-21-HartpuryCollege_V_Richmond)
 
 [2026/11/21, 36.0 to 12.0 - Doncaster V Chinnor, 36.0 to 12.0](reviews/2026-11-21-Doncaster_V_Chinnor)
 
