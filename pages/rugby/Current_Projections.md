@@ -39,7 +39,7 @@ Competition Error: 16.03 points per match
 
 Last Two Week Accuracy: 3 of 6 (50.0%)
 
-Last Two Week Error: 16.7 points per match
+Last Two Week Error: 16.69 points per match
 
 [2026-11-26 - England V New Zealand](projections/2026-11-26-England_V_NewZealand)
 
@@ -251,7 +251,7 @@ Competition Error: 13.2 points per match
 
 Competition Accuracy: 10 of 12 (83.33%)
 
-Competition Error: 14.71 points per match
+Competition Error: 14.7 points per match
 
 [2026/12/12 - Saracens V La Rochelle](projections/2026-12-12-Saracens_V_LaRochelle)
 
@@ -321,13 +321,13 @@ Competition Error: 15.54 points per match
 
 [In depth model review and projections for Pro D2 26/27](comp_files/Pro_D2_2627)
 
-Competition Accuracy: 65 of 89 (73.03%)
+Competition Accuracy: 66 of 90 (73.33%)
 
-Competition Error: 12.84 points per match
+Competition Error: 13.0 points per match
 
-Last Two Week Accuracy: 4 of 8 (50.0%)
+Last Two Week Accuracy: 5 of 9 (55.56%)
 
-Last Two Week Error: 8.65 points per match
+Last Two Week Error: 10.68 points per match
 
 [2026/12/11 - Soyaux-Angouleme V Beziers](projections/2026-12-11-Soyaux-Angouleme_V_Beziers)
 
@@ -359,15 +359,13 @@ Last Two Week Error: 8.65 points per match
 
 [2026/12/11 - Valence Romans Drome Rugby V Narbonne](projections/2026-12-11-ValenceRomansDromeRugby_V_Narbonne)
 
-[2026/11/27 - Valence Romans Drome Rugby V Aurillac](projections/2026-11-27-ValenceRomansDromeRugby_V_Aurillac)
-
 [2026/12/03 - Biarritz Olympique V Provence Rugby](projections/2026-12-03-BiarritzOlympique_V_ProvenceRugby)
+
+[2026/11/27 - Valence Romans Drome Rugby V Aurillac](projections/2026-11-27-ValenceRomansDromeRugby_V_Aurillac)
 
 [2026/11/27 - Soyaux-Angouleme V Nice](projections/2026-11-27-Soyaux-Angouleme_V_Nice)
 
 [2026/11/27 - Provence Rugby V US Montauban](projections/2026-11-27-ProvenceRugby_V_USMontauban)
-
-[2026/11/26 - Brive V Biarritz Olympique](projections/2026-11-26-Brive_V_BiarritzOlympique)
 
 [2026/11/27 - Agen V Beziers](projections/2026-11-27-Agen_V_Beziers)
 
@@ -415,45 +413,6 @@ Last Two Week Error: 16.42 points per match
 [2026/12/12 - Hartpury College V Nottingham](projections/2026-12-12-HartpuryCollege_V_Nottingham)
 
 [2026/12/13 - Coventry V Chinnor](projections/2026-12-13-Coventry_V_Chinnor)
-### Nationale
-
-[In depth model review and projections for Nationale 26/27](comp_files/Nationale_2627)
-
-Competition Accuracy: 65 of 84 (77.38%)
-
-Competition Error: 11.22 points per match
-
-Last Two Week Accuracy: 6 of 7 (85.71%)
-
-Last Two Week Error: 17.32 points per match
-
-[2026/12/05 - Marcq-en-Baroeul V Perigueux](projections/2026-12-05-Marcq-en-Baroeul_V_Perigueux)
-
-[2026/12/04 - Albi V Orleans](projections/2026-12-04-Albi_V_Orleans)
-
-[2026/12/04 - Massy V Chambery](projections/2026-12-04-Massy_V_Chambery)
-
-[2026/12/04 - Rouen V Bourgoin-Jallieu](projections/2026-12-04-Rouen_V_Bourgoin-Jallieu)
-
-[2026/12/04 - US Bressane V Suresnes](projections/2026-12-04-USBressane_V_Suresnes)
-
-[2026/12/05 - Rennes V Mont-de-Marsan](projections/2026-12-05-Rennes_V_Mont-de-Marsan)
-
-[2026/12/05 - Vienne V Carcassonne](projections/2026-12-05-Vienne_V_Carcassonne)
-
-[2026/12/11 - Albi V Carcassonne](projections/2026-12-11-Albi_V_Carcassonne)
-
-[2026/12/11 - Chambery V Rennes](projections/2026-12-11-Chambery_V_Rennes)
-
-[2026/12/11 - Massy V Perigueux](projections/2026-12-11-Massy_V_Perigueux)
-
-[2026/12/11 - Rouen V Suresnes](projections/2026-12-11-Rouen_V_Suresnes)
-
-[2026/12/11 - US Bressane V Orleans](projections/2026-12-11-USBressane_V_Orleans)
-
-[2026/12/12 - Marcq-en-Baroeul V Bourgoin-Jallieu](projections/2026-12-12-Marcq-en-Baroeul_V_Bourgoin-Jallieu)
-
-[2026/12/12 - Vienne V Mont-de-Marsan](projections/2026-12-12-Vienne_V_Mont-de-Marsan)
 ### Japan Rugby League One D2
 
 [In depth model review and projections for Japan Rugby League One D2 26/27](comp_files/Japan_Rugby_League_One_D2_2627)
@@ -474,3 +433,42 @@ Last Two Week Error: 17.32 points per match
 [2026/12/12 - Kurita Water Gush V Hino Red Dolphins](projections/2026-12-12-KuritaWaterGush_V_HinoRedDolphins)
 
 [2026/12/13 - LeRIRO Fukuoka V Yakult Levins Toda](projections/2026-12-13-LeRIROFukuoka_V_YakultLevinsToda)
+### Nationale
+
+[In depth model review and projections for Nationale 26/27](comp_files/Nationale_2627)
+
+Competition Accuracy: 65 of 84 (77.38%)
+
+Competition Error: 11.22 points per match
+
+Last Two Week Accuracy: 6 of 7 (85.71%)
+
+Last Two Week Error: 17.32 points per match
+
+[2026/12/04 - Albi V Orleans](projections/2026-12-04-Albi_V_Orleans)
+
+[2026/12/04 - Massy V Chambery](projections/2026-12-04-Massy_V_Chambery)
+
+[2026/12/04 - Rouen V Bourgoin-Jallieu](projections/2026-12-04-Rouen_V_Bourgoin-Jallieu)
+
+[2026/12/04 - US Bressane V Suresnes](projections/2026-12-04-USBressane_V_Suresnes)
+
+[2026/12/05 - Marcq-en-Baroeul V Perigueux](projections/2026-12-05-Marcq-en-Baroeul_V_Perigueux)
+
+[2026/12/05 - Rennes V Mont-de-Marsan](projections/2026-12-05-Rennes_V_Mont-de-Marsan)
+
+[2026/12/05 - Vienne V Carcassonne](projections/2026-12-05-Vienne_V_Carcassonne)
+
+[2026/12/11 - Albi V Carcassonne](projections/2026-12-11-Albi_V_Carcassonne)
+
+[2026/12/11 - Chambery V Rennes](projections/2026-12-11-Chambery_V_Rennes)
+
+[2026/12/11 - Massy V Perigueux](projections/2026-12-11-Massy_V_Perigueux)
+
+[2026/12/11 - Rouen V Suresnes](projections/2026-12-11-Rouen_V_Suresnes)
+
+[2026/12/11 - US Bressane V Orleans](projections/2026-12-11-USBressane_V_Orleans)
+
+[2026/12/12 - Marcq-en-Baroeul V Bourgoin-Jallieu](projections/2026-12-12-Marcq-en-Baroeul_V_Bourgoin-Jallieu)
+
+[2026/12/12 - Vienne V Mont-de-Marsan](projections/2026-12-12-Vienne_V_Mont-de-Marsan)

@@ -6,7 +6,7 @@ categories: rugby "Nations Championship 2026" match review
 ---
 ## Club Level Predictions
 
-The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Wales to win by 12.83.
+The first set of predictions treats a club as the smallest object, as the club develops its members, organizes a gameplan, and deploys its players as needed for each match. This club model is currently predicting Wales to win by 12.8.
 
 Our Over/Under is 50.5 - and combined with the spread above, we have a predicted scoreline of 32 to 19
 
@@ -31,7 +31,7 @@ Each club has a rating and a rating deviation (similar to a Glicko rating), and 
 
 ## Player Level Predictions
 
-The second set of predictions is based around the players themselves - each player gets a rating, and their contribution is weighted by their time on the field. The player model is currently predicting Wales to win by 6.76
+The second set of predictions is based around the players themselves - each player gets a rating, and their contribution is weighted by their time on the field. The player model is currently predicting Wales to win by 3.97
 ### Projected Performances - Player Model
 
 <p float="left">

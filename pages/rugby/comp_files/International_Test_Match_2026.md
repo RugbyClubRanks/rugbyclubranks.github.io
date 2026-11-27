@@ -1,6 +1,6 @@
 ---
 title: "International Test Match 2026"
-date: 2026-11-26 6:00:00 -0500
+date: 2026-11-27 6:00:00 -0500
 categories: rugby model review projection
 layout: page
 aside:
@@ -33,7 +33,7 @@ Average Margin: New Zealand by 11.4
 ### Week 9
 #### Peru V Cayman Islands on 2026/11/21
 
-Average Margin: Peru by 16.1
+Average Margin: Peru by 15.9
 
 <p float="left">
 <img src="plots/2026-11-21-Peru_V_CaymanIslands_club_performances.png" width="32%" />
